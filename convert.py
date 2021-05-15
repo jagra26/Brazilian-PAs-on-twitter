@@ -13,7 +13,7 @@ def write_line(writer, row, places, users):
 	line += user['verified'].tolist()
 	line.append(row['created_at'])
 	line.append(row['id'])
-	line.append(row['in_reply_to_user_id'])
+	line.append(row.get('in_reply_to_user_id'))
 	line.append(row['public_metrics']['like_count'])
 	line.append(row['public_metrics']['quote_count'])
 	line.append(row['public_metrics']['reply_count'])
