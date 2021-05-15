@@ -1,5 +1,5 @@
-start = '2012-01-01T00:00:00Z'
-end = '2012-12-31T23:59:59Z'
+start = '2013-01-01T00:00:00Z'
+end = '2013-12-31T23:59:59Z'
 path = "./results/"
 bearer_token = 'AAAAAAAAAAAAAAAAAAAAAARjOQEAAAAAAOHOH0bomcK5DtKssC42ATS2SQQ%3Drg2Q619LihIqClg9dKQxnQlJSoxtmLXoNZwEsBYU8cwwfTH3Eu' #os.environ.get("BEARER_TOKEN")
 search_url = "https://api.twitter.com/2/tweets/search/all"
