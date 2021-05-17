@@ -3,7 +3,7 @@ Este repositório tem o intuito de baixar e processar
 dados do registro histórico do Twitter.
 
 ## Tabela de conteúdos
-- [Tabela de conteúdos](#tabeladeconteúdos)
+- [Tabela de conteúdos](#tabela-de-conteúdos)
 - [Estrutura](#estrutura)
 - [Instalação](#instalação)
 - [Configuração](#configuração)
