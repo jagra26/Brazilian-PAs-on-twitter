@@ -1,599 +1,6 @@
 {
     "data": [
         {
-            "author_id": "385145571",
-            "created_at": "2012-09-12T23:46:42.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 108,
-                        "start": 94,
-                        "username": "anapaula19855"
-                    },
-                    {
-                        "end": 123,
-                        "start": 110,
-                        "username": "KaridzaMadja"
-                    },
-                    {
-                        "end": 135,
-                        "start": 126,
-                        "username": "ocillene"
-                    }
-                ]
-            },
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -37.362934,
-                        -5.19144
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "6cbb3f4902362745"
-            },
-            "id": "246032117522374657",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "text": "\"Um milh\u00e3o de turistas visitaram o Parque Nacional do Igua\u00e7u em 2012 http://t.co/uVbG393e\" Ai @anapaula19855, @KaridzaMadja e @ocillene."
-        },
-        {
-            "author_id": "44556637",
-            "created_at": "2012-09-12T23:43:06.000Z",
-            "id": "246031212223803392",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012 http://t.co/pb5IGtVj"
-        },
-        {
-            "author_id": "27285187",
-            "created_at": "2012-09-12T23:38:16.000Z",
-            "id": "246029996924231680",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012 http://t.co/NE0YFiwX"
-        },
-        {
-            "author_id": "192328928",
-            "created_at": "2012-09-12T23:32:20.000Z",
-            "id": "246028502426595330",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano, chegue a 1,5 milh\u00e3o ..."
-        },
-        {
-            "author_id": "296256781",
-            "created_at": "2012-09-12T23:32:20.000Z",
-            "id": "246028502086868992",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano, chegue a 1,5 milh\u00e3o ..."
-        },
-        {
-            "author_id": "286307589",
-            "created_at": "2012-09-12T23:32:20.000Z",
-            "id": "246028501902299136",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano, chegue a 1,5 milh\u00e3o ..."
-        },
-        {
-            "author_id": "294774158",
-            "created_at": "2012-09-12T23:32:20.000Z",
-            "id": "246028501877145600",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano, chegue a 1,5 milh\u00e3o ..."
-        },
-        {
-            "author_id": "333001488",
-            "created_at": "2012-09-12T23:32:20.000Z",
-            "id": "246028501805850624",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano, chegue a 1,5 milh\u00e3o ..."
-        },
-        {
-            "author_id": "297090009",
-            "created_at": "2012-09-12T23:32:20.000Z",
-            "id": "246028501772288000",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano, chegue a 1,5 milh\u00e3o ..."
-        },
-        {
-            "author_id": "173246373",
-            "created_at": "2012-09-12T23:32:14.000Z",
-            "id": "246028475209773056",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Estimativa \u00e9 de que at\u00e9 o fim deste ano, chegue a 1,5 milh\u00e3o de turistas.\nT\u00edtulo de uma das Sete Maravilhas da N... http://t.co/EvI71Kvs"
-        },
-        {
-            "author_id": "37816961",
-            "created_at": "2012-09-12T23:32:12.000Z",
-            "id": "246028466351403011",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/R44iDqMv"
-        },
-        {
-            "author_id": "532489816",
-            "created_at": "2012-09-12T23:22:57.000Z",
-            "id": "246026141180260353",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "G1 : Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9... http://t.co/ja5JaBf3 #XZNOTICIAS"
-        },
-        {
-            "author_id": "25878146",
-            "created_at": "2012-09-12T23:22:06.000Z",
-            "id": "246025924926140416",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/jPVB0KVW"
-        },
-        {
-            "author_id": "778216202",
-            "created_at": "2012-09-12T23:22:05.000Z",
-            "id": "246025923974017024",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/YjkejWSR"
-        },
-        {
-            "author_id": "777286351",
-            "created_at": "2012-09-12T23:22:05.000Z",
-            "id": "246025923231629312",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/hc8Legct"
-        },
-        {
-            "author_id": "501354567",
-            "created_at": "2012-09-12T23:22:01.000Z",
-            "id": "246025904734748672",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/lLe0emog"
-        },
-        {
-            "author_id": "558254357",
-            "created_at": "2012-09-12T23:22:01.000Z",
-            "id": "246025904667627520",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012 http://t.co/mlwrVJYS"
-        },
-        {
-            "author_id": "187444710",
-            "created_at": "2012-09-12T23:22:00.000Z",
-            "id": "246025901010219008",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/c8T1nxf9"
-        },
-        {
-            "author_id": "105910387",
-            "created_at": "2012-09-12T23:21:59.000Z",
-            "id": "246025897709273088",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9... http://t.co/e2dbRWfv #renatogottschal"
-        },
-        {
-            "author_id": "374115240",
-            "created_at": "2012-09-12T23:21:56.000Z",
-            "id": "246025885927485440",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/d6jLm52K"
-        },
-        {
-            "author_id": "578601364",
-            "created_at": "2012-09-12T23:21:54.000Z",
-            "id": "246025877744410624",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/aHVk3XYH"
-        },
-        {
-            "author_id": "594196883",
-            "created_at": "2012-09-12T23:21:54.000Z",
-            "id": "246025877530488832",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/2oDVQLcC"
-        },
-        {
-            "author_id": "582256676",
-            "created_at": "2012-09-12T23:21:54.000Z",
-            "id": "246025874695139328",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/olJ9KyqY"
-        },
-        {
-            "author_id": "585301660",
-            "created_at": "2012-09-12T23:21:53.000Z",
-            "id": "246025870102364160",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/K5e3biO9"
-        },
-        {
-            "author_id": "578675172",
-            "created_at": "2012-09-12T23:21:52.000Z",
-            "id": "246025866642067456",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/w9sSYY4i"
-        },
-        {
-            "author_id": "251783304",
-            "created_at": "2012-09-12T23:21:51.000Z",
-            "id": "246025863190171649",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/ILswkQ6L"
-        },
-        {
-            "author_id": "90022099",
-            "created_at": "2012-09-12T23:21:48.000Z",
-            "id": "246025852050096128",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/rXmX9lCz"
-        },
-        {
-            "author_id": "406726908",
-            "created_at": "2012-09-12T23:21:47.000Z",
-            "id": "246025848682053632",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/s8uAf4ps"
-        },
-        {
-            "author_id": "474008656",
-            "created_at": "2012-09-12T23:21:46.000Z",
-            "id": "246025841035857920",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/gbq5WHwv"
-        },
-        {
-            "author_id": "384456270",
-            "created_at": "2012-09-12T23:21:45.000Z",
-            "id": "246025837592338432",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/lz0fKQzL"
-        },
-        {
-            "author_id": "293229286",
-            "created_at": "2012-09-12T23:21:44.000Z",
-            "id": "246025836053024769",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/XkSnPQPU"
-        },
-        {
-            "author_id": "426795360",
-            "created_at": "2012-09-12T23:21:44.000Z",
-            "id": "246025834622775296",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/vmkspV8B"
-        },
-        {
-            "author_id": "327638872",
-            "created_at": "2012-09-12T23:21:42.000Z",
-            "id": "246025828012539905",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/XPmh8uWp"
-        },
-        {
-            "author_id": "394376418",
-            "created_at": "2012-09-12T23:21:42.000Z",
-            "id": "246025826469048321",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/jscLHggw"
-        },
-        {
-            "author_id": "459618374",
-            "created_at": "2012-09-12T23:21:41.000Z",
-            "id": "246025822081806337",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/BOmPIOOz"
-        },
-        {
-            "author_id": "425248421",
-            "created_at": "2012-09-12T23:21:30.000Z",
-            "id": "246025774333820929",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/fGFUlH2D"
-        },
-        {
-            "author_id": "317040336",
-            "created_at": "2012-09-12T23:21:29.000Z",
-            "id": "246025770470866944",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/mrCK0x9s"
-        },
-        {
-            "author_id": "466846257",
-            "created_at": "2012-09-12T23:21:28.000Z",
-            "id": "246025766863781889",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/DC956qmS"
-        },
-        {
-            "author_id": "489627608",
-            "created_at": "2012-09-12T23:21:21.000Z",
-            "id": "246025739663704064",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/OILTQAoH"
-        },
-        {
-            "author_id": "439186043",
-            "created_at": "2012-09-12T23:21:21.000Z",
-            "id": "246025737931460608",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/qHJZiGXC"
-        },
-        {
-            "author_id": "550242935",
-            "created_at": "2012-09-12T23:21:20.000Z",
-            "id": "246025735108694017",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/GGPoDzz2"
-        },
-        {
-            "author_id": "594950864",
-            "created_at": "2012-09-12T23:21:12.000Z",
-            "id": "246025699117379585",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim deste ano,... http://t.co/2K5J93KI"
-        },
-        {
-            "author_id": "474851854",
-            "created_at": "2012-09-12T23:21:11.000Z",
-            "id": "246025695950696449",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TeamFollowBack Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012 http://t.co/kMuQE3li #TFB #RT"
-        },
-        {
-            "author_id": "191195444",
-            "created_at": "2012-09-12T23:21:10.000Z",
-            "id": "246025690615513089",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012 http://t.co/8X8mLTO8"
-        },
-        {
-            "author_id": "288330146",
-            "created_at": "2012-09-12T23:21:10.000Z",
-            "id": "246025689986379776",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012 http://t.co/Rp6n42JW"
-        },
-        {
-            "author_id": "71637810",
-            "created_at": "2012-09-12T23:21:09.000Z",
-            "id": "246025685703983104",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "[BRASIL] Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012: Estimativa \u00e9 de que at\u00e9 o fim d... http://t.co/yZxgJR8p"
-        },
-        {
-            "author_id": "31468484",
-            "created_at": "2012-09-12T23:21:05.000Z",
-            "id": "246025670864535552",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um milh\u00e3o de turistas j\u00e1 visitaram o Parque Nacional do Igua\u00e7u em 2012 http://t.co/Of3JUyoG"
-        },
-        {
             "author_id": "282039582",
             "created_at": "2012-09-12T23:21:00.000Z",
             "id": "246025648190136320",
@@ -1106,18 +513,6 @@
                 "retweet_count": 0
             },
             "text": "Matan\u00e7a da fauna bravia sem sinais de abrandar via Mo\u00e7ambique para todos - O Parque Nacional da ... http://t.co/BFkSjNRZ"
-        },
-        {
-            "author_id": "205232545",
-            "created_at": "2012-09-12T18:14:18.000Z",
-            "id": "245948465769762816",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "De sitiante a semeador de florestas\nGuaraci Dniz recomp\u00f4s 80% da mata de seu s\u00edtio e criou a primeira RPPN de Amparo(SP)http://t.co/IPHDyhvI"
         },
         {
             "author_id": "77287273",
@@ -2119,18 +1514,6 @@
             "text": "Cobran\u00e7a de taxa extra para a visita\u00e7\u00e3o da \u00e1rea do parque nacional de Fernando de Noronha. http://t.co/SHkDB8GW"
         },
         {
-            "author_id": "174017304",
-            "created_at": "2012-09-12T04:06:56.000Z",
-            "id": "245735219401994240",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "De sitiante a semeador de florestas - Guaraci Diniz recomp\u00f4s 80% da mata de seu s\u00edtio e a primeira RPPN de Amparo (SP) http://t.co/Vr2MLB0h"
-        },
-        {
             "author_id": "79663762",
             "created_at": "2012-09-12T02:35:32.000Z",
             "id": "245712219785019392",
@@ -2191,27 +1574,6 @@
             "text": "Fogo avan\u00e7a em MT e atinge Parque Nacional de Chapada dos Guimar\u00e3es - http://t.co/jndxaKq4"
         },
         {
-            "author_id": "289358859",
-            "created_at": "2012-09-12T01:10:36.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 117,
-                        "start": 107,
-                        "username": "ecodebate"
-                    }
-                ]
-            },
-            "id": "245690843300765696",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Sitiante recomp\u00f4s 80% da mata de seu s\u00edtio e criou a primeira RPPN de Amparo (SP) http://t.co/MnNA96gd v\u00eda @ecodebate"
-        },
-        {
             "author_id": "56555257",
             "created_at": "2012-09-12T00:10:56.000Z",
             "id": "245675826929086465",
@@ -2246,30 +1608,6 @@
                 "retweet_count": 0
             },
             "text": "Nicho Legal: Projeto cria contrapartida para minera\u00e7\u00e3o em unidade de conserva\u00e7\u00e3o http://t.co/mtSup6JE"
-        },
-        {
-            "author_id": "27940101",
-            "created_at": "2012-09-12T00:01:55.000Z",
-            "id": "245673559844859904",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Sitiante recomp\u00f4s 80% da mata de seu s\u00edtio e criou a primeira RPPN de Amparo (SP) http://t.co/cgw0oAhd"
-        },
-        {
-            "author_id": "35524446",
-            "created_at": "2012-09-12T00:00:29.000Z",
-            "id": "245673197385703424",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 3
-            },
-            "text": "Sitiante recomp\u00f4s 80% da mata de seu s\u00edtio e criou a primeira RPPN de Amparo (SP) http://t.co/GYufA1eL"
         },
         {
             "author_id": "74043047",
@@ -2469,18 +1807,6 @@
             "text": "46 homens est\u00e3o controlando os focos de inc\u00eandio no Parque Nacional de Chapada dos Guimar\u00e3es http://t.co/j5INPUon via @gazetamt"
         },
         {
-            "author_id": "272585374",
-            "created_at": "2012-09-11T21:32:50.000Z",
-            "id": "245636041107726336",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Sitiante recomp\u00f4s 80% da mata de seu s\u00edtio e criou a primeira #RPPN de Amparo (SP) http://t.co/rrSO3Ih8"
-        },
-        {
             "author_id": "70697869",
             "created_at": "2012-09-11T20:50:16.000Z",
             "id": "245625327605387264",
@@ -2630,18 +1956,6 @@
                 "retweet_count": 0
             },
             "text": "Parque Nacional dos Len\u00e7ois Maranhenses - Maranhao, Brazil http://t.co/AfRohdob"
-        },
-        {
-            "author_id": "166592691",
-            "created_at": "2012-09-11T18:13:23.000Z",
-            "id": "245585846827376640",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Sitiante recomp\u00f4s 80% da mata de seu s\u00edtio e criou a primeira RPPN de Amparo (SP) - http://t.co/ms6TuZZ1"
         },
         {
             "author_id": "107060557",
@@ -2869,27 +2183,6 @@
             "text": "Projeto cria contrapartida para minera\u00e7\u00e3o em unidade de conserva\u00e7\u00e3o http://t.co/G8lWIxMA #noticias"
         },
         {
-            "author_id": "21756977",
-            "created_at": "2012-09-11T15:47:00.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 117,
-                        "start": 107,
-                        "username": "ecodebate"
-                    }
-                ]
-            },
-            "id": "245549010281177088",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Sitiante recomp\u00f4s 80% da mata de seu s\u00edtio e criou a primeira RPPN de Amparo (SP) http://t.co/qz7zfkHk via @ecodebate"
-        },
-        {
             "author_id": "188795259",
             "created_at": "2012-09-11T15:36:37.000Z",
             "id": "245546396827148288",
@@ -3088,9 +2381,6 @@
         {
             "author_id": "126364474",
             "created_at": "2012-09-11T12:37:38.000Z",
-            "geo": {
-                "place_id": "5722ff20ba67083b"
-            },
             "id": "245501354301337601",
             "public_metrics": {
                 "like_count": 0,
@@ -3111,18 +2401,6 @@
                 "retweet_count": 0
             },
             "text": "Bom dia!   @ Parque Nacional de Bras\u00edlia http://t.co/EalgnjmR"
-        },
-        {
-            "author_id": "35524446",
-            "created_at": "2012-09-11T12:05:22.000Z",
-            "id": "245493234875371520",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Sitiante recomp\u00f4s 80% da mata de seu s\u00edtio e criou a primeira RPPN de Amparo (SP) http://t.co/AwnmVxIC"
         },
         {
             "author_id": "540213849",
@@ -6248,6 +5526,655 @@
                 "retweet_count": 0
             },
             "text": "Inc\u00eandio atinge floresta em Iper\u00f3, interior de SP: Um inc\u00eandio atinge \u00e1reas de mata da Floresta Nacional de Ipan... http://t.co/7dg9iimJ"
+        },
+        {
+            "author_id": "559134429",
+            "created_at": "2012-09-09T22:54:45.000Z",
+            "id": "244931879038484480",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge floresta em Iper\u00f3, interior de SP: Um inc\u00eandio atinge \u00e1reas de mata da Floresta Nacional de Ipan... http://t.co/M1BIRrmi"
+        },
+        {
+            "author_id": "398433081",
+            "created_at": "2012-09-09T22:54:41.000Z",
+            "id": "244931863259533313",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge floresta em Iper\u00f3, interior de SP: Um inc\u00eandio atinge \u00e1reas de mata da Floresta Nacional de Ipan... http://t.co/rA02yaRb"
+        },
+        {
+            "author_id": "508855877",
+            "created_at": "2012-09-09T22:54:40.000Z",
+            "id": "244931859572748288",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge floresta em Iper\u00f3, interior de SP: Um inc\u00eandio atinge \u00e1reas de mata da Floresta Nacional de Ipan... http://t.co/LyJiXkqc"
+        },
+        {
+            "author_id": "126155537",
+            "created_at": "2012-09-09T22:54:37.000Z",
+            "id": "244931848248115200",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge floresta em Iper\u00f3, interior de SP: Um inc\u00eandio atinge \u00e1reas de mata da Floresta Nacional de Ipan... http://t.co/mT1iDRnQ"
+        },
+        {
+            "author_id": "242876115",
+            "created_at": "2012-09-09T22:44:58.000Z",
+            "id": "244929417074339840",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge floresta em Iper\u00f3, interior de SP: Um inc\u00eandio atinge \u00e1reas de mata da Floresta Nacional de Ipan... http://t.co/oeHN7Piq"
+        },
+        {
+            "author_id": "187444710",
+            "created_at": "2012-09-09T22:44:57.000Z",
+            "id": "244929415698595840",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge floresta em Iper\u00f3, interior de SP: Um inc\u00eandio atinge \u00e1reas de mata da Floresta Nacional de Ipan... http://t.co/X2lBBwSp"
+        },
+        {
+            "author_id": "89701514",
+            "created_at": "2012-09-09T22:44:52.000Z",
+            "id": "244929393158393856",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge floresta em Iper\u00f3, interior de SP: Um inc\u00eandio atinge \u00e1reas de mata da Floresta Nacional de Ipan... http://t.co/cD4ls7lU"
+        },
+        {
+            "author_id": "517311998",
+            "created_at": "2012-09-09T22:34:03.000Z",
+            "id": "244926669180264448",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge floresta em Iper\u00f3, interior de SP: Um inc\u00eandio atinge \u00e1reas de mata da Floresta Nacional de Ipan... http://t.co/NaT3oy4s"
+        },
+        {
+            "author_id": "109919130",
+            "created_at": "2012-09-09T22:01:14.000Z",
+            "id": "244918413519114240",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Hj foi minha despedida no #PARQUE NACIONAL DOS APARADOS DA SERRA! FESTA BEEM TRIE!"
+        },
+        {
+            "author_id": "135888590",
+            "created_at": "2012-09-09T21:48:56.000Z",
+            "id": "244915315203506177",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional de Itatiaia http://t.co/6qQflI4R"
+        },
+        {
+            "author_id": "57156767",
+            "created_at": "2012-09-09T21:38:14.000Z",
+            "id": "244912624884645888",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Aconselho a ligar na cultura agora,,,planeta terra sobre o Parque nacional de Yellow Stone"
+        },
+        {
+            "author_id": "219811482",
+            "created_at": "2012-09-09T21:32:25.000Z",
+            "id": "244911160229511170",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "ateh que enfim consigui pega uma plaquinha da ASV \u00c1REA PROTEGIDA dhdshdshdshdhdshsdh\""
+        },
+        {
+            "author_id": "44556637",
+            "created_at": "2012-09-09T20:25:43.000Z",
+            "id": "244894372775223296",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o http://t.co/cceUK7yo"
+        },
+        {
+            "author_id": "58080776",
+            "created_at": "2012-09-09T20:24:57.000Z",
+            "id": "244894182970363904",
+            "in_reply_to_user_id": "156444831",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@TatyanaItaboray Tem gente que vai no parque nacional e nem chama os par\u00e7a"
+        },
+        {
+            "author_id": "90496316",
+            "created_at": "2012-09-09T20:24:34.000Z",
+            "id": "244894085045944320",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento foi ampliado para garantir preserva\u00e7\u00e3o http://t.co/HanDF4FM"
+        },
+        {
+            "author_id": "309469406",
+            "created_at": "2012-09-09T20:23:05.000Z",
+            "id": "244893712004567040",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Parque Nacional da Chapada dos Guimar\u00e3es (Chapada dos Guimar\u00e3es, MT) http://t.co/YCC9dFdY"
+        },
+        {
+            "author_id": "293730872",
+            "created_at": "2012-09-09T20:22:48.000Z",
+            "id": "244893640399400962",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento foi ampliado para garantir preserva\u00e7\u00e3o http://t.co/9xsKsAzy"
+        },
+        {
+            "author_id": "289163576",
+            "created_at": "2012-09-09T20:22:32.000Z",
+            "id": "244893575442210817",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento foi ampliado para garantir preserva\u00e7\u00e3o http://t.co/rK1omKWQ"
+        },
+        {
+            "author_id": "559134429",
+            "created_at": "2012-09-09T20:19:47.000Z",
+            "id": "244892879523282945",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assina... http://t.co/MrXnjr1Y"
+        },
+        {
+            "author_id": "371361095",
+            "created_at": "2012-09-09T20:19:45.000Z",
+            "id": "244892875035398145",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assina... http://t.co/sqUheIyh"
+        },
+        {
+            "author_id": "557283767",
+            "created_at": "2012-09-09T20:19:44.000Z",
+            "id": "244892867535990784",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assina... http://t.co/36kwlvi8"
+        },
+        {
+            "author_id": "126155537",
+            "created_at": "2012-09-09T20:19:40.000Z",
+            "id": "244892853111771136",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assina... http://t.co/n70KaNTw"
+        },
+        {
+            "author_id": "378143092",
+            "created_at": "2012-09-09T20:19:37.000Z",
+            "id": "244892838356197377",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "G1: Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o http://t.co/a20K1YiS"
+        },
+        {
+            "author_id": "192328928",
+            "created_at": "2012-09-09T20:19:36.000Z",
+            "id": "244892833780215810",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assinado pela presidente Di..."
+        },
+        {
+            "author_id": "286307589",
+            "created_at": "2012-09-09T20:19:36.000Z",
+            "id": "244892833755066369",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assinado pela presidente Di..."
+        },
+        {
+            "author_id": "294774158",
+            "created_at": "2012-09-09T20:19:36.000Z",
+            "id": "244892833641811968",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assinado pela presidente Di..."
+        },
+        {
+            "author_id": "296256781",
+            "created_at": "2012-09-09T20:19:36.000Z",
+            "id": "244892833625018368",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assinado pela presidente Di..."
+        },
+        {
+            "author_id": "297090009",
+            "created_at": "2012-09-09T20:19:36.000Z",
+            "id": "244892833490825217",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assinado pela presidente Di..."
+        },
+        {
+            "author_id": "333001488",
+            "created_at": "2012-09-09T20:19:36.000Z",
+            "id": "244892833436295168",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assinado pela presidente Di..."
+        },
+        {
+            "author_id": "235447243",
+            "created_at": "2012-09-09T20:19:33.000Z",
+            "id": "244892821461536768",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o http://t.co/y1i5ftA1"
+        },
+        {
+            "author_id": "322684714",
+            "created_at": "2012-09-09T20:19:29.000Z",
+            "id": "244892807842648065",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o http://t.co/3RXUkl7A"
+        },
+        {
+            "author_id": "170047613",
+            "created_at": "2012-09-09T20:19:29.000Z",
+            "id": "244892804155854848",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "BRASIL: Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o http://t.co/pONlVrTm #2012\u00e910"
+        },
+        {
+            "author_id": "298598428",
+            "created_at": "2012-09-09T20:19:28.000Z",
+            "id": "244892800615866368",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assina... http://t.co/CSo9Nk7F"
+        },
+        {
+            "author_id": "148880157",
+            "created_at": "2012-09-09T20:19:26.000Z",
+            "id": "244892795289100289",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT @garraseguros Mudan\u00e7a foi efetivada ap\u00f3s decreto assinado pela presidente Dilma Rousseff.\n\u00c1rea faz parte do d... http://t.co/irQQNxI7"
+        },
+        {
+            "author_id": "173246373",
+            "created_at": "2012-09-09T20:19:22.000Z",
+            "id": "244892775286464512",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Mudan\u00e7a foi efetivada ap\u00f3s decreto assinado pela presidente Dilma Rousseff.\n\u00c1rea faz parte do descobrimento do B... http://t.co/FndkkmH7"
+        },
+        {
+            "author_id": "37816961",
+            "created_at": "2012-09-09T20:19:20.000Z",
+            "id": "244892767136911360",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assina... http://t.co/iMRYv0pF"
+        },
+        {
+            "author_id": "568119820",
+            "created_at": "2012-09-09T20:17:24.000Z",
+            "id": "244892279922372608",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#G1 - Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o http://t.co/gKnJ6q9R"
+        },
+        {
+            "author_id": "350275176",
+            "created_at": "2012-09-09T20:17:23.000Z",
+            "id": "244892278714425344",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assina... http://t.co/ivjE3X5Z"
+        },
+        {
+            "author_id": "352993666",
+            "created_at": "2012-09-09T20:17:22.000Z",
+            "id": "244892275023421440",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento \u00e9 ampliado para garantir preserva\u00e7\u00e3o: Mudan\u00e7a foi efetivada ap\u00f3s decreto assina... http://t.co/YAjcjXcA"
+        },
+        {
+            "author_id": "474851854",
+            "created_at": "2012-09-09T20:09:26.000Z",
+            "id": "244890276185899009",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Uni\u00e3oDoTwitterSegu Inc\u00eandio atinge \u00e1rea de prote\u00e7\u00e3o ambiental em Iper\u00f3, SP http://t.co/0QLjwWKz #autofollow"
+        },
+        {
+            "author_id": "106720870",
+            "created_at": "2012-09-09T20:09:24.000Z",
+            "id": "244890268338380800",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge \u00e1rea de prote\u00e7\u00e3o ambiental em Iper\u00f3, SP: Mais de 20 brigadistas trabalham no combate ao fogo na ... http://t.co/mlfjLSnc"
+        },
+        {
+            "author_id": "334305716",
+            "created_at": "2012-09-09T20:07:49.000Z",
+            "id": "244889868910604288",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge \u00e1rea de prote\u00e7\u00e3o ambiental em Iper\u00f3, SP: Mais de 20 brigadistas trabalham no combate ao fogo na ... http://t.co/ZXG7f5Bl"
+        },
+        {
+            "author_id": "233593084",
+            "created_at": "2012-09-09T20:07:19.000Z",
+            "id": "244889744490774528",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge \u00e1rea de prote\u00e7\u00e3o ambiental em Iper\u00f3, SP: Mais de 20 brigadistas trabalham no combate ao fogo na ... http://t.co/QTdsjUra"
+        },
+        {
+            "author_id": "249278766",
+            "created_at": "2012-09-09T20:00:15.000Z",
+            "id": "244887965267021824",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento foi ampliado para garantir preserva\u00e7\u00e3o http://t.co/3WRgSRdB"
+        },
+        {
+            "author_id": "31468484",
+            "created_at": "2012-09-09T19:59:03.000Z",
+            "id": "244887664719962112",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento foi ampliado para garantir preserva\u00e7\u00e3o http://t.co/PdLUKs85"
+        },
+        {
+            "author_id": "231280267",
+            "created_at": "2012-09-09T19:58:04.000Z",
+            "id": "244887417746776064",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Descobrimento foi ampliado para garantir preserva\u00e7\u00e3o http://t.co/Ru6W4TGz"
+        },
+        {
+            "author_id": "40227458",
+            "created_at": "2012-09-09T19:52:30.000Z",
+            "id": "244886017415450624",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Incendio atinge area de protecao ambiental em Ipero, SP. Mais de 20 brigadistas trabalham no combate ao fogo na Fazenda http://t.co/PAycq3t2"
+        },
+        {
+            "author_id": "9611162",
+            "created_at": "2012-09-09T19:52:30.000Z",
+            "id": "244886014705930241",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#TransitoSP Incendio atinge area de protecao ambiental em Ipero, SP. Mais de 20 brigadistas trabalham no combate ao fog http://t.co/muOnYKci"
+        },
+        {
+            "author_id": "28395000",
+            "created_at": "2012-09-09T19:50:13.000Z",
+            "id": "244885440971284480",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge \u00e1rea de prote\u00e7\u00e3o ambiental em Iper\u00f3, SP http://t.co/XqhrnZbS"
+        },
+        {
+            "author_id": "419853313",
+            "created_at": "2012-09-09T19:49:03.000Z",
+            "id": "244885147093196800",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge \u00e1rea de prote\u00e7\u00e3o ambiental em Iper\u00f3, SP http://t.co/vSqAPKIe"
+        },
+        {
+            "author_id": "480580821",
+            "created_at": "2012-09-09T18:55:19.000Z",
+            "id": "244871624216694784",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional dos Len\u00e7ois Maranhenses - Maranhao, Brazil http://t.co/UmkjHJpD"
+        },
+        {
+            "author_id": "374212424",
+            "created_at": "2012-09-09T18:23:31.000Z",
+            "id": "244863620473815040",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional dos Len\u00e7ois Maranhenses - Maranhao, Brazil http://t.co/gSRZjn19"
+        },
+        {
+            "author_id": "100542719",
+            "created_at": "2012-09-09T18:11:50.000Z",
+            "id": "244860680069582849",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Ap\u00f3s uma bolinha...\nCachoeira do Chuveiro, Parque Nacional da Tijuca!!!\nEhhh domingo.......... http://t.co/SQWM6CPE"
+        },
+        {
+            "author_id": "283264221",
+            "created_at": "2012-09-09T17:35:41.000Z",
+            "id": "244851585438584833",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Voltando pra \"civiliza\u00e7\u00e3o\".\t Mosquitos me mordam. Ahuahuahua.. T\u00f4 ensaiando pra quando for visitar o Parque Nacional do Xingu."
         }
     ],
     "errors": [
@@ -6263,13 +6190,6 @@
     ],
     "includes": {
         "places": [
-            {
-                "country": "Brasil",
-                "country_code": "BR",
-                "full_name": "Mossor\u00f3, Brasil",
-                "id": "6cbb3f4902362745",
-                "place_type": "city"
-            },
             {
                 "country": "Brasil",
                 "country_code": "BR",
@@ -6307,306 +6227,6 @@
             }
         ],
         "users": [
-            {
-                "id": "385145571",
-                "name": "OTONIELJR",
-                "username": "OtonielMaiaJR",
-                "verified": false
-            },
-            {
-                "id": "334233299",
-                "name": "Ana Paula Tavares",
-                "username": "anapaula19855",
-                "verified": false
-            },
-            {
-                "id": "412506693",
-                "name": "Karidza Madja",
-                "username": "KaridzaMadja",
-                "verified": false
-            },
-            {
-                "id": "61520379",
-                "name": "OcilenePatrycia",
-                "username": "ocillene",
-                "verified": false
-            },
-            {
-                "id": "44556637",
-                "name": "Ger\u00f4ncio Oliveira",
-                "username": "geroncio1001",
-                "verified": false
-            },
-            {
-                "id": "27285187",
-                "name": "Contacto Latino \u00ae",
-                "username": "ContactoLatino",
-                "verified": false
-            },
-            {
-                "id": "192328928",
-                "name": "rafael flamenguista",
-                "username": "Rafa__FLAMENGO",
-                "verified": false
-            },
-            {
-                "id": "296256781",
-                "name": "~ gabi",
-                "username": "_gabiidomingues",
-                "verified": false
-            },
-            {
-                "id": "286307589",
-                "name": "Kamila :*:",
-                "username": "Kamila_Freeitas",
-                "verified": false
-            },
-            {
-                "id": "294774158",
-                "name": "Maikon Freitas",
-                "username": "_Maikonfreitas",
-                "verified": false
-            },
-            {
-                "id": "333001488",
-                "name": "carol angelim",
-                "username": "carol_angelim",
-                "verified": false
-            },
-            {
-                "id": "297090009",
-                "name": "aron freitas",
-                "username": "aron_freitas",
-                "verified": false
-            },
-            {
-                "id": "173246373",
-                "name": "Ant\u00f4nio Vendramim",
-                "username": "AVendramim",
-                "verified": false
-            },
-            {
-                "id": "37816961",
-                "name": "militante descansado",
-                "username": "eusou1bkp",
-                "verified": false
-            },
-            {
-                "id": "532489816",
-                "name": "ZONA NOTICIAS",
-                "username": "XZNOTICIAS",
-                "verified": false
-            },
-            {
-                "id": "25878146",
-                "name": "Matheus Pacheco",
-                "username": "matheusinpixels",
-                "verified": false
-            },
-            {
-                "id": "778216202",
-                "name": "Neymar junior",
-                "username": "Neymar20122",
-                "verified": false
-            },
-            {
-                "id": "777286351",
-                "name": "Cristiano Ronaldo",
-                "username": "CristianoR2012",
-                "verified": false
-            },
-            {
-                "id": "501354567",
-                "name": "Facebook",
-                "username": "FacebookOFlClAL",
-                "verified": false
-            },
-            {
-                "id": "558254357",
-                "name": "Indico",
-                "username": "Pedro93329689",
-                "verified": false
-            },
-            {
-                "id": "187444710",
-                "name": "Kakashi",
-                "username": "tuzzaao",
-                "verified": false
-            },
-            {
-                "id": "105910387",
-                "name": "Renato Gottschald",
-                "username": "Renatogottschal",
-                "verified": false
-            },
-            {
-                "id": "374115240",
-                "name": "Bruna Vitoryno",
-                "username": "brunavitoryno",
-                "verified": false
-            },
-            {
-                "id": "578601364",
-                "name": "M",
-                "username": "marck16_",
-                "verified": false
-            },
-            {
-                "id": "594196883",
-                "name": "Fabio Fraga \ud83c\udde7\ud83c\uddf7\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 Apoiador de Bolsonaro",
-                "username": "chatosechatolin",
-                "verified": false
-            },
-            {
-                "id": "582256676",
-                "name": "Farias",
-                "username": "_farias_08",
-                "verified": false
-            },
-            {
-                "id": "585301660",
-                "name": "M2",
-                "username": "marck12_",
-                "verified": false
-            },
-            {
-                "id": "578675172",
-                "name": "iago",
-                "username": "iagopossami",
-                "verified": false
-            },
-            {
-                "id": "251783304",
-                "name": "maria alice",
-                "username": "maryelice",
-                "verified": false
-            },
-            {
-                "id": "90022099",
-                "name": "MarY...",
-                "username": "marina271996",
-                "verified": false
-            },
-            {
-                "id": "406726908",
-                "name": "Keiila Mirelle",
-                "username": "KeiilaMirelle",
-                "verified": false
-            },
-            {
-                "id": "474008656",
-                "name": "pritam chakraborty",
-                "username": "pritamchakrabo8",
-                "verified": false
-            },
-            {
-                "id": "384456270",
-                "name": "luana s2",
-                "username": "S2s2Luana",
-                "verified": false
-            },
-            {
-                "id": "293229286",
-                "name": "ester regina",
-                "username": "TezinhaSantos_",
-                "verified": false
-            },
-            {
-                "id": "426795360",
-                "name": "haniel fernandes",
-                "username": "HanielFernades",
-                "verified": false
-            },
-            {
-                "id": "327638872",
-                "name": "simone jose",
-                "username": "simonee_j",
-                "verified": false
-            },
-            {
-                "id": "394376418",
-                "name": "rayanne",
-                "username": "chocolate_crys",
-                "verified": false
-            },
-            {
-                "id": "459618374",
-                "name": "david diana de souza",
-                "username": "doido_david",
-                "verified": false
-            },
-            {
-                "id": "425248421",
-                "name": "ester",
-                "username": "ester_flor12",
-                "verified": false
-            },
-            {
-                "id": "317040336",
-                "name": "Thay",
-                "username": "_thay88",
-                "verified": false
-            },
-            {
-                "id": "466846257",
-                "name": "Rosimeire Cardoso",
-                "username": "lorenarosy",
-                "verified": false
-            },
-            {
-                "id": "489627608",
-                "name": "Trabalhe em Casa",
-                "username": "Fontederenda",
-                "verified": false
-            },
-            {
-                "id": "439186043",
-                "name": "facenews",
-                "username": "face_news",
-                "verified": false
-            },
-            {
-                "id": "550242935",
-                "name": "Invictvs",
-                "username": "JDR_01",
-                "verified": false
-            },
-            {
-                "id": "594950864",
-                "name": "James Root",
-                "username": "TheJimRoot",
-                "verified": false
-            },
-            {
-                "id": "474851854",
-                "name": "Lucas Amaral",
-                "username": "MeninoInformado",
-                "verified": false
-            },
-            {
-                "id": "191195444",
-                "name": "Rodriguinho",
-                "username": "arrobarodriguin",
-                "verified": false
-            },
-            {
-                "id": "288330146",
-                "name": "\u00d7\u2022 \u0442\u03c3\u03c3\u0438",
-                "username": "LandHooverM",
-                "verified": false
-            },
-            {
-                "id": "71637810",
-                "name": "Gustavo",
-                "username": "_gtoselli_",
-                "verified": false
-            },
-            {
-                "id": "31468484",
-                "name": "G1 - Brasil",
-                "username": "g1brasil",
-                "verified": false
-            },
             {
                 "id": "282039582",
                 "name": "info",
@@ -6857,12 +6477,6 @@
                 "id": "288745543",
                 "name": "Stelio Matusse",
                 "username": "StelioMatusse",
-                "verified": false
-            },
-            {
-                "id": "205232545",
-                "name": "GeoAmbiental Jr.",
-                "username": "GeoAmbientalJr",
                 "verified": false
             },
             {
@@ -7166,6 +6780,12 @@
                 "verified": false
             },
             {
+                "id": "37816961",
+                "name": "militante descansado",
+                "username": "eusou1bkp",
+                "verified": false
+            },
+            {
                 "id": "608440427",
                 "name": "Tudo Aqui",
                 "username": "Allheree",
@@ -7178,9 +6798,21 @@
                 "verified": false
             },
             {
+                "id": "25878146",
+                "name": "Matheus Pacheco",
+                "username": "matheusinpixels",
+                "verified": false
+            },
+            {
                 "id": "85871775",
                 "name": "Andr\u00e9 Henrique",
                 "username": "mrhenrike",
+                "verified": false
+            },
+            {
+                "id": "501354567",
+                "name": "Facebook",
+                "username": "FacebookOFlClAL",
                 "verified": false
             },
             {
@@ -7223,6 +6855,12 @@
                 "id": "194762993",
                 "name": "IDEMARCOS",
                 "username": "idneres",
+                "verified": false
+            },
+            {
+                "id": "594950864",
+                "name": "James Root",
+                "username": "TheJimRoot",
                 "verified": false
             },
             {
@@ -7280,12 +6918,6 @@
                 "verified": false
             },
             {
-                "id": "174017304",
-                "name": "Maur\u00edcio Castro",
-                "username": "ThinkFloyd61",
-                "verified": false
-            },
-            {
                 "id": "79663762",
                 "name": "Iro",
                 "username": "irobarrucho",
@@ -7310,18 +6942,6 @@
                 "verified": false
             },
             {
-                "id": "289358859",
-                "name": "Maria Luiza Lazarin",
-                "username": "malulazarin",
-                "verified": false
-            },
-            {
-                "id": "35524446",
-                "name": "Portal EcoDebate",
-                "username": "ecodebate",
-                "verified": false
-            },
-            {
                 "id": "56555257",
                 "name": "Adilson Borges",
                 "username": "adilson_borges",
@@ -7331,12 +6951,6 @@
                 "id": "339998504",
                 "name": "Nicho Legal",
                 "username": "NichoLegal",
-                "verified": false
-            },
-            {
-                "id": "27940101",
-                "name": "Rafael Favrin",
-                "username": "rafavrin",
                 "verified": false
             },
             {
@@ -7382,6 +6996,12 @@
                 "verified": false
             },
             {
+                "id": "44556637",
+                "name": "Ger\u00f4ncio Oliveira",
+                "username": "geroncio1001",
+                "verified": false
+            },
+            {
                 "id": "205251886",
                 "name": "G1 Mato Grosso",
                 "username": "g1matogrosso",
@@ -7397,12 +7017,6 @@
                 "id": "183669106",
                 "name": "Gazeta MT",
                 "username": "gazetamt",
-                "verified": false
-            },
-            {
-                "id": "272585374",
-                "name": "universoambiental",
-                "username": "universorecicle",
                 "verified": false
             },
             {
@@ -7478,12 +7092,6 @@
                 "verified": false
             },
             {
-                "id": "166592691",
-                "name": "Art Ambiental",
-                "username": "artambiental",
-                "verified": false
-            },
-            {
                 "id": "106746624",
                 "name": "Top Biologia",
                 "username": "topbiologia",
@@ -7535,12 +7143,6 @@
                 "id": "125965674",
                 "name": "Brasil Di\u00e1rio",
                 "username": "BrasilDiario",
-                "verified": false
-            },
-            {
-                "id": "21756977",
-                "name": "Cristina Catunda",
-                "username": "Criscatu",
                 "verified": false
             },
             {
@@ -8018,9 +7620,21 @@
                 "verified": false
             },
             {
+                "id": "105910387",
+                "name": "Renato Gottschald",
+                "username": "Renatogottschal",
+                "verified": false
+            },
+            {
                 "id": "227682501",
                 "name": "Welker brittoh",
                 "username": "w_brittoh",
+                "verified": false
+            },
+            {
+                "id": "474851854",
+                "name": "Lucas Amaral",
+                "username": "MeninoInformado",
                 "verified": false
             },
             {
@@ -8075,6 +7689,12 @@
                 "id": "295852848",
                 "name": "Ag\u00eancia Enfoque",
                 "username": "enfoqueagencia",
+                "verified": false
+            },
+            {
+                "id": "71637810",
+                "name": "Gustavo",
+                "username": "_gtoselli_",
                 "verified": false
             },
             {
@@ -8187,7 +7807,7 @@
             },
             {
                 "id": "45902841",
-                "name": "Rafa Chagas",
+                "name": "Rafa CREMOSA",
                 "username": "RafaSCR",
                 "verified": false
             },
@@ -8330,6 +7950,12 @@
                 "verified": false
             },
             {
+                "id": "374115240",
+                "name": "Bruna Vitoryno",
+                "username": "brunavitoryno",
+                "verified": false
+            },
+            {
                 "id": "586608762",
                 "name": "luis T.",
                 "username": "_luis001",
@@ -8369,6 +7995,12 @@
                 "id": "61766429",
                 "name": "Emo Roida",
                 "username": "Emo_roida",
+                "verified": false
+            },
+            {
+                "id": "594196883",
+                "name": "Fabio Fraga \ud83c\udde7\ud83c\uddf7\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 Apoiador de Bolsonaro",
+                "username": "chatosechatolin",
                 "verified": false
             },
             {
@@ -8582,6 +8214,12 @@
                 "verified": false
             },
             {
+                "id": "550242935",
+                "name": "Invictvs",
+                "username": "JDR_01",
+                "verified": false
+            },
+            {
                 "id": "263671427",
                 "name": "OFacilitadoRH",
                 "username": "ofacilitadorh_",
@@ -8724,13 +8362,235 @@
                 "name": "djfrankwilem",
                 "username": "djfrankwilem",
                 "verified": false
+            },
+            {
+                "id": "559134429",
+                "name": "",
+                "username": "fiapinho4",
+                "verified": false
+            },
+            {
+                "id": "398433081",
+                "name": "Brenda Gwendoline",
+                "username": "BrendaGwen_",
+                "verified": false
+            },
+            {
+                "id": "126155537",
+                "name": "Leia na Bio",
+                "username": "iagostosao",
+                "verified": false
+            },
+            {
+                "id": "242876115",
+                "name": "Wendell Esteves",
+                "username": "_WendellEsteves",
+                "verified": false
+            },
+            {
+                "id": "187444710",
+                "name": "Kakashi",
+                "username": "tuzzaao",
+                "verified": false
+            },
+            {
+                "id": "89701514",
+                "name": "ferrara brazil",
+                "username": "ferrarabrazil",
+                "verified": false
+            },
+            {
+                "id": "517311998",
+                "name": "Edson Bernardino",
+                "username": "djedsonb",
+                "verified": false
+            },
+            {
+                "id": "109919130",
+                "name": "Cassiano Carvalho S.",
+                "username": "CassianoCSilva",
+                "verified": false
+            },
+            {
+                "id": "135888590",
+                "name": "Danielle",
+                "username": "danirmorais",
+                "verified": false
+            },
+            {
+                "id": "57156767",
+                "name": "Miiiiiiiiilton",
+                "username": "Milton_deus",
+                "verified": false
+            },
+            {
+                "id": "219811482",
+                "name": "Gabriel Felipe",
+                "username": "gabriel_cacol",
+                "verified": false
+            },
+            {
+                "id": "58080776",
+                "name": "cici",
+                "username": "raresmgz",
+                "verified": false
+            },
+            {
+                "id": "90496316",
+                "name": "L\u00e9o Ferreira",
+                "username": "Ft_LeoFerreira",
+                "verified": false
+            },
+            {
+                "id": "309469406",
+                "name": "sigampaulinhoreal\u00ae",
+                "username": "sigampaulinho",
+                "verified": false
+            },
+            {
+                "id": "293730872",
+                "name": "ABC An\u00fancios",
+                "username": "abc_anuncios",
+                "verified": false
+            },
+            {
+                "id": "192328928",
+                "name": "rafael flamenguista",
+                "username": "Rafa__FLAMENGO",
+                "verified": false
+            },
+            {
+                "id": "286307589",
+                "name": "Kamila :*:",
+                "username": "Kamila_Freeitas",
+                "verified": false
+            },
+            {
+                "id": "294774158",
+                "name": "Maikon Freitas",
+                "username": "_Maikonfreitas",
+                "verified": false
+            },
+            {
+                "id": "296256781",
+                "name": "~ gabi",
+                "username": "_gabiidomingues",
+                "verified": false
+            },
+            {
+                "id": "297090009",
+                "name": "aron freitas",
+                "username": "aron_freitas",
+                "verified": false
+            },
+            {
+                "id": "333001488",
+                "name": "carol angelim",
+                "username": "carol_angelim",
+                "verified": false
+            },
+            {
+                "id": "235447243",
+                "name": "C\u043d\u0454s\u2113\u0454y C\u2113\u03b1\u03c5\u2202\u03b9\u03b7\u03c3",
+                "username": "ChelJotta",
+                "verified": false
+            },
+            {
+                "id": "322684714",
+                "name": "GAVI\u00d5ES DA FIEL",
+                "username": "gavioestorcida",
+                "verified": false
+            },
+            {
+                "id": "148880157",
+                "name": "cartola_bar",
+                "username": "cartola_bar",
+                "verified": false
+            },
+            {
+                "id": "173246373",
+                "name": "Ant\u00f4nio Vendramim",
+                "username": "AVendramim",
+                "verified": false
+            },
+            {
+                "id": "568119820",
+                "name": "BA Not\u00edcia",
+                "username": "ba_noticia",
+                "verified": false
+            },
+            {
+                "id": "350275176",
+                "name": "\u014a\u0414\u040e\u044f\u0104\u014a \u06a9\u03c3\u03bc\u4e4b\u0104",
+                "username": "Nayran_souza",
+                "verified": false
+            },
+            {
+                "id": "352993666",
+                "name": "Bahia Oficial",
+                "username": "bahia_oficial",
+                "verified": false
+            },
+            {
+                "id": "249278766",
+                "name": "G1 Bahia",
+                "username": "g1bahia",
+                "verified": true
+            },
+            {
+                "id": "31468484",
+                "name": "G1 - Brasil",
+                "username": "g1brasil",
+                "verified": false
+            },
+            {
+                "id": "231280267",
+                "name": "Sobral Host",
+                "username": "sobralhost",
+                "verified": false
+            },
+            {
+                "id": "40227458",
+                "name": "Transito SPO",
+                "username": "transitoSPO",
+                "verified": false
+            },
+            {
+                "id": "9611162",
+                "name": "Transito em SP e RJ",
+                "username": "transito",
+                "verified": false
+            },
+            {
+                "id": "480580821",
+                "name": "gato Sam",
+                "username": "sorsdk",
+                "verified": false
+            },
+            {
+                "id": "374212424",
+                "name": "D.B.O.D LONDON",
+                "username": "tizianomazzilli",
+                "verified": false
+            },
+            {
+                "id": "100542719",
+                "name": "Gilson Barboza",
+                "username": "GilsonBarboza",
+                "verified": false
+            },
+            {
+                "id": "283264221",
+                "name": "Andrei@ C@stro",
+                "username": "deiacsilva",
+                "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "246032117522374657",
-        "next_token": "1jzu9lk96gu5npvzzjnd653qzzyg6xge4tefbze4w0hp",
-        "oldest_id": "244932311047622656",
-        "result_count": 482
+        "newest_id": "246025648190136320",
+        "next_token": "1jzu9lk96gu5npvzzjnd40z50lih8s74y2dpgv1hns71",
+        "oldest_id": "244851585438584833",
+        "result_count": 480
     }
 }

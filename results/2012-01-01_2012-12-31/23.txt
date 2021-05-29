@@ -1,1596 +1,6 @@
 {
     "data": [
         {
-            "author_id": "188911843",
-            "created_at": "2012-08-13T11:59:04.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982398029344768",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/yPkuSv62 via @CanaisTVOnline"
-        },
-        {
-            "author_id": "210000540",
-            "created_at": "2012-08-13T11:59:03.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982394720034817",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/la9EyfkM via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96426908",
-            "created_at": "2012-08-13T11:59:01.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982388151750657",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/pMpMhtU8 via @CanaisTVOnline"
-        },
-        {
-            "author_id": "201223265",
-            "created_at": "2012-08-13T11:59:00.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982382099374080",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/4V6A2nvv via @CanaisTVOnline"
-        },
-        {
-            "author_id": "173986914",
-            "created_at": "2012-08-13T11:58:58.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982373983399937",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/BRgZTD8C via @CanaisTVOnline"
-        },
-        {
-            "author_id": "172506881",
-            "created_at": "2012-08-13T11:58:57.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982370544066560",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/hhofUUA5 via @CanaisTVOnline"
-        },
-        {
-            "author_id": "173223604",
-            "created_at": "2012-08-13T11:58:56.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982366978916353",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/bTxYhVkt via @CanaisTVOnline"
-        },
-        {
-            "author_id": "208631651",
-            "created_at": "2012-08-13T11:58:53.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982352483397632",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/azOU4nl8 via @CanaisTVOnline"
-        },
-        {
-            "author_id": "120809087",
-            "created_at": "2012-08-13T11:58:52.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982348779814913",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/p8SuvBP9 via @CanaisTVOnline"
-        },
-        {
-            "author_id": "120810423",
-            "created_at": "2012-08-13T11:58:51.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982345634091008",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/VSTT9fOE via @CanaisTVOnline"
-        },
-        {
-            "author_id": "173450739",
-            "created_at": "2012-08-13T11:58:50.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982341553045504",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/hW1xbLtL via @CanaisTVOnline"
-        },
-        {
-            "author_id": "198839815",
-            "created_at": "2012-08-13T11:58:48.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982334460469250",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/DllrvZF9 via @CanaisTVOnline"
-        },
-        {
-            "author_id": "194545169",
-            "created_at": "2012-08-13T11:58:47.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982330450731009",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/Vr0HifD0 via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96449334",
-            "created_at": "2012-08-13T11:58:47.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982326868779008",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/6Aaee2TW via @CanaisTVOnline"
-        },
-        {
-            "author_id": "173140593",
-            "created_at": "2012-08-13T11:58:46.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982323161030656",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/j8az84xn via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96443148",
-            "created_at": "2012-08-13T11:58:44.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982315909074944",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/3OBnjqxE via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96448092",
-            "created_at": "2012-08-13T11:58:42.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982308455804928",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/XrBJoQUE via @CanaisTVOnline"
-        },
-        {
-            "author_id": "184763617",
-            "created_at": "2012-08-13T11:58:41.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982304743845890",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/DbzKZoCf via @CanaisTVOnline"
-        },
-        {
-            "author_id": "169215881",
-            "created_at": "2012-08-13T11:58:38.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982289145225216",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/h6HCJHba via @CanaisTVOnline"
-        },
-        {
-            "author_id": "169061664",
-            "created_at": "2012-08-13T11:58:36.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982282123943937",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/ph4Ftntm via @CanaisTVOnline"
-        },
-        {
-            "author_id": "97019464",
-            "created_at": "2012-08-13T11:58:35.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982278391017472",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/5C76ZepG via @CanaisTVOnline"
-        },
-        {
-            "author_id": "172043510",
-            "created_at": "2012-08-13T11:58:34.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982274540654593",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/9883soTz via @CanaisTVOnline"
-        },
-        {
-            "author_id": "172029019",
-            "created_at": "2012-08-13T11:58:33.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982271306833920",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/G0mTiHmi via @CanaisTVOnline"
-        },
-        {
-            "author_id": "172905497",
-            "created_at": "2012-08-13T11:58:33.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982267586478080",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/CHlQQk3Z via @CanaisTVOnline"
-        },
-        {
-            "author_id": "172769278",
-            "created_at": "2012-08-13T11:58:32.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982263555768320",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/GrOP6Xbd via @CanaisTVOnline"
-        },
-        {
-            "author_id": "228704949",
-            "created_at": "2012-08-13T11:58:31.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982259843796992",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/Zwe19O5I via @CanaisTVOnline"
-        },
-        {
-            "author_id": "205189349",
-            "created_at": "2012-08-13T11:58:30.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982256714842112",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/Gcw2acLS via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96439143",
-            "created_at": "2012-08-13T11:58:30.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982255032942592",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/q9uS8Wlr via @CanaisTVOnline"
-        },
-        {
-            "author_id": "104930207",
-            "created_at": "2012-08-13T11:58:27.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982245931311104",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/nG7PIrUb via @CanaisTVOnline"
-        },
-        {
-            "author_id": "104931857",
-            "created_at": "2012-08-13T11:58:26.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982242202558464",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/YDTYYiXg via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96434272",
-            "created_at": "2012-08-13T11:58:25.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982237999878144",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/FdUE0U9M via @CanaisTVOnline"
-        },
-        {
-            "author_id": "173144508",
-            "created_at": "2012-08-13T11:58:25.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982235227443201",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/iWnyfvTp via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96432959",
-            "created_at": "2012-08-13T11:58:23.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982226964643841",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/gjcv8K4U via @CanaisTVOnline"
-        },
-        {
-            "author_id": "115454322",
-            "created_at": "2012-08-13T11:58:22.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982223504355328",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/3fclJZO8 via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96764794",
-            "created_at": "2012-08-13T11:58:21.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982219918237696",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/PsOXhUO8 via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96390061",
-            "created_at": "2012-08-13T11:58:19.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982212804702208",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/7kCNO0Cr via @CanaisTVOnline"
-        },
-        {
-            "author_id": "198842419",
-            "created_at": "2012-08-13T11:58:19.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982209315012608",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/TAhL1cGx via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96389225",
-            "created_at": "2012-08-13T11:58:18.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982205624029184",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/jDIAvwil via @CanaisTVOnline"
-        },
-        {
-            "author_id": "172352597",
-            "created_at": "2012-08-13T11:58:17.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982201945620484",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/8l5Yrvhc via @CanaisTVOnline"
-        },
-        {
-            "author_id": "262828668",
-            "created_at": "2012-08-13T11:58:16.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982198002978817",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/4oniIqDa via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96405216",
-            "created_at": "2012-08-13T11:58:15.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982195494789121",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/hyGpHWyJ via @CanaisTVOnline"
-        },
-        {
-            "author_id": "209288492",
-            "created_at": "2012-08-13T11:58:14.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982190826536960",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/icE6rG4k via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96991533",
-            "created_at": "2012-08-13T11:58:13.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982187580133378",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/iZsQY7fw via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96413309",
-            "created_at": "2012-08-13T11:58:12.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982183507460097",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/S1OXNgUS via @CanaisTVOnline"
-        },
-        {
-            "author_id": "58875396",
-            "created_at": "2012-08-13T11:58:12.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982180143652864",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/UQdiFysS via @CanaisTVOnline"
-        },
-        {
-            "author_id": "96389546",
-            "created_at": "2012-08-13T11:58:11.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982176012251136",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/AFPNawev via @CanaisTVOnline"
-        },
-        {
-            "author_id": "188854962",
-            "created_at": "2012-08-13T11:58:10.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982172325445632",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/Fr9H8PcQ via @CanaisTVOnline"
-        },
-        {
-            "author_id": "357017923",
-            "created_at": "2012-08-13T11:58:09.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 95,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "234982168085008384",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#TvOnline Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/BWC67XYk via @CanaisTVOnline"
-        },
-        {
-            "author_id": "109885907",
-            "created_at": "2012-08-13T11:58:08.000Z",
-            "id": "234982164435959808",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental: Falta de espa\u00e7os de lazer \u00e9 outro problema da cidad... http://t.co/siJZgm0V"
-        },
-        {
-            "author_id": "238226038",
-            "created_at": "2012-08-13T11:58:07.000Z",
-            "id": "234982160786927616",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental: Falta de espa\u00e7os de lazer \u00e9 outro problema da cidad... http://t.co/NlZVsKAd"
-        },
-        {
-            "author_id": "252456292",
-            "created_at": "2012-08-13T11:58:06.000Z",
-            "id": "234982157318234113",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental: Falta de espa\u00e7os de lazer \u00e9 outro problema da cidad... http://t.co/5vTP3GEy"
-        },
-        {
-            "author_id": "237952019",
-            "created_at": "2012-08-13T11:58:02.000Z",
-            "id": "234982139500847104",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental: Falta de espa\u00e7os de lazer \u00e9 outro problema da cidad... http://t.co/nmDqWudC"
-        },
-        {
-            "author_id": "237952019",
-            "created_at": "2012-08-13T11:57:54.000Z",
-            "id": "234982106579730432",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental: Falta de espa\u00e7os de lazer \u00e9 outro problema da cidad... http://t.co/1wLKelWh"
-        },
-        {
-            "author_id": "75869122",
-            "created_at": "2012-08-13T11:57:54.000Z",
-            "id": "234982105384357889",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental: Falta de espa\u00e7os de lazer \u00e9 outro proble... http://t.co/nUrKB3dX #vccomenta"
-        },
-        {
-            "author_id": "142752997",
-            "created_at": "2012-08-13T11:57:54.000Z",
-            "id": "234982104050573312",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental: Falta de espa\u00e7os de lazer \u00e9 outro problema da cidad... http://t.co/jtjFPemk"
-        },
-        {
-            "author_id": "199126736",
-            "created_at": "2012-08-13T11:57:52.000Z",
-            "id": "234982098547646464",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental: Falta de espa\u00e7os de lazer \u00e9 outro problema da cidad... http://t.co/tK0kfLTD"
-        },
-        {
-            "author_id": "189918634",
-            "created_at": "2012-08-13T11:57:52.000Z",
-            "id": "234982096400154624",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/jfgRcRtF"
-        },
-        {
-            "author_id": "191683102",
-            "created_at": "2012-08-13T11:57:51.000Z",
-            "id": "234982092658851840",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental: Falta de espa\u00e7os de lazer \u00e9 outro problema da cidad... http://t.co/b9rcMoeZ"
-        },
-        {
-            "author_id": "31314191",
-            "created_at": "2012-08-13T11:57:48.000Z",
-            "id": "234982080277270528",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental: Falta de espa\u00e7os de lazer \u00e9 outro problema da cidad... http://t.co/MACU0R4H"
-        },
-        {
-            "author_id": "58657900",
-            "created_at": "2012-08-13T11:57:48.000Z",
-            "id": "234982078834425856",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/kFyzydm6"
-        },
-        {
-            "author_id": "129110258",
-            "created_at": "2012-08-13T11:57:39.000Z",
-            "id": "234982045162553346",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental: Falta de espa\u00e7os de lazer \u00e9 outro problema da cidad... http://t.co/AR8QqDZQ"
-        },
-        {
-            "author_id": "129243192",
-            "created_at": "2012-08-13T11:57:39.000Z",
-            "id": "234982043845541888",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental: Falta de espa\u00e7os de lazer \u00e9 outro problema da cidad... http://t.co/pQ9fpitW"
-        },
-        {
-            "author_id": "31513669",
-            "created_at": "2012-08-13T11:57:04.000Z",
-            "id": "234981895060987905",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Diadema, no ABC, tem moradias em \u00e1rea de prote\u00e7\u00e3o ambiental http://t.co/m9vLEUM6"
-        },
-        {
-            "author_id": "94806717",
-            "created_at": "2012-08-13T11:42:46.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "JsPassarinho"
-                    },
-                    {
-                        "end": 92,
-                        "start": 79,
-                        "username": "Tumucumaque1"
-                    }
-                ]
-            },
-            "geo": {
-                "place_id": "5722ff20ba67083b"
-            },
-            "id": "234978298936033281",
-            "in_reply_to_user_id": "272676286",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@JsPassarinho No Parque Nacional Montanhas do Tumucumaque. Siga a nossa p\u00e1gina @Tumucumaque1"
-        },
-        {
-            "author_id": "380995671",
-            "created_at": "2012-08-13T11:10:01.000Z",
-            "id": "234970057464238080",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional da Chapada dos Guimar\u00e3es (MT) que re\u00fane montanhas, cavernas,c\u00e2nions e a famosa cachoeira V\u00e9u de Noiva.http://t.co/k7JKKHMU"
-        },
-        {
-            "author_id": "172193456",
-            "created_at": "2012-08-13T07:03:47.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -52.5522014,
-                        -17.5624573
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "89c240f117cb166b"
-            },
-            "id": "234908079681073152",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "A entrada principal do Parque nacional das emas ficou top demais !! http://t.co/7hdp9wCa"
-        },
-        {
-            "author_id": "112185190",
-            "created_at": "2012-08-13T06:59:45.000Z",
-            "id": "234907075644358657",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "http://t.co/91dPYFWU Hotel Castrum Villae (Castro Laboreiro, Melga\u00e7o): Situado dentro do Parque Nacional da Peneda-Ger\u00eas,"
-        },
-        {
-            "author_id": "34612053",
-            "created_at": "2012-08-13T02:59:15.000Z",
-            "id": "234846551636320257",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Projeto treina esp\u00e9cie de papagaio amea\u00e7ado de extin\u00e7\u00e3o para ser solta no Parque Nacional das Arauc\u00e1rias http://t.co/HKxpcywm"
-        },
-        {
-            "author_id": "174061103",
-            "created_at": "2012-08-12T23:22:55.000Z",
-            "id": "234792110182764544",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Segundo Campeonato da Reserva de Desenvolvimento Sustent\u00e1vel das Comunidades do Rio Negro http://t.co/Dpq2b6z6"
-        },
-        {
-            "author_id": "136374829",
-            "created_at": "2012-08-12T22:42:19.000Z",
-            "id": "234781890534580224",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "#Dicadedestino: Parque Nacional da Chapada dos Guimar\u00e3es (MT) que re\u00fane montanhas, cavernas, c\u00e2nions e a famosa cachoeira V\u00e9u de Noiva."
-        },
-        {
-            "author_id": "215251021",
-            "created_at": "2012-08-12T22:25:21.000Z",
-            "id": "234777622469562368",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Segundo Campeonato da Reserva de Desenvolvimento Sustent\u00e1vel das Comunidades do Rio Negro http://t.co/sMjKretS"
-        },
-        {
-            "author_id": "46446773",
-            "created_at": "2012-08-12T22:20:10.000Z",
-            "id": "234776317256687616",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Segundo Campeonato da Reserva de Desenvolvimento Sustent\u00e1vel das Comunidades do Rio\u2026 http://t.co/5aNPrE16 #Not\u00edcia"
-        },
-        {
-            "author_id": "62891396",
-            "created_at": "2012-08-12T22:05:03.000Z",
-            "id": "234772511131320320",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "#Dicadedestino: Parque Nacional da Chapada dos Guimar\u00e3es (MT) que re\u00fane montanhas, cavernas, c\u00e2nions e a famosa cachoeira V\u00e9u de Noiva."
-        },
-        {
-            "author_id": "334060841",
-            "created_at": "2012-08-12T21:21:10.000Z",
-            "id": "234761470666223616",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Fogos descontrolados nas ilhas Can\u00e1rias http://t.co/LdB5y7AX Continua a barb\u00e1rie ambiental estival. #Inc\u00eandios #Ambiente"
-        },
-        {
-            "author_id": "353229654",
-            "created_at": "2012-08-12T20:32:06.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 2,
-                        "start": 0,
-                        "username": "t"
-                    }
-                ]
-            },
-            "id": "234749122291331072",
-            "in_reply_to_user_id": "11628",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@t Parque Nacional Mirador Norte con mis Pr\u00edncipes!!! :)"
-        },
-        {
-            "author_id": "522391522",
-            "created_at": "2012-08-12T19:40:03.000Z",
-            "id": "234736020753637377",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "J\u00e1 viu as lindas imagens da nossa nova propriedade no Serengeti, na #Africa? http://t.co/IrtzrHbF #resort #natureza"
-        },
-        {
-            "author_id": "174332915",
-            "created_at": "2012-08-12T19:35:26.000Z",
-            "id": "234734859719954432",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Circuito C\u00e2nion: Tirolesa + Rapelesa + Corvolesa no RPPN Ninho do Corvo http://t.co/5Q2klDD1 #apontaofertas"
-        },
-        {
-            "author_id": "312699000",
-            "created_at": "2012-08-12T19:29:17.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -54.47919488,
-                        -25.61374444
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "91f818a4abfb1d4d"
-            },
-            "id": "234733312621551617",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parceiro  @ Parque Nacional do Igua\u00e7u http://t.co/RRQfFt5"
-        },
-        {
-            "author_id": "312699000",
-            "created_at": "2012-08-12T19:26:24.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -54.47919488,
-                        -25.61374444
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "91f818a4abfb1d4d"
-            },
-            "id": "234732585933213697",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Arara safada.... Me bicou  @ Parque Nacional do Igua\u00e7u http://t.co/N5FmQSN"
-        },
-        {
-            "author_id": "21783395",
-            "created_at": "2012-08-12T18:55:52.000Z",
-            "id": "234724904564555776",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Fogos j\u00e1 consumiram 3.633 hectares na ilha de La Gomera: Fogos j\u00e1 consumiram 3.633 hectares na ilha de La Gomera http://t.co/4r1InQAL"
-        },
-        {
-            "author_id": "296783936",
-            "created_at": "2012-08-12T18:29:03.000Z",
-            "id": "234718154885062656",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "An\u00edncio do Prorgama de Revitaliza\u00e7a\u00f5 do Parque Nacional do Igua\u00e7ue e Jogos Mundiais da Natureza:  http://t.co/DJByK32G"
-        },
-        {
-            "author_id": "416348745",
-            "created_at": "2012-08-12T16:48:25.000Z",
-            "id": "234692828775727105",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "CIPPA-PORTO SEGURO PRENDE CA\u00c7ADOR E APRENDE ARMA DE FOGO EM \u00c1REA DE UNIDADE DE CONSERVA\u00c7\u00c3O http://t.co/GRzHoa5d"
-        },
-        {
-            "author_id": "106574901",
-            "created_at": "2012-08-12T16:42:44.000Z",
-            "id": "234691400741056512",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "CIPPA-Porto Seguro faz apreens\u00e3o de armas e apetrechos de ca\u00e7a em \u00e1rea de unidade de conserva\u00e7\u00e3o. http://t.co/q5AN15XI"
-        },
-        {
-            "author_id": "188860743",
-            "created_at": "2012-08-12T16:39:00.000Z",
-            "id": "234690460264849408",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "No CBN Turismo deste fim de semana, mais um cap\u00edtulo da pol\u00eamica sobre o ingresso de ve\u00edculos ao Parque Nacional: http://t.co/oe4bKJqV"
-        },
-        {
-            "author_id": "199104199",
-            "created_at": "2012-08-12T16:37:56.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -54.56439525,
-                        -25.53449422
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "91f818a4abfb1d4d"
-            },
-            "id": "234690190139084800",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "I'm at Parque Nacional do Igua\u00e7u http://t.co/rXkWizhb"
-        },
-        {
-            "author_id": "37957841",
-            "created_at": "2012-08-12T15:51:14.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -54.47919488,
-                        -25.61374444
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "91f818a4abfb1d4d"
-            },
-            "id": "234678439691567104",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Passeio em fam\u00edlia :) (@ Parque Nacional do Igua\u00e7u w/ 7 others) http://t.co/BdYCn9g"
-        },
-        {
-            "author_id": "220787829",
-            "created_at": "2012-08-12T14:51:04.000Z",
-            "id": "234663298052796417",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Fui passar o dia no Parque Nacional de Brasilia mas com o frio que tava l\u00e1 voltei logo :'("
-        },
-        {
-            "author_id": "398788247",
-            "created_at": "2012-08-12T14:21:51.000Z",
-            "id": "234655944322215938",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Domingo Descansado:\no Parque Nacional de Forillon, uma maravilha natural do Quebec.\nUm local de intensa beleza,... http://t.co/KGtYq5WL"
-        },
-        {
-            "author_id": "33470029",
-            "created_at": "2012-08-12T11:06:11.000Z",
-            "id": "234606704631873538",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Viagens para Mo\u00e7ambique: Parque Nacional Gorongosa: A ag\u00eancia de viagens Best Travel est\u00e1 a\u2026 http://t.co/yOSjS3Bq"
-        },
-        {
-            "author_id": "33470029",
-            "created_at": "2012-08-12T11:06:03.000Z",
-            "id": "234606667935924224",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Viagens para Mo\u00e7ambique: Parque Nacional Gorongosa: A ag\u00eancia de viagens Best Travel est\u00e1 a promover um programa... http://t.co/MG6ZzB42"
-        },
-        {
             "author_id": "40460716",
             "created_at": "2012-08-12T10:58:06.000Z",
             "id": "234604671120052224",
@@ -1841,27 +251,6 @@
             "text": "Publiquei 9 fotos no Facebook no \u00e1lbum \"Parque Nacional de Itatiaia\" http://t.co/8ZVfSt3h"
         },
         {
-            "author_id": "32998526",
-            "created_at": "2012-08-10T20:11:59.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 11,
-                        "start": 1,
-                        "username": "abranches"
-                    }
-                ]
-            },
-            "id": "234019281527001089",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\u201c@abranches: \u00d3timas not\u00edcias, v\u00e1rias esp\u00e9cies novas de p\u00e1ssaros e aves avistadas na RPPN do Brejo Novo, algumas raras na regi\u00e3o.\u201d Maravilha"
-        },
-        {
             "author_id": "263521892",
             "created_at": "2012-08-10T20:09:30.000Z",
             "entities": {
@@ -1976,28 +365,6 @@
             "text": "As belezas do meu Cear\u00e1: Parque Nacional de Ubajara (Bondinho e Gruta) http://t.co/c2KBZXJ8"
         },
         {
-            "author_id": "167999129",
-            "created_at": "2012-08-10T18:34:54.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 12,
-                        "start": 0,
-                        "username": "eikebatista"
-                    }
-                ]
-            },
-            "id": "233994850406641664",
-            "in_reply_to_user_id": "119064111",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@eikebatista RPPN Engenheiro Eliezer Batista . Lindas imagens . http://t.co/Dt0qClYV"
-        },
-        {
             "author_id": "80689449",
             "created_at": "2012-08-10T18:09:59.000Z",
             "id": "233988579238502400",
@@ -2029,18 +396,6 @@
                 "retweet_count": 0
             },
             "text": "Candidato a prefeito de Ribeir\u00e3o Preto, SP, @joaogandini prop\u00f5e criar PARQUE NACIONAL DO AQU\u00cdFERO GUARANI, inspirado no parque Inhotim, MG."
-        },
-        {
-            "author_id": "26318018",
-            "created_at": "2012-08-10T17:43:20.000Z",
-            "id": "233981875121688576",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\u00d3timas not\u00edcias, v\u00e1rias esp\u00e9cies novas de p\u00e1ssaros e aves avistadas na RPPN do Brejo Novo, algumas raras na regi\u00e3o."
         },
         {
             "author_id": "108083372",
@@ -7560,6 +5915,1527 @@
                 "retweet_count": 0
             },
             "text": "\"EU QUERO TCHU EU QUERO TCHA\" EM PLENO Parque Nacional Cataratas Do Igua\u00e7u http://t.co/4240N8zk"
+        },
+        {
+            "author_id": "624643877",
+            "created_at": "2012-08-08T19:43:57.000Z",
+            "id": "233287451689492480",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Condom\u00ednio em \u00e1rea de prote\u00e7\u00e3o ambiental tem licen\u00e7a governamental. O an\u00fancio da constru\u00e7\u00e3o de um condom\u00ednio com.. http://t.co/jLndiaRl"
+        },
+        {
+            "author_id": "380447990",
+            "created_at": "2012-08-08T19:43:38.000Z",
+            "id": "233287373671243776",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Condom\u00ednio em \u00e1rea de prote\u00e7\u00e3o ambiental tem licen\u00e7a governamental. O an\u00fancio da constru\u00e7\u00e3o de um condom\u00ednio com.. http://t.co/SdfjfvRr"
+        },
+        {
+            "author_id": "500422833",
+            "created_at": "2012-08-08T19:15:50.000Z",
+            "id": "233280374816534528",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Itaipu e prefeitura estudam instala\u00e7\u00e3o de veiculo leve sobre trilho (VLT) ligando a Unila ao Parque Nacional do... http://t.co/PXgPCWO4"
+        },
+        {
+            "author_id": "59838515",
+            "created_at": "2012-08-08T18:45:12.000Z",
+            "id": "233272668386902016",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional de Ubajara, o\u00e1sis ao lado do sert\u00e3o cearense.\nhttp://t.co/VlSchhvr"
+        },
+        {
+            "author_id": "48780293",
+            "created_at": "2012-08-08T18:37:06.000Z",
+            "id": "233270627610546176",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Mam\u00edfero \u00e9 atropelado na estrada do Parque Nacional do Igua\u00e7u http://t.co/lM85dYjm"
+        },
+        {
+            "author_id": "259840707",
+            "created_at": "2012-08-08T18:30:53.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 28,
+                        "start": 21,
+                        "username": "MPF_AP"
+                    }
+                ]
+            },
+            "id": "233269065995657218",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Ou\u00e7a essa: no Amap\u00e1, @MPF_AP processa Vivo por danos na Reserva Extrativista do Rio Cajari - http://t.co/veVVjQQ1"
+        },
+        {
+            "author_id": "188860743",
+            "created_at": "2012-08-08T18:27:03.000Z",
+            "id": "233268101565804544",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Morte de veado no interior do Parque Nacional do Igua\u00e7u gera protestos entre agentes do setor tur\u00edstico em Foz do Igua\u00e7u."
+        },
+        {
+            "author_id": "20210097",
+            "created_at": "2012-08-08T17:46:46.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -42.98297081,
+                        -22.4489075
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "2228665f02a6c9c8"
+            },
+            "id": "233257962238537728",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Da Laranja  @ Parque Nacional da Serra dos \u00d3rg\u00e3os http://t.co/gsfDbTZj"
+        },
+        {
+            "author_id": "20210097",
+            "created_at": "2012-08-08T17:46:05.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -42.98297081,
+                        -22.4489075
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "2228665f02a6c9c8"
+            },
+            "id": "233257788854390785",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Chupam ate o Bagaco  @ Parque Nacional da Serra dos \u00d3rg\u00e3os http://t.co/IwljY886"
+        },
+        {
+            "author_id": "618491349",
+            "created_at": "2012-08-08T17:26:27.000Z",
+            "id": "233252847758749697",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Plitvice Lake, Cro\u00e1cia\n\nUma das maiores atra\u00e7\u00f5es tur\u00edsticas da Cro\u00e1cia \u00e9 o famoso Parque Nacional Plitvice Lakes... http://t.co/Bpls4sol"
+        },
+        {
+            "author_id": "60942456",
+            "created_at": "2012-08-08T17:00:14.000Z",
+            "id": "233246252408651777",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Campinas apresentar\u00e1 nova Unidade de Conserva\u00e7\u00e3o\nhttp://t.co/YYe4x4uJ"
+        },
+        {
+            "author_id": "235641852",
+            "created_at": "2012-08-08T16:37:53.000Z",
+            "geo": {
+                "place_id": "c9f2f46c0d1b963d"
+            },
+            "id": "233240625930194944",
+            "in_reply_to_user_id": "287260820",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@EuTayrineSousa Mata do xemx\u00e9m \u00e9 Unidade de Conserva\u00e7\u00e3o ambiental. Foge da compet\u00eancia municipal qualquer ger\u00eancia. Promessas mirabolantes."
+        },
+        {
+            "author_id": "57828037",
+            "created_at": "2012-08-08T16:35:20.000Z",
+            "id": "233239987070578688",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Vivo, empresa espanhola porca, instalou antena, sem licen\u00e7a do Ibama, em reserva extrativista do AP, produzindo danos: http://t.co/cVYFtA77"
+        },
+        {
+            "author_id": "94806717",
+            "created_at": "2012-08-08T16:05:25.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 65,
+                        "start": 59,
+                        "username": "pnmt1"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "5722ff20ba67083b"
+            },
+            "id": "233232455178543104",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Siga o Parque Nacional Montanhas do Tumucumaque no Twitter @PNMT1"
+        },
+        {
+            "author_id": "115039472",
+            "created_at": "2012-08-08T15:41:41.000Z",
+            "id": "233226482128924675",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Itaipu e prefeitura estudam instala\u00e7\u00e3o de VLT ligando a Unila ao ... - H2FOZ http://t.co/lowuwLBB"
+        },
+        {
+            "author_id": "557773814",
+            "created_at": "2012-08-08T15:35:17.000Z",
+            "id": "233224872711557122",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Oikos...: Parque Nacional do Igua\u00e7u http://t.co/QdsRTs6C"
+        },
+        {
+            "author_id": "73938926",
+            "created_at": "2012-08-08T14:57:07.000Z",
+            "id": "233215270016135170",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "meu livro UMA SUPER AVENTURA NO DEDO DE DEUS !!! QUE SE PASSA NO PARQUE NACIONAL EM TERES\u00d3POLIS ! ADOTADO POR... http://t.co/CvO37VBb"
+        },
+        {
+            "author_id": "175347261",
+            "created_at": "2012-08-08T14:14:53.000Z",
+            "id": "233204640177602561",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "TRF4 permite transporte com t\u00e1xis e empresas de turismo dentro do Parque Nacional do Igua\u00e7u\u2026 http://t.co/iZvxdzrk"
+        },
+        {
+            "author_id": "257007952",
+            "created_at": "2012-08-08T14:06:54.000Z",
+            "id": "233202631940644864",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Nosso Parque Nacional foi escolhido pelo canal norteamericano Discovery Channel para gravar a vers\u00e3o da s\u00e9rie 'Desafio em Dose Dupla'."
+        },
+        {
+            "author_id": "26026236",
+            "created_at": "2012-08-08T14:06:38.000Z",
+            "id": "233202562122264577",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Igua\u00e7u recebeu quase 160 mil turistas em julho - http://t.co/Q1jP4iUj"
+        },
+        {
+            "author_id": "175347261",
+            "created_at": "2012-08-08T13:51:26.000Z",
+            "id": "233198738330492928",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "TRF4 permite transporte com t\u00e1xis e empresas de turismo dentro do Parque Nacional do Igua\u00e7u at\u00e9 o pr\u00f3ximo dia 15... http://t.co/2ORfYucE"
+        },
+        {
+            "author_id": "34952919",
+            "created_at": "2012-08-08T13:50:24.000Z",
+            "id": "233198476354260992",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Itaipu e prefeitura estudam instala\u00e7\u00e3o de VLT ligando a Unila ao Parque Nacional do Igua\u00e7u: 08/08/2012 - A prefe... http://t.co/7PKhL1p4"
+        },
+        {
+            "author_id": "305620962",
+            "created_at": "2012-08-08T13:44:08.000Z",
+            "id": "233196902127124480",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Itaipu e prefeitura estudam instala\u00e7\u00e3o de VLT ligando a Unila ao Parque Nacional do Igua\u00e7u | H2FOZ http://t.co/qqoXOo3b"
+        },
+        {
+            "author_id": "17654194",
+            "created_at": "2012-08-08T13:38:05.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.47919488,
+                        -25.61374444
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "233195378546192384",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#F\u00e9rias \\o/ (@ Parque Nacional do Igua\u00e7u) http://t.co/QEHM357"
+        },
+        {
+            "author_id": "46563766",
+            "created_at": "2012-08-08T13:31:35.000Z",
+            "id": "233193744998989824",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Condom\u00ednio em \u00e1rea de prote\u00e7\u00e3o tem licen\u00e7a governamental. O \u00f3rg\u00e3o alterou o tra\u00e7ado da APP justo na \u00e9poca da aprova\u00e7\u00e3o http://t.co/Kxc2Bju9"
+        },
+        {
+            "author_id": "175347261",
+            "created_at": "2012-08-08T13:18:12.000Z",
+            "id": "233190374372421632",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "TRF4 permite transporte com t\u00e1xis e empresas de turismo dentro do Parque Nacional do Igua\u00e7u at\u00e9 o pr\u00f3ximo dia 15"
+        },
+        {
+            "author_id": "253034260",
+            "created_at": "2012-08-08T13:14:55.000Z",
+            "id": "233189548241346560",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Igua\u00e7u recebe 159 mil turistas em julho. http://t.co/AUU5YVQI"
+        },
+        {
+            "author_id": "362244935",
+            "created_at": "2012-08-08T13:09:45.000Z",
+            "id": "233188250414624768",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Ensino m\u00e9dio visita Parque Nacional da Serra Geral em Cambar\u00e1 do Sul\n http://t.co/0fibhiDT"
+        },
+        {
+            "author_id": "242525529",
+            "created_at": "2012-08-08T12:59:39.000Z",
+            "id": "233185706191765504",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Amaz\u00f4nia em Destaque: Visite o Parque Nacional da Amaz\u00f4nia http://t.co/d3kS8dg8"
+        },
+        {
+            "author_id": "89091897",
+            "created_at": "2012-08-08T12:52:42.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "username": "usina_itaipu"
+                    }
+                ]
+            },
+            "id": "233183955581562881",
+            "in_reply_to_user_id": "89091897",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "@usina_itaipu e Prefeitura de Foz estudam instala\u00e7\u00e3o de Ve\u00edculo Leve sobre Trilhos entre Unila e Parque Nacional: http://t.co/5MRSbTCK"
+        },
+        {
+            "author_id": "15431258",
+            "created_at": "2012-08-08T12:52:20.000Z",
+            "id": "233183864183468032",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Cachuuuuuuuuu (@ Parque Nacional da Chapada dos Veadeiros) https://t.co/AS46A6kZ"
+        },
+        {
+            "author_id": "94806717",
+            "created_at": "2012-08-08T12:08:41.000Z",
+            "geo": {
+                "place_id": "e9ea1f1600a66684"
+            },
+            "id": "233172880186302464",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Nos 10 anos do Parque Nacional Montanhas do Tumucumaque, \u00e9 inaugurado o Uso P\u00fablico."
+        },
+        {
+            "author_id": "114058657",
+            "created_at": "2012-08-08T11:56:04.000Z",
+            "id": "233169703529504768",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Para desfrutar deste visual este ano somente no interior do Parque Nacional dos Len\u00e7\u00f3is Maranhenses http://t.co/d7tpZNJT"
+        },
+        {
+            "author_id": "90240751",
+            "created_at": "2012-08-08T11:15:37.000Z",
+            "id": "233159524385685504",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Nosso Parque Nacional da Serra da Capivara ser\u00e1 destaque no Discovery Channel. \u00c9 um dos locais escolhidos para o prog. Desafio em Dose Dupla"
+        },
+        {
+            "author_id": "580065557",
+            "created_at": "2012-08-08T01:32:07.000Z",
+            "id": "233012684755460096",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Lembram desse post?... http://t.co/eZx1uDrf"
+        },
+        {
+            "author_id": "46901139",
+            "created_at": "2012-08-08T01:07:28.000Z",
+            "id": "233006479274295296",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque nacional Arikok.  @ Aruba http://t.co/b1uwdyDV"
+        },
+        {
+            "author_id": "21048237",
+            "created_at": "2012-08-08T01:03:22.000Z",
+            "id": "233005447135764481",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Quem ai quer fazer trilha no Parque Nacional da Tijuca m\u00eas que vem?"
+        },
+        {
+            "author_id": "91015987",
+            "created_at": "2012-08-08T00:48:02.000Z",
+            "id": "233001589051371520",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "O Parque Nacional da Serra da Capivara, no Piau\u00ed, \u00e9 uma atra\u00e7\u00e3o tur\u00edstica cinco estrelas, segundo o Guia Quatro... http://t.co/nArbFcgI"
+        },
+        {
+            "author_id": "120597130",
+            "created_at": "2012-08-08T00:39:14.000Z",
+            "id": "232999374957981696",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Em entrevista, analista do ICMBio fala sobre o rec\u00e9m-criado Parque Nacional de Furna Feia. http://t.co/1quUaq1x"
+        },
+        {
+            "author_id": "130906851",
+            "created_at": "2012-08-08T00:10:08.000Z",
+            "id": "232992052407844865",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "meu trabalho de portugu\u00eas vai ficar show, eu vou fazer um desenho disso &gt; http://t.co/7GPN3iRK"
+        },
+        {
+            "author_id": "35524446",
+            "created_at": "2012-08-08T00:10:06.000Z",
+            "id": "232992042148560896",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "MPF/AP processa Vivo S/A por danos na Reserva Extrativista do Rio Cajari http://t.co/YkOY73qX"
+        },
+        {
+            "author_id": "275301146",
+            "created_at": "2012-08-07T23:00:22.000Z",
+            "id": "232974495789481984",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\"Dream and Nightmare\" - Parque Nacional do Itatiaia - Minas Gerais - Brasil http://t.co/C7ygNX6d"
+        },
+        {
+            "author_id": "120597130",
+            "created_at": "2012-08-07T22:43:01.000Z",
+            "id": "232970128743088128",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Em entrevista, analista do ICMBio fala sobre o rec\u00e9m-criado Parque Nacional de Furna Feia http://t.co/KOWkrWfW"
+        },
+        {
+            "author_id": "61868251",
+            "created_at": "2012-08-07T22:39:00.000Z",
+            "id": "232969115957092356",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Ve\u00edculo Sobre Trilhos vai ligar Parque Nacional do Igua\u00e7u \u00e0 Unila, informa Piolla - http://t.co/8ofyuAlA"
+        },
+        {
+            "author_id": "247277293",
+            "created_at": "2012-08-07T22:34:44.000Z",
+            "id": "232968041690963968",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Um Ve\u00edculo Leve sobre Trilhos, VLT, poder\u00e1 ligar Itaipu e Unila ao Parque Nacional do Igua\u00e7u: http://t.co/TIxarFaC"
+        },
+        {
+            "author_id": "474250661",
+            "created_at": "2012-08-07T21:31:55.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 32,
+                        "start": 17,
+                        "username": "claudiarfreire"
+                    }
+                ]
+            },
+            "id": "232952235619917824",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "A nossa prefeita @claudiarfreire criar\u00e1 uma unidade de conserva\u00e7\u00e3o da Cachoeira do Por\u00e3o. Turismo com sustentabilidade ambiental. #VemPro25"
+        },
+        {
+            "author_id": "296783936",
+            "created_at": "2012-08-07T21:15:23.000Z",
+            "id": "232948076174790656",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Igua\u00e7u recebeu quase 160 mil turistas em julho: Alta foi de 21% em rela\u00e7\u00e3o ao mesmo per\u00edodo d... http://t.co/WuRuMf27"
+        },
+        {
+            "author_id": "17287931",
+            "created_at": "2012-08-07T20:49:39.000Z",
+            "id": "232941598718193664",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio \u00e0s margens do rio Carinhanha amea\u00e7a Parque Nacional Grande Sert\u00e3o Veredas e entra no sexto dia - http://t.co/tm5EAHK5"
+        },
+        {
+            "author_id": "591309322",
+            "created_at": "2012-08-07T20:34:06.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "username": "LuciaRosero"
+                    }
+                ]
+            },
+            "id": "232937686632112128",
+            "in_reply_to_user_id": "142896580",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@luciarosero fui a Bogot\u00e1 , visitei a Catedral primaa na pra\u00e7a de Bol\u00edvar , morro de monserrate , parque nacional e fui a outros lugares!!"
+        },
+        {
+            "author_id": "349937150",
+            "created_at": "2012-08-07T20:30:04.000Z",
+            "id": "232936669685354496",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pra quem n\u00e3o sabe onde fica meu parque nacional http://t.co/HSogLjJv"
+        },
+        {
+            "author_id": "16145670",
+            "created_at": "2012-08-07T20:08:29.000Z",
+            "id": "232931237130563584",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "parque nacional do igua\u00e7u e seus sites CAFONEBREGUESESIMOS."
+        },
+        {
+            "author_id": "116514574",
+            "created_at": "2012-08-07T20:05:51.000Z",
+            "id": "232930574166265856",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Superagui - Feriado 12 outubro - EcologicaTur"
+        },
+        {
+            "author_id": "388879339",
+            "created_at": "2012-08-07T19:31:51.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 31,
+                        "start": 22,
+                        "username": "kantauri"
+                    }
+                ]
+            },
+            "id": "232922019463835648",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00c9 lindo demais! =D RT @kantauri: Parque Nacional dos Lencois Maranhenses. Maranhao, Brazil. July 2012 http://t.co/qG1L2vBq"
+        },
+        {
+            "author_id": "142080403",
+            "created_at": "2012-08-07T19:30:14.000Z",
+            "id": "232921613060939776",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\"1000 LUGARES PARA CONHECER ANTES DE MORRER\" - Subindo o Kilimanjaro - Parque Nacional do Kilimanjaro, Tanz\u00e2nia -... http://t.co/YwTCKsQN"
+        },
+        {
+            "author_id": "50303768",
+            "created_at": "2012-08-07T19:09:52.000Z",
+            "id": "232916487709536256",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Reuni\u00e3o com Chefe da Reserva Biol\u00f3gica do Tingu\u00e1\n\nObjetivando discutir parcerias em prol da conscientiza\u00e7\u00e3o da... http://t.co/QBQEL7Cm"
+        },
+        {
+            "author_id": "50303768",
+            "created_at": "2012-08-07T19:02:36.000Z",
+            "id": "232914657403342848",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Publiquei 13 fotos no Facebook no \u00e1lbum \"Reuni\u00e3o com o Chefe da Reserva Biol\u00f3gica do Tingu\u00e1 (Rebio)\" http://t.co/AZy7ayai"
+        },
+        {
+            "author_id": "609677747",
+            "created_at": "2012-08-07T18:07:19.000Z",
+            "id": "232900747321294848",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Imagens do Parque Nacional da Serra dos \u00d3rg\u00e3os (Teres\u00f3polis). http://t.co/QEILNPVh"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:18:22.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 5,
+                        "start": 0,
+                        "username": "CEAI"
+                    }
+                ]
+            },
+            "id": "232888427140509696",
+            "in_reply_to_user_id": "47582897",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CEAI Precisamos de sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:17:39.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "username": "Naturlink"
+                    }
+                ]
+            },
+            "id": "232888246252736512",
+            "in_reply_to_user_id": "50067816",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@Naturlink Precisamos de sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:17:00.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "username": "QualAlbatroz"
+                    }
+                ]
+            },
+            "id": "232888081102032897",
+            "in_reply_to_user_id": "54847721",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@QualAlbatroz Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:13:32.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "username": "bio3lda"
+                    }
+                ]
+            },
+            "id": "232887209559203841",
+            "in_reply_to_user_id": "155881973",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@bio3lda Precisamos de sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:12:53.000Z",
+            "id": "232887046660841472",
+            "in_reply_to_user_id": "83010935",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@quercuslisboa Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:12:10.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "start": 0,
+                        "username": "PlantarPortugal"
+                    }
+                ]
+            },
+            "id": "232886864774848512",
+            "in_reply_to_user_id": "93962745",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@PlantarPortugal Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:11:38.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "username": "greensavers"
+                    }
+                ]
+            },
+            "id": "232886731295293440",
+            "in_reply_to_user_id": "141266003",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@greensavers Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:11:02.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "username": "quercusancn"
+                    }
+                ]
+            },
+            "id": "232886582040997888",
+            "in_reply_to_user_id": "30547095",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@quercusancn Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:09:34.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "cafecomciencia"
+                    }
+                ]
+            },
+            "id": "232886212640256001",
+            "in_reply_to_user_id": "86060873",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@cafecomciencia Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:08:28.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "start": 0,
+                        "username": "arvoresportugal"
+                    }
+                ]
+            },
+            "id": "232885936755728384",
+            "in_reply_to_user_id": "52116836",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@arvoresportugal Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:07:48.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "username": "EcoEscolas"
+                    }
+                ]
+            },
+            "id": "232885767469400065",
+            "in_reply_to_user_id": "38789283",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@EcoEscolas Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:06:36.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "username": "psustentavel"
+                    }
+                ]
+            },
+            "id": "232885465307574272",
+            "in_reply_to_user_id": "17655568",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@psustentavel Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T17:05:35.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "PortugalNatura"
+                    }
+                ]
+            },
+            "id": "232885209266282498",
+            "in_reply_to_user_id": "584021657",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@PortugalNatura Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:58:06.000Z",
+            "id": "232883325147160576",
+            "in_reply_to_user_id": "403081221",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@ruialvesleitao Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "98664255",
+            "created_at": "2012-08-07T16:58:05.000Z",
+            "id": "232883320638304258",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "NOVIDADE | GER\u00caS\n\nParta \u00e0 descoberta do Parque Nacional da Peneda-Ger\u00eas.\n\nNa Family House da RH Casas de... http://t.co/VLapOHzH"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:56:20.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "username": "GBrito"
+                    }
+                ]
+            },
+            "id": "232882880311861248",
+            "in_reply_to_user_id": "15799804",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@GBrito Precisamos de sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:53:20.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "username": "Lenore1917"
+                    }
+                ]
+            },
+            "id": "232882126574481408",
+            "in_reply_to_user_id": "176122350",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@Lenore1917 Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:52:39.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "start": 0,
+                        "username": "AlbuquerqueInes"
+                    }
+                ]
+            },
+            "id": "232881953299378176",
+            "in_reply_to_user_id": "562988922",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@albuquerqueines Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:51:44.000Z",
+            "id": "232881724525277185",
+            "in_reply_to_user_id": "309571011",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@nsloureiro_com Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:51:03.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "username": "tixacm"
+                    }
+                ]
+            },
+            "id": "232881551350845440",
+            "in_reply_to_user_id": "107012946",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@tixacm Precisamos de sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:49:57.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "username": "simbiotica"
+                    }
+                ]
+            },
+            "id": "232881274551955456",
+            "in_reply_to_user_id": "57960542",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@simbiotica Precisamos de sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:49:18.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "username": "parque2008"
+                    }
+                ]
+            },
+            "id": "232881113712955394",
+            "in_reply_to_user_id": "622219297",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@parque2008 Precisamos de sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "76399624",
+            "created_at": "2012-08-07T16:48:53.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "username": "MPF_AP"
+                    },
+                    {
+                        "end": 131,
+                        "start": 124,
+                        "username": "MPF_AP"
+                    }
+                ]
+            },
+            "id": "232881006082936832",
+            "in_reply_to_user_id": "150733706",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@MPF_AP processa Vivo S/A por danos na Reserva Extrativista do Rio Cajari. Leia e ou\u00e7a a not\u00edcia: http://t.co/ZGzfASTQ | RT @MPF_AP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:48:45.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "username": "NelTheVet"
+                    }
+                ]
+            },
+            "id": "232880973027631106",
+            "in_reply_to_user_id": "320318044",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@NelTheVet Precisamos de sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "150733706",
+            "created_at": "2012-08-07T16:47:41.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 23,
+                        "start": 16,
+                        "username": "MPF_AP"
+                    }
+                ]
+            },
+            "id": "232880706185990145",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Ol\u00e1, boa tarde. @MPF_AP processa Vivo S/A por danos na Reserva Extrativista do Rio Cajari. Leia e ou\u00e7a a not\u00edcia: http://t.co/oVZrx4Or"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:46:03.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "start": 0,
+                        "username": "migueldealcobia"
+                    }
+                ]
+            },
+            "id": "232880294577963009",
+            "in_reply_to_user_id": "633224444",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@migueldealcobia Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:45:04.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "username": "parque2008"
+                    }
+                ]
+            },
+            "id": "232880045683777536",
+            "in_reply_to_user_id": "622219297",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@parque2008 Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:44:23.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "username": "luismatoso"
+                    }
+                ]
+            },
+            "id": "232879875831234560",
+            "in_reply_to_user_id": "64117221",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@luismatoso Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:42:45.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "username": "ESOCOM_int"
+                    }
+                ]
+            },
+            "id": "232879465276006400",
+            "in_reply_to_user_id": "40694949",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@ESOCOM_int Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:42:07.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "PortugalNatura"
+                    }
+                ]
+            },
+            "id": "232879302432149505",
+            "in_reply_to_user_id": "584021657",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@PortugalNatura Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:41:33.000Z",
+            "id": "232879163164467200",
+            "in_reply_to_user_id": "558800912",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@ricardobl228 Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:40:35.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "username": "sbk996"
+                    }
+                ]
+            },
+            "id": "232878918812708864",
+            "in_reply_to_user_id": "22515336",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@sbk996 Precisamos de sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:39:52.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "username": "RicardoNabais"
+                    }
+                ]
+            },
+            "id": "232878737400664066",
+            "in_reply_to_user_id": "52039511",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@RicardoNabais Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:36:28.000Z",
+            "id": "232877882425364480",
+            "in_reply_to_user_id": "111605663",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@rubinhogurgel Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:33:35.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "username": "PauloQuerido"
+                    }
+                ]
+            },
+            "id": "232877156382945280",
+            "in_reply_to_user_id": "3373791",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@PauloQuerido Precisamos sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
+        },
+        {
+            "author_id": "502015099",
+            "created_at": "2012-08-07T16:32:24.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "username": "AnaRoque"
+                    }
+                ]
+            },
+            "id": "232876859375886336",
+            "in_reply_to_user_id": "14519038",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@AnaRoque Precisamos de sua assinatura para impedir a matan\u00e7a de lobos no Parque Nacional Picos de Europa Obrigado! http://t.co/XJHxe1PP RT"
         }
     ],
     "errors": [
@@ -7612,13 +7488,6 @@
             {
                 "country": "Brasil",
                 "country_code": "BR",
-                "full_name": "Mineiros, Brasil",
-                "id": "89c240f117cb166b",
-                "place_type": "city"
-            },
-            {
-                "country": "Brasil",
-                "country_code": "BR",
                 "full_name": "Foz do Igua\u00e7u, Brasil",
                 "id": "91f818a4abfb1d4d",
                 "place_type": "city"
@@ -7650,555 +7519,23 @@
                 "full_name": "Bel\u00e9m, Brasil",
                 "id": "f3587bc643e7d7b8",
                 "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Teres\u00f3polis, Brasil",
+                "id": "2228665f02a6c9c8",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Jo\u00e3o Pessoa, Brasil",
+                "id": "c9f2f46c0d1b963d",
+                "place_type": "city"
             }
         ],
         "users": [
-            {
-                "id": "188911843",
-                "name": "Shows BH",
-                "username": "ShowsBH",
-                "verified": false
-            },
-            {
-                "id": "4048683831",
-                "name": "Canais TV Online",
-                "username": "CanaisTvOnline",
-                "verified": false
-            },
-            {
-                "id": "210000540",
-                "name": "VANS BH TRANSFER BH",
-                "username": "wwwTELEVANcombr",
-                "verified": false
-            },
-            {
-                "id": "96426908",
-                "name": "Turismo Minas Gerais",
-                "username": "FormulaTurismo",
-                "verified": false
-            },
-            {
-                "id": "201223265",
-                "name": "Vans em BH - MG",
-                "username": "vansembhmg",
-                "verified": false
-            },
-            {
-                "id": "173986914",
-                "name": "Zez\u00e9 Di Camargo",
-                "username": "AluguelVansBH",
-                "verified": false
-            },
-            {
-                "id": "172506881",
-                "name": "Aluguel de Van BH MG",
-                "username": "AluguelVanBH",
-                "verified": false
-            },
-            {
-                "id": "173223604",
-                "name": "Aluguel Van BH",
-                "username": "Aluguel_VanBH",
-                "verified": false
-            },
-            {
-                "id": "208631651",
-                "name": "CITY TOUR - VANS BH",
-                "username": "4102_0940",
-                "verified": false
-            },
-            {
-                "id": "120809087",
-                "name": "Doming\u00e3o do Faust\u00e3o",
-                "username": "TELEVAN_Viagens",
-                "verified": false
-            },
-            {
-                "id": "120810423",
-                "name": "Grazi Massafera",
-                "username": "TELEVANViagens",
-                "verified": false
-            },
-            {
-                "id": "173450739",
-                "name": "Gisele B\u00fcndchen",
-                "username": "TELEVAN_Turismo",
-                "verified": false
-            },
-            {
-                "id": "198839815",
-                "name": "Traslados Vans em BH",
-                "username": "Traslados_BH",
-                "verified": false
-            },
-            {
-                "id": "194545169",
-                "name": "Transportes Vans BH",
-                "username": "VanBH_VansBH_MG",
-                "verified": false
-            },
-            {
-                "id": "96449334",
-                "name": "Luciano Huck",
-                "username": "TurismoBH",
-                "verified": false
-            },
-            {
-                "id": "173140593",
-                "name": "Transporte Vans BH",
-                "username": "Vans_BH",
-                "verified": false
-            },
-            {
-                "id": "96443148",
-                "name": "Claudia Leitte",
-                "username": "AGENTE_TURISMO",
-                "verified": false
-            },
-            {
-                "id": "96448092",
-                "name": "Andr\u00e9 Valad\u00e3o",
-                "username": "MinasGeraisTour",
-                "verified": false
-            },
-            {
-                "id": "184763617",
-                "name": "Lucas Pratto",
-                "username": "Mega_Tour",
-                "verified": false
-            },
-            {
-                "id": "169215881",
-                "name": "Viagens em Minas BH",
-                "username": "ViagensMinasBH",
-                "verified": false
-            },
-            {
-                "id": "169061664",
-                "name": "Perito Cont\u00e1bil BH",
-                "username": "RochaPeritosBH",
-                "verified": false
-            },
-            {
-                "id": "97019464",
-                "name": "Israel Novaes",
-                "username": "BH_Vans_BH_Van",
-                "verified": false
-            },
-            {
-                "id": "172043510",
-                "name": "VANS BH FRETAMENTOS",
-                "username": "TransporteBH",
-                "verified": false
-            },
-            {
-                "id": "172029019",
-                "name": "ALUGUEL VANS BH VANS",
-                "username": "TransportesBH",
-                "verified": false
-            },
-            {
-                "id": "172905497",
-                "name": "Vans BH",
-                "username": "vansbh",
-                "verified": false
-            },
-            {
-                "id": "172769278",
-                "name": "Marcia Almeida",
-                "username": "MICRO_ONIBUS_BH",
-                "verified": false
-            },
-            {
-                "id": "228704949",
-                "name": "Ana Paula Valad\u00e3o",
-                "username": "Micro_Onibus",
-                "verified": false
-            },
-            {
-                "id": "205189349",
-                "name": "ALUGUEL VANS BH/MG",
-                "username": "VanBH_VansBH_BH",
-                "verified": false
-            },
-            {
-                "id": "96439143",
-                "name": "Traslado - Vans BH",
-                "username": "Traslado",
-                "verified": false
-            },
-            {
-                "id": "104930207",
-                "name": "VANS BH VAN BH VANS",
-                "username": "Minas_Vans",
-                "verified": false
-            },
-            {
-                "id": "104931857",
-                "name": "Joelma Calypso",
-                "username": "Minas_Van",
-                "verified": false
-            },
-            {
-                "id": "96434272",
-                "name": "\u00d4nibus BH",
-                "username": "OnibusBH",
-                "verified": false
-            },
-            {
-                "id": "173144508",
-                "name": "Mar\u00edlia Mendon\u00e7a",
-                "username": "Onibus_BH",
-                "verified": false
-            },
-            {
-                "id": "96432959",
-                "name": "Micro \u00d4nibus",
-                "username": "MicroOnibus",
-                "verified": false
-            },
-            {
-                "id": "115454322",
-                "name": "Fretamentos Vans BH",
-                "username": "Fretamentos",
-                "verified": false
-            },
-            {
-                "id": "96764794",
-                "name": "Galv\u00e3o Bueno",
-                "username": "BH_Turismo",
-                "verified": false
-            },
-            {
-                "id": "96390061",
-                "name": "Carolina Mendes",
-                "username": "LigueVans",
-                "verified": false
-            },
-            {
-                "id": "198842419",
-                "name": "Vans BH Micro-\u00f4nibus",
-                "username": "VansbhVansbhVan",
-                "verified": false
-            },
-            {
-                "id": "96389225",
-                "name": "Xuxa Meneguel",
-                "username": "VanbhVanbhVanbh",
-                "verified": false
-            },
-            {
-                "id": "172352597",
-                "name": "Aline Morais",
-                "username": "MinasVan",
-                "verified": false
-            },
-            {
-                "id": "262828668",
-                "name": "Marcelo Rezende",
-                "username": "Televans",
-                "verified": false
-            },
-            {
-                "id": "96405216",
-                "name": "Cleber Junqueira",
-                "username": "MinasVans",
-                "verified": false
-            },
-            {
-                "id": "209288492",
-                "name": "Rodrigo Faro",
-                "username": "41020940",
-                "verified": false
-            },
-            {
-                "id": "96991533",
-                "name": "Lionel Messi",
-                "username": "Dieta_Mais",
-                "verified": false
-            },
-            {
-                "id": "96413309",
-                "name": "Ronaldinho Ga\u00facho",
-                "username": "DietaMais",
-                "verified": false
-            },
-            {
-                "id": "58875396",
-                "name": "Vans Belo Horizonte",
-                "username": "TelevanAluguel",
-                "verified": false
-            },
-            {
-                "id": "96389546",
-                "name": "Wellington Rocha",
-                "username": "TelevansAluguel",
-                "verified": false
-            },
-            {
-                "id": "188854962",
-                "name": "Julio Alvarenga",
-                "username": "VejaTvOnlinePc",
-                "verified": false
-            },
-            {
-                "id": "357017923",
-                "name": "Carmem Lucia",
-                "username": "VerTvOnlinePc",
-                "verified": false
-            },
-            {
-                "id": "109885907",
-                "name": "Iramilso Santos",
-                "username": "iramilso",
-                "verified": false
-            },
-            {
-                "id": "238226038",
-                "name": "Alexandre Faria",
-                "username": "sgdaganhar",
-                "verified": false
-            },
-            {
-                "id": "252456292",
-                "name": "Michelly - SGDA",
-                "username": "AutonomiaSGDA",
-                "verified": false
-            },
-            {
-                "id": "237952019",
-                "name": "Richard Modelo",
-                "username": "richardplazza",
-                "verified": false
-            },
-            {
-                "id": "75869122",
-                "name": "News",
-                "username": "noticias_mundo_",
-                "verified": false
-            },
-            {
-                "id": "142752997",
-                "name": "365 Dias de Not\u00edcias",
-                "username": "365Dias_",
-                "verified": false
-            },
-            {
-                "id": "199126736",
-                "name": "",
-                "username": "express_news_",
-                "verified": false
-            },
-            {
-                "id": "189918634",
-                "name": "Yuna Hirae Kim",
-                "username": "YunaHirae",
-                "verified": false
-            },
-            {
-                "id": "191683102",
-                "name": "AN Noticias",
-                "username": "annoticia",
-                "verified": false
-            },
-            {
-                "id": "31314191",
-                "name": "Link Tv - Not\u00edcias",
-                "username": "linktvclipping",
-                "verified": false
-            },
-            {
-                "id": "58657900",
-                "name": "CampoNovoRO.com.br",
-                "username": "CampoNovoRO",
-                "verified": false
-            },
-            {
-                "id": "129110258",
-                "name": "Jussara Colisse",
-                "username": "Jussara_colisse",
-                "verified": false
-            },
-            {
-                "id": "129243192",
-                "name": "Camila Moraes",
-                "username": "camy_moraes",
-                "verified": false
-            },
-            {
-                "id": "31513669",
-                "name": "G1 - S\u00e3o Paulo",
-                "username": "g1saopaulo",
-                "verified": true
-            },
-            {
-                "id": "94806717",
-                "name": "exclu\u00edda do Clubhouse",
-                "username": "Ale_Lameira",
-                "verified": false
-            },
-            {
-                "id": "272676286",
-                "name": "Passarinho Capoeira",
-                "username": "JsPassarinho",
-                "verified": false
-            },
-            {
-                "id": "418158981",
-                "name": "Parna do Tumucumaque",
-                "username": "Tumucumaque1",
-                "verified": false
-            },
-            {
-                "id": "380995671",
-                "name": "Clautur Turismo",
-                "username": "Clautur",
-                "verified": false
-            },
-            {
-                "id": "172193456",
-                "name": "Marcos '  \u2720",
-                "username": "maarcosantonio",
-                "verified": false
-            },
-            {
-                "id": "112185190",
-                "name": "CMLx",
-                "username": "charles_wood_lx",
-                "verified": false
-            },
-            {
-                "id": "34612053",
-                "name": "ArraZOO",
-                "username": "ArraZOOanimal",
-                "verified": false
-            },
-            {
-                "id": "174061103",
-                "name": "Portal A Cr\u00edtica",
-                "username": "ACriticaCraque",
-                "verified": false
-            },
-            {
-                "id": "136374829",
-                "name": "Lidiane Spinola",
-                "username": "lidispinola",
-                "verified": false
-            },
-            {
-                "id": "215251021",
-                "name": "MANAUS_AMAZONAS",
-                "username": "Manaus_Amazonas",
-                "verified": false
-            },
-            {
-                "id": "46446773",
-                "name": "Alvaro Corado \uf8ff",
-                "username": "AlvaroCorado",
-                "verified": false
-            },
-            {
-                "id": "62891396",
-                "name": "Minist\u00e9rio do Turismo",
-                "username": "MTurismo",
-                "verified": true
-            },
-            {
-                "id": "334060841",
-                "name": "Zeca Carvalho",
-                "username": "xzecax",
-                "verified": false
-            },
-            {
-                "id": "353229654",
-                "name": "Dhaiana Rond\u00f3n",
-                "username": "mamideprincipes",
-                "verified": false
-            },
-            {
-                "id": "11628",
-                "name": "Tantek",
-                "username": "t",
-                "verified": false
-            },
-            {
-                "id": "522391522",
-                "name": "Four Seasons Brasil",
-                "username": "FourSeasonsBR",
-                "verified": false
-            },
-            {
-                "id": "174332915",
-                "name": "ApontaOfertas PR",
-                "username": "aofertas_pr",
-                "verified": false
-            },
-            {
-                "id": "312699000",
-                "name": "Snap \u27a1\ufe0f Sandra Costa",
-                "username": "Sandra___Costa",
-                "verified": false
-            },
-            {
-                "id": "21783395",
-                "name": "tvi24",
-                "username": "tvi24pt",
-                "verified": true
-            },
-            {
-                "id": "296783936",
-                "name": "Foz_pr",
-                "username": "Foz_pr",
-                "verified": false
-            },
-            {
-                "id": "416348745",
-                "name": "Ambientan\u00f3iko",
-                "username": "Ambientanoiko",
-                "verified": false
-            },
-            {
-                "id": "106574901",
-                "name": "Danilo Cerqueira",
-                "username": "dan_cerqueira",
-                "verified": false
-            },
-            {
-                "id": "188860743",
-                "name": "em 1320 AM",
-                "username": "radioglobofoz",
-                "verified": false
-            },
-            {
-                "id": "199104199",
-                "name": "Daniel Almeida",
-                "username": "danielkeppen",
-                "verified": false
-            },
-            {
-                "id": "37957841",
-                "name": "Filipe Almeida",
-                "username": "Filipe02",
-                "verified": false
-            },
-            {
-                "id": "220787829",
-                "name": "Taty Bitt",
-                "username": "_TatyLopesM",
-                "verified": false
-            },
-            {
-                "id": "398788247",
-                "name": "EscoladoMato",
-                "username": "EscoladoMato",
-                "verified": false
-            },
-            {
-                "id": "33470029",
-                "name": "Destinos & Viagens",
-                "username": "DestinosViagens",
-                "verified": false
-            },
             {
                 "id": "40460716",
                 "name": "Gerhard Sardo",
@@ -8254,6 +7591,12 @@
                 "verified": false
             },
             {
+                "id": "296783936",
+                "name": "Foz_pr",
+                "username": "Foz_pr",
+                "verified": false
+            },
+            {
                 "id": "72622083",
                 "name": "BACK, Jaqueline.",
                 "username": "jaquelineback",
@@ -8263,6 +7606,12 @@
                 "id": "1222700603983507456",
                 "name": "Luiza Stefanello",
                 "username": "LuizaStefanello",
+                "verified": false
+            },
+            {
+                "id": "188860743",
+                "name": "em 1320 AM",
+                "username": "radioglobofoz",
                 "verified": false
             },
             {
@@ -8284,21 +7633,15 @@
                 "verified": false
             },
             {
+                "id": "418158981",
+                "name": "Parna do Tumucumaque",
+                "username": "Tumucumaque1",
+                "verified": false
+            },
+            {
                 "id": "582743213",
                 "name": "Remorini Aventuras",
                 "username": "RemoriniA",
-                "verified": false
-            },
-            {
-                "id": "32998526",
-                "name": "Fernando Abranches",
-                "username": "fabranches",
-                "verified": false
-            },
-            {
-                "id": "26318018",
-                "name": "Sergio Abranches",
-                "username": "abranches",
                 "verified": false
             },
             {
@@ -8347,18 +7690,6 @@
                 "id": "134872260",
                 "name": "Vou Contigo",
                 "username": "voucontigobr",
-                "verified": false
-            },
-            {
-                "id": "167999129",
-                "name": "Thereza Fontoura",
-                "username": "therezafontoura",
-                "verified": false
-            },
-            {
-                "id": "119064111",
-                "name": "Eike Batista Oficial",
-                "username": "eikebatista",
                 "verified": false
             },
             {
@@ -8423,7 +7754,7 @@
             },
             {
                 "id": "143846573",
-                "name": "Gustavo \ud83c\udf35",
+                "name": "Pazuello desmaiadah na CPI",
                 "username": "GuH_Rocha",
                 "verified": false
             },
@@ -8515,6 +7846,12 @@
                 "id": "58365076",
                 "name": "Wellington Costa\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7",
                 "username": "WellLSCosta",
+                "verified": false
+            },
+            {
+                "id": "416348745",
+                "name": "Ambientan\u00f3iko",
+                "username": "Ambientanoiko",
                 "verified": false
             },
             {
@@ -8686,6 +8023,12 @@
                 "verified": false
             },
             {
+                "id": "94806717",
+                "name": "exclu\u00edda do Clubhouse",
+                "username": "Ale_Lameira",
+                "verified": false
+            },
+            {
                 "id": "163924021",
                 "name": "Outras Palavras",
                 "username": "outraspalavrass",
@@ -8695,6 +8038,12 @@
                 "id": "55042763",
                 "name": "\uff4d\uff41\uff52\uff43\uff45\uff4c\uff4c\uff4f \uff46\uff41\uff52\uff49\uff41\uff53",
                 "username": "MarcelloFarias",
+                "verified": false
+            },
+            {
+                "id": "522391522",
+                "name": "Four Seasons Brasil",
+                "username": "FourSeasonsBR",
                 "verified": false
             },
             {
@@ -9335,7 +8684,7 @@
             },
             {
                 "id": "79121681",
-                "name": "Xic\u00f3 of Wakanda",
+                "name": "Xic\u00f3 of Wakanda CREMOSA",
                 "username": "CarolSchicowski",
                 "verified": false
             },
@@ -9982,6 +9331,342 @@
                 "verified": false
             },
             {
+                "id": "188911843",
+                "name": "Shows BH",
+                "username": "ShowsBH",
+                "verified": false
+            },
+            {
+                "id": "210000540",
+                "name": "VANS BH TRANSFER BH",
+                "username": "wwwTELEVANcombr",
+                "verified": false
+            },
+            {
+                "id": "96426908",
+                "name": "Turismo Minas Gerais",
+                "username": "FormulaTurismo",
+                "verified": false
+            },
+            {
+                "id": "201223265",
+                "name": "Vans em BH - MG",
+                "username": "vansembhmg",
+                "verified": false
+            },
+            {
+                "id": "173986914",
+                "name": "Zez\u00e9 Di Camargo",
+                "username": "AluguelVansBH",
+                "verified": false
+            },
+            {
+                "id": "172506881",
+                "name": "Aluguel de Van BH MG",
+                "username": "AluguelVanBH",
+                "verified": false
+            },
+            {
+                "id": "173223604",
+                "name": "Aluguel Van BH",
+                "username": "Aluguel_VanBH",
+                "verified": false
+            },
+            {
+                "id": "208631651",
+                "name": "CITY TOUR - VANS BH",
+                "username": "4102_0940",
+                "verified": false
+            },
+            {
+                "id": "120809087",
+                "name": "Doming\u00e3o do Faust\u00e3o",
+                "username": "TELEVAN_Viagens",
+                "verified": false
+            },
+            {
+                "id": "120810423",
+                "name": "Grazi Massafera",
+                "username": "TELEVANViagens",
+                "verified": false
+            },
+            {
+                "id": "173450739",
+                "name": "Gisele B\u00fcndchen",
+                "username": "TELEVAN_Turismo",
+                "verified": false
+            },
+            {
+                "id": "198839815",
+                "name": "Traslados Vans em BH",
+                "username": "Traslados_BH",
+                "verified": false
+            },
+            {
+                "id": "194545169",
+                "name": "Transportes Vans BH",
+                "username": "VanBH_VansBH_MG",
+                "verified": false
+            },
+            {
+                "id": "96449334",
+                "name": "Luciano Huck",
+                "username": "TurismoBH",
+                "verified": false
+            },
+            {
+                "id": "173140593",
+                "name": "Transporte Vans BH",
+                "username": "Vans_BH",
+                "verified": false
+            },
+            {
+                "id": "96443148",
+                "name": "Claudia Leitte",
+                "username": "AGENTE_TURISMO",
+                "verified": false
+            },
+            {
+                "id": "96448092",
+                "name": "Andr\u00e9 Valad\u00e3o",
+                "username": "MinasGeraisTour",
+                "verified": false
+            },
+            {
+                "id": "184763617",
+                "name": "Lucas Pratto",
+                "username": "Mega_Tour",
+                "verified": false
+            },
+            {
+                "id": "169215881",
+                "name": "Viagens em Minas BH",
+                "username": "ViagensMinasBH",
+                "verified": false
+            },
+            {
+                "id": "169061664",
+                "name": "Perito Cont\u00e1bil BH",
+                "username": "RochaPeritosBH",
+                "verified": false
+            },
+            {
+                "id": "97019464",
+                "name": "Israel Novaes",
+                "username": "BH_Vans_BH_Van",
+                "verified": false
+            },
+            {
+                "id": "172043510",
+                "name": "VANS BH FRETAMENTOS",
+                "username": "TransporteBH",
+                "verified": false
+            },
+            {
+                "id": "172029019",
+                "name": "ALUGUEL VANS BH VANS",
+                "username": "TransportesBH",
+                "verified": false
+            },
+            {
+                "id": "172905497",
+                "name": "Vans BH",
+                "username": "vansbh",
+                "verified": false
+            },
+            {
+                "id": "172769278",
+                "name": "Marcia Almeida",
+                "username": "MICRO_ONIBUS_BH",
+                "verified": false
+            },
+            {
+                "id": "228704949",
+                "name": "Ana Paula Valad\u00e3o",
+                "username": "Micro_Onibus",
+                "verified": false
+            },
+            {
+                "id": "205189349",
+                "name": "ALUGUEL VANS BH/MG",
+                "username": "VanBH_VansBH_BH",
+                "verified": false
+            },
+            {
+                "id": "96439143",
+                "name": "Traslado - Vans BH",
+                "username": "Traslado",
+                "verified": false
+            },
+            {
+                "id": "104930207",
+                "name": "VANS BH VAN BH VANS",
+                "username": "Minas_Vans",
+                "verified": false
+            },
+            {
+                "id": "104931857",
+                "name": "Joelma Calypso",
+                "username": "Minas_Van",
+                "verified": false
+            },
+            {
+                "id": "96434272",
+                "name": "\u00d4nibus BH",
+                "username": "OnibusBH",
+                "verified": false
+            },
+            {
+                "id": "173144508",
+                "name": "Mar\u00edlia Mendon\u00e7a",
+                "username": "Onibus_BH",
+                "verified": false
+            },
+            {
+                "id": "96432959",
+                "name": "Micro \u00d4nibus",
+                "username": "MicroOnibus",
+                "verified": false
+            },
+            {
+                "id": "115454322",
+                "name": "Fretamentos Vans BH",
+                "username": "Fretamentos",
+                "verified": false
+            },
+            {
+                "id": "96764794",
+                "name": "Galv\u00e3o Bueno",
+                "username": "BH_Turismo",
+                "verified": false
+            },
+            {
+                "id": "96390061",
+                "name": "Carolina Mendes",
+                "username": "LigueVans",
+                "verified": false
+            },
+            {
+                "id": "198842419",
+                "name": "Vans BH Micro-\u00f4nibus",
+                "username": "VansbhVansbhVan",
+                "verified": false
+            },
+            {
+                "id": "96389225",
+                "name": "Xuxa Meneguel",
+                "username": "VanbhVanbhVanbh",
+                "verified": false
+            },
+            {
+                "id": "172352597",
+                "name": "Aline Morais",
+                "username": "MinasVan",
+                "verified": false
+            },
+            {
+                "id": "262828668",
+                "name": "Marcelo Rezende",
+                "username": "Televans",
+                "verified": false
+            },
+            {
+                "id": "96405216",
+                "name": "Cleber Junqueira",
+                "username": "MinasVans",
+                "verified": false
+            },
+            {
+                "id": "209288492",
+                "name": "Rodrigo Faro",
+                "username": "41020940",
+                "verified": false
+            },
+            {
+                "id": "96991533",
+                "name": "Lionel Messi",
+                "username": "Dieta_Mais",
+                "verified": false
+            },
+            {
+                "id": "96413309",
+                "name": "Ronaldinho Ga\u00facho",
+                "username": "DietaMais",
+                "verified": false
+            },
+            {
+                "id": "58875396",
+                "name": "Vans Belo Horizonte",
+                "username": "TelevanAluguel",
+                "verified": false
+            },
+            {
+                "id": "96389546",
+                "name": "Wellington Rocha",
+                "username": "TelevansAluguel",
+                "verified": false
+            },
+            {
+                "id": "188854962",
+                "name": "Julio Alvarenga",
+                "username": "VejaTvOnlinePc",
+                "verified": false
+            },
+            {
+                "id": "357017923",
+                "name": "Carmem Lucia",
+                "username": "VerTvOnlinePc",
+                "verified": false
+            },
+            {
+                "id": "238226038",
+                "name": "Alexandre Faria",
+                "username": "sgdaganhar",
+                "verified": false
+            },
+            {
+                "id": "252456292",
+                "name": "Michelly - SGDA",
+                "username": "AutonomiaSGDA",
+                "verified": false
+            },
+            {
+                "id": "237952019",
+                "name": "Richard Modelo",
+                "username": "richardplazza",
+                "verified": false
+            },
+            {
+                "id": "75869122",
+                "name": "News",
+                "username": "noticias_mundo_",
+                "verified": false
+            },
+            {
+                "id": "142752997",
+                "name": "365 Dias de Not\u00edcias",
+                "username": "365Dias_",
+                "verified": false
+            },
+            {
+                "id": "189918634",
+                "name": "Yuna Hirae Kim",
+                "username": "YunaHirae",
+                "verified": false
+            },
+            {
+                "id": "191683102",
+                "name": "AN Noticias",
+                "username": "annoticia",
+                "verified": false
+            },
+            {
+                "id": "31314191",
+                "name": "Link Tv - Not\u00edcias",
+                "username": "linktvclipping",
+                "verified": false
+            },
+            {
                 "id": "509550121",
                 "name": "Cleitton Ferreira",
                 "username": "ByMoruscfr",
@@ -10030,17 +9715,479 @@
                 "verified": true
             },
             {
+                "id": "62891396",
+                "name": "Minist\u00e9rio do Turismo",
+                "username": "MTurismo",
+                "verified": true
+            },
+            {
                 "id": "189241204",
                 "name": "PEDRO MEIRA",
                 "username": "PEDROMEIRAA",
+                "verified": false
+            },
+            {
+                "id": "624643877",
+                "name": "Garante Arariboia",
+                "username": "GaranteArarib",
+                "verified": false
+            },
+            {
+                "id": "380447990",
+                "name": "Garante Floriano",
+                "username": "GaranteFloriano",
+                "verified": false
+            },
+            {
+                "id": "500422833",
+                "name": "Os Memes do Igua\u00e7u",
+                "username": "OsMemesdoIguacu",
+                "verified": false
+            },
+            {
+                "id": "59838515",
+                "name": "Maria de Lima Wang",
+                "username": "mariawang",
+                "verified": false
+            },
+            {
+                "id": "259840707",
+                "name": "MP Federal",
+                "username": "MPF_PGR",
+                "verified": true
+            },
+            {
+                "id": "150733706",
+                "name": "MPF no Amap\u00e1",
+                "username": "MPF_AP",
+                "verified": true
+            },
+            {
+                "id": "20210097",
+                "name": "Vladimir Cavalcante",
+                "username": "vladc",
+                "verified": false
+            },
+            {
+                "id": "618491349",
+                "name": "@Ecol\u00f3gica verdes",
+                "username": "EcolgicaVerdes",
+                "verified": false
+            },
+            {
+                "id": "60942456",
+                "name": "Terra da Gente",
+                "username": "terradagente",
+                "verified": true
+            },
+            {
+                "id": "235641852",
+                "name": "Carlos Pereira",
+                "username": "cpereira9436",
+                "verified": false
+            },
+            {
+                "id": "57828037",
+                "name": "Persona",
+                "username": "PersonalEscrito",
+                "verified": false
+            },
+            {
+                "id": "1139499529533657088",
+                "name": "pnmt",
+                "username": "pnmt1",
+                "verified": false
+            },
+            {
+                "id": "557773814",
+                "name": "Let\u00edcia Costa",
+                "username": "Leticia_Sacks",
+                "verified": false
+            },
+            {
+                "id": "73938926",
+                "name": "luiz  carlos  l\u00f3es",
+                "username": "luizloes",
+                "verified": false
+            },
+            {
+                "id": "175347261",
+                "name": "COSTA MONTEIRO SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+                "username": "costamonteiroad",
+                "verified": false
+            },
+            {
+                "id": "257007952",
+                "name": "Juntos com Ciro",
+                "username": "Juntos_com_Ciro",
+                "verified": false
+            },
+            {
+                "id": "34952919",
+                "name": "Portal H2FOZ",
+                "username": "H2FOZ",
+                "verified": false
+            },
+            {
+                "id": "305620962",
+                "name": "Aline Rezende",
+                "username": "arezendeyoga",
+                "verified": false
+            },
+            {
+                "id": "46563766",
+                "name": "Superl\u00f3gica",
+                "username": "superlogica",
+                "verified": false
+            },
+            {
+                "id": "253034260",
+                "name": "ICMBio",
+                "username": "ICMBio",
+                "verified": false
+            },
+            {
+                "id": "362244935",
+                "name": "Jornal I\u00e7arense",
+                "username": "icarense",
+                "verified": false
+            },
+            {
+                "id": "242525529",
+                "name": "Voc\u00ea \u00e9 um sucesso",
+                "username": "voceeumsucesso",
+                "verified": false
+            },
+            {
+                "id": "89091897",
+                "name": "Itaipu Binacional",
+                "username": "usina_itaipu",
+                "verified": true
+            },
+            {
+                "id": "15431258",
+                "name": "Das Leben em Berlim",
+                "username": "civinhal",
+                "verified": false
+            },
+            {
+                "id": "114058657",
+                "name": "Alexandre G Ugarte",
+                "username": "espiritoaventur",
+                "verified": false
+            },
+            {
+                "id": "90240751",
+                "name": "Iracema Portella",
+                "username": "iracemaportela",
+                "verified": false
+            },
+            {
+                "id": "580065557",
+                "name": "Sustentarte",
+                "username": "Sustentarte_br",
+                "verified": false
+            },
+            {
+                "id": "46901139",
+                "name": "Susana Quintero",
+                "username": "soysuqui",
+                "verified": false
+            },
+            {
+                "id": "21048237",
+                "name": "vitor vasconcelos",
+                "username": "vitordearaujo",
+                "verified": false
+            },
+            {
+                "id": "91015987",
+                "name": "Cl\u00f3vis Tadeu",
+                "username": "Clovis_Tadeu",
+                "verified": false
+            },
+            {
+                "id": "120597130",
+                "name": "Carta Potiguar",
+                "username": "CartaPotiguar",
+                "verified": false
+            },
+            {
+                "id": "130906851",
+                "name": "Allan Feliciano",
+                "username": "AllaanVinicius",
+                "verified": false
+            },
+            {
+                "id": "35524446",
+                "name": "Portal EcoDebate",
+                "username": "ecodebate",
+                "verified": false
+            },
+            {
+                "id": "275301146",
+                "name": "TLMELO",
+                "username": "_TLMELO",
+                "verified": false
+            },
+            {
+                "id": "61868251",
+                "name": "Boca Maldita - o blog do Paran\u00e1",
+                "username": "Boca_Maldita",
+                "verified": false
+            },
+            {
+                "id": "247277293",
+                "name": "Gilmar Piolla",
+                "username": "GilmarPiolla",
+                "verified": false
+            },
+            {
+                "id": "474250661",
+                "name": "F\u00e1bio F\u00e9lix Gomes",
+                "username": "fabiofgomes_",
+                "verified": false
+            },
+            {
+                "id": "89019219",
+                "name": "Cl\u00e1udia Regina",
+                "username": "claudiarfreire",
+                "verified": false
+            },
+            {
+                "id": "17287931",
+                "name": "Amda",
+                "username": "Amda",
+                "verified": false
+            },
+            {
+                "id": "591309322",
+                "name": "Nani | enjoying their happiness \ud83d\udd76\ud83c\udf08\ud83e\udd0d",
+                "username": "anotthergiirl",
+                "verified": false
+            },
+            {
+                "id": "1386506496284971012",
+                "name": "lucia monica melgarejo rosero",
+                "username": "LuciaRosero",
+                "verified": false
+            },
+            {
+                "id": "349937150",
+                "name": "Bernardo Freda",
+                "username": "bernardoclassen",
+                "verified": false
+            },
+            {
+                "id": "16145670",
+                "name": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+                "username": "imbadnews",
+                "verified": false
+            },
+            {
+                "id": "116514574",
+                "name": "Ecol\u00f3gicaTur",
+                "username": "EcologicaTur",
+                "verified": false
+            },
+            {
+                "id": "37653224",
+                "name": "kantauri",
+                "username": "kantauri",
+                "verified": false
+            },
+            {
+                "id": "142080403",
+                "name": "Venice Turismo",
+                "username": "veniceturismo",
+                "verified": false
+            },
+            {
+                "id": "50303768",
+                "name": "ComCausa",
+                "username": "ComCausa",
+                "verified": false
+            },
+            {
+                "id": "609677747",
+                "name": "SerraMob RJ",
+                "username": "SerraMobRJ",
+                "verified": false
+            },
+            {
+                "id": "47582897",
+                "name": "CEAI",
+                "username": "CEAI",
+                "verified": false
+            },
+            {
+                "id": "50067816",
+                "name": "Naturlink",
+                "username": "Naturlink",
+                "verified": false
+            },
+            {
+                "id": "54847721",
+                "name": "Qual Albatroz",
+                "username": "QualAlbatroz",
+                "verified": false
+            },
+            {
+                "id": "155881973",
+                "name": "bio3, lda.",
+                "username": "bio3lda",
+                "verified": false
+            },
+            {
+                "id": "93962745",
+                "name": "Plantar Portugal",
+                "username": "PlantarPortugal",
+                "verified": false
+            },
+            {
+                "id": "141266003",
+                "name": "Green Savers",
+                "username": "greensavers",
+                "verified": false
+            },
+            {
+                "id": "30547095",
+                "name": "Quercus ANCN",
+                "username": "quercusancn",
+                "verified": false
+            },
+            {
+                "id": "86060873",
+                "name": "Caf\u00e9 com Ci\u00eancia",
+                "username": "cafecomciencia",
+                "verified": false
+            },
+            {
+                "id": "52116836",
+                "name": "\u00c1rvores de Portugal",
+                "username": "arvoresportugal",
+                "verified": false
+            },
+            {
+                "id": "38789283",
+                "name": "Eco-Escolas",
+                "username": "EcoEscolas",
+                "verified": false
+            },
+            {
+                "id": "17655568",
+                "name": "Planeta Sustent\u00e1vel",
+                "username": "psustentavel",
+                "verified": false
+            },
+            {
+                "id": "584021657",
+                "name": "Portugal Natura",
+                "username": "PortugalNatura",
+                "verified": false
+            },
+            {
+                "id": "98664255",
+                "name": "Lifecooler",
+                "username": "lifecoolerpt",
+                "verified": false
+            },
+            {
+                "id": "15799804",
+                "name": "Gon\u00e7alo Brito",
+                "username": "GBrito",
+                "verified": false
+            },
+            {
+                "id": "176122350",
+                "name": "Sofia Lenore",
+                "username": "Lenore1917",
+                "verified": false
+            },
+            {
+                "id": "1013450063878742018",
+                "name": "In\u00eas Albuquerque",
+                "username": "AlbuquerqueInes",
+                "verified": false
+            },
+            {
+                "id": "107012946",
+                "name": "ana mendon\u00e7a",
+                "username": "tixacm",
+                "verified": false
+            },
+            {
+                "id": "57960542",
+                "name": "simbiotica.org",
+                "username": "simbiotica",
+                "verified": false
+            },
+            {
+                "id": "622219297",
+                "name": "Parque B. Vinhais",
+                "username": "parque2008",
+                "verified": false
+            },
+            {
+                "id": "76399624",
+                "name": "MPF em Sergipe",
+                "username": "MPF_SE",
+                "verified": false
+            },
+            {
+                "id": "320318044",
+                "name": "Maria Manuel Afonso",
+                "username": "NelTheVet",
+                "verified": false
+            },
+            {
+                "id": "633224444",
+                "name": "\ud835\ude96\ud835\ude92\ud835\ude90\ud835\ude9e\ud835\ude8e\ud835\ude95 \ud835\ude8d\ud835\ude8e \ud835\ude8a\ud835\ude95\ud835\ude8c\ud835\ude98\ud835\ude8b\ud835\ude92\ud835\ude8a",
+                "username": "migueldealcobia",
+                "verified": false
+            },
+            {
+                "id": "64117221",
+                "name": "Luis Matoso",
+                "username": "luismatoso",
+                "verified": false
+            },
+            {
+                "id": "40694949",
+                "name": "Evandro Oliveira",
+                "username": "ESOCOM_int",
+                "verified": false
+            },
+            {
+                "id": "22515336",
+                "name": "Jo\u00e3o Afonso",
+                "username": "sbk996",
+                "verified": false
+            },
+            {
+                "id": "52039511",
+                "name": "Ricardo Nabais",
+                "username": "RicardoNabais",
+                "verified": false
+            },
+            {
+                "id": "3373791",
+                "name": "Paulo Querido",
+                "username": "PauloQuerido",
+                "verified": true
+            },
+            {
+                "id": "1333482944980275206",
+                "name": "ana roque",
+                "username": "AnaRoque",
                 "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "234982398029344768",
-        "next_token": "1jzu9lk96gu5npvzzgn5ropgxv7sq196o0rjykj6g6t9",
-        "oldest_id": "233301420345028608",
+        "newest_id": "234604671120052224",
+        "next_token": "1jzu9lk96gu5npvzzgmqwsi159joa6r76dht967g49rx",
+        "oldest_id": "232876859375886336",
         "result_count": 487
     }
 }

@@ -657,28 +657,6 @@
             "text": "Homem acorrenta elefante em Parque Nacional de Chitwan, a 170 km de Katmandu, no Nepal. Os animais est\u00e3o sendo p... http://t.co/f4Nxgm8n"
         },
         {
-            "author_id": "58886952",
-            "created_at": "2012-12-30T21:55:56.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -43.27106351,
-                        -22.96105194
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "97bcdfca1a2dca59"
-            },
-            "id": "285504518765019138",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "melhor amigo \ud83d\udc98  @ Parque Nacional da Floresta da Tijuca http://t.co/J483ELv5"
-        },
-        {
             "author_id": "49377200",
             "created_at": "2012-12-30T20:57:15.000Z",
             "geo": {
@@ -2653,18 +2631,6 @@
             "text": "Eu e jessicarenatinha. Pequenos momentos \u00e9 que fazem a diferen\u00e7a.  @ Parque Nacional de Bras\u00edlia http://t.co/etjYWgWG"
         },
         {
-            "author_id": "35201891",
-            "created_at": "2012-12-28T14:00:08.000Z",
-            "id": "284660000901722112",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Retrospectiva 2012 de Plurale/ Agora \u00e9 a vez de #foto de nossa Luciana Tancredo. Da RPPN #Sesc #Pantanal (MT). http://t.co/8n4ZxFXG"
-        },
-        {
             "author_id": "17549249",
             "created_at": "2012-12-28T13:29:46.000Z",
             "entities": {
@@ -3938,6 +3904,36 @@
                 "retweet_count": 1
             },
             "text": "Panor\u00e1mica de la Albufeira da Cani\u00e7ada, parque Nacional da Peneda Geres #portugal #photo #geres http://t.co/JQt84JEa"
+        },
+        {
+            "author_id": "77317299",
+            "created_at": "2012-12-26T15:19:58.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 30,
+                        "start": 14,
+                        "username": "RaafaelaBarboza"
+                    },
+                    {
+                        "end": 47,
+                        "start": 31,
+                        "username": "foreeveryounng_"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "97bcdfca1a2dca59"
+            },
+            "id": "283955317719568385",
+            "in_reply_to_user_id": "82638052",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@jubsfreitass @RaafaelaBarboza @foreeveryounng_ estou dispon\u00edvel hoje e sexta. porque amanh\u00e3 vou no parque nacional, se quiserem ir..."
         },
         {
             "author_id": "28589824",
@@ -5619,6 +5615,35 @@
             "text": "Dentro da Floresta Nacional de Caraj\u00e1s, Amaz\u00f4nia brasileira, a 'Vale' tem pressa http://t.co/oyGqHEMy"
         },
         {
+            "author_id": "77317299",
+            "created_at": "2012-12-25T16:15:11.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 88,
+                        "start": 72,
+                        "username": "RaafaelaBarboza"
+                    },
+                    {
+                        "end": 105,
+                        "start": 89,
+                        "username": "foreeveryounng_"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "97bcdfca1a2dca59"
+            },
+            "id": "283606828397498368",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 0
+            },
+            "text": "Vamos marcar alguma coisa essa semana? Vamos no parque nacional quinta? @raafaelabarboza @foreeveryounng_ @jubsfreitass"
+        },
+        {
             "author_id": "76451566",
             "created_at": "2012-12-25T16:04:49.000Z",
             "id": "283604216726048768",
@@ -6477,28 +6502,6 @@
             "text": "PISCINA DO DIABO - Parque Nacional das Cataratas Vit\u00f3ria - LCD V\u00cdDEOS -: http://t.co/u0v4hFxF via @youtube"
         },
         {
-            "author_id": "79163160",
-            "created_at": "2012-12-24T01:08:15.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 5,
-                        "start": 0,
-                        "username": "RPPN"
-                    }
-                ]
-            },
-            "id": "283016201687400450",
-            "in_reply_to_user_id": "53570011",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@RPPN E depois dizem que eu \u00e9 que sou o PALHA\u00c7O. Veja a foto e dei RT. Lord Pimp\u00e3o de Catanduva SP http://t.co/7S3wUU90"
-        },
-        {
             "author_id": "228762514",
             "created_at": "2012-12-24T00:18:17.000Z",
             "entities": {
@@ -6673,6 +6676,9 @@
         {
             "author_id": "46906872",
             "created_at": "2012-12-23T17:28:41.000Z",
+            "geo": {
+                "place_id": "97bcdfca1a2dca59"
+            },
             "id": "282900548791980033",
             "public_metrics": {
                 "like_count": 0,
@@ -7025,6 +7031,9 @@
                     }
                 ]
             },
+            "geo": {
+                "place_id": "97bcdfca1a2dca59"
+            },
             "id": "282627350024314880",
             "public_metrics": {
                 "like_count": 0,
@@ -7071,6 +7080,9 @@
         {
             "author_id": "46906872",
             "created_at": "2012-12-22T19:59:03.000Z",
+            "geo": {
+                "place_id": "97bcdfca1a2dca59"
+            },
             "id": "282576000083185664",
             "public_metrics": {
                 "like_count": 0,
@@ -7227,6 +7239,18 @@
                 "retweet_count": 0
             },
             "text": "Edital para circuito de arvorismo no Parque Nacional da Tijuca est\u00e1 aberto.... http://t.co/ukJ03r1X"
+        },
+        {
+            "author_id": "330711483",
+            "created_at": "2012-12-22T13:53:52.000Z",
+            "id": "282484098818244608",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Belezas naturais de Ibicoara Bahia. O pico mais alto do Parque Nacional da Chapada Diamantina\nhttp://t.co/7cefgH1R http://t.co/z5twB8Cu"
         }
     ],
     "errors": [
@@ -7273,15 +7297,15 @@
             {
                 "country": "Brasil",
                 "country_code": "BR",
-                "full_name": "Rio de Janeiro, Brasil",
-                "id": "97bcdfca1a2dca59",
+                "full_name": "Duque de Caxias, Brasil",
+                "id": "1c88433143d383e1",
                 "place_type": "city"
             },
             {
                 "country": "Brasil",
                 "country_code": "BR",
-                "full_name": "Duque de Caxias, Brasil",
-                "id": "1c88433143d383e1",
+                "full_name": "Rio de Janeiro, Brasil",
+                "id": "97bcdfca1a2dca59",
                 "place_type": "city"
             },
             {
@@ -7406,7 +7430,7 @@
             },
             {
                 "id": "292367126",
-                "name": "Coach de boteco",
+                "name": "H\u00e9lida",
                 "username": "_Helidaa",
                 "verified": false
             },
@@ -7594,12 +7618,6 @@
                 "id": "22849805",
                 "name": "Nogueira Jr.",
                 "username": "WikiMidiaBr",
-                "verified": false
-            },
-            {
-                "id": "58886952",
-                "name": "Nat\u00e1lia Gomes",
-                "username": "natchg",
                 "verified": false
             },
             {
@@ -7814,7 +7832,7 @@
             },
             {
                 "id": "24358851",
-                "name": "Conhe\u00e7a Foz do Igua\u00e7u",
+                "name": "Venha para Foz do Igua\u00e7u",
                 "username": "loumartur",
                 "verified": false
             },
@@ -8269,12 +8287,6 @@
                 "verified": false
             },
             {
-                "id": "35201891",
-                "name": "plurale em site #vacinaparatodos",
-                "username": "pluraleemsite",
-                "verified": false
-            },
-            {
                 "id": "17549249",
                 "name": "Fabio Cabral",
                 "username": "fabiocabral",
@@ -8360,7 +8372,7 @@
             },
             {
                 "id": "20648847",
-                "name": "A",
+                "name": "Meu nome come\u00e7a com A",
                 "username": "adribordin",
                 "verified": false
             },
@@ -8630,7 +8642,7 @@
             },
             {
                 "id": "715457828",
-                "name": "UniversoRacionalista",
+                "name": "Universo Racionalista",
                 "username": "U_Racionalista",
                 "verified": false
             },
@@ -8710,6 +8722,24 @@
                 "id": "52024106",
                 "name": "Michel",
                 "username": "MichelEnLaRed",
+                "verified": false
+            },
+            {
+                "id": "77317299",
+                "name": "Renata Rodrigues",
+                "username": "rerodrigs",
+                "verified": false
+            },
+            {
+                "id": "288545383",
+                "name": "Rafa",
+                "username": "RaafaelaBarboza",
+                "verified": false
+            },
+            {
+                "id": "379314450",
+                "name": "chanyeol",
+                "username": "foreeveryounng_",
                 "verified": false
             },
             {
@@ -9104,8 +9134,8 @@
             },
             {
                 "id": "56181717",
-                "name": "Hilquias Darcley",
-                "username": "hilquiasdarcley",
+                "name": "Israel - Palestina",
+                "username": "newsoriente24h",
                 "verified": false
             },
             {
@@ -9595,18 +9625,6 @@
                 "verified": false
             },
             {
-                "id": "79163160",
-                "name": "PALHACINHO PIMP\u00c3O",
-                "username": "lordpimpao",
-                "verified": false
-            },
-            {
-                "id": "53570011",
-                "name": "RPPN RIO DAS LONTRAS",
-                "username": "RPPN",
-                "verified": false
-            },
-            {
                 "id": "77469764",
                 "name": "Terra",
                 "username": "Terranoticiasbr",
@@ -9764,7 +9782,7 @@
             },
             {
                 "id": "53225971",
-                "name": "futura ex the circle",
+                "name": "#1st castaways fan",
                 "username": "giselaaalves",
                 "verified": false
             },
@@ -9797,13 +9815,19 @@
                 "name": "Eco Reserva",
                 "username": "ecoreservatv",
                 "verified": false
+            },
+            {
+                "id": "330711483",
+                "name": "JO\u00c3O- IBICOARA BAHIA",
+                "username": "Joao_Ibicoara",
+                "verified": false
             }
         ]
     },
     "meta": {
         "newest_id": "285888403709493249",
-        "next_token": "1jzu9lk96gu5npvzzvlm4fvhs9vgd7wwf7fsxbduz81p",
-        "oldest_id": "282485333717827585",
+        "next_token": "1jzu9lk96gu5npvzzvlm4fvg90ljhwd14tu0bbmb2hkt",
+        "oldest_id": "282484098818244608",
         "result_count": 491
     }
 }

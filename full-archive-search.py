@@ -3,6 +3,7 @@ import os
 import json
 import time
 import variables as var
+import glob
 # To set your environment variables in your terminal run the following line:
 # export 'BEARER_TOKEN'='<your_bearer_token>'
 bearer_token = var.bearer_token
@@ -31,6 +32,9 @@ def main():
     path = var.path + folder_name
     if not os.path.exists(path):
         os.mkdir(path)
+    files = glob.glob(path+"/*")
+    for f in files:
+        os.remove(f)
     page = 0
     while True:
         filename = "/" + str(page) + '.txt'

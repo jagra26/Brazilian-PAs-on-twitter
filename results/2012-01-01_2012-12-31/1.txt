@@ -1,18 +1,6 @@
 {
     "data": [
         {
-            "author_id": "330711483",
-            "created_at": "2012-12-22T13:53:52.000Z",
-            "id": "282484098818244608",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Belezas naturais de Ibicoara Bahia. O pico mais alto do Parque Nacional da Chapada Diamantina\nhttp://t.co/7cefgH1R http://t.co/z5twB8Cu"
-        },
-        {
             "author_id": "1020188432",
             "created_at": "2012-12-22T13:49:04.000Z",
             "id": "282482891341041664",
@@ -1110,6 +1098,18 @@
             "text": "Vereadores aprovam constru\u00e7\u00e3o de campo de golfe em \u00e1rea de prote\u00e7\u00e3o ambiental; tombamento de escola n\u00e3o \u00e9 discutido http://t.co/sryYQ3Fn"
         },
         {
+            "author_id": "80995757",
+            "created_at": "2012-12-21T05:49:44.000Z",
+            "id": "281999878492676096",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Publiquei 17 fotos no Facebook no \u00e1lbum \"Parque Nacional do Igua\u00e7u uma das 7 maravilhas do mundo\" http://t.co/BqM783l"
+        },
+        {
             "author_id": "541278115",
             "created_at": "2012-12-21T04:43:01.000Z",
             "id": "281983084688191489",
@@ -1530,18 +1530,6 @@
                 "retweet_count": 0
             },
             "text": "As obras na sede da Reserva Biol\u00f3gica Estadual da Praia do Sul est\u00e3o bem adiantadas!"
-        },
-        {
-            "author_id": "190691730",
-            "created_at": "2012-12-20T16:44:46.000Z",
-            "id": "281802332101017602",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "cara, um grupo de veganos/vegetarianos vao se reunir na RPPN Passarim, pra se proteger do fim do mundo e ja estocaram comida!Bando de trouxa"
         },
         {
             "author_id": "259201471",
@@ -2542,18 +2530,6 @@
                 "retweet_count": 0
             },
             "text": "Admir\u00e1vel Mundo\n|Parque Nacional de Banff| Canad\u00e1|\n\n\u00abJamais vi, em todas as minhas explora\u00e7\u00f5es feitas a estas... http://t.co/94sylbbB"
-        },
-        {
-            "author_id": "61326316",
-            "created_at": "2012-12-19T10:45:51.000Z",
-            "id": "281349620754427904",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Quase 9 minutos de cores e esp\u00e9cies de aves da Mata Atl\u00e2ntica, presentes na RPPN Santu\u00e1rio R\u00e3-Bugio e RPPN Co\u2026 http://t.co/FGiTSYry"
         },
         {
             "author_id": "161382516",
@@ -3721,40 +3697,6 @@
             "text": "\"Thais:  eles querem ir no  Parque Nacional Serra dos \u00d3rg\u00e3os\nn\u00e3o sei o q \u00e9 isso\nmas acho q nao tem nada a ver com o mercaodo negro\""
         },
         {
-            "author_id": "227772222",
-            "created_at": "2012-12-17T17:42:51.000Z",
-            "id": "280729787494961152",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Novos decretos-lei sobre as RPPN Municipais - http://t.co/Sc6ZvFvp"
-        },
-        {
-            "author_id": "120487375",
-            "created_at": "2012-12-17T17:36:57.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "robertosmeraldi"
-                    }
-                ]
-            },
-            "id": "280728301666979841",
-            "in_reply_to_user_id": "54594784",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "@robertosmeraldi n\u00e3o h\u00e1 qualquer rela\u00e7\u00e3o entre produtividade leiteira e RL ou RPPN."
-        },
-        {
             "author_id": "75283363",
             "created_at": "2012-12-17T17:21:59.000Z",
             "id": "280724536104734720",
@@ -4100,54 +4042,6 @@
             "text": "Foto do dia: para\u00edso dos ursos marrons: National GeographicO Parque Nacional Katmai, no Alasca, Estados Unidos, ... http://t.co/DMcKiLQn"
         },
         {
-            "author_id": "88518747",
-            "created_at": "2012-12-17T15:00:51.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 24,
-                        "start": 9,
-                        "username": "SustentavelPec"
-                    },
-                    {
-                        "end": 42,
-                        "start": 26,
-                        "username": "robertosmeraldi"
-                    }
-                ]
-            },
-            "id": "280689016867807232",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Aush! RT @SustentavelPec: @robertosmeraldi RL e RPPN aumentaram a produtividade?\u201d"
-        },
-        {
-            "author_id": "120487375",
-            "created_at": "2012-12-17T15:00:00.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "robertosmeraldi"
-                    }
-                ]
-            },
-            "id": "280688804459868160",
-            "in_reply_to_user_id": "54594784",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "text": "@robertosmeraldi RL e RPPN aumentaram a produtividade?"
-        },
-        {
             "author_id": "144857420",
             "created_at": "2012-12-17T14:57:31.000Z",
             "id": "280688177226870784",
@@ -4194,18 +4088,6 @@
                 "retweet_count": 0
             },
             "text": "Foto do dia: para\u00edso dos ursos marrons: National GeographicO Parque Nacional Katmai, no Alasca, Estados Unidos, ... http://t.co/tfXnSoqT"
-        },
-        {
-            "author_id": "79663762",
-            "created_at": "2012-12-17T14:05:30.000Z",
-            "id": "280675088360153088",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "UC, Nave da esperan\u00e7a Garcias Aiuruoca, mais plano de manejo RPPN partiu !"
         },
         {
             "author_id": "342341169",
@@ -4584,6 +4466,18 @@
             "text": "Parque nacional Volcan poas! http://t.co/ZSenzoGO"
         },
         {
+            "author_id": "336164216",
+            "created_at": "2012-12-16T19:25:45.000Z",
+            "id": "280393293085413376",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Reserva Particular do Patrim\u00f4nio Natural. #FazendaNaoMeDeixes #Escritora #RachelDeQueiroz #InMemoriam #City http://t.co/72Eehvk"
+        },
+        {
             "author_id": "65553551",
             "created_at": "2012-12-16T19:00:40.000Z",
             "geo": {
@@ -4638,72 +4532,6 @@
                 "retweet_count": 0
             },
             "text": "#Paraiso @ Monumento Natural das Fal\u00e9sias http://t.co/NfA82Jbp"
-        },
-        {
-            "author_id": "88518747",
-            "created_at": "2012-12-16T15:40:04.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "robertosmeraldi"
-                    }
-                ]
-            },
-            "id": "280336500867096576",
-            "in_reply_to_user_id": "54594784",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@robertosmeraldi Ningu\u00e9m sonharia \u00e9 \u00f3timo. N\u00e3o na nada na composi\u00e7\u00e3o do leite que determine que a produtividade alta seja culpa da RPPN/RL."
-        },
-        {
-            "author_id": "88518747",
-            "created_at": "2012-12-16T15:27:30.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "robertosmeraldi"
-                    }
-                ]
-            },
-            "id": "280333337028067328",
-            "in_reply_to_user_id": "54594784",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 2,
-                "retweet_count": 0
-            },
-            "text": "@robertosmeraldi Sabes o que \u00e9 mais divertido? Um jornalista afirmar p/ um agr\u00f4nomo que a produtividade \u00e9 alta por causa da RPPN e RL"
-        },
-        {
-            "author_id": "54594784",
-            "created_at": "2012-12-16T15:21:05.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "CiroFSiqueira"
-                    }
-                ]
-            },
-            "id": "280331722925678593",
-            "in_reply_to_user_id": "88518747",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 4,
-                "retweet_count": 0
-            },
-            "text": "@CiroFSiqueira Leit\u00edssimo tem + q o dobro da RL imposta por lei, passa de 50%. E ainda RPPN. Da\u00ed uma produtividade 15 vezes a m\u00e9dia do pa\u00eds."
         },
         {
             "author_id": "160684271",
@@ -5741,33 +5569,6 @@
                 "retweet_count": 0
             },
             "text": "S\u00e1bado, micro e pequenas empresas celebrar\u00e3o os 53 anos do Parque Nacional de Aparados da Serra, em Cambar\u00e1 do Sul http://t.co/cKp4IcoL"
-        },
-        {
-            "author_id": "104996393",
-            "created_at": "2012-12-13T04:09:19.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 106,
-                        "start": 94,
-                        "username": "KeyceJhones"
-                    },
-                    {
-                        "end": 114,
-                        "start": 107,
-                        "username": "SDS_AM"
-                    }
-                ]
-            },
-            "id": "279075504252915712",
-            "in_reply_to_user_id": "100509687",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\u00c9 uma iniciativa que precisa partir do poder p\u00fablico. Podemos apenas sugerir a\u00e7\u00f5es nas RPPN's @KeyceJhones @SDS_AM"
         },
         {
             "author_id": "54012317",
@@ -6921,6 +6722,139 @@
                 "retweet_count": 0
             },
             "text": "Projeto altera \u00e1rea de esta\u00e7\u00e3o ecol\u00f3gica em Itabirito p/ permitir explora\u00e7\u00e3o mineral. http://t.co/Zb6ehai0"
+        },
+        {
+            "author_id": "56555257",
+            "created_at": "2012-12-11T15:58:43.000Z",
+            "id": "278529252473851904",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Esse tucano-toco foi encontrado debilitado na \u00e1rea do Po\u00e7o Preto no Parque Nacional Do Igua\u00e7u. Avaliado pelo... http://t.co/c4F83TR9"
+        },
+        {
+            "author_id": "302002419",
+            "created_at": "2012-12-11T15:43:43.000Z",
+            "id": "278525480079069185",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Itatiaia: o primeiro parque do Brasil\n\nLocalizado na Serra da Mantiqueira, entre os estados... http://t.co/bFOC5dSZ"
+        },
+        {
+            "author_id": "51075078",
+            "created_at": "2012-12-11T14:53:21.000Z",
+            "id": "278512804858822656",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Reuni\u00e3o da CMA para analisar 23 itens, entre eles o projeto que institui o Parque Nacional Marinho das Ilhas dos Currais, no Paran\u00e1. Canal 4"
+        },
+        {
+            "author_id": "980754050",
+            "created_at": "2012-12-11T14:06:32.000Z",
+            "id": "278501021964173312",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "11-12-2012 - PONTE DE LIMA - Comemora\u00e7\u00e3o do 12\u00ba Anivers\u00e1rio da \u00c1rea Protegida (hoje)\n\nA 11 de dezembro a \u00c1rea de... http://t.co/AVdg93w2"
+        },
+        {
+            "author_id": "356892500",
+            "created_at": "2012-12-11T13:36:06.000Z",
+            "id": "278493361256677377",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Praia privativa em Copacabana divide opini\u00e3o de moradores por ser uma \u00e1rea protegida por lei ambiental. http://t.co/eoJlUr07"
+        },
+        {
+            "author_id": "36267776",
+            "created_at": "2012-12-11T13:23:43.000Z",
+            "id": "278490244993646592",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Informa\u00e7\u00f5es: http://t.co/sCvcg4ND"
+        },
+        {
+            "author_id": "46703487",
+            "created_at": "2012-12-11T13:07:59.000Z",
+            "id": "278486285734248448",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Cosmam discute cria\u00e7\u00e3o da Unidade de Conserva\u00e7\u00e3o do Morro S\u00e3o Pedro http://t.co/C8hrkcST"
+        },
+        {
+            "author_id": "88994803",
+            "created_at": "2012-12-11T12:58:25.000Z",
+            "id": "278483878161838080",
+            "in_reply_to_user_id": "167109810",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@Durval13PT Comiss\u00e3o de DH da ALMG discute proposta original de cria\u00e7\u00e3o do Parque Nacional da Serra do Gandarela http://t.co/G9glL3HF"
+        },
+        {
+            "author_id": "134803844",
+            "created_at": "2012-12-11T12:33:56.000Z",
+            "id": "278477716385300480",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "11 de dezembro: Dia Internacional das Montanhas.\nPico da Bandeira e Pico do Cristal - Parque Nacional do... http://t.co/phsAPV8j"
+        },
+        {
+            "author_id": "970208004",
+            "created_at": "2012-12-11T12:03:35.000Z",
+            "id": "278470080369676288",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Aparados da Serra anuncia a\u00e7\u00f5es no seu anivers\u00e1rio: O Parque Nacional de Aparados da Serra, na divisa do ... http://t.co/EzKCLznp"
+        },
+        {
+            "author_id": "971034332",
+            "created_at": "2012-12-11T12:03:33.000Z",
+            "id": "278470073432293378",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Aparados da Serra anuncia a\u00e7\u00f5es no seu anivers\u00e1rio: O Parque Nacional de Aparados da Serra, na divisa do ... http://t.co/mSA2veRI"
         }
     ],
     "errors": [
@@ -7030,12 +6964,6 @@
         ],
         "users": [
             {
-                "id": "330711483",
-                "name": "JO\u00c3O- IBICOARA BAHIA",
-                "username": "Joao_Ibicoara",
-                "verified": false
-            },
-            {
                 "id": "1020188432",
                 "name": "fabioscardoso",
                 "username": "fabioscardoso1",
@@ -7049,7 +6977,7 @@
             },
             {
                 "id": "122466378",
-                "name": "no caso eu",
+                "name": "kkkkkkkkcrying",
                 "username": "nathalye_se",
                 "verified": false
             },
@@ -7081,6 +7009,12 @@
                 "id": "174025498",
                 "name": "ApontaOfertas POA",
                 "username": "aofertas_poa",
+                "verified": false
+            },
+            {
+                "id": "330711483",
+                "name": "JO\u00c3O- IBICOARA BAHIA",
+                "username": "Joao_Ibicoara",
                 "verified": false
             },
             {
@@ -7492,6 +7426,12 @@
                 "verified": true
             },
             {
+                "id": "80995757",
+                "name": "Marcio ARM \u1d9c\u02b3\u1da0 Direita\ud83c\udde7\ud83c\uddf7",
+                "username": "MarcioARM",
+                "verified": false
+            },
+            {
                 "id": "541278115",
                 "name": "Lei de meios j\u00e1",
                 "username": "MatarJamais",
@@ -7645,12 +7585,6 @@
                 "id": "109592586",
                 "name": "Parque Ilha Grande",
                 "username": "peilhagrande",
-                "verified": false
-            },
-            {
-                "id": "190691730",
-                "name": "\u262fEmmanuel\u265a",
-                "username": "Emmanuelbull",
                 "verified": false
             },
             {
@@ -7847,7 +7781,7 @@
             },
             {
                 "id": "24358851",
-                "name": "Conhe\u00e7a Foz do Igua\u00e7u",
+                "name": "Venha para Foz do Igua\u00e7u",
                 "username": "loumartur",
                 "verified": false
             },
@@ -7999,12 +7933,6 @@
                 "id": "234344530",
                 "name": "Pinto Lopes Viagens",
                 "username": "PintoLopesViag",
-                "verified": false
-            },
-            {
-                "id": "61326316",
-                "name": "Thiago Gomes",
-                "username": "go_thiago",
                 "verified": false
             },
             {
@@ -8440,24 +8368,6 @@
                 "verified": false
             },
             {
-                "id": "227772222",
-                "name": "Cond. Biodiversidade",
-                "username": "ConBio",
-                "verified": false
-            },
-            {
-                "id": "120487375",
-                "name": "APPS",
-                "username": "SustentavelPec",
-                "verified": false
-            },
-            {
-                "id": "54594784",
-                "name": "Roberto Smeraldi",
-                "username": "robertosmeraldi",
-                "verified": false
-            },
-            {
                 "id": "75283363",
                 "name": "NoticiaJ\u00e1",
                 "username": "portalnoticiaja",
@@ -8596,12 +8506,6 @@
                 "verified": false
             },
             {
-                "id": "88518747",
-                "name": "Ciro Siqueira",
-                "username": "CiroFSiqueira",
-                "verified": false
-            },
-            {
                 "id": "505289130",
                 "name": "Raynniere Makepeace",
                 "username": "raynniere",
@@ -8617,12 +8521,6 @@
                 "id": "171187322",
                 "name": "Judy Poppy",
                 "username": "judypoppyDN",
-                "verified": false
-            },
-            {
-                "id": "79663762",
-                "name": "Iro",
-                "username": "irobarrucho",
                 "verified": false
             },
             {
@@ -8737,6 +8635,12 @@
                 "id": "55844312",
                 "name": "Jose Ignacio Rodrigu",
                 "username": "jirod87",
+                "verified": false
+            },
+            {
+                "id": "336164216",
+                "name": "Esse Caba Sou Eu..!",
+                "username": "quixadaense",
                 "verified": false
             },
             {
@@ -9112,24 +9016,6 @@
                 "verified": false
             },
             {
-                "id": "104996393",
-                "name": "Agua Branca Online",
-                "username": "sosaguabranca",
-                "verified": false
-            },
-            {
-                "id": "100509687",
-                "name": "KeyceJhones \u24cb",
-                "username": "KeyceJhones",
-                "verified": false
-            },
-            {
-                "id": "2988050678",
-                "name": "\u041f\u043e\u043b\u044f\u043a\u043e\u0432\u0430",
-                "username": "SDS_AM",
-                "verified": false
-            },
-            {
                 "id": "54012317",
                 "name": "Aclecivam Soares",
                 "username": "aclecivamsoares",
@@ -9137,7 +9023,7 @@
             },
             {
                 "id": "71715833",
-                "name": "Gustavo Berriel",
+                "name": "Gus Berriel",
                 "username": "gusberriel",
                 "verified": false
             },
@@ -9506,13 +9392,61 @@
                 "name": "Assembleia de Minas",
                 "username": "assembleiamg",
                 "verified": true
+            },
+            {
+                "id": "56555257",
+                "name": "Adilson Borges",
+                "username": "adilson_borges",
+                "verified": false
+            },
+            {
+                "id": "51075078",
+                "name": "TV Senado",
+                "username": "tvsenado",
+                "verified": true
+            },
+            {
+                "id": "980754050",
+                "name": "R\u00e1dio Ondas do Lima",
+                "username": "ondasdolima",
+                "verified": false
+            },
+            {
+                "id": "356892500",
+                "name": "Agostinho Guerreiro",
+                "username": "agostinhoguerre",
+                "verified": false
+            },
+            {
+                "id": "36267776",
+                "name": "Cidade dos Canyons",
+                "username": "cidadedocanyon",
+                "verified": false
+            },
+            {
+                "id": "46703487",
+                "name": "C\u00e2mara Municipal de Porto Alegre",
+                "username": "camarapoa",
+                "verified": false
+            },
+            {
+                "id": "88994803",
+                "name": "PT de Minas",
+                "username": "ptdeminas",
+                "verified": false
+            },
+            {
+                "id": "134803844",
+                "name": "Miriam Prochnow",
+                "username": "miriam_prochnow",
+                "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "282484098818244608",
-        "next_token": "1jzu9lk96gu5npvzzsod85k84k4ox2qfwsgec7pt6bnh",
-        "oldest_id": "278537284234670081",
-        "result_count": 490
+        "newest_id": "282482891341041664",
+        "next_token": "1jzu9lk96gu5npvzzsod620xvb8jmy3ylt6hckkzmohp",
+        "oldest_id": "278470073432293378",
+        "result_count": 491
     }
 }

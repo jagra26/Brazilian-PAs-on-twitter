@@ -1,475 +1,6 @@
 {
     "data": [
         {
-            "author_id": "239116365",
-            "created_at": "2015-12-01T03:08:23.000Z",
-            "id": "671526224846426112",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o: Cortina de fuma\u00e7a invadiu Av. Jer\u00f4nimo de Al... https://t.co/bcAt6buR7J"
-        },
-        {
-            "author_id": "1436901878",
-            "created_at": "2015-12-01T03:08:22.000Z",
-            "id": "671526221423976449",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o: Cortina de fuma\u00e7a invadiu Av. Jer\u00f4nimo de Al... https://t.co/ljnArub6ad"
-        },
-        {
-            "author_id": "159241601",
-            "created_at": "2015-12-01T03:08:21.000Z",
-            "id": "671526218022305792",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o https://t.co/aTl5eH5X8c"
-        },
-        {
-            "author_id": "2741225132",
-            "created_at": "2015-12-01T03:08:16.000Z",
-            "id": "671526197638135808",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o https://t.co/DbxhBAbp78"
-        },
-        {
-            "author_id": "159241601",
-            "created_at": "2015-12-01T03:08:14.000Z",
-            "id": "671526188821516288",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Brasil. Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o: Cortina de fuma\u00e7a invadiu Av. Jer\u00f4ni... https://t.co/h6IZIHscFa"
-        },
-        {
-            "author_id": "2741225132",
-            "created_at": "2015-12-01T03:08:14.000Z",
-            "id": "671526187097792512",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o https://t.co/DbxhBAbp78 Cortina de fuma\u00e7a invadiu Av. Jer\u00f4nimo de Albuque\u2026"
-        },
-        {
-            "author_id": "323039094",
-            "created_at": "2015-12-01T03:08:05.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 100,
-                        "start": 93,
-                        "username": "Geands"
-                    }
-                ]
-            },
-            "id": "671526152666681344",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o https://t.co/QOiCOYOKBw Via @Geands"
-        },
-        {
-            "author_id": "373995643",
-            "created_at": "2015-12-01T03:08:05.000Z",
-            "id": "671526150875713536",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o: Cortina de fuma\u00e7a invadiu Av. Jer\u00f4nimo de Al... https://t.co/L00iLJnH0S"
-        },
-        {
-            "author_id": "119702894",
-            "created_at": "2015-12-01T03:08:02.000Z",
-            "id": "671526140616441857",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o: Cortina de fuma\u00e7a invadiu Av. Jer\u00f4nimo de Al... https://t.co/1VCfNLQO9k"
-        },
-        {
-            "author_id": "271413715",
-            "created_at": "2015-12-01T03:07:42.000Z",
-            "id": "671526055753084929",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "RT @garraseguros Cortina de fuma\u00e7a invadiu Av. Jer\u00f4nimo de Albuquerque, em S\u00e3o Lu\u00eds.\nCorpo de Bombeiros ainda ... https://t.co/wuNUgqxxnY"
-        },
-        {
-            "author_id": "148434238",
-            "created_at": "2015-12-01T03:07:39.000Z",
-            "id": "671526041144299520",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "RT @garraseguros Cortina de fuma\u00e7a invadiu Av. Jer\u00f4nimo de Albuquerque, em S\u00e3o Lu\u00eds.\nCorpo de Bombeiros ainda ... https://t.co/55XpHoYHU0"
-        },
-        {
-            "author_id": "159241601",
-            "created_at": "2015-12-01T03:07:35.000Z",
-            "id": "671526027605209088",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o https://t.co/DE7kKzDf3k"
-        },
-        {
-            "author_id": "148880157",
-            "created_at": "2015-12-01T03:07:34.000Z",
-            "id": "671526022118969345",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "RT @garraseguros Cortina de fuma\u00e7a invadiu Av. Jer\u00f4nimo de Albuquerque, em S\u00e3o Lu\u00eds.\nCorpo de Bombeiros ainda ... https://t.co/J7ztCJYLPb"
-        },
-        {
-            "author_id": "148473475",
-            "created_at": "2015-12-01T03:07:28.000Z",
-            "id": "671525994944028672",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o: Cortina de fuma\u00e7a invadiu Av. Jer\u00f4nimo de Al... https://t.co/b1cySAHbTm"
-        },
-        {
-            "author_id": "159241601",
-            "created_at": "2015-12-01T03:07:25.000Z",
-            "id": "671525985179688960",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Brasil: Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o https://t.co/BKzP0B09G6"
-        },
-        {
-            "author_id": "2886830236",
-            "created_at": "2015-12-01T03:06:43.000Z",
-            "id": "671525806426882048",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no\u00a0Maranh\u00e3o https://t.co/gvyVFKPbvm"
-        },
-        {
-            "author_id": "18888488",
-            "created_at": "2015-12-01T03:01:38.000Z",
-            "id": "671524526744731649",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "Inc\u00eandio \u00e9 registrado na Esta\u00e7\u00e3o Ecol\u00f3gica do S\u00edtio Rangedor https://t.co/2AvEUIY82S https://t.co/EplcASHae1"
-        },
-        {
-            "author_id": "1329655129",
-            "created_at": "2015-12-01T03:00:31.000Z",
-            "id": "671524247727017985",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "New post: \"Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o\" https://t.co/AXHQvmHRhD"
-        },
-        {
-            "author_id": "2419728392",
-            "created_at": "2015-12-01T03:00:16.000Z",
-            "id": "671524184049233922",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o - not\u00edcias em Maranh\u00e3o https://t.co/3p2gxtdj9Z"
-        },
-        {
-            "author_id": "249290261",
-            "created_at": "2015-12-01T02:59:14.000Z",
-            "id": "671523922219765760",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o https://t.co/6v5AXB6S9y"
-        },
-        {
-            "author_id": "31468484",
-            "created_at": "2015-12-01T02:59:08.000Z",
-            "id": "671523900254248961",
-            "public_metrics": {
-                "like_count": 5,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "Inc\u00eandio devasta esta\u00e7\u00e3o ecol\u00f3gica do S\u00edtio Rangedor no Maranh\u00e3o https://t.co/QEXDfbVj4h"
-        },
-        {
-            "author_id": "1214448264",
-            "created_at": "2015-11-30T22:40:22.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 140,
-                        "start": 131,
-                        "username": "JChapada"
-                    }
-                ]
-            },
-            "id": "671458778638901248",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "MPF pede que Uni\u00e3o, Ibama e ICMBio cumpram decis\u00e3o para estruturar o Parque Nacional da Chapada Diama\u2026 https://t.co/sTCCN9KBh8 via @JChapada"
-        },
-        {
-            "author_id": "55546418",
-            "created_at": "2015-11-30T22:14:59.000Z",
-            "id": "671452390596485124",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "19 DEZEMBRO 2015 \u2013 TRILHA NA FLORESTA NACIONAL DE IPANEMA \u2013 IPER\u00d3/SP\nUm lugar com uma grande import\u00e2ncia... https://t.co/BFCSQ1a8fc"
-        },
-        {
-            "author_id": "572063524",
-            "created_at": "2015-11-30T21:48:07.000Z",
-            "id": "671445630649110529",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional do Bicuar quer melhorar condi\u00e7\u00f5es para atrair turistas: Lubango - A administ... https://t.co/ZXiEw8JawW #ambiente #angola"
-        },
-        {
-            "author_id": "53570011",
-            "created_at": "2015-11-30T20:38:33.000Z",
-            "id": "671428121472602113",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "A RPPN Rio das Lontras homenageia todas as Lontras e todas as formas de vida que foram dizimadas pela estupidez... https://t.co/MfbRwX0JAU"
-        },
-        {
-            "author_id": "106865119",
-            "created_at": "2015-11-30T20:03:56.000Z",
-            "id": "671419412554063872",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "Inc\u00eandio na Chapada Diamantina j\u00e1 consumiu 6,5% da \u00e1rea do Parque Nacional https://t.co/8JP5oni0um"
-        },
-        {
-            "author_id": "229194643",
-            "created_at": "2015-11-30T19:44:34.000Z",
-            "id": "671414534897209344",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Continua\u00e7\u00e3o ...  Fantur no Parque Nacional de Itatiaia - Parte baixa.\nOportunidade de conhecer a biodiversidade \u2013... https://t.co/zE65BG0q2t"
-        },
-        {
-            "author_id": "2325765901",
-            "created_at": "2015-11-30T19:39:19.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 78,
-                        "start": 70,
-                        "username": "YouTube"
-                    }
-                ]
-            },
-            "id": "671413213603504129",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional de Ja\u00fa, Amazonas. Brasil: https://t.co/ZwzGHXKu8X via @YouTube"
-        },
-        {
-            "author_id": "229194643",
-            "created_at": "2015-11-30T19:27:53.000Z",
-            "id": "671410336319340545",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Publiquei 19 fotos no Facebook no \u00e1lbum \"1\u00ba dia do Fantur - Parque Nacional do Itatiaia\" https://t.co/QDkK5DFMhg"
-        },
-        {
-            "author_id": "151148352",
-            "created_at": "2015-11-30T18:30:45.000Z",
-            "id": "671395959134375936",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional de Monfrag\u00fce https://t.co/tDkCBVfJYw #TurismoAccesible #Tourism4All"
-        },
-        {
-            "author_id": "313037667",
-            "created_at": "2015-11-30T18:21:03.000Z",
-            "id": "671393519911772165",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Este \u00e9 o Parque Nacional da Serra da Canastra localizado no munic\u00edpio de S\u00e3o Roque de Minas, em MG. Por ele passa... https://t.co/NTd5CLeNkt"
-        },
-        {
-            "author_id": "2940674914",
-            "created_at": "2015-11-30T18:06:56.000Z",
-            "id": "671389968288256000",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Canzi Cataratas Hotel - Parque Nacional Foz do Igua\u00e7u - PR \u00e9 uma \u00f3tima op\u00e7\u00e3o de hospedagem.\nReservas:... https://t.co/AV4lInZfEb"
-        },
-        {
-            "author_id": "1058548148",
-            "created_at": "2015-11-30T17:53:34.000Z",
-            "id": "671386603059744768",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Piau\u00ed ganha mais um Parque Nacional para alavancar o\u00a0Turismo https://t.co/W9vuCIpNOF https://t.co/VeyAIiqxjV"
-        },
-        {
-            "author_id": "462285762",
-            "created_at": "2015-11-30T17:43:31.000Z",
-            "id": "671384072464265216",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Brazilian wildlife: Pampa deer doe, Parque Nacional das Emas, Goi\u00e1s https://t.co/p3xoSbHhWe"
-        },
-        {
-            "author_id": "3587843175",
-            "created_at": "2015-11-30T17:04:21.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -38.11322625,
-                        -4.15479053
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "aec6aa0b52404a60"
-            },
-            "id": "671374218358050816",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "I'm at Monumento Natural das Fal\u00e9sias in Beberibe, CE https://t.co/MYvpleKHJ4"
-        },
-        {
-            "author_id": "111432205",
-            "created_at": "2015-11-30T16:30:41.000Z",
-            "id": "671365743167086592",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "I'm at Esta\u00e7\u00e3o Ecol\u00f3gica de Caet\u00e9s in Paulista, PE https://t.co/vWdj4F8D7I"
-        },
-        {
             "author_id": "175516337",
             "created_at": "2015-11-30T16:28:30.000Z",
             "id": "671365194241589249",
@@ -863,18 +394,6 @@
             "text": "Fui levar Joana l\u00e1 no parque nacional na chuva, depois voltei pra igreja, fiquei igual um pinto molhado"
         },
         {
-            "author_id": "796376461",
-            "created_at": "2015-11-29T21:15:07.000Z",
-            "id": "671074934555287552",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Cachorros ca\u00e7ando na RPPN Rancho Chapad\u00e3o! https://t.co/0JsXiAIFYo"
-        },
-        {
             "author_id": "246340442",
             "created_at": "2015-11-29T21:10:19.000Z",
             "id": "671073728005017601",
@@ -885,30 +404,6 @@
                 "retweet_count": 0
             },
             "text": "Trilha de hoje no Canyon  Fortaleza -  Parque  Nacional  da  Serra  Geral https://t.co/IY9s6dcWrc"
-        },
-        {
-            "author_id": "796376461",
-            "created_at": "2015-11-29T21:09:52.000Z",
-            "id": "671073614897266688",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Urubu e Gavi\u00e3o na RPPN Rancho Chapad\u00e3o https://t.co/Thrf97HUCL"
-        },
-        {
-            "author_id": "796376461",
-            "created_at": "2015-11-29T21:07:03.000Z",
-            "id": "671072904969363457",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Gavi\u00e3o Carcara e Urubu Rei na RPPN Rancho Cuapad\u00e3o! https://t.co/lVoi7L1MVv"
         },
         {
             "author_id": "2185099839",
@@ -2344,30 +1839,6 @@
             "text": "I'm at Monumento Natural das Fal\u00e9sias in Beberibe, CE https://t.co/CsMzjSCW13"
         },
         {
-            "author_id": "2804738410",
-            "created_at": "2015-11-28T01:53:25.000Z",
-            "id": "670420195874365440",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "E est\u00e1 a caminho mais uma UC....ser\u00e1 uma RPPN....depois eu conto... https://t.co/GbqovzaLUp"
-        },
-        {
-            "author_id": "2804738410",
-            "created_at": "2015-11-28T01:52:54.000Z",
-            "id": "670420065561534464",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "E est\u00e1 a caminho mais uma UC....ser\u00e1 uma RPPN....depois eu conto https://t.co/m8CysicNgU"
-        },
-        {
             "author_id": "167262038",
             "created_at": "2015-11-28T01:43:25.000Z",
             "geo": {
@@ -2655,31 +2126,6 @@
                 "retweet_count": 0
             },
             "text": "Leopardo se assusta ap\u00f3s carca\u00e7a de zebra 'estourar' em parque africano\nCena ocorreu no Parque Nacional Kruger,... https://t.co/gdsmT0E9Jy"
-        },
-        {
-            "author_id": "1385510586",
-            "created_at": "2015-11-27T19:07:30.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 8,
-                        "start": 0,
-                        "username": "VerdeRd"
-                    }
-                ]
-            },
-            "geo": {
-                "place_id": "e9ea1f1600a66684"
-            },
-            "id": "670318045122949120",
-            "in_reply_to_user_id": "1385510586",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "text": "@VerdeRd Al\u00e9m do Cetas-IBAMA, recebeu a RPPN REVECON e o Parque Zoobot\u00e2nico de Macap\u00e1. https://t.co/xsFzupe6r2"
         },
         {
             "author_id": "1093050421",
@@ -6288,17 +5734,559 @@
                 "retweet_count": 0
             },
             "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/uKgMQylFGT"
+        },
+        {
+            "author_id": "2951983415",
+            "created_at": "2015-11-26T07:06:13.000Z",
+            "id": "669774139834499074",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/0zSquFDaIu"
+        },
+        {
+            "author_id": "2358490339",
+            "created_at": "2015-11-26T07:05:55.000Z",
+            "id": "669774065159159808",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/w5cPSqSbro"
+        },
+        {
+            "author_id": "354462356",
+            "created_at": "2015-11-26T07:05:48.000Z",
+            "id": "669774034486202368",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/FGhx39UzIF"
+        },
+        {
+            "author_id": "2333927869",
+            "created_at": "2015-11-26T07:05:40.000Z",
+            "id": "669774003754569728",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/9YfSi8AmjB"
+        },
+        {
+            "author_id": "2241225858",
+            "created_at": "2015-11-26T07:05:40.000Z",
+            "id": "669774001439244288",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/xaZAF6KbB0"
+        },
+        {
+            "author_id": "2300495990",
+            "created_at": "2015-11-26T07:05:32.000Z",
+            "id": "669773967293464576",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/xcKQqIB9oL"
+        },
+        {
+            "author_id": "271375176",
+            "created_at": "2015-11-26T07:05:30.000Z",
+            "id": "669773961199091712",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/Qv1RxiZrhZ"
+        },
+        {
+            "author_id": "1355417316",
+            "created_at": "2015-11-26T07:05:24.000Z",
+            "id": "669773934812753921",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/LAnwd99Trb"
+        },
+        {
+            "author_id": "323405199",
+            "created_at": "2015-11-26T07:05:14.000Z",
+            "id": "669773891900837888",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/EnaPp45irb"
+        },
+        {
+            "author_id": "51524447",
+            "created_at": "2015-11-26T07:05:13.000Z",
+            "id": "669773888142704640",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/NU6dF3gH5h"
+        },
+        {
+            "author_id": "2175037904",
+            "created_at": "2015-11-26T07:05:08.000Z",
+            "id": "669773865854238720",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/GckHDiSsUB"
+        },
+        {
+            "author_id": "477797941",
+            "created_at": "2015-11-26T07:05:07.000Z",
+            "id": "669773863652200448",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/SxDEKwWdJG"
+        },
+        {
+            "author_id": "1967283360",
+            "created_at": "2015-11-26T07:05:04.000Z",
+            "id": "669773852067495937",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/zJhP6xPxvz"
+        },
+        {
+            "author_id": "2167061041",
+            "created_at": "2015-11-26T07:05:02.000Z",
+            "id": "669773843905380352",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/bqndgt1yST"
+        },
+        {
+            "author_id": "156014878",
+            "created_at": "2015-11-26T07:05:02.000Z",
+            "id": "669773843301425153",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/0R86H4AXu6"
+        },
+        {
+            "author_id": "1952149790",
+            "created_at": "2015-11-26T07:05:00.000Z",
+            "id": "669773836116582400",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/xmbORRGYOz"
+        },
+        {
+            "author_id": "1469930630",
+            "created_at": "2015-11-26T07:04:57.000Z",
+            "id": "669773821365239808",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/1JOh5lgbCt"
+        },
+        {
+            "author_id": "1737298886",
+            "created_at": "2015-11-26T07:04:56.000Z",
+            "id": "669773818974461952",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/2uqdArhnwp"
+        },
+        {
+            "author_id": "345498470",
+            "created_at": "2015-11-26T07:04:56.000Z",
+            "id": "669773817250623488",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/Jv7FNo3px0"
+        },
+        {
+            "author_id": "1666338967",
+            "created_at": "2015-11-26T07:04:55.000Z",
+            "id": "669773812364251136",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/HCgm4udtwk"
+        },
+        {
+            "author_id": "1705079605",
+            "created_at": "2015-11-26T07:04:54.000Z",
+            "id": "669773810413912064",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/VuhPglpRJz"
+        },
+        {
+            "author_id": "1695154478",
+            "created_at": "2015-11-26T07:04:53.000Z",
+            "id": "669773805733089280",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/PA0f52yAOr"
+        },
+        {
+            "author_id": "237028480",
+            "created_at": "2015-11-26T07:04:52.000Z",
+            "id": "669773798804078592",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/LI0PToYeVb"
+        },
+        {
+            "author_id": "104594993",
+            "created_at": "2015-11-26T07:04:51.000Z",
+            "id": "669773794337144832",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/jT97ap6m4F"
+        },
+        {
+            "author_id": "92891035",
+            "created_at": "2015-11-26T07:04:44.000Z",
+            "id": "669773768504414210",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/HAKlJNxFIz"
+        },
+        {
+            "author_id": "871949941",
+            "created_at": "2015-11-26T07:04:44.000Z",
+            "id": "669773766164000768",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/vSKneOUZVH"
+        },
+        {
+            "author_id": "1465160659",
+            "created_at": "2015-11-26T07:04:43.000Z",
+            "id": "669773762309394432",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Carneiro selvagem faz sucesso ao descer pared\u00e3o \u00edngreme nos EUA: Cena ocorreu em parque nacional no estado de ... https://t.co/gQsskkOaem"
+        },
+        {
+            "author_id": "106829092",
+            "created_at": "2015-11-26T07:04:31.000Z",
+            "id": "669773711004729345",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Cena ocorreu em parque nacional no estado de Wyoming.\nDepartamento do Interior dos EUA compartilhou foto nas r... https://t.co/D1Qqm16YiH"
+        },
+        {
+            "author_id": "221587657",
+            "created_at": "2015-11-26T03:42:55.000Z",
+            "id": "669722978016432128",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "14 fotos que mostram porque o Parque Nacional do Igua\u00e7u \u00e9 um tesouro nacional https://t.co/BeqXb0Wuq5"
+        },
+        {
+            "author_id": "34547256",
+            "created_at": "2015-11-26T03:09:19.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -73.08828732,
+                        11.42564285
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "0170d9df339a9451"
+            },
+            "id": "669714523146870785",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Freedom \n\n#birds #flying #nature #colombia @ Parque Nacional De Los Flamencos https://t.co/GSTwrgcx72"
+        },
+        {
+            "author_id": "1876245841",
+            "created_at": "2015-11-26T03:06:44.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -44.78794998,
+                        -22.35019352
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "4cf674b72c4ff6b4"
+            },
+            "id": "669713873864380417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Treinamento de auto rendimento @ Parque Nacional Do Itatiaia https://t.co/HtS45sTv4d"
+        },
+        {
+            "author_id": "2559175970",
+            "created_at": "2015-11-26T02:14:56.000Z",
+            "id": "669700834402443264",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Mais uma pr\u00e1tica de campo com alunos de Biologia da UFAM, para o Parque Nacional do VIRU\u00c1 - RR https://t.co/ODCtvDvUuq"
+        },
+        {
+            "author_id": "180188669",
+            "created_at": "2015-11-26T02:05:31.000Z",
+            "id": "669698467858620416",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taupo, Nova Zel\u00e2ndia \ud83d\udccd . E a nossa #brviajante retornou para o Parque Nacional Tongariro c\u2026 https://t.co/Q6tjj2FQw6 https://t.co/BDNJy5Rq0S"
+        },
+        {
+            "author_id": "113466243",
+            "created_at": "2015-11-26T01:49:00.000Z",
+            "id": "669694308744761344",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "14 fotos que mostram porque o Parque Nacional do Igua\u00e7u \u00e9 um tesouro nacional https://t.co/PLGJ9zUiGU"
+        },
+        {
+            "author_id": "90464918",
+            "created_at": "2015-11-26T01:20:10.000Z",
+            "id": "669687054276530177",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Alunos conhecem biodiversidade do Parque Nacional: Os alunos do curso de Ci\u00eancias Biol\u00f3gicas visitaram, no \u00falt... https://t.co/B0Em4kYz94"
+        },
+        {
+            "author_id": "2278282063",
+            "created_at": "2015-11-26T01:07:25.000Z",
+            "id": "669683844866424833",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "14 fotos que mostram porque o Parque Nacional do Igua\u00e7u \u00e9 um tesouro nacional https://t.co/j8OUQaZxIX"
+        },
+        {
+            "author_id": "212021342",
+            "created_at": "2015-11-26T00:41:36.000Z",
+            "id": "669677347864342528",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "-\nCria\u00e7\u00e3o da Unidade de Conserva\u00e7\u00e3o do Parque da Quinta do Diamante.\nBela iniciativa por parte da Prefeitura de... https://t.co/X5zfoQZwOg"
+        },
+        {
+            "author_id": "31233633",
+            "created_at": "2015-11-26T00:30:35.000Z",
+            "id": "669674575639220225",
+            "public_metrics": {
+                "like_count": 18,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "Aqui est\u00e3o 14 fotos que provam porque o Parque Nacional do Igua\u00e7u \u00e9 um tesouro nacional: https://t.co/zoD8tR7Zu4 https://t.co/2h1FsLy60i"
+        },
+        {
+            "author_id": "247177568",
+            "created_at": "2015-11-26T00:01:21.000Z",
+            "id": "669667218356072448",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Christ Redemptor, atop Corcovado, Parque Nacional da Tijuca, Alto da Boa Vista, Rio de Janeiro, Braz https://t.co/czwUCqE4qp"
+        },
+        {
+            "author_id": "43429563",
+            "created_at": "2015-11-25T22:58:12.000Z",
+            "geo": {
+                "place_id": "97bcdfca1a2dca59"
+            },
+            "id": "669651327471984640",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Algu\u00e9m que j\u00e1 tenha ido ao Parque Nacional Lauca pode me dizer quais s\u00e3o os pre\u00e7os que as ag\u00eancias de Arica praticam pra visitar o parque?"
+        },
+        {
+            "author_id": "1074552415",
+            "created_at": "2015-11-25T22:56:59.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -38.5523581,
+                        -3.7718955
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "d16815010421ff73"
+            },
+            "id": "669651021476532224",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Passeio otimo e uma boa trilha! \n#serradaibiapaba \n#ubajara \n#tiangua @ Parque Nacional De Ubajara. https://t.co/moEQ9JLCp9"
+        },
+        {
+            "author_id": "65165290",
+            "created_at": "2015-11-25T22:45:00.000Z",
+            "id": "669648005931376640",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\"Querida, cheguei.\" @ Floresta Nacional da Tijuca https://t.co/pFHONR36P9"
+        },
+        {
+            "author_id": "3229623694",
+            "created_at": "2015-11-25T21:42:19.000Z",
+            "id": "669632231141277696",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional dos Lagos Plitvice, na Cro\u00e1cia https://t.co/9kUoHYAkPW"
         }
     ],
     "includes": {
         "places": [
-            {
-                "country": "Brasil",
-                "country_code": "BR",
-                "full_name": "Beberibe, Brasil",
-                "id": "aec6aa0b52404a60",
-                "place_type": "city"
-            },
             {
                 "country": "Brasil",
                 "country_code": "BR",
@@ -6421,6 +6409,13 @@
             {
                 "country": "Brasil",
                 "country_code": "BR",
+                "full_name": "Beberibe, Brasil",
+                "id": "aec6aa0b52404a60",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
                 "full_name": "Jaboticatubas, Brasil",
                 "id": "03afae3ca45e8541",
                 "place_type": "city"
@@ -6452,205 +6447,40 @@
                 "full_name": "Itatiaia, Brasil",
                 "id": "512e105f48f0e9e4",
                 "place_type": "city"
+            },
+            {
+                "country": "Colombia",
+                "country_code": "CO",
+                "full_name": "Riohacha, Colombia",
+                "id": "0170d9df339a9451",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Itamonte, Brasil",
+                "id": "4cf674b72c4ff6b4",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Fortaleza, Brasil",
+                "id": "d16815010421ff73",
+                "place_type": "city"
             }
         ],
         "users": [
             {
-                "id": "239116365",
-                "name": "Junior Silva",
-                "username": "juuunioor",
-                "verified": false
-            },
-            {
-                "id": "1436901878",
-                "name": "Filipe da Costa",
-                "username": "FilipedaCosta9",
-                "verified": false
-            },
-            {
-                "id": "159241601",
-                "name": "Divulgary",
-                "username": "Divulgary",
-                "verified": false
-            },
-            {
-                "id": "2741225132",
-                "name": "Marcelo Kachimarck",
-                "username": "BeatsTheMarcos",
-                "verified": false
-            },
-            {
-                "id": "323039094",
-                "name": "Ge\u03b1n D\u03b1vid",
-                "username": "Geands",
-                "verified": false
-            },
-            {
-                "id": "373995643",
-                "name": "Style Transport",
-                "username": "stilotransporte",
-                "verified": false
-            },
-            {
-                "id": "119702894",
-                "name": "Marcos Gallo",
-                "username": "mwgallo",
-                "verified": false
-            },
-            {
-                "id": "271413715",
-                "name": "Uai Web Solutions",
-                "username": "uai_web",
-                "verified": false
-            },
-            {
-                "id": "148434238",
-                "name": "Uai Web Solutions",
-                "username": "interclinicas",
-                "verified": false
-            },
-            {
-                "id": "148880157",
-                "name": "cartola_bar",
-                "username": "cartola_bar",
-                "verified": false
-            },
-            {
-                "id": "148473475",
-                "name": "J\u00fanior Wandeir",
-                "username": "JrWandeir",
-                "verified": false
-            },
-            {
-                "id": "2886830236",
-                "name": "jornal on",
-                "username": "ojornal_on",
-                "verified": false
-            },
-            {
-                "id": "18888488",
-                "name": "Imirante.com",
-                "username": "imirante",
-                "verified": false
-            },
-            {
-                "id": "1329655129",
-                "name": "Camila Maciel Serr\u00e3o",
-                "username": "CamilaMacielSer",
-                "verified": false
-            },
-            {
-                "id": "2419728392",
-                "name": "journalnoticias",
-                "username": "journalnoticias",
-                "verified": false
-            },
-            {
-                "id": "249290261",
-                "name": "G1 Maranh\u00e3o",
-                "username": "g1maranhao",
-                "verified": true
-            },
-            {
-                "id": "31468484",
-                "name": "G1 - Brasil",
-                "username": "g1brasil",
+                "id": "175516337",
+                "name": "Vitor Fernandes",
+                "username": "vitorinodapeste",
                 "verified": false
             },
             {
                 "id": "1214448264",
                 "name": "Jornal da Chapada",
                 "username": "JChapada",
-                "verified": false
-            },
-            {
-                "id": "55546418",
-                "name": "BIOVENTURA ECOTURISMO E POUSADA",
-                "username": "bioventura",
-                "verified": false
-            },
-            {
-                "id": "572063524",
-                "name": "Not\u00edcias de Angola",
-                "username": "noticias_angola",
-                "verified": false
-            },
-            {
-                "id": "53570011",
-                "name": "RPPN RIO DAS LONTRAS",
-                "username": "RPPN",
-                "verified": false
-            },
-            {
-                "id": "106865119",
-                "name": "Portal eCycle",
-                "username": "eCycleBr",
-                "verified": false
-            },
-            {
-                "id": "229194643",
-                "name": "NMC Viagens",
-                "username": "NMC_Viagenstur",
-                "verified": false
-            },
-            {
-                "id": "2325765901",
-                "name": "Conarenaenlamochila",
-                "username": "Conarena",
-                "verified": false
-            },
-            {
-                "id": "10228272",
-                "name": "YouTube",
-                "username": "YouTube",
-                "verified": true
-            },
-            {
-                "id": "151148352",
-                "name": "Viajeros Sin Limite #ConfinamientoVoluntario",
-                "username": "Vsinlimite",
-                "verified": false
-            },
-            {
-                "id": "313037667",
-                "name": "Clube Turismo POA",
-                "username": "clubeturismopoa",
-                "verified": false
-            },
-            {
-                "id": "2940674914",
-                "name": "Reservadireta.com",
-                "username": "Reservadireta",
-                "verified": false
-            },
-            {
-                "id": "1058548148",
-                "name": "Ca\u00e7ando Conversa",
-                "username": "cacandoconversa",
-                "verified": false
-            },
-            {
-                "id": "462285762",
-                "name": "Marcel Huijser",
-                "username": "marcelhuijser",
-                "verified": false
-            },
-            {
-                "id": "3587843175",
-                "name": "Jonathanalves",
-                "username": "jonathanbezer12",
-                "verified": false
-            },
-            {
-                "id": "111432205",
-                "name": "Rafa Andrade TimBeta",
-                "username": "Rafatrainer",
-                "verified": false
-            },
-            {
-                "id": "175516337",
-                "name": "Vitor Fernandes",
-                "username": "vitorinodapeste",
                 "verified": false
             },
             {
@@ -6676,6 +6506,12 @@
                 "name": "PauloCruz",
                 "username": "PGMAutonews",
                 "verified": false
+            },
+            {
+                "id": "10228272",
+                "name": "YouTube",
+                "username": "YouTube",
+                "verified": true
             },
             {
                 "id": "66807445",
@@ -6768,6 +6604,12 @@
                 "verified": false
             },
             {
+                "id": "462285762",
+                "name": "Marcel Huijser",
+                "username": "marcelhuijser",
+                "verified": false
+            },
+            {
                 "id": "318716366",
                 "name": "Jo\u00e3o Senna",
                 "username": "joaosenna13",
@@ -6795,12 +6637,6 @@
                 "id": "1204983337",
                 "name": "d a n i",
                 "username": "xdanigoncalves",
-                "verified": false
-            },
-            {
-                "id": "796376461",
-                "name": "JO\u00c3O EMILIO",
-                "username": "EMILIOJOO",
                 "verified": false
             },
             {
@@ -7038,9 +6874,39 @@
                 "verified": false
             },
             {
+                "id": "239116365",
+                "name": "Junior Silva",
+                "username": "juuunioor",
+                "verified": false
+            },
+            {
+                "id": "271413715",
+                "name": "Uai Web Solutions",
+                "username": "uai_web",
+                "verified": false
+            },
+            {
+                "id": "148434238",
+                "name": "Uai Web Solutions",
+                "username": "interclinicas",
+                "verified": false
+            },
+            {
+                "id": "148880157",
+                "name": "cartola_bar",
+                "username": "cartola_bar",
+                "verified": false
+            },
+            {
                 "id": "370858891",
                 "name": "Brakesa Studios",
                 "username": "BraKeSa",
+                "verified": false
+            },
+            {
+                "id": "106865119",
+                "name": "Portal eCycle",
+                "username": "eCycleBr",
                 "verified": false
             },
             {
@@ -7062,9 +6928,33 @@
                 "verified": false
             },
             {
+                "id": "1329655129",
+                "name": "Camila Maciel Serr\u00e3o",
+                "username": "CamilaMacielSer",
+                "verified": false
+            },
+            {
+                "id": "2886830236",
+                "name": "jornal on",
+                "username": "ojornal_on",
+                "verified": false
+            },
+            {
                 "id": "231280267",
                 "name": "Sobral Host",
                 "username": "sobralhost",
+                "verified": false
+            },
+            {
+                "id": "2741225132",
+                "name": "Marcelo Kachimarck",
+                "username": "BeatsTheMarcos",
+                "verified": false
+            },
+            {
+                "id": "2419728392",
+                "name": "journalnoticias",
+                "username": "journalnoticias",
                 "verified": false
             },
             {
@@ -7072,6 +6962,12 @@
                 "name": "G1 Paran\u00e1",
                 "username": "g1parana",
                 "verified": true
+            },
+            {
+                "id": "31468484",
+                "name": "G1 - Brasil",
+                "username": "g1brasil",
+                "verified": false
             },
             {
                 "id": "1252114290",
@@ -7308,9 +7204,9 @@
                 "verified": false
             },
             {
-                "id": "2804738410",
-                "name": "Eduardo Wernech",
-                "username": "EWernech",
+                "id": "3587843175",
+                "name": "Jonathanalves",
+                "username": "jonathanbezer12",
                 "verified": false
             },
             {
@@ -7488,15 +7384,15 @@
                 "verified": false
             },
             {
-                "id": "1385510586",
-                "name": "Rodrigo Monte Verde",
-                "username": "VerdeRd",
-                "verified": false
-            },
-            {
                 "id": "1093050421",
                 "name": "Marina Badau\u00ea",
                 "username": "MarinaBadaue_",
+                "verified": false
+            },
+            {
+                "id": "111432205",
+                "name": "Rafa Andrade TimBeta",
+                "username": "Rafatrainer",
                 "verified": false
             },
             {
@@ -7665,6 +7561,12 @@
                 "id": "354931765",
                 "name": "Fuck Shad",
                 "username": "fuckyeaofs",
+                "verified": false
+            },
+            {
+                "id": "119702894",
+                "name": "Marcos Gallo",
+                "username": "mwgallo",
                 "verified": false
             },
             {
@@ -7839,6 +7741,12 @@
                 "id": "4214526621",
                 "name": "Bruno Beta",
                 "username": "brunobeta22",
+                "verified": false
+            },
+            {
+                "id": "323039094",
+                "name": "Ge\u03b1n D\u03b1vid",
+                "username": "Geands",
                 "verified": false
             },
             {
@@ -8908,13 +8816,265 @@
                 "name": "TimBetaLab",
                 "username": "thejusck",
                 "verified": false
+            },
+            {
+                "id": "2951983415",
+                "name": "Emy beta",
+                "username": "Akitaa3",
+                "verified": false
+            },
+            {
+                "id": "2358490339",
+                "name": "[TimBeta]Nea Jesus",
+                "username": "NeaJesus",
+                "verified": false
+            },
+            {
+                "id": "354462356",
+                "name": "Diego Zoz",
+                "username": "zoz_Diego",
+                "verified": false
+            },
+            {
+                "id": "2333927869",
+                "name": "Debora #TIM BETA",
+                "username": "deborasilva321",
+                "verified": false
+            },
+            {
+                "id": "2241225858",
+                "name": "Maur\u00edcio de Souza",
+                "username": "IbiMauricio",
+                "verified": false
+            },
+            {
+                "id": "2300495990",
+                "name": "Candidogalo2014",
+                "username": "Candidogalo2011",
+                "verified": false
+            },
+            {
+                "id": "271375176",
+                "name": "Juliano Xavier #BETA",
+                "username": "juliano_fxavier",
+                "verified": false
+            },
+            {
+                "id": "1355417316",
+                "name": "Caroline Silva",
+                "username": "KrolHoots",
+                "verified": false
+            },
+            {
+                "id": "323405199",
+                "name": "EduardoAndre",
+                "username": "EduardoAndre21",
+                "verified": false
+            },
+            {
+                "id": "51524447",
+                "name": "Anderson K. Pereira",
+                "username": "kleciuspereira",
+                "verified": false
+            },
+            {
+                "id": "2175037904",
+                "name": "cicera anatelma",
+                "username": "CiceraAnatelma",
+                "verified": false
+            },
+            {
+                "id": "477797941",
+                "name": "Igor Almeida Martins",
+                "username": "IgorAlmeida_02",
+                "verified": false
+            },
+            {
+                "id": "1967283360",
+                "name": "tecnet01",
+                "username": "tecnet01beta",
+                "verified": false
+            },
+            {
+                "id": "2167061041",
+                "name": "Helder giuseppe",
+                "username": "timbeta0201",
+                "verified": false
+            },
+            {
+                "id": "156014878",
+                "name": "Anderson Esteves Alv",
+                "username": "dersonalf",
+                "verified": false
+            },
+            {
+                "id": "1952149790",
+                "name": "Artegrafsa",
+                "username": "artegrafsa_edu",
+                "verified": false
+            },
+            {
+                "id": "1469930630",
+                "name": "William Brusamarello",
+                "username": "WBrusamarello",
+                "verified": false
+            },
+            {
+                "id": "1737298886",
+                "name": "ant\u00f4nio donizete",
+                "username": "antniodonizete",
+                "verified": false
+            },
+            {
+                "id": "345498470",
+                "name": "Marcelo Vieira",
+                "username": "MarceloVieira32",
+                "verified": false
+            },
+            {
+                "id": "1666338967",
+                "name": "zeeeeee",
+                "username": "AlmeidaGleibson",
+                "verified": false
+            },
+            {
+                "id": "1705079605",
+                "name": "Renata Ferreira",
+                "username": "Renata_eta",
+                "verified": false
+            },
+            {
+                "id": "1695154478",
+                "name": "Rafael [TIMBETA]",
+                "username": "Srcalliu2",
+                "verified": false
+            },
+            {
+                "id": "237028480",
+                "name": "Lidiane",
+                "username": "lidylucena",
+                "verified": false
+            },
+            {
+                "id": "104594993",
+                "name": "La\u00edsa #BetaLab",
+                "username": "laaisautzig",
+                "verified": false
+            },
+            {
+                "id": "92891035",
+                "name": "#Lost_in_Life",
+                "username": "cristianomcruz",
+                "verified": false
+            },
+            {
+                "id": "871949941",
+                "name": "Buffet Sabor Que Encanta",
+                "username": "SaborQueEncanta",
+                "verified": false
+            },
+            {
+                "id": "1465160659",
+                "name": "ACESSO VIA NEWS",
+                "username": "acessovianews",
+                "verified": false
+            },
+            {
+                "id": "106829092",
+                "name": "Mix Bel\u00e9m 100.9 Fm",
+                "username": "RADIO1009FM",
+                "verified": false
+            },
+            {
+                "id": "221587657",
+                "name": "Wellington Chaves",
+                "username": "wellington424",
+                "verified": false
+            },
+            {
+                "id": "34547256",
+                "name": "Catalina D'leon",
+                "username": "CatalinaDleon",
+                "verified": false
+            },
+            {
+                "id": "1876245841",
+                "name": "Arauc\u00e1ria Ecoturismo",
+                "username": "Araucariaecotur",
+                "verified": false
+            },
+            {
+                "id": "2559175970",
+                "name": "ROBERTO C BLANCO",
+                "username": "blanco60345210",
+                "verified": false
+            },
+            {
+                "id": "180188669",
+                "name": "\u26a1\ufe0f\u8fc5\u96f7\u26a1\ufe0f\u3077\u306b\u3077\u306b\u4ee3\u884c\u696d\u8005",
+                "username": "Iost_thunder",
+                "verified": false
+            },
+            {
+                "id": "113466243",
+                "name": "Denis Jeff",
+                "username": "denisjeff",
+                "verified": false
+            },
+            {
+                "id": "90464918",
+                "name": "UniAm\u00e9rica - Centro Universit\u00e1rio",
+                "username": "uniamerica",
+                "verified": false
+            },
+            {
+                "id": "2278282063",
+                "name": "Viaje+ Tour",
+                "username": "ViajeMais_Tour",
+                "verified": false
+            },
+            {
+                "id": "212021342",
+                "name": "walla da 651",
+                "username": "_wallasousa",
+                "verified": false
+            },
+            {
+                "id": "31233633",
+                "name": "Viagem e Turismo",
+                "username": "viagemeturismo",
+                "verified": true
+            },
+            {
+                "id": "247177568",
+                "name": "NYFotoFashion",
+                "username": "nyfotofashion",
+                "verified": false
+            },
+            {
+                "id": "43429563",
+                "name": "Je\u00e3o",
+                "username": "jeaoviana",
+                "verified": false
+            },
+            {
+                "id": "1074552415",
+                "name": "Phyllyppy Nascimento",
+                "username": "Phylnasci",
+                "verified": false
+            },
+            {
+                "id": "65165290",
+                "name": "Viny Vince",
+                "username": "vinyvince",
+                "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "671526224846426112",
-        "next_token": "1jzu9lk96gu5npw2cvabs1thlvzpaxjnpoy9rjjmvaf1",
-        "oldest_id": "669774159207989248",
-        "result_count": 483
+        "newest_id": "671365194241589249",
+        "next_token": "1jzu9lk96gu5npw2cvabpvw3je7s8o1nfoxo1t7eyx6l",
+        "oldest_id": "669632231141277696",
+        "result_count": 484
     }
 }

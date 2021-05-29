@@ -1,1422 +1,6 @@
 {
     "data": [
         {
-            "author_id": "2426127493",
-            "created_at": "2014-10-21T11:30:47.000Z",
-            "id": "524523187351343104",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional do Cabo Orange: fauna da regi\u00e3o possui v\u00e1rias esp\u00e9cies de tartarugas, al\u00e9m do amea\u00e7ado peixe-boi. http://t.co/uMmpvVdLFe"
-        },
-        {
-            "author_id": "22914738",
-            "created_at": "2014-10-21T11:30:23.000Z",
-            "id": "524523086184742912",
-            "public_metrics": {
-                "like_count": 2,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "Parque Nacional do Cabo Orange: fauna da regi\u00e3o possui v\u00e1rias esp\u00e9cies de tartarugas, al\u00e9m do amea\u00e7ado peixe-boi. http://t.co/qh14EgX2Ug"
-        },
-        {
-            "author_id": "185816093",
-            "created_at": "2014-10-21T11:11:56.000Z",
-            "id": "524518443044048896",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Ap\u00f3s den\u00fancia do Boc\u00e3o, Sucom derruba muros de \u00c1rea de Prote\u00e7\u00e3o Ambiental no Imbu\u00ed http://t.co/HWW7ms4xEG"
-        },
-        {
-            "author_id": "192046318",
-            "created_at": "2014-10-21T11:04:37.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 32,
-                        "start": 24,
-                        "username": "OlegMKS"
-                    }
-                ]
-            },
-            "id": "524516602214359040",
-            "in_reply_to_user_id": "2459541229",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\ud83d\udc40Muito legal, grata. RT @OlegMKS: .... (The EEmas National Park #Brazil #ISS) #BlueDot http://t.co/mIn8z1xQvv http://t.co/gaKowVTeYa"
-        },
-        {
-            "author_id": "14801327",
-            "created_at": "2014-10-21T10:54:02.000Z",
-            "id": "524513939858530304",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/M4pFz5VF4d"
-        },
-        {
-            "author_id": "33813434",
-            "created_at": "2014-10-21T10:43:10.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 9,
-                        "start": 1,
-                        "username": "Estadao"
-                    }
-                ]
-            },
-            "id": "524511201565630464",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\"@Estadao: RIO: Inc\u00eandio atingiu 9% do Parque da Serra dos \u00d3rg\u00e3os http://t.co/TkaityL1EQ\""
-        },
-        {
-            "author_id": "54094836",
-            "created_at": "2014-10-21T10:34:11.000Z",
-            "id": "524508942399848448",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/Z918zAuAfI"
-        },
-        {
-            "author_id": "64906122",
-            "created_at": "2014-10-21T10:33:57.000Z",
-            "id": "524508884237434880",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/p1UsGPFiel"
-        },
-        {
-            "author_id": "374568775",
-            "created_at": "2014-10-21T10:33:55.000Z",
-            "id": "524508876838686720",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/FqLNketKpT"
-        },
-        {
-            "author_id": "1424233890",
-            "created_at": "2014-10-21T10:33:16.000Z",
-            "id": "524508713046921216",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/7ITJfxfPWD"
-        },
-        {
-            "author_id": "2421531331",
-            "created_at": "2014-10-21T10:32:56.000Z",
-            "id": "524508626019311617",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/T1tCiImiji"
-        },
-        {
-            "author_id": "954340069",
-            "created_at": "2014-10-21T10:23:08.000Z",
-            "id": "524506162968813568",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/40dPG9eNyt"
-        },
-        {
-            "author_id": "2330404794",
-            "created_at": "2014-10-21T10:23:07.000Z",
-            "id": "524506155758804993",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/iIT0kqQeJP"
-        },
-        {
-            "author_id": "2510466788",
-            "created_at": "2014-10-21T10:23:05.000Z",
-            "id": "524506148225835009",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/sNk9uQNmtZ"
-        },
-        {
-            "author_id": "2482322872",
-            "created_at": "2014-10-21T10:22:59.000Z",
-            "id": "524506124070817792",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/z9vtQs3D6c"
-        },
-        {
-            "author_id": "2741225132",
-            "created_at": "2014-10-21T10:22:25.000Z",
-            "id": "524505981611692032",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO http://t.co/JZoM9D7a78 No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 col..."
-        },
-        {
-            "author_id": "2777325724",
-            "created_at": "2014-10-21T10:21:22.000Z",
-            "id": "524505718930829312",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 8
-            },
-            "text": "#timbetalab Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a veg... http://t.co/D2xQKu8sPK"
-        },
-        {
-            "author_id": "2816194717",
-            "created_at": "2014-10-21T10:21:17.000Z",
-            "id": "524505696973234177",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/e7HhikN3OT"
-        },
-        {
-            "author_id": "306213202",
-            "created_at": "2014-10-21T10:21:15.000Z",
-            "id": "524505689645793280",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/nuAlHI0Vst"
-        },
-        {
-            "author_id": "84973444",
-            "created_at": "2014-10-21T10:21:12.000Z",
-            "id": "524505674365935616",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#personalizada1 Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a... http://t.co/VoXv4ri4tG"
-        },
-        {
-            "author_id": "68599346",
-            "created_at": "2014-10-21T10:21:10.000Z",
-            "id": "524505666291916800",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#personalizada1 Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a... http://t.co/TjVYrfIQJu"
-        },
-        {
-            "author_id": "2770805502",
-            "created_at": "2014-10-21T10:20:58.000Z",
-            "id": "524505615033331712",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/p6xL0VIHuG"
-        },
-        {
-            "author_id": "2595603265",
-            "created_at": "2014-10-21T10:20:55.000Z",
-            "id": "524505605935886336",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/Oj80kMQBa6"
-        },
-        {
-            "author_id": "2802710594",
-            "created_at": "2014-10-21T10:20:50.000Z",
-            "id": "524505583399874560",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/BfmnhjeKjO"
-        },
-        {
-            "author_id": "2282329652",
-            "created_at": "2014-10-21T10:20:48.000Z",
-            "id": "524505575900463104",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/BRhCXsV5h5"
-        },
-        {
-            "author_id": "2783092291",
-            "created_at": "2014-10-21T10:20:44.000Z",
-            "id": "524505556145291265",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/q6XV2SioxL"
-        },
-        {
-            "author_id": "2265188245",
-            "created_at": "2014-10-21T10:20:32.000Z",
-            "id": "524505509240381440",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/Du4R5QUbUi"
-        },
-        {
-            "author_id": "1909065463",
-            "created_at": "2014-10-21T10:20:20.000Z",
-            "id": "524505455989493760",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/ymqKlKvcTB"
-        },
-        {
-            "author_id": "2211312625",
-            "created_at": "2014-10-21T10:20:16.000Z",
-            "id": "524505439942082560",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/ITh4LBdod9"
-        },
-        {
-            "author_id": "2663340218",
-            "created_at": "2014-10-21T10:20:14.000Z",
-            "id": "524505432006488064",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/DAWMuJO1h9"
-        },
-        {
-            "author_id": "2361148241",
-            "created_at": "2014-10-21T10:19:54.000Z",
-            "id": "524505349449977858",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/R15foFaA2O"
-        },
-        {
-            "author_id": "331142165",
-            "created_at": "2014-10-21T10:19:52.000Z",
-            "id": "524505341052985344",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/3mHbZVw7TE"
-        },
-        {
-            "author_id": "216796443",
-            "created_at": "2014-10-21T10:19:47.000Z",
-            "id": "524505317824946176",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/K9KLxXr0QO"
-        },
-        {
-            "author_id": "380858150",
-            "created_at": "2014-10-21T10:19:44.000Z",
-            "id": "524505305539809283",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/SeMJVZ6UFG"
-        },
-        {
-            "author_id": "2276496962",
-            "created_at": "2014-10-21T10:19:42.000Z",
-            "id": "524505297428037632",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#OperacaoBetaLab Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, ... http://t.co/Dj0YYetazR"
-        },
-        {
-            "author_id": "2667963392",
-            "created_at": "2014-10-21T10:19:23.000Z",
-            "id": "524505216297611266",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "#hu3b3t Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7... http://t.co/GAQaoeJgqN"
-        },
-        {
-            "author_id": "93409569",
-            "created_at": "2014-10-21T10:19:18.000Z",
-            "id": "524505198849310720",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 1
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a ve... http://t.co/jMJJtxo7zF #RT #TimBeta"
-        },
-        {
-            "author_id": "357999551",
-            "created_at": "2014-10-21T10:19:12.000Z",
-            "id": "524505169967337472",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#G1 Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o e... http://t.co/gJK26SsaCJ"
-        },
-        {
-            "author_id": "1730514692",
-            "created_at": "2014-10-21T10:19:02.000Z",
-            "id": "524505130339561473",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/rj0WPfAmLy"
-        },
-        {
-            "author_id": "2590449787",
-            "created_at": "2014-10-21T10:18:56.000Z",
-            "id": "524505103001079808",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/K6Fyo1NKQw"
-        },
-        {
-            "author_id": "171283332",
-            "created_at": "2014-10-21T10:18:53.000Z",
-            "id": "524505090871144449",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/GO4SVpuhKS"
-        },
-        {
-            "author_id": "208749061",
-            "created_at": "2014-10-21T10:18:50.000Z",
-            "id": "524505080502824961",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#rt1 Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o ... http://t.co/zpgKp2A2Iw"
-        },
-        {
-            "author_id": "338066686",
-            "created_at": "2014-10-21T10:18:32.000Z",
-            "id": "524505004032286722",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/WVPjuhS5C4"
-        },
-        {
-            "author_id": "2548838815",
-            "created_at": "2014-10-21T10:18:22.000Z",
-            "id": "524504963175546882",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/vokWYx8ew7"
-        },
-        {
-            "author_id": "2362095715",
-            "created_at": "2014-10-21T10:18:12.000Z",
-            "id": "524504920804704258",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/PZ44fCtFc6"
-        },
-        {
-            "author_id": "2379251281",
-            "created_at": "2014-10-21T10:18:01.000Z",
-            "id": "524504874193387520",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/q5L3B58uXo"
-        },
-        {
-            "author_id": "2287158439",
-            "created_at": "2014-10-21T10:17:58.000Z",
-            "id": "524504860784214016",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/CP7SdxeqX4"
-        },
-        {
-            "author_id": "2786124883",
-            "created_at": "2014-10-21T10:17:47.000Z",
-            "id": "524504815724797953",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/1WG5yTPcgU"
-        },
-        {
-            "author_id": "116275481",
-            "created_at": "2014-10-21T10:17:23.000Z",
-            "id": "524504715099267074",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a... http://t.co/8fgNtPevEh Via G1 noticias"
-        },
-        {
-            "author_id": "2331864589",
-            "created_at": "2014-10-21T10:17:12.000Z",
-            "id": "524504667430977537",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/NhURjceQaU"
-        },
-        {
-            "author_id": "2300495990",
-            "created_at": "2014-10-21T10:17:04.000Z",
-            "id": "524504633998192641",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/xo67Me23Bn"
-        },
-        {
-            "author_id": "271375176",
-            "created_at": "2014-10-21T10:17:02.000Z",
-            "id": "524504625253085184",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/NDsQn8U8Xf"
-        },
-        {
-            "author_id": "1660719116",
-            "created_at": "2014-10-21T10:17:00.000Z",
-            "id": "524504617690730498",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/rhK70Haxov"
-        },
-        {
-            "author_id": "1967283360",
-            "created_at": "2014-10-21T10:16:47.000Z",
-            "id": "524504565635248129",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/Rnp2Bv3TVu"
-        },
-        {
-            "author_id": "156014878",
-            "created_at": "2014-10-21T10:16:45.000Z",
-            "id": "524504555870887937",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/rmnKrbNKRN"
-        },
-        {
-            "author_id": "281652610",
-            "created_at": "2014-10-21T10:16:34.000Z",
-            "id": "524504509540614145",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas, a vegeta\u00e7\u00e3o est\u00e1 ... http://t.co/jHeYGOwF28"
-        },
-        {
-            "author_id": "111342203",
-            "created_at": "2014-10-21T10:16:24.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 136,
-                        "start": 133,
-                        "username": "g1"
-                    }
-                ]
-            },
-            "id": "524504467379482626",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#joamarda: Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional das Emas... http://t.co/oUjfxuJjS0 via @g1"
-        },
-        {
-            "author_id": "384490339",
-            "created_at": "2014-10-21T10:16:20.000Z",
-            "id": "524504449247485953",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "[oglobonot\u00edcias] Primeiras chuvas come\u00e7am a recuperar as \u00e1reas de cerrado em GO: No Parque Nacional da... http://t.co/Hqn0YtIKHb #brasil"
-        },
-        {
-            "author_id": "2807959670",
-            "created_at": "2014-10-21T10:12:49.000Z",
-            "id": "524503565554184192",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional da Serra do Cip\u00f3 em cinzas.: http://t.co/XIKGC1YehO"
-        },
-        {
-            "author_id": "92480555",
-            "created_at": "2014-10-21T10:03:58.000Z",
-            "id": "524501340328710145",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Monumento natural http://t.co/XrrLZPdV9N"
-        },
-        {
-            "author_id": "51537963",
-            "created_at": "2014-10-21T09:14:53.000Z",
-            "id": "524488985935376385",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "text": "Sucom demole muros de \u00c1rea de Prote\u00e7\u00e3o Ambiental no Imbu\u00ed http://t.co/3SJ74PIJwt #Salvador"
-        },
-        {
-            "author_id": "248581773",
-            "created_at": "2014-10-21T09:14:48.000Z",
-            "id": "524488964905132032",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Sucom demole muros de \u00c1rea de Prote\u00e7\u00e3o Ambiental no Imbu\u00ed http://t.co/3wex4Ehvi2 #Salvador"
-        },
-        {
-            "author_id": "2304538825",
-            "created_at": "2014-10-21T09:05:03.000Z",
-            "id": "524486510129975296",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional ter\u00e1 funcionamento especial no dia das elei\u00e7\u00f5es Leia mais: http://t.co/g47HfWYgBB"
-        },
-        {
-            "author_id": "9317502",
-            "created_at": "2014-10-21T08:25:08.000Z",
-            "id": "524476465014792192",
-            "public_metrics": {
-                "like_count": 13,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 11
-            },
-            "text": "RIO: Inc\u00eandio atingiu 9% do Parque da Serra dos \u00d3rg\u00e3os http://t.co/hrad4qjcmV"
-        },
-        {
-            "author_id": "2772453159",
-            "created_at": "2014-10-21T07:50:26.000Z",
-            "id": "524467732939419648",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Criada no Amazonas esta\u00e7\u00e3o ecol\u00f3gica de 670 mil hectares:  http://t.co/u6XGyn42UZ"
-        },
-        {
-            "author_id": "36901763",
-            "created_at": "2014-10-21T03:40:19.000Z",
-            "id": "524404789145513984",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "O Parque Nacional do Igua\u00e7u j\u00e1 teve 180 on\u00e7as-pintadas. Atualmente a estimativa \u00e9 de 18. Em 80 anos elas v\u00e3o desaparecer. #on\u00e7apintada"
-        },
-        {
-            "author_id": "38347709",
-            "created_at": "2014-10-21T03:24:19.000Z",
-            "id": "524400763234443264",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Da s\u00e9rie \"Asana com as Amigas\", eu e Mimi no Parque Nacional da Serra dos \u00d3rg\u00e3os #liacaldas40 #yogini http://t.co/HU7SiY8IfV"
-        },
-        {
-            "author_id": "2348946290",
-            "created_at": "2014-10-21T02:57:37.000Z",
-            "id": "524394043292516352",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "One of the #sevenwonders of the #world the #work of #GOD @ Parque Nacional do Igua\u00e7\u00fa - Cataratas do\u2026 http://t.co/vfti1hDSCZ"
-        },
-        {
-            "author_id": "189736835",
-            "created_at": "2014-10-21T02:39:27.000Z",
-            "id": "524389473266585600",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Dilma cria a Esta\u00e7\u00e3o Ecol\u00f3gica Alto Mau\u00e9s (AM), a s\u00e9tima Unidade Conserva\u00e7\u00e3o esta semana | Amaz\u00f4nia:http://t.co/1W9MxYafAY"
-        },
-        {
-            "author_id": "55818224",
-            "created_at": "2014-10-21T01:44:04.000Z",
-            "id": "524375535770546176",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "(opopular) Temporal interrompe inc\u00eandio em parque nacional no RJ:  http://t.co/W8hrphq9b6"
-        },
-        {
-            "author_id": "246340442",
-            "created_at": "2014-10-21T01:12:20.000Z",
-            "id": "524367549807738880",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Nossa Trilha Hoje! Canyon Malacara - Parque Nacional da Serra Geral http://t.co/BRwAJpBtsz"
-        },
-        {
-            "author_id": "31314191",
-            "created_at": "2014-10-21T00:44:39.000Z",
-            "id": "524360582690926592",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto: Ag\u00eancia BrasilBrigadistas e volunt\u00e1rios ... http://t.co/qwYFw5g9uj"
-        },
-        {
-            "author_id": "2783092291",
-            "created_at": "2014-10-21T00:38:27.000Z",
-            "id": "524359022455959553",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto: Ag\u00eancia BrasilBrigadistas e volunt\u00e1rios ... http://t.co/AEAu8RzqNi"
-        },
-        {
-            "author_id": "1202816791",
-            "created_at": "2014-10-21T00:38:23.000Z",
-            "id": "524359002889519104",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto: Ag\u00eancia BrasilBrigadistas e volunt\u00e1rios ... http://t.co/IVEvpUioOa"
-        },
-        {
-            "author_id": "206964235",
-            "created_at": "2014-10-21T00:38:16.000Z",
-            "id": "524358976377352192",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#OperacaoBetaLab Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto: Ag\u00eancia B... http://t.co/V11AUQcjt3 #SDV #TIMBETA"
-        },
-        {
-            "author_id": "55818224",
-            "created_at": "2014-10-21T00:38:12.000Z",
-            "id": "524358960053096448",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "(ig) Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto: Ag\u00eancia BrasilBrigadistas e volunt\u00e1... http://t.co/T6XDrqzhRV"
-        },
-        {
-            "author_id": "2379251281",
-            "created_at": "2014-10-21T00:38:01.000Z",
-            "id": "524358913219506178",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto: Ag\u00eancia BrasilBrigadistas e volunt\u00e1rios ... http://t.co/yuegg0oGxW"
-        },
-        {
-            "author_id": "2323690256",
-            "created_at": "2014-10-21T00:37:56.000Z",
-            "id": "524358893539840000",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto: Ag\u00eancia BrasilBrigadistas e volunt\u00e1rios ... http://t.co/9UeM6KPRae"
-        },
-        {
-            "author_id": "1703495635",
-            "created_at": "2014-10-21T00:37:33.000Z",
-            "id": "524358796496224261",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto: Ag\u00eancia BrasilBrigadistas e volunt\u00e1rios ... http://t.co/loMc58e8Rr"
-        },
-        {
-            "author_id": "54796276",
-            "created_at": "2014-10-21T00:37:32.000Z",
-            "id": "524358790313820162",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto: Ag\u00eancia BrasilBrigadistas e volunt\u00e1rios ... http://t.co/QRGPRJnrPf"
-        },
-        {
-            "author_id": "249834425",
-            "created_at": "2014-10-21T00:37:27.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -43.18314061,
-                        -22.96601104
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "97bcdfca1a2dca59"
-            },
-            "id": "524358768994557952",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 1
-            },
-            "text": "Se o destino nos uniu \u00e9 pq tem algo de bom preparado \u2665\ufe0f @ Teres\u00f3polis, Parque Nacional http://t.co/MAOChDcGbG"
-        },
-        {
-            "author_id": "24975213",
-            "created_at": "2014-10-21T00:37:24.000Z",
-            "id": "524358757384327168",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#News Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto http://t.co/0rrI4ZYplk #GrupoAquecendo"
-        },
-        {
-            "author_id": "80080092",
-            "created_at": "2014-10-21T00:37:22.000Z",
-            "id": "524358750539227136",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#News Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto http://t.co/0BJ2eBFUxp #GrupoAquecendo"
-        },
-        {
-            "author_id": "288330146",
-            "created_at": "2014-10-21T00:37:21.000Z",
-            "id": "524358743366963200",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto http://t.co/nDBuxrT4eW"
-        },
-        {
-            "author_id": "90965235",
-            "created_at": "2014-10-21T00:37:04.000Z",
-            "id": "524358674694041600",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "Brigadistas conseguem controlar inc\u00eandio em parque nacional de Minas. http://t.co/n2DdiA3849"
-        },
-        {
-            "author_id": "249834425",
-            "created_at": "2014-10-21T00:34:54.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -43.18314061,
-                        -22.96601104
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "97bcdfca1a2dca59"
-            },
-            "id": "524358126037135361",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Se o distinto n\u00f3s uniu \u00e9 pq ele tem algo de bom preparado \u2665\ufe0f @ Teres\u00f3polis, Parque Nacional http://t.co/814WrVMgjg"
-        },
-        {
-            "author_id": "1482106178",
-            "created_at": "2014-10-21T00:31:06.000Z",
-            "id": "524357172617285633",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Esse cachorro ficou no acampamento comigo 2 dias,depois literalmente ele me guiou at\u00e9 a sa\u00edda do Parque Nacional... http://t.co/J89osf3LTA"
-        },
-        {
-            "author_id": "55818224",
-            "created_at": "2014-10-21T00:27:13.000Z",
-            "id": "524356195235008512",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "(opopular) Temporal interrompe inc\u00eandio em parque nacional no RJ:  http://t.co/W8hrphq9b6"
-        },
-        {
-            "author_id": "163438826",
-            "created_at": "2014-10-21T00:20:44.000Z",
-            "id": "524354563156213760",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\u00daltimas Not\u00edcias - Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto http://t.co/OwHtrikXf3"
-        },
-        {
-            "author_id": "2770805502",
-            "created_at": "2014-10-21T00:20:11.000Z",
-            "id": "524354424278241281",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto: Ag\u00eancia BrasilBrigadistas e volunt\u00e1rios ... http://t.co/xxll2GrWwB"
-        },
-        {
-            "author_id": "290212647",
-            "created_at": "2014-10-21T00:20:07.000Z",
-            "id": "524354406997696512",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto: Ag\u00eancia BrasilBrigadistas e volunt\u00e1rios ... http://t.co/jXEF7FoGLY"
-        },
-        {
-            "author_id": "8110402",
-            "created_at": "2014-10-21T00:20:04.000Z",
-            "id": "524354394930688003",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 2
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto http://t.co/SShXKkGFe7"
-        },
-        {
-            "author_id": "2419728392",
-            "created_at": "2014-10-21T00:11:01.000Z",
-            "id": "524352117260419073",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto http://t.co/9PMfnvn15V"
-        },
-        {
-            "author_id": "8110402",
-            "created_at": "2014-10-20T23:59:41.000Z",
-            "id": "524349264999485440",
-            "public_metrics": {
-                "like_count": 2,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 5
-            },
-            "text": "Inc\u00eandio consome 22% de \u00e1rea de parque nacional em MG, diz instituto http://t.co/sQjFYxnQNK"
-        },
-        {
-            "author_id": "412428260",
-            "created_at": "2014-10-20T23:57:04.000Z",
-            "id": "524348606372130816",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Durante o Circuito W no Parque Nacional Torres Del Paine atravessamos muitos riachos!... http://t.co/G7FLKxTMHf"
-        },
-        {
-            "author_id": "64339200",
-            "created_at": "2014-10-20T23:32:10.000Z",
-            "id": "524342340333207552",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#EBCradio Controlado inc\u00eandio no Parque Nacional da Serra do Cip\u00f3 http://t.co/8NDE23Q8zN"
-        },
-        {
-            "author_id": "2426127493",
-            "created_at": "2014-10-20T23:31:02.000Z",
-            "id": "524342055980761088",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Parque Nacional do Araguaia: o parque abriga muitas esp\u00e9cies de aves, como a arara-azul, a harpia e o gavi\u00e3o-real. http://t.co/Yodc0iMQhi"
-        },
-        {
-            "author_id": "22914738",
-            "created_at": "2014-10-20T23:30:38.000Z",
-            "id": "524341954071773184",
-            "public_metrics": {
-                "like_count": 3,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "Parque Nacional do Araguaia: o parque abriga muitas esp\u00e9cies de aves, como a arara-azul, a harpia e o gavi\u00e3o-real. http://t.co/Qh5EAYWwy0"
-        },
-        {
-            "author_id": "206964235",
-            "created_at": "2014-10-20T23:28:12.000Z",
-            "id": "524341343082921985",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#OperacaoBetaLab Temporal interrompe inc\u00eandio em parque nacional no RJ:  http://t.co/yHvbM2lsiU #SDV #TIMBETA"
-        },
-        {
-            "author_id": "1978811202",
-            "created_at": "2014-10-20T23:23:37.000Z",
-            "id": "524340190698287104",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Para\u00edsos naturales de asturies!! http://t.co/1O0Il1HAdW"
-        },
-        {
-            "author_id": "159241601",
-            "created_at": "2014-10-20T23:21:26.000Z",
-            "id": "524339638560112640",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Sucom derruba muros em \u00e1rea de prote\u00e7\u00e3o ambiental no Imbu\u00ed http://t.co/qsY7A4NqSe"
-        },
-        {
-            "author_id": "159241601",
-            "created_at": "2014-10-20T23:21:25.000Z",
-            "id": "524339636470943745",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Sucom derruba muros em \u00e1rea de prote\u00e7\u00e3o ambiental no Imbu\u00ed http://t.co/fqJNrdfgJU"
-        },
-        {
-            "author_id": "159241601",
-            "created_at": "2014-10-20T23:21:21.000Z",
-            "id": "524339618909388801",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Bahia: Sucom derruba muros em \u00e1rea de prote\u00e7\u00e3o ambiental no Imbu\u00ed http://t.co/uzQswhgcXF"
-        },
-        {
-            "author_id": "229327994",
-            "created_at": "2014-10-20T23:14:29.000Z",
-            "id": "524337888683499522",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Chuva forte atenua inc\u00eandio no Parque Nacional da Serra dos \u00d3rg\u00e3os: O inc\u00eandio, que come\u00e7ou\u2026 http://t.co/vkwVSJcfng"
-        },
-        {
-            "author_id": "36043375",
-            "created_at": "2014-10-20T23:11:39.000Z",
-            "id": "524337178223333376",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Topo das Agulhas Negras. Parque Nacional do Itatiaia com anafujita http://t.co/pIMWqoAC1p"
-        },
-        {
-            "author_id": "1137060529",
-            "created_at": "2014-10-20T23:07:52.000Z",
-            "id": "524336224413024256",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Brigadistas controlam focos de inc\u00eandio no Parque Nacional da Serra do Cip\u00f3 http://t.co/lAE3i3xTbA"
-        },
-        {
-            "author_id": "84973444",
-            "created_at": "2014-10-20T22:50:02.000Z",
-            "id": "524331736566484992",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#personalizada1 Brigadistas conseguem controlar inc\u00eandio em parque nacional de Minas: Brigadistas e volunt\u00e1rio... http://t.co/ORnYcoNu7A"
-        },
-        {
-            "author_id": "68599346",
-            "created_at": "2014-10-20T22:50:01.000Z",
-            "id": "524331733664026625",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "#personalizada1 Brigadistas conseguem controlar inc\u00eandio em parque nacional de Minas: Brigadistas e volunt\u00e1rio... http://t.co/WfJxxDkWBv"
-        },
-        {
-            "author_id": "2577958262",
-            "created_at": "2014-10-20T22:50:00.000Z",
-            "id": "524331728337248256",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#betalab #RT Brigadistas conseguem controlar inc\u00eandio em parque nacional de Minas: Brigadistas e volunt\u00e1rios c... http://t.co/daEEpaU7f1"
-        },
-        {
-            "author_id": "2734535420",
-            "created_at": "2014-10-20T22:49:59.000Z",
-            "id": "524331724621090817",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Brigadistas conseguem controlar inc\u00eandio em parque nacional de Minas: Brigadistas e volunt\u00e1rios conseguiram co... http://t.co/MK6IQEkat9"
-        },
-        {
-            "author_id": "2810285269",
-            "created_at": "2014-10-20T22:49:53.000Z",
-            "id": "524331699098763267",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Brigadistas conseguem controlar inc\u00eandio em parque nacional de Minas: Brigadistas e volunt\u00e1rios conseguiram co... http://t.co/fHxlUv6Pv3"
-        },
-        {
-            "author_id": "212699862",
-            "created_at": "2014-10-20T22:49:48.000Z",
-            "id": "524331680228573184",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Brigadistas conseguem controlar inc\u00eandio em parque nacional de Minas: Brigadistas e volunt\u00e1rios conseguiram co... http://t.co/wutd5WmTln"
-        },
-        {
-            "author_id": "357999551",
-            "created_at": "2014-10-20T22:49:40.000Z",
-            "id": "524331645059350528",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#Folha Brigadistas conseguem controlar inc\u00eandio em parque nacional de Minas: Brigadistas e volunt\u00e1rios consegu... http://t.co/4zN4bfIXNj"
-        },
-        {
-            "author_id": "55818224",
-            "created_at": "2014-10-20T22:49:37.000Z",
-            "id": "524331633751511041",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "(folha) Brigadistas conseguem controlar inc\u00eandio em parque nacional de Minas: Brigadistas e volunt\u00e1rios conseg... http://t.co/SK14lIpVCQ"
-        },
-        {
             "author_id": "2586696614",
             "created_at": "2014-10-20T22:49:36.000Z",
             "id": "524331627518771200",
@@ -3879,18 +2463,6 @@
             "text": "La estava eu,na ciTY de Sete Cidades,No Parque Nacional de Sete Cidades!(56 m de alutura) #SouFoda #EMABiggestFans1D http://t.co/bBZDbAo9wX"
         },
         {
-            "author_id": "1323573452",
-            "created_at": "2014-10-20T14:09:33.000Z",
-            "id": "524200753070882816",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Pouso na Serra reservou ao patrim\u00f4nio natural praticamente 50% das terras do seu vale. S\u00e3o195 ha de floresta bem... http://t.co/Xy5z1EafQG"
-        },
-        {
             "author_id": "2426127493",
             "created_at": "2014-10-20T13:29:16.000Z",
             "id": "524190616406990848",
@@ -3913,27 +2485,6 @@
                 "retweet_count": 1
             },
             "text": "Parque Nacional de Ubajara: a maior atra\u00e7\u00e3o do Parque \u00e9 a Gruta de Ubajara, al\u00e9m de trilhas e cachoeiras. http://t.co/fvbRbiSlQx"
-        },
-        {
-            "author_id": "2732713430",
-            "created_at": "2014-10-20T13:23:25.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 132,
-                        "start": 122,
-                        "username": "g1lagosrj"
-                    }
-                ]
-            },
-            "id": "524189145200353280",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "O projeto Fazenda S\u00e3o Bento da Lagoa vai criar a segunda maior RPPN do Estado do RJ, em Maric\u00e1.http://t.co/l6mxvKGt3Y via @g1lagosrj"
         },
         {
             "author_id": "2285267941",
@@ -4421,27 +2972,6 @@
             "text": "Mais treeking pela lind\u00edssima Bahia de Lapataia, no Parque Nacional da Terra do Fogo!!!\u2026 http://t.co/oSN9NFa6KA"
         },
         {
-            "author_id": "244564564",
-            "created_at": "2014-10-19T23:28:56.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 83,
-                        "start": 75,
-                        "username": "YouTube"
-                    }
-                ]
-            },
-            "id": "523979138202226688",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Entendendo um pouco mais sobre RPPN - V\u00eddeo 02: http://t.co/WlFIyQTHOO via @YouTube"
-        },
-        {
             "author_id": "177402942",
             "created_at": "2014-10-19T23:28:24.000Z",
             "id": "523979003980681216",
@@ -4478,27 +3008,6 @@
                 "retweet_count": 2
             },
             "text": "Foto do PARNASO, Parque Nacional da Serra dos \u00d3rg\u00e3os, fogo consumindo a Mata Atl\u00e2ntica @climatemponews @odia24horas http://t.co/5FzENNeHjG"
-        },
-        {
-            "author_id": "244564564",
-            "created_at": "2014-10-19T23:20:19.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 83,
-                        "start": 75,
-                        "username": "YouTube"
-                    }
-                ]
-            },
-            "id": "523976969218564097",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Entendendo um pouco mais sobre RPPN - V\u00eddeo 01: http://t.co/vj61lxNoN0 via @YouTube"
         },
         {
             "author_id": "2251265449",
@@ -6367,6 +4876,1640 @@
                 "retweet_count": 0
             },
             "text": "#Mundo: Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul http://t.co/OfBZJxf6hB"
+        },
+        {
+            "author_id": "911411576",
+            "created_at": "2014-10-18T22:26:50.000Z",
+            "id": "523601124075397120",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque\u2026 http://t.co/w4AoqQ2u9G"
+        },
+        {
+            "author_id": "540197898",
+            "created_at": "2014-10-18T22:25:07.000Z",
+            "id": "523600690413719554",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional http://t.co/SsxYCVywu5 #natal"
+        },
+        {
+            "author_id": "32453798",
+            "created_at": "2014-10-18T22:24:47.000Z",
+            "id": "523600605361631232",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque ... - TNonline http://t.co/yQlZUxhKWk"
+        },
+        {
+            "author_id": "2415648892",
+            "created_at": "2014-10-18T22:23:21.000Z",
+            "id": "523600247726297088",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque ... - TNonline http://t.co/aXaf23MbLG"
+        },
+        {
+            "author_id": "262677609",
+            "created_at": "2014-10-18T22:19:23.000Z",
+            "id": "523599248596557824",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#ForaDelcidio Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque ... - TNonline http://t.co/76IfyVnw1Q - #ForaPT"
+        },
+        {
+            "author_id": "97785805",
+            "created_at": "2014-10-18T22:15:54.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 75,
+                        "start": 62,
+                        "username": "brasil_IBAMA"
+                    }
+                ]
+            },
+            "id": "523598370364203008",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional Serra dos \u00d3rg\u00e3os - Parnaso, precisa de ajuda! @brasil_IBAMA http://t.co/xBj41EWdfA"
+        },
+        {
+            "author_id": "378143092",
+            "created_at": "2014-10-18T22:14:52.000Z",
+            "id": "523598111340781568",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Folha- Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional: O inc\u00eandio florestal que atinge... http://t.co/dN736BzzHc"
+        },
+        {
+            "author_id": "1720521139",
+            "created_at": "2014-10-18T22:12:00.000Z",
+            "id": "523597390516084736",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo atinge \u00e1rea do Parque Nacional da Serra dos \u00d3rg\u00e3os, em Teres\u00f3polis http://t.co/9KxjR99QrH"
+        },
+        {
+            "author_id": "788232638",
+            "created_at": "2014-10-18T22:11:55.000Z",
+            "id": "523597371209711616",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT deigmar: Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional http://t.co/vL1KcmOT8q"
+        },
+        {
+            "author_id": "54094836",
+            "created_at": "2014-10-18T22:09:22.000Z",
+            "id": "523596727228440577",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/ZB3gspqU65"
+        },
+        {
+            "author_id": "54542655",
+            "created_at": "2014-10-18T22:08:55.000Z",
+            "id": "523596614275846144",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional http://t.co/GP1Bi5I4Xo"
+        },
+        {
+            "author_id": "97785805",
+            "created_at": "2014-10-18T22:06:15.000Z",
+            "id": "523595943288246272",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional Serra dos \u00d3rg\u00e3os - Parnaso, precisa de ajuda!  #C130H\u00e9rcules\n\nRead: http://t.co/ndU0umNQWO"
+        },
+        {
+            "author_id": "260495817",
+            "created_at": "2014-10-18T22:00:16.000Z",
+            "id": "523594438929817601",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Dilma cria a Esta\u00e7\u00e3o Ecol\u00f3gica Alto Mau\u00e9s (AM), a s\u00e9tima Unidade Conserva\u00e7\u00e3o esta semana | ISA -... http://t.co/9tOaeQgnYt"
+        },
+        {
+            "author_id": "84973444",
+            "created_at": "2014-10-18T21:53:29.000Z",
+            "id": "523592729192693760",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#personalizada1 Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional: O inc\u00eandio florestal q... http://t.co/PfJTHSSbLU"
+        },
+        {
+            "author_id": "68599346",
+            "created_at": "2014-10-18T21:53:28.000Z",
+            "id": "523592726378315776",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#personalizada1 Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional: O inc\u00eandio florestal q... http://t.co/hfIk0k3tFp"
+        },
+        {
+            "author_id": "2577958262",
+            "created_at": "2014-10-18T21:53:27.000Z",
+            "id": "523592721601015808",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#betalab #RT Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional: O inc\u00eandio florestal que ... http://t.co/Qgy253SPC6"
+        },
+        {
+            "author_id": "2734535420",
+            "created_at": "2014-10-18T21:53:26.000Z",
+            "id": "523592718522388480",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional: O inc\u00eandio florestal que atinge o Parq... http://t.co/7OOaimeHuT"
+        },
+        {
+            "author_id": "279314726",
+            "created_at": "2014-10-18T21:52:54.000Z",
+            "id": "523592584334024704",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul http://t.co/0T0iLZpS5q"
+        },
+        {
+            "author_id": "190990309",
+            "created_at": "2014-10-18T21:52:39.000Z",
+            "id": "523592521939566592",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul http://t.co/9tyzR1kGz8"
+        },
+        {
+            "author_id": "36155119",
+            "created_at": "2014-10-18T21:46:23.000Z",
+            "id": "523590944034390017",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional - Not\u00edcias de... http://t.co/S8WcW0axQP"
+        },
+        {
+            "author_id": "32453798",
+            "created_at": "2014-10-18T21:46:05.000Z",
+            "id": "523590866259034112",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional http://t.co/uDLoa30Gjh"
+        },
+        {
+            "author_id": "513533519",
+            "created_at": "2014-10-18T21:46:03.000Z",
+            "id": "523590858050785280",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional http://t.co/WnLhJdeGMc"
+        },
+        {
+            "author_id": "2292075738",
+            "created_at": "2014-10-18T21:46:02.000Z",
+            "id": "523590856293351425",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Novo artigo - acesse Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional http://t.co/NWF0Gg38JA http://t.co/8aoUXT9fH6"
+        },
+        {
+            "author_id": "2810285269",
+            "created_at": "2014-10-18T21:45:02.000Z",
+            "id": "523590605541109761",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional: O inc\u00eandio florestal que atinge o Parq... http://t.co/jwLgJmpblt"
+        },
+        {
+            "author_id": "212699862",
+            "created_at": "2014-10-18T21:44:58.000Z",
+            "id": "523590589074251777",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional: O inc\u00eandio florestal que atinge o Parq... http://t.co/0A10GcbVNN"
+        },
+        {
+            "author_id": "357999551",
+            "created_at": "2014-10-18T21:44:51.000Z",
+            "id": "523590558237728770",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Folha Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional: O inc\u00eandio florestal que atinge... http://t.co/MHPnwRnP7P"
+        },
+        {
+            "author_id": "55818224",
+            "created_at": "2014-10-18T21:44:49.000Z",
+            "id": "523590547500326912",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "(folha) Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional: O inc\u00eandio florestal que ating... http://t.co/p16yzLr8ek"
+        },
+        {
+            "author_id": "2586696614",
+            "created_at": "2014-10-18T21:44:47.000Z",
+            "id": "523590541770895360",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional: O inc\u00eandio florestal que atinge o Parq... http://t.co/glEOo7XaEi"
+        },
+        {
+            "author_id": "1137060529",
+            "created_at": "2014-10-18T21:44:05.000Z",
+            "id": "523590366432202752",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional http://t.co/sglHVvojy2"
+        },
+        {
+            "author_id": "77204624",
+            "created_at": "2014-10-18T21:43:12.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 130,
+                        "start": 127,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "523590143710470145",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "G1 - Inc\u00eandio chega aos campos de altitude do Parque Nacional na Serra - not\u00edcias em Regi\u00e3o Serrana http://t.co/BsPkooqpEt via @g1"
+        },
+        {
+            "author_id": "2585916139",
+            "created_at": "2014-10-18T21:40:01.000Z",
+            "id": "523589342129057794",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul http://t.co/v8ZzL514ah #timbeta #OperacaoBetaLab #SDV"
+        },
+        {
+            "author_id": "2792170752",
+            "created_at": "2014-10-18T21:39:39.000Z",
+            "id": "523589248616636416",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#OperacaoBetaLab  Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional http://t.co/QPbRCLVo2D #RT"
+        },
+        {
+            "author_id": "86142824",
+            "created_at": "2014-10-18T21:39:38.000Z",
+            "id": "523589245362274304",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#OperacaoBetaLab  Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional http://t.co/9nKvvP4Qf5 #RT"
+        },
+        {
+            "author_id": "2203379256",
+            "created_at": "2014-10-18T21:38:38.000Z",
+            "id": "523588994211135488",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/TPNOcnveJM"
+        },
+        {
+            "author_id": "2601447986",
+            "created_at": "2014-10-18T21:38:38.000Z",
+            "id": "523588991799422976",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/FYHb09DwvF"
+        },
+        {
+            "author_id": "2656878664",
+            "created_at": "2014-10-18T21:38:37.000Z",
+            "id": "523588990310436864",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/g5v3n00Mb4"
+        },
+        {
+            "author_id": "589204432",
+            "created_at": "2014-10-18T21:38:36.000Z",
+            "id": "523588984744603648",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/o5CwrQQf2q"
+        },
+        {
+            "author_id": "2421531331",
+            "created_at": "2014-10-18T21:38:34.000Z",
+            "id": "523588978079850498",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/YBDnXDaY56"
+        },
+        {
+            "author_id": "2786124883",
+            "created_at": "2014-10-18T21:38:34.000Z",
+            "id": "523588978075652096",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/wZAYdbexns"
+        },
+        {
+            "author_id": "1913805602",
+            "created_at": "2014-10-18T21:38:31.000Z",
+            "id": "523588965404667904",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/xaQoVzA7d1"
+        },
+        {
+            "author_id": "1640796420",
+            "created_at": "2014-10-18T21:38:30.000Z",
+            "id": "523588961059364864",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/pMoZjoI550"
+        },
+        {
+            "author_id": "1924946810",
+            "created_at": "2014-10-18T21:38:29.000Z",
+            "id": "523588955455774720",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/8EqkbGQAsv"
+        },
+        {
+            "author_id": "1852048682",
+            "created_at": "2014-10-18T21:38:29.000Z",
+            "id": "523588953622843392",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/nOincXHBPb"
+        },
+        {
+            "author_id": "1548252223",
+            "created_at": "2014-10-18T21:38:28.000Z",
+            "id": "523588951785750529",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/hSjm9xV1kv"
+        },
+        {
+            "author_id": "1465160659",
+            "created_at": "2014-10-18T21:38:28.000Z",
+            "id": "523588950191927297",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul: Ca\u00e7adores retiram os chifres e abandona... http://t.co/trKSlmUn3C"
+        },
+        {
+            "author_id": "2795340791",
+            "created_at": "2014-10-18T21:37:44.000Z",
+            "id": "523588767706148864",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional:  http://t.co/vYR5LFnIf4"
+        },
+        {
+            "author_id": "2772475604",
+            "created_at": "2014-10-18T21:37:07.000Z",
+            "id": "523588612500099072",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul http://t.co/BAUIudZYaq"
+        },
+        {
+            "author_id": "92891035",
+            "created_at": "2014-10-18T21:34:43.000Z",
+            "id": "523588006972624896",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul http://t.co/1uMDl9A7wc"
+        },
+        {
+            "author_id": "2149712851",
+            "created_at": "2014-10-18T21:30:15.000Z",
+            "id": "523586885596086272",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Folha de S\u00e3o Paulo - Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional - http://t.co/qpVzY9fqrB #not\u00edcias"
+        },
+        {
+            "author_id": "2741225132",
+            "created_at": "2014-10-18T21:29:38.000Z",
+            "id": "523586728867954690",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Temendo a ca\u00e7a, parque nacional realoca rinocerontes na \u00c1frica do Sul http://t.co/1Tyve4veLM"
+        },
+        {
+            "author_id": "90965235",
+            "created_at": "2014-10-18T21:29:02.000Z",
+            "id": "523586579181600768",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta de parque nacional. http://t.co/mgfS9HVaTJ"
+        },
+        {
+            "author_id": "253937295",
+            "created_at": "2014-10-18T21:18:05.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -55.8080737,
+                        -29.7962834
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "3c062278ce8e6505"
+            },
+            "id": "523583821217026049",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acabou de publicar uma foto @ Parque Nacional Do Igua\u00e7u http://t.co/zDqgV7mOzr"
+        },
+        {
+            "author_id": "40460716",
+            "created_at": "2014-10-18T21:15:55.000Z",
+            "id": "523583278301736961",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Queimada avan\u00e7a na Serra dos \u00d3rg\u00e3os:... http://t.co/RcW6cGweEl"
+        },
+        {
+            "author_id": "149272656",
+            "created_at": "2014-10-18T20:55:25.000Z",
+            "id": "523578116745068545",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional http://t.co/Dw3rPCyegq"
+        },
+        {
+            "author_id": "149267484",
+            "created_at": "2014-10-18T20:55:25.000Z",
+            "id": "523578116669595648",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional http://t.co/M2pzpnfBJN"
+        },
+        {
+            "author_id": "155350464",
+            "created_at": "2014-10-18T20:55:25.000Z",
+            "id": "523578116652822528",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional http://t.co/iYa4yncvjN"
+        },
+        {
+            "author_id": "483140780",
+            "created_at": "2014-10-18T20:54:13.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 132,
+                        "start": 129,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "523577817632899072",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Trag\u00e9dia ambiental: Inc\u00eandio em Petr\u00f3polis/RJ atinge um dos ecossistemas mais raros da Mata Atl\u00e2ntica http://t.co/Ow9sAhhA8Y via @g1"
+        },
+        {
+            "author_id": "115666984",
+            "created_at": "2014-10-18T20:52:17.000Z",
+            "id": "523577327385866241",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio chega aos campos de altitude do Parque Nacional na Serra http://t.co/q6rTisyVtU"
+        },
+        {
+            "author_id": "32453798",
+            "created_at": "2014-10-18T20:49:40.000Z",
+            "id": "523576671564070912",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na Regi\u00e3o Serrana do Rio atinge \u00e1rea mais alta do Parque ... - Jornal do Brasil http://t.co/EsaoQNFy59"
+        },
+        {
+            "author_id": "2328877819",
+            "created_at": "2014-10-18T20:49:07.000Z",
+            "id": "523576530744537089",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na Regi\u00e3o Serrana do Rio atinge \u00e1rea mais alta do Parque ... - Jornal do Brasil http://t.co/3urSknq8Xk"
+        },
+        {
+            "author_id": "322093607",
+            "created_at": "2014-10-18T20:48:41.000Z",
+            "id": "523576422393479169",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Nossa solidariedade e apoio ao Parque Nacional da Serra dos \u00d3rg\u00e3os.\nUma equipe do PNT com servidor, brigadistas e... http://t.co/jnsb3sxO2W"
+        },
+        {
+            "author_id": "421871703",
+            "created_at": "2014-10-18T20:44:19.000Z",
+            "id": "523575322353336320",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na Regi\u00e3o Serrana do Rio atinge \u00e1rea mais alta do Parque ... - Jornal do Brasil http://t.co/CLGWQmArP7 #not\u00edcias"
+        },
+        {
+            "author_id": "704093994",
+            "created_at": "2014-10-18T20:41:07.000Z",
+            "id": "523574518166454272",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "http://t.co/LZpka1krfy Fogo na Regi\u00e3o Serrana do Rio atinge \u00e1rea mais alta do Parque ... Jornal do Brasil O\u2026 http://t.co/cz1dHCgOn0"
+        },
+        {
+            "author_id": "117475826",
+            "created_at": "2014-10-18T20:17:21.000Z",
+            "id": "523568538750287872",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "BRASIL - Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional - http://t.co/Y3itFbSfES"
+        },
+        {
+            "author_id": "1089535657",
+            "created_at": "2014-10-18T20:12:46.000Z",
+            "id": "523567385408962560",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\"Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional\" http://t.co/q2zqyNnkIf"
+        },
+        {
+            "author_id": "126750296",
+            "created_at": "2014-10-18T19:58:05.000Z",
+            "id": "523563687844409344",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional. Leia mais: http://t.co/OCXamY2Vi0 http://t.co/8HyBdvMFRl"
+        },
+        {
+            "author_id": "62935693",
+            "created_at": "2014-10-18T19:49:52.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 130,
+                        "start": 127,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "523561622212603904",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "G1 - Inc\u00eandio chega aos campos de altitude do Parque Nacional na Serra - not\u00edcias em Regi\u00e3o Serrana http://t.co/MdiqfVX2lX via @g1"
+        },
+        {
+            "author_id": "1532692332",
+            "created_at": "2014-10-18T19:49:25.000Z",
+            "id": "523561508127510529",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Situa\u00e7\u00e3o de inc\u00eandios em Teres\u00f3polis se agrava.\n\nAnonymous Black Faces\nOs inc\u00eandios no Parque Nacional da Serra... http://t.co/hNYgnUtu32"
+        },
+        {
+            "author_id": "384345531",
+            "created_at": "2014-10-18T19:33:38.000Z",
+            "id": "523557537291829248",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio na regi\u00e3o serrana do RJ atinge \u00e1rea mais alta do Parque Nacional: Ag\u00eancia Brasil\u2026 http://t.co/KZfkgIz523"
+        },
+        {
+            "author_id": "15750149",
+            "created_at": "2014-10-18T19:24:05.000Z",
+            "id": "523555132089188352",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "http://t.co/MS417BHw5C #news Fogo na Regi\u00e3o Serrana do Rio atinge \u00e1rea mais alta do Parque\u2026 http://t.co/RVrphwf8Kd"
+        },
+        {
+            "author_id": "56993783",
+            "created_at": "2014-10-18T19:11:14.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 130,
+                        "start": 127,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "523551898398240768",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "G1 - Inc\u00eandio chega aos campos de altitude do Parque Nacional na Serra - not\u00edcias em Regi\u00e3o Serrana http://t.co/j46B0WfYaK via @g1"
+        },
+        {
+            "author_id": "22758553",
+            "created_at": "2014-10-18T19:09:43.000Z",
+            "id": "523551515433136128",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Brasil: Inc\u00eandio chega aos campos de altitude do Parque Nacional na Serra http://t.co/jWYPrLKPX7"
+        },
+        {
+            "author_id": "16196902",
+            "created_at": "2014-10-18T19:09:16.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 108,
+                        "start": 94,
+                        "username": "agenciabrasil"
+                    }
+                ]
+            },
+            "id": "523551403189342208",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional http://t.co/004L7yNiOQ @agenciabrasil"
+        },
+        {
+            "author_id": "418774190",
+            "created_at": "2014-10-18T19:03:18.000Z",
+            "id": "523549902945943552",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Conemorando niver da cunhada no Restaurante doa Esquilos - Parque Nacional da Floresta a Tijuca -\u2026 http://t.co/Oc626T1icP"
+        },
+        {
+            "author_id": "105613843",
+            "created_at": "2014-10-18T19:02:14.000Z",
+            "id": "523549633893527552",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#RGP Situa\u00e7\u00e3o de inc\u00eandios em Teres\u00f3polis se agrava: Rio - Os inc\u00eandios no Parque Nacional da Serra dos \u00d3rg\u00e3os... http://t.co/LzENK7QBQs"
+        },
+        {
+            "author_id": "2758759168",
+            "created_at": "2014-10-18T19:01:15.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 130,
+                        "start": 127,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "523549387801100288",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "G1 - Inc\u00eandio chega aos campos de altitude do Parque Nacional na Serra - not\u00edcias em Regi\u00e3o Serrana http://t.co/vh8bmectjN via @g1"
+        },
+        {
+            "author_id": "384845473",
+            "created_at": "2014-10-18T19:00:08.000Z",
+            "id": "523549107005050881",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional: O inc\u00eandio florestal que atinge o Parq... http://t.co/kn1ERRPo6U"
+        },
+        {
+            "author_id": "195174626",
+            "created_at": "2014-10-18T19:00:05.000Z",
+            "id": "523549091671048192",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Brasil passa a ter novos parques nacionais e amplia \u00e1rea protegida\n\nMais informa\u00e7\u00f5es em :... http://t.co/vMVJ9uFfTQ"
+        },
+        {
+            "author_id": "142439705",
+            "created_at": "2014-10-18T18:58:09.000Z",
+            "id": "523548605698031616",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "INC\u00caNDIO J\u00c1 ATINGE \u00c1REA ALTA DO PARQUE NACIONAL... http://t.co/btkxWwLM3K"
+        },
+        {
+            "author_id": "1089535657",
+            "created_at": "2014-10-18T18:57:03.000Z",
+            "id": "523548327628259328",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional\n\nhttp://t.co/fH2yKm210L"
+        },
+        {
+            "author_id": "142439705",
+            "created_at": "2014-10-18T18:56:13.000Z",
+            "id": "523548118558601216",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "BLOG ALVARO NEVES \"O ETERNO APRENDIZ\" CABO FRIO: INC\u00caNDIO J\u00c1 ATINGE \u00c1REA ALTA DO PARQUE NACIONAL http://t.co/FGsx1vgK0f"
+        },
+        {
+            "author_id": "951800731",
+            "created_at": "2014-10-18T18:56:12.000Z",
+            "id": "523548116931207168",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional: O inc\u00eandio florestal que atinge o Parq... http://t.co/U3MAKbvjGO"
+        },
+        {
+            "author_id": "346913403",
+            "created_at": "2014-10-18T18:56:11.000Z",
+            "id": "523548109557616641",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional: O inc\u00eandio florestal que atinge o Parq... http://t.co/40jnV6OL9X"
+        },
+        {
+            "author_id": "2828081834",
+            "created_at": "2014-10-18T18:56:10.000Z",
+            "id": "523548107108151296",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Situa\u00e7\u00e3o de inc\u00eandios em Teres\u00f3polis se agrava: Rio - Os inc\u00eandios no Parque Nacional da Serra dos \u00d3rg\u00e3os, em ... http://t.co/c0XQLWlm6B"
+        },
+        {
+            "author_id": "142439705",
+            "created_at": "2014-10-18T18:56:04.000Z",
+            "id": "523548083238744064",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "BLOG ALVARO NEVES \"O ETERNO APRENDIZ\" CABO FRIO: INC\u00caNDIO J\u00c1 ATINGE \u00c1REA ALTA DO PARQUE NACIONAL http://t.co/gsrg9tirHm"
+        },
+        {
+            "author_id": "31622729",
+            "created_at": "2014-10-18T18:53:07.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 130,
+                        "start": 127,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "523547340053819392",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "G1 - Inc\u00eandio chega aos campos de altitude do Parque Nacional na Serra - not\u00edcias em Regi\u00e3o Serrana http://t.co/8UApBm9gdd via @g1"
+        },
+        {
+            "author_id": "53772716",
+            "created_at": "2014-10-18T18:50:32.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "start": 3,
+                        "username": "ebcnarede"
+                    }
+                ]
+            },
+            "id": "523546689857417216",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "RT @ebcnarede: Rio de Janeiro: fogo na regi\u00e3o serrana atinge \u00e1rea mais alta do Parque Nacional http://t.co/vNNMThA5Ez"
+        },
+        {
+            "author_id": "103927723",
+            "created_at": "2014-10-18T18:49:33.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 130,
+                        "start": 127,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "523546441558413312",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "G1 - Inc\u00eandio chega aos campos de altitude do Parque Nacional na Serra - not\u00edcias em Regi\u00e3o Serrana http://t.co/GIXwoy7UNP via @g1"
+        },
+        {
+            "author_id": "150305894",
+            "created_at": "2014-10-18T18:47:17.000Z",
+            "id": "523545871003045888",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/91zsMOAeRF"
+        },
+        {
+            "author_id": "323405199",
+            "created_at": "2014-10-18T18:47:12.000Z",
+            "id": "523545848873893888",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/HEMakbeKeu"
+        },
+        {
+            "author_id": "384345531",
+            "created_at": "2014-10-18T18:47:01.000Z",
+            "id": "523545805194416128",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio na regi\u00e3o serrana do RJ atinge \u00e1rea mais alta do Parque Nacional: Ag\u00eancia Brasil\u2026 http://t.co/uwUeqDVkck"
+        },
+        {
+            "author_id": "421268817",
+            "created_at": "2014-10-18T18:45:03.000Z",
+            "id": "523545308715053056",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Rio de Janeiro: fogo na regi\u00e3o serrana atinge \u00e1rea mais alta do Parque Nacional http://t.co/LxNLX0Pn5X"
+        },
+        {
+            "author_id": "2828081834",
+            "created_at": "2014-10-18T18:43:48.000Z",
+            "id": "523544994578055168",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio na regi\u00e3o serrana do RJ atinge \u00e1rea mais alta: O inc\u00eandio florestal que atinge o Parque Nacional da S... http://t.co/I50S4Kintd"
+        },
+        {
+            "author_id": "64339200",
+            "created_at": "2014-10-18T18:40:09.000Z",
+            "id": "523544077388623872",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#EBC Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional http://t.co/EnKXyzA79I"
+        },
+        {
+            "author_id": "199126736",
+            "created_at": "2014-10-18T18:34:01.000Z",
+            "id": "523542534153179137",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Situa\u00e7\u00e3o de inc\u00eandios em Teres\u00f3polis se agrava: Rio - Os inc\u00eandios no Parque Nacional da Serra dos \u00d3rg\u00e3os, em ... http://t.co/J0v5PrRjD2"
+        },
+        {
+            "author_id": "2775035258",
+            "created_at": "2014-10-18T18:26:15.000Z",
+            "id": "523540578600886273",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Situa\u00e7\u00e3o de inc\u00eandios em Teres\u00f3polis se agrava: Rio - Os inc\u00eandios no Parque Nacional da Serra dos \u00d3rg\u00e3os, em ... http://t.co/Lg6tI7j4Wx"
+        },
+        {
+            "author_id": "2720697997",
+            "created_at": "2014-10-18T18:26:14.000Z",
+            "id": "523540572577873920",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Situa\u00e7\u00e3o de inc\u00eandios em Teres\u00f3polis se agrava: Rio - Os inc\u00eandios no Parque Nacional da Serra dos \u00d3rg\u00e3os, em ... http://t.co/IwmXQdvyDj"
+        },
+        {
+            "author_id": "225095414",
+            "created_at": "2014-10-18T18:25:26.000Z",
+            "id": "523540373453697024",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio chega aos campos de altitude do Parque Nacional na Serra\nhttp://t.co/iY7YXGVYk0 http://t.co/i55tqIIIzi"
+        },
+        {
+            "author_id": "1850795346",
+            "created_at": "2014-10-18T18:18:24.000Z",
+            "id": "523538602504892417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na Regi\u00e3o Serrana do Rio atinge \u00e1rea mais alta do Parque Nacional http://t.co/h5stVgREJD"
+        },
+        {
+            "author_id": "1850795346",
+            "created_at": "2014-10-18T18:18:16.000Z",
+            "id": "523538571190210560",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na Regi\u00e3o Serrana do Rio atinge \u00e1rea mais alta do Parque Nacional http://t.co/gN7i108quh"
+        },
+        {
+            "author_id": "67150902",
+            "created_at": "2014-10-18T18:15:36.000Z",
+            "id": "523537899631824896",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/7B8huxTu0y"
+        },
+        {
+            "author_id": "2834365090",
+            "created_at": "2014-10-18T18:15:36.000Z",
+            "id": "523537898134454273",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/Bm2Uae612u"
+        },
+        {
+            "author_id": "2799701560",
+            "created_at": "2014-10-18T18:15:35.000Z",
+            "id": "523537895282323458",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/whmS4gXBgL"
+        },
+        {
+            "author_id": "2799772313",
+            "created_at": "2014-10-18T18:15:35.000Z",
+            "id": "523537892258238464",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/058055X4JK"
+        },
+        {
+            "author_id": "2799793317",
+            "created_at": "2014-10-18T18:15:34.000Z",
+            "id": "523537890769268736",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/n4cHqXeb1c"
+        },
+        {
+            "author_id": "2799875225",
+            "created_at": "2014-10-18T18:15:34.000Z",
+            "id": "523537889334800384",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/za8BSlio4t"
+        },
+        {
+            "author_id": "2792059545",
+            "created_at": "2014-10-18T18:15:34.000Z",
+            "id": "523537887921332224",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/dRf9G5fXtO"
+        },
+        {
+            "author_id": "2792586153",
+            "created_at": "2014-10-18T18:15:33.000Z",
+            "id": "523537886444929025",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/s6sbNyVeit"
+        },
+        {
+            "author_id": "2835681151",
+            "created_at": "2014-10-18T18:15:32.000Z",
+            "id": "523537883617976320",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/V0VVX3aKs6"
+        },
+        {
+            "author_id": "2793007745",
+            "created_at": "2014-10-18T18:15:32.000Z",
+            "id": "523537882313531392",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/8ID732Nlx8"
+        },
+        {
+            "author_id": "2791317093",
+            "created_at": "2014-10-18T18:15:32.000Z",
+            "id": "523537880740663297",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/LYkxwYyM6C"
+        },
+        {
+            "author_id": "2288697877",
+            "created_at": "2014-10-18T18:15:31.000Z",
+            "id": "523537879293652992",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/AROGaj2Qb9"
+        },
+        {
+            "author_id": "2791397703",
+            "created_at": "2014-10-18T18:15:31.000Z",
+            "id": "523537877678841857",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/wimhq4xTW5"
+        },
+        {
+            "author_id": "2834433887",
+            "created_at": "2014-10-18T18:15:30.000Z",
+            "id": "523537874839302144",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional:  http://t.co/ND3yxKQ6yc"
+        },
+        {
+            "author_id": "15750149",
+            "created_at": "2014-10-18T18:15:24.000Z",
+            "id": "523537850038353921",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "http://t.co/MS417BHw5C #news Fogo na Regi\u00e3o Serrana do Rio atinge \u00e1rea mais alta do Parque\u2026 http://t.co/zRilTnjV3g"
+        },
+        {
+            "author_id": "572821263",
+            "created_at": "2014-10-18T18:15:08.000Z",
+            "id": "523537780589096961",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Situa\u00e7\u00e3o de inc\u00eandios em Teres\u00f3polis se agrava: Rio - Os inc\u00eandios no Parque Nacional da Serra dos \u00d3rg\u00e3os, em ... http://t.co/VP7S4KOlVc"
+        },
+        {
+            "author_id": "17850880",
+            "created_at": "2014-10-18T18:12:11.000Z",
+            "id": "523537038079844352",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio na regi\u00e3o serrana do Rio atinge \u00e1rea mais alta do Parque Nacional http://t.co/AfYcqYrdcv"
+        },
+        {
+            "author_id": "519657357",
+            "created_at": "2014-10-18T18:09:01.000Z",
+            "id": "523536242621693953",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Situa\u00e7\u00e3o de inc\u00eandios em Teres\u00f3polis se agrava: Os inc\u00eandios no Parque Nacional da Serra dos \u00d3rg\u00e3os, em Teres\u00f3... http://t.co/dzGWlvJJQM"
+        },
+        {
+            "author_id": "517311998",
+            "created_at": "2014-10-18T18:09:00.000Z",
+            "id": "523536239211728896",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Situa\u00e7\u00e3o de inc\u00eandios em Teres\u00f3polis se agrava: Os inc\u00eandios no Parque Nacional da Serra dos \u00d3rg\u00e3os, em Teres\u00f3... http://t.co/UbBchTNRT4"
+        },
+        {
+            "author_id": "1703495635",
+            "created_at": "2014-10-18T18:09:00.000Z",
+            "id": "523536237747896321",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Situa\u00e7\u00e3o de inc\u00eandios em Teres\u00f3polis se agrava: Os inc\u00eandios no Parque Nacional da Serra dos \u00d3rg\u00e3os, em Teres\u00f3... http://t.co/I9BvpNa8IE"
+        },
+        {
+            "author_id": "66740203",
+            "created_at": "2014-10-18T18:07:12.000Z",
+            "id": "523535785602338817",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fogo atinge \u00e1rea do Parque Nacional da Serra dos \u00d3rg\u00e3os, em Teres\u00f3polis http://t.co/4QWWyLIs76"
+        },
+        {
+            "author_id": "163438826",
+            "created_at": "2014-10-18T18:05:38.000Z",
+            "id": "523535392038203392",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00daltimas Not\u00edcias - Inc\u00eandio na regi\u00e3o serrana do RJ atinge \u00e1rea mais alta do Parque Nacional http://t.co/gN5i4XlN1K"
+        },
+        {
+            "author_id": "2492078744",
+            "created_at": "2014-10-18T18:02:58.000Z",
+            "id": "523534717455306752",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Situa\u00e7\u00e3o de inc\u00eandios em Teres\u00f3polis se agrava: Os inc\u00eandios no Parque Nacional da Serra dos \u00d3rg\u00e3os, em Teres\u00f3... http://t.co/9zFoIJbDEs"
+        },
+        {
+            "author_id": "94388843",
+            "created_at": "2014-10-18T18:00:22.000Z",
+            "id": "523534064742322176",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Not\u00edcias da semana | Cria\u00e7\u00e3o do Parque Nacional do Gandarela pode viabilizar investimento da Vale http://t.co/C0bZpVT8rg"
+        },
+        {
+            "author_id": "57460014",
+            "created_at": "2014-10-18T17:59:58.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "start": 3,
+                        "username": "ultimosegundo"
+                    }
+                ]
+            },
+            "id": "523533965500510208",
+            "in_reply_to_user_id": "8110402",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT @ultimosegundo:  Inc\u00eandio na regi\u00e3o serrana do RJ atinge \u00e1rea mais alta do Parque Nacional http://t.co/neyMqBN3c6"
+        },
+        {
+            "author_id": "39397485",
+            "created_at": "2014-10-18T17:59:36.000Z",
+            "id": "523533871493558272",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio na regi\u00e3o serrana do RJ atinge \u00e1rea mais alta do Parque Nacional  http://t.co/J5xexDXUe0"
+        },
+        {
+            "author_id": "8110402",
+            "created_at": "2014-10-18T17:59:16.000Z",
+            "id": "523533786609647616",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "Inc\u00eandio na regi\u00e3o serrana do RJ atinge \u00e1rea mais alta do Parque Nacional http://t.co/jyjjy7dD22"
         }
     ],
     "errors": [
@@ -6418,13 +6561,6 @@
     ],
     "includes": {
         "places": [
-            {
-                "country": "Brasil",
-                "country_code": "BR",
-                "full_name": "Rio de Janeiro, Brasil",
-                "id": "97bcdfca1a2dca59",
-                "place_type": "city"
-            },
             {
                 "country": "Brasil",
                 "country_code": "BR",
@@ -6484,6 +6620,13 @@
             {
                 "country": "Brasil",
                 "country_code": "BR",
+                "full_name": "Rio de Janeiro, Brasil",
+                "id": "97bcdfca1a2dca59",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
                 "full_name": "Vargem Bonita, Brasil",
                 "id": "48b1d0ea7b9cca61",
                 "place_type": "city"
@@ -6529,609 +6672,16 @@
                 "full_name": "S\u00e3o Jos\u00e9 dos Campos, Brasil",
                 "id": "ad8a3318a4317a03",
                 "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Alegrete, Brasil",
+                "id": "3c062278ce8e6505",
+                "place_type": "city"
             }
         ],
         "users": [
-            {
-                "id": "2426127493",
-                "name": "WikiParques",
-                "username": "wikiparques",
-                "verified": false
-            },
-            {
-                "id": "22914738",
-                "name": "((o))eco | Jornalismo Ambiental",
-                "username": "o_eco",
-                "verified": true
-            },
-            {
-                "id": "185816093",
-                "name": "BNews",
-                "username": "bocaonews",
-                "verified": false
-            },
-            {
-                "id": "192046318",
-                "name": "sandra sabino",
-                "username": "Sandrasbn",
-                "verified": false
-            },
-            {
-                "id": "2459541229",
-                "name": "Oleg Artemyev",
-                "username": "OlegMKS",
-                "verified": true
-            },
-            {
-                "id": "14801327",
-                "name": "Em Tempo Real",
-                "username": "emtemporeal",
-                "verified": false
-            },
-            {
-                "id": "33813434",
-                "name": "Thais Dultra",
-                "username": "Thaisiribinha",
-                "verified": false
-            },
-            {
-                "id": "9317502",
-                "name": "Estad\u00e3o",
-                "username": "Estadao",
-                "verified": true
-            },
-            {
-                "id": "54094836",
-                "name": "Luigi R. Trombini",
-                "username": "LuigiRTrombini",
-                "verified": false
-            },
-            {
-                "id": "64906122",
-                "name": "#RT",
-                "username": "B3R0L4",
-                "verified": false
-            },
-            {
-                "id": "374568775",
-                "name": "Gustavo Feliciano \u26a1",
-                "username": "guuHFeliciano",
-                "verified": false
-            },
-            {
-                "id": "1424233890",
-                "name": "Camila",
-                "username": "Tim_beta_lita",
-                "verified": false
-            },
-            {
-                "id": "2421531331",
-                "name": "monica beta",
-                "username": "monicabeta9655",
-                "verified": false
-            },
-            {
-                "id": "954340069",
-                "name": "Binho(TimBeta)",
-                "username": "Binhojc21",
-                "verified": false
-            },
-            {
-                "id": "2330404794",
-                "name": "george santos",
-                "username": "geojca",
-                "verified": false
-            },
-            {
-                "id": "2510466788",
-                "name": "Assun\u00e7\u00e3o",
-                "username": "binho210873",
-                "verified": false
-            },
-            {
-                "id": "2482322872",
-                "name": "Carina lima",
-                "username": "Carinal321654",
-                "verified": false
-            },
-            {
-                "id": "2741225132",
-                "name": "Marcelo Kachimarck",
-                "username": "BeatsTheMarcos",
-                "verified": false
-            },
-            {
-                "id": "2777325724",
-                "name": "Vitim TIM BETA",
-                "username": "vitim1104",
-                "verified": false
-            },
-            {
-                "id": "2816194717",
-                "name": "Assuncaojc",
-                "username": "Assuncaojcs",
-                "verified": false
-            },
-            {
-                "id": "306213202",
-                "name": "xramonduranx",
-                "username": "xramonduranx",
-                "verified": false
-            },
-            {
-                "id": "84973444",
-                "name": "Jefferson #Tim Beta",
-                "username": "jefferjss",
-                "verified": false
-            },
-            {
-                "id": "68599346",
-                "name": "Ricardo Borges",
-                "username": "ricardoryuma",
-                "verified": false
-            },
-            {
-                "id": "2770805502",
-                "name": "David Meira",
-                "username": "DavidMeira13",
-                "verified": false
-            },
-            {
-                "id": "2595603265",
-                "name": "J.C.A.santos",
-                "username": "jcas210873",
-                "verified": false
-            },
-            {
-                "id": "2802710594",
-                "name": "Binhojcas",
-                "username": "binhojcas",
-                "verified": false
-            },
-            {
-                "id": "2282329652",
-                "name": "santoslucia76",
-                "username": "santoslucia76",
-                "verified": false
-            },
-            {
-                "id": "2783092291",
-                "name": "Daniel",
-                "username": "Daniel_souto05",
-                "verified": false
-            },
-            {
-                "id": "2265188245",
-                "name": "gersonsouza",
-                "username": "gersonsouza1977",
-                "verified": false
-            },
-            {
-                "id": "1909065463",
-                "name": "johnygames",
-                "username": "jcleber73",
-                "verified": false
-            },
-            {
-                "id": "2211312625",
-                "name": "Tim Beta",
-                "username": "RetwetBeta",
-                "verified": false
-            },
-            {
-                "id": "2663340218",
-                "name": "Clara Luz do Ceu",
-                "username": "luzdoceuclara",
-                "verified": false
-            },
-            {
-                "id": "2361148241",
-                "name": "JCleber",
-                "username": "JcaCleber",
-                "verified": false
-            },
-            {
-                "id": "331142165",
-                "name": "Val\u00e9ria Lucena",
-                "username": "vss2222",
-                "verified": false
-            },
-            {
-                "id": "216796443",
-                "name": "asus",
-                "username": "asus_asuss",
-                "verified": false
-            },
-            {
-                "id": "380858150",
-                "name": "DSTV ESTUDANDO",
-                "username": "mattemorrissey",
-                "verified": false
-            },
-            {
-                "id": "2276496962",
-                "name": "Francis",
-                "username": "Francielfbm",
-                "verified": false
-            },
-            {
-                "id": "2667963392",
-                "name": "timbeta",
-                "username": "Delta_233",
-                "verified": false
-            },
-            {
-                "id": "93409569",
-                "name": "J\u00e9ssica",
-                "username": "JessicaHelp",
-                "verified": false
-            },
-            {
-                "id": "357999551",
-                "name": "Geral_News",
-                "username": "Geral_News",
-                "verified": false
-            },
-            {
-                "id": "1730514692",
-                "name": "Naam\u00e3 Felipe",
-                "username": "nfelipereal",
-                "verified": false
-            },
-            {
-                "id": "2590449787",
-                "name": "Leedjane",
-                "username": "ldjeinesantos10",
-                "verified": false
-            },
-            {
-                "id": "171283332",
-                "name": "Hemerson Andrade",
-                "username": "hemer360",
-                "verified": false
-            },
-            {
-                "id": "208749061",
-                "name": "Assis",
-                "username": "assis_gomes",
-                "verified": false
-            },
-            {
-                "id": "338066686",
-                "name": "Fabricio Moraes",
-                "username": "fabriciomoraes9",
-                "verified": false
-            },
-            {
-                "id": "2548838815",
-                "name": "Denise Bastos",
-                "username": "DeniseBCBastos",
-                "verified": false
-            },
-            {
-                "id": "2362095715",
-                "name": "marli maria",
-                "username": "marlimarians",
-                "verified": false
-            },
-            {
-                "id": "2379251281",
-                "name": "Daniel Souto",
-                "username": "DanielSouto2008",
-                "verified": false
-            },
-            {
-                "id": "2287158439",
-                "name": "Carl\u00e3o",
-                "username": "TIMBETACARLAO",
-                "verified": false
-            },
-            {
-                "id": "2786124883",
-                "name": "Kamila Ribeiro",
-                "username": "miilafribeiro",
-                "verified": false
-            },
-            {
-                "id": "116275481",
-                "name": "Vanessa Emilia",
-                "username": "Vanessa_Emilia",
-                "verified": false
-            },
-            {
-                "id": "2331864589",
-                "name": "Eder",
-                "username": "edertavaresss",
-                "verified": false
-            },
-            {
-                "id": "2300495990",
-                "name": "Candidogalo2014",
-                "username": "Candidogalo2011",
-                "verified": false
-            },
-            {
-                "id": "271375176",
-                "name": "Juliano Xavier #BETA",
-                "username": "juliano_fxavier",
-                "verified": false
-            },
-            {
-                "id": "1660719116",
-                "name": "Bruno Pereira",
-                "username": "brnjf",
-                "verified": false
-            },
-            {
-                "id": "1967283360",
-                "name": "tecnet01",
-                "username": "tecnet01beta",
-                "verified": false
-            },
-            {
-                "id": "156014878",
-                "name": "Anderson Esteves Alv",
-                "username": "dersonalf",
-                "verified": false
-            },
-            {
-                "id": "281652610",
-                "name": "Andson Moreira",
-                "username": "andsonmoreira",
-                "verified": false
-            },
-            {
-                "id": "111342203",
-                "name": "Joelson Batista",
-                "username": "JoAMarDa",
-                "verified": false
-            },
-            {
-                "id": "8802752",
-                "name": "G1",
-                "username": "g1",
-                "verified": true
-            },
-            {
-                "id": "384490339",
-                "name": "brasilfeeds",
-                "username": "BrasilFeeds",
-                "verified": false
-            },
-            {
-                "id": "2807959670",
-                "name": "Net Not\u00edcia",
-                "username": "portalnnbrasil",
-                "verified": false
-            },
-            {
-                "id": "92480555",
-                "name": "Jose Cabello",
-                "username": "Sin_Voces",
-                "verified": false
-            },
-            {
-                "id": "51537963",
-                "name": "JONES ALMEIDA",
-                "username": "JonesAlmeida",
-                "verified": false
-            },
-            {
-                "id": "248581773",
-                "name": "classepoliticaoficial",
-                "username": "classe_politica",
-                "verified": false
-            },
-            {
-                "id": "2304538825",
-                "name": "Portal Elofoz",
-                "username": "elofoz",
-                "verified": false
-            },
-            {
-                "id": "2772453159",
-                "name": "Editora Express\u00e3o",
-                "username": "edit_expressao",
-                "verified": false
-            },
-            {
-                "id": "36901763",
-                "name": "Adriana Santos",
-                "username": "adrianaosantos",
-                "verified": false
-            },
-            {
-                "id": "38347709",
-                "name": "Lia Caldas",
-                "username": "liacaldas",
-                "verified": false
-            },
-            {
-                "id": "2348946290",
-                "name": "Omar Zaracho",
-                "username": "OmarZaracho",
-                "verified": false
-            },
-            {
-                "id": "189736835",
-                "name": "Jo\u00e3o Luiz Pena",
-                "username": "joaolpena",
-                "verified": false
-            },
-            {
-                "id": "55818224",
-                "name": "Milton J\u00fanior",
-                "username": "JuniorSub",
-                "verified": false
-            },
-            {
-                "id": "246340442",
-                "name": "Rota dos Canyons",
-                "username": "rotadoscanyons",
-                "verified": false
-            },
-            {
-                "id": "31314191",
-                "name": "Link Tv - Not\u00edcias",
-                "username": "linktvclipping",
-                "verified": false
-            },
-            {
-                "id": "1202816791",
-                "name": "Joan Correia",
-                "username": "joanccs",
-                "verified": false
-            },
-            {
-                "id": "206964235",
-                "name": "Thiago",
-                "username": "_theiron",
-                "verified": false
-            },
-            {
-                "id": "2323690256",
-                "name": "deninho",
-                "username": "deninho69110419",
-                "verified": false
-            },
-            {
-                "id": "1703495635",
-                "name": "#TIMBETA#SIGO",
-                "username": "timbetasigo",
-                "verified": false
-            },
-            {
-                "id": "54796276",
-                "name": "Olavo",
-                "username": "olavograngeiro",
-                "verified": false
-            },
-            {
-                "id": "249834425",
-                "name": "Nat\u00e1lia Ferpin",
-                "username": "NatF_Marques",
-                "verified": false
-            },
-            {
-                "id": "24975213",
-                "name": "GRUPO AQUECENDO",
-                "username": "GrupoAquecendo",
-                "verified": false
-            },
-            {
-                "id": "80080092",
-                "name": "AquecendoBR",
-                "username": "AquecendoBR",
-                "verified": false
-            },
-            {
-                "id": "288330146",
-                "name": "\u00d7\u2022 \u0442\u03c3\u03c3\u0438",
-                "username": "LandHooverM",
-                "verified": false
-            },
-            {
-                "id": "90965235",
-                "name": "Folha Cotidiano",
-                "username": "folha_cotidiano",
-                "verified": true
-            },
-            {
-                "id": "1482106178",
-                "name": "Paulo Teodoro",
-                "username": "rotadoaventure",
-                "verified": false
-            },
-            {
-                "id": "163438826",
-                "name": "Luiz Henrique L. Gomes",
-                "username": "alemao_marau",
-                "verified": false
-            },
-            {
-                "id": "290212647",
-                "name": "Vibes de Menina",
-                "username": "vibesdemenina",
-                "verified": false
-            },
-            {
-                "id": "8110402",
-                "name": "iG \u00daltimo Segundo",
-                "username": "ultimosegundo",
-                "verified": true
-            },
-            {
-                "id": "2419728392",
-                "name": "journalnoticias",
-                "username": "journalnoticias",
-                "verified": false
-            },
-            {
-                "id": "412428260",
-                "name": "Nerds Viajantes",
-                "username": "NerdsViajantes",
-                "verified": false
-            },
-            {
-                "id": "64339200",
-                "name": "Ponto de resist\u00eancia",
-                "username": "TaNaBoa",
-                "verified": false
-            },
-            {
-                "id": "1978811202",
-                "name": "Gastroculturaviajera",
-                "username": "GastroCultViaje",
-                "verified": false
-            },
-            {
-                "id": "159241601",
-                "name": "Divulgary",
-                "username": "Divulgary",
-                "verified": false
-            },
-            {
-                "id": "229327994",
-                "name": "eduardo calderini",
-                "username": "ecalderini",
-                "verified": false
-            },
-            {
-                "id": "36043375",
-                "name": "Eliseu Frechou",
-                "username": "eliseufrechou",
-                "verified": false
-            },
-            {
-                "id": "1137060529",
-                "name": "Marau Not\u00edcias",
-                "username": "MarauNoticias",
-                "verified": false
-            },
-            {
-                "id": "2577958262",
-                "name": "Marcos2",
-                "username": "mrs2652",
-                "verified": false
-            },
-            {
-                "id": "2734535420",
-                "name": "cesar costa",
-                "username": "cesarcosta1001",
-                "verified": false
-            },
-            {
-                "id": "2810285269",
-                "name": "Ramon Duran",
-                "username": "TimbetaRamon",
-                "verified": false
-            },
-            {
-                "id": "212699862",
-                "name": "Lady Gaga",
-                "username": "gag4prost",
-                "verified": false
-            },
             {
                 "id": "2586696614",
                 "name": "Noticias Brasil",
@@ -7214,6 +6764,12 @@
                 "id": "2812324856",
                 "name": "Marcone #TimBeta Sdv",
                 "username": "marconesoeiro",
+                "verified": false
+            },
+            {
+                "id": "206964235",
+                "name": "Thiago",
+                "username": "_theiron",
                 "verified": false
             },
             {
@@ -7328,6 +6884,12 @@
                 "id": "519657357",
                 "name": "luiz..#beta-lab",
                 "username": "luizklein1",
+                "verified": false
+            },
+            {
+                "id": "1703495635",
+                "name": "#TIMBETA#SIGO",
+                "username": "timbetasigo",
                 "verified": false
             },
             {
@@ -7499,10 +7061,28 @@
                 "verified": false
             },
             {
+                "id": "64339200",
+                "name": "Ponto de resist\u00eancia",
+                "username": "TaNaBoa",
+                "verified": false
+            },
+            {
                 "id": "2678209724",
                 "name": "J\u00falia Anjos",
                 "username": "garotaemreforma",
                 "verified": false
+            },
+            {
+                "id": "2426127493",
+                "name": "WikiParques",
+                "username": "wikiparques",
+                "verified": false
+            },
+            {
+                "id": "22914738",
+                "name": "((o))eco | Jornalismo Ambiental",
+                "username": "o_eco",
+                "verified": true
             },
             {
                 "id": "538521488",
@@ -7625,6 +7205,12 @@
                 "verified": false
             },
             {
+                "id": "8802752",
+                "name": "G1",
+                "username": "g1",
+                "verified": true
+            },
+            {
                 "id": "176153668",
                 "name": "ReginaLuciaRRangel",
                 "username": "ReginaLuciaRang",
@@ -7661,6 +7247,30 @@
                 "verified": false
             },
             {
+                "id": "84973444",
+                "name": "Jefferson #Tim Beta",
+                "username": "jefferjss",
+                "verified": false
+            },
+            {
+                "id": "68599346",
+                "name": "Ricardo Borges",
+                "username": "ricardoryuma",
+                "verified": false
+            },
+            {
+                "id": "2577958262",
+                "name": "Marcos2",
+                "username": "mrs2652",
+                "verified": false
+            },
+            {
+                "id": "2734535420",
+                "name": "cesar costa",
+                "username": "cesarcosta1001",
+                "verified": false
+            },
+            {
                 "id": "32529120",
                 "name": "Valor Econ\u00f4mico",
                 "username": "valoreconomico",
@@ -7685,6 +7295,12 @@
                 "verified": false
             },
             {
+                "id": "2810285269",
+                "name": "Ramon Duran",
+                "username": "TimbetaRamon",
+                "verified": false
+            },
+            {
                 "id": "2784762218",
                 "name": "Tim Beta Barbara",
                 "username": "barbarajanai201",
@@ -7697,9 +7313,39 @@
                 "verified": false
             },
             {
+                "id": "212699862",
+                "name": "Lady Gaga",
+                "username": "gag4prost",
+                "verified": false
+            },
+            {
+                "id": "357999551",
+                "name": "Geral_News",
+                "username": "Geral_News",
+                "verified": false
+            },
+            {
+                "id": "55818224",
+                "name": "Milton J\u00fanior",
+                "username": "JuniorSub",
+                "verified": false
+            },
+            {
                 "id": "516982165",
                 "name": "Dieg\u00e3o",
                 "username": "1milhaodetweets",
+                "verified": false
+            },
+            {
+                "id": "90965235",
+                "name": "Folha Cotidiano",
+                "username": "folha_cotidiano",
+                "verified": true
+            },
+            {
+                "id": "64906122",
+                "name": "#RT",
+                "username": "B3R0L4",
                 "verified": false
             },
             {
@@ -7883,9 +7529,21 @@
                 "verified": false
             },
             {
+                "id": "2419728392",
+                "name": "journalnoticias",
+                "username": "journalnoticias",
+                "verified": false
+            },
+            {
                 "id": "63883335",
                 "name": "Francisco Leite",
                 "username": "txicos",
+                "verified": false
+            },
+            {
+                "id": "1137060529",
+                "name": "Marau Not\u00edcias",
+                "username": "MarauNoticias",
                 "verified": false
             },
             {
@@ -7961,24 +7619,6 @@
                 "verified": false
             },
             {
-                "id": "1323573452",
-                "name": "Divina Reserva - Pouso na Serra",
-                "username": "pousonaserra",
-                "verified": false
-            },
-            {
-                "id": "2732713430",
-                "name": "FazendaS\u00e3oBentoLagoa",
-                "username": "SaoBentoLagoa",
-                "verified": false
-            },
-            {
-                "id": "820319378",
-                "name": "G1 Inter TV RJ",
-                "username": "g1lagosrj",
-                "verified": false
-            },
-            {
                 "id": "2285267941",
                 "name": "Portal Aran\u00e3s",
                 "username": "Portal_Aranas",
@@ -8013,6 +7653,12 @@
                 "name": "Guia Quatro Rodas",
                 "username": "guia4rodas",
                 "verified": true
+            },
+            {
+                "id": "246340442",
+                "name": "Rota dos Canyons",
+                "username": "rotadoscanyons",
+                "verified": false
             },
             {
                 "id": "35524446",
@@ -8129,6 +7775,12 @@
                 "verified": false
             },
             {
+                "id": "38347709",
+                "name": "Lia Caldas",
+                "username": "liacaldas",
+                "verified": false
+            },
+            {
                 "id": "81157678",
                 "name": "Visite Teres\u00f3polis",
                 "username": "VisiteTere",
@@ -8145,18 +7797,6 @@
                 "name": "Nane Pitzalis",
                 "username": "ElainePitzalis",
                 "verified": false
-            },
-            {
-                "id": "244564564",
-                "name": "L\u00e1zaro Ramon",
-                "username": "Prlazaroramon",
-                "verified": false
-            },
-            {
-                "id": "10228272",
-                "name": "YouTube",
-                "username": "YouTube",
-                "verified": true
             },
             {
                 "id": "177402942",
@@ -8294,6 +7934,12 @@
                 "id": "57093430",
                 "name": "RICARDO RAPOSO",
                 "username": "RaposoRicardo",
+                "verified": false
+            },
+            {
+                "id": "249834425",
+                "name": "Nat\u00e1lia Ferpin",
+                "username": "NatF_Marques",
                 "verified": false
             },
             {
@@ -8598,7 +8244,7 @@
             },
             {
                 "id": "26047901",
-                "name": "Or\u00e7amento Paralelo (de \ud83d\ude37)",
+                "name": "DJ Raul (de \ud83d\ude37)",
                 "username": "Jota_Bosco",
                 "verified": false
             },
@@ -8715,13 +8361,385 @@
                 "name": "gazetaweb.com",
                 "username": "gazetaweb",
                 "verified": false
+            },
+            {
+                "id": "540197898",
+                "name": "PORTAL WL",
+                "username": "PORTALWL",
+                "verified": false
+            },
+            {
+                "id": "2415648892",
+                "name": "757Live Brazil",
+                "username": "757LiveBR",
+                "verified": false
+            },
+            {
+                "id": "262677609",
+                "name": "Eu Cobro",
+                "username": "EuCobro",
+                "verified": false
+            },
+            {
+                "id": "38790549",
+                "name": "IBAMA",
+                "username": "brasil_IBAMA",
+                "verified": false
+            },
+            {
+                "id": "1720521139",
+                "name": "isaac  deberg  junio",
+                "username": "isaacdebergjuni",
+                "verified": false
+            },
+            {
+                "id": "54094836",
+                "name": "Luigi R. Trombini",
+                "username": "LuigiRTrombini",
+                "verified": false
+            },
+            {
+                "id": "260495817",
+                "name": "V\u00e2nia Guarani-Kaiow\u00e1",
+                "username": "VaniaAgroeco",
+                "verified": false
+            },
+            {
+                "id": "279314726",
+                "name": "Tec66",
+                "username": "tec66com",
+                "verified": false
+            },
+            {
+                "id": "190990309",
+                "name": "TIM BETA FOURSFAKE",
+                "username": "foursfake",
+                "verified": false
+            },
+            {
+                "id": "36155119",
+                "name": "Agencia Rio",
+                "username": "AgenciaRio",
+                "verified": false
+            },
+            {
+                "id": "513533519",
+                "name": "Atual Noticia",
+                "username": "AtualNoticia",
+                "verified": false
+            },
+            {
+                "id": "2292075738",
+                "name": "Porco Velho",
+                "username": "Porco_Velho",
+                "verified": false
+            },
+            {
+                "id": "77204624",
+                "name": "Professor S\u00e9rgio\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7",
+                "username": "ProfSergioRJ",
+                "verified": false
+            },
+            {
+                "id": "2203379256",
+                "name": "aline cristina silva",
+                "username": "crisandryi",
+                "verified": false
+            },
+            {
+                "id": "2601447986",
+                "name": "elson tim beta",
+                "username": "elsonbetaadd",
+                "verified": false
+            },
+            {
+                "id": "2656878664",
+                "name": "elson Beta add todos",
+                "username": "Elsonpcgames",
+                "verified": false
+            },
+            {
+                "id": "589204432",
+                "name": "Weverton Souza",
+                "username": "nenembsp",
+                "verified": false
+            },
+            {
+                "id": "2421531331",
+                "name": "monica beta",
+                "username": "monicabeta9655",
+                "verified": false
+            },
+            {
+                "id": "2786124883",
+                "name": "Kamila Ribeiro",
+                "username": "miilafribeiro",
+                "verified": false
+            },
+            {
+                "id": "1913805602",
+                "name": "eu drop.",
+                "username": "eudrop",
+                "verified": false
+            },
+            {
+                "id": "1640796420",
+                "name": "Souu Betaa",
+                "username": "BNight999",
+                "verified": false
+            },
+            {
+                "id": "1924946810",
+                "name": "Karina Kas",
+                "username": "KasCaldas",
+                "verified": false
+            },
+            {
+                "id": "1852048682",
+                "name": "Lucio Tinasi",
+                "username": "Luc10V1l3l4",
+                "verified": false
+            },
+            {
+                "id": "1548252223",
+                "name": "valdenir504@gmail.co",
+                "username": "valdenir504",
+                "verified": false
+            },
+            {
+                "id": "1465160659",
+                "name": "ACESSO VIA NEWS",
+                "username": "acessovianews",
+                "verified": false
+            },
+            {
+                "id": "2772475604",
+                "name": "Brasil 27",
+                "username": "27Brasil",
+                "verified": false
+            },
+            {
+                "id": "2149712851",
+                "name": "Cidad\u00e3o Rep\u00f3rter",
+                "username": "cidadaoreport",
+                "verified": false
+            },
+            {
+                "id": "2741225132",
+                "name": "Marcelo Kachimarck",
+                "username": "BeatsTheMarcos",
+                "verified": false
+            },
+            {
+                "id": "253937295",
+                "name": "Carlos Arebalo",
+                "username": "CaduArebalo",
+                "verified": false
+            },
+            {
+                "id": "40460716",
+                "name": "Gerhard Sardo",
+                "username": "GerhardSardo",
+                "verified": false
+            },
+            {
+                "id": "483140780",
+                "name": "Heber Lobato Jr.",
+                "username": "Lobatadas",
+                "verified": false
+            },
+            {
+                "id": "115666984",
+                "name": "miguel fellipe",
+                "username": "redeglobomeioam",
+                "verified": false
+            },
+            {
+                "id": "322093607",
+                "name": "Parque Nacional da Tijuca BRA",
+                "username": "parnatijuca",
+                "verified": true
+            },
+            {
+                "id": "421871703",
+                "name": "Not\u00edcias",
+                "username": "noticias",
+                "verified": false
+            },
+            {
+                "id": "117475826",
+                "name": "OCP News",
+                "username": "redeocpnews",
+                "verified": false
+            },
+            {
+                "id": "1089535657",
+                "name": "Nelson Carvalheira",
+                "username": "N_Carvalheira",
+                "verified": false
+            },
+            {
+                "id": "126750296",
+                "name": "Jornalismo TV Cultura",
+                "username": "jornal_cultura",
+                "verified": true
+            },
+            {
+                "id": "62935693",
+                "name": "Wendell Paes#timbeta",
+                "username": "wendell_paes",
+                "verified": false
+            },
+            {
+                "id": "1532692332",
+                "name": "Anonymous BlackFaces",
+                "username": "AnonBlackFaces",
+                "verified": false
+            },
+            {
+                "id": "384345531",
+                "name": "Busque R\u00e1dios",
+                "username": "busqueradios",
+                "verified": false
+            },
+            {
+                "id": "15750149",
+                "name": "Web-2-3-Linkaloo",
+                "username": "Beduac",
+                "verified": false
+            },
+            {
+                "id": "56993783",
+                "name": "AIRTON GUSTAVO",
+                "username": "airtonviana",
+                "verified": false
+            },
+            {
+                "id": "418774190",
+                "name": "Tatiana Vieira",
+                "username": "TatiViNog",
+                "verified": false
+            },
+            {
+                "id": "2758759168",
+                "name": "Antonia Tavares",
+                "username": "antoniatavares6",
+                "verified": false
+            },
+            {
+                "id": "384845473",
+                "name": "Alagoas 360 Graus",
+                "username": "alagoas360graus",
+                "verified": false
+            },
+            {
+                "id": "195174626",
+                "name": "ECCAPLAN CONSULTORIA",
+                "username": "Eccaplan",
+                "verified": false
+            },
+            {
+                "id": "142439705",
+                "name": "\u00c1lvaro Neves",
+                "username": "Alvarohumanista",
+                "verified": false
+            },
+            {
+                "id": "951800731",
+                "name": "Adalberto",
+                "username": "adalbertoadm",
+                "verified": false
+            },
+            {
+                "id": "346913403",
+                "name": "Diego #TIM BETA",
+                "username": "NegaoLegiao",
+                "verified": false
+            },
+            {
+                "id": "31622729",
+                "name": "MaluCabral\ud83c\udde7\ud83c\uddf7",
+                "username": "MaluCabral",
+                "verified": false
+            },
+            {
+                "id": "53772716",
+                "name": "Claudia Costin",
+                "username": "ClaudiaCostin",
+                "verified": false
+            },
+            {
+                "id": "103927723",
+                "name": "OficialMMarta",
+                "username": "oficialMMarta",
+                "verified": false
+            },
+            {
+                "id": "199126736",
+                "name": "",
+                "username": "express_news_",
+                "verified": false
+            },
+            {
+                "id": "225095414",
+                "name": "Rede TV Web Mais",
+                "username": "MageOnline",
+                "verified": false
+            },
+            {
+                "id": "1850795346",
+                "name": "deems",
+                "username": "99deems",
+                "verified": false
+            },
+            {
+                "id": "67150902",
+                "name": "Correio Braziliense",
+                "username": "correio",
+                "verified": true
+            },
+            {
+                "id": "17850880",
+                "name": "RedeTV!",
+                "username": "RedeTV",
+                "verified": true
+            },
+            {
+                "id": "163438826",
+                "name": "Luiz Henrique L. Gomes",
+                "username": "alemao_marau",
+                "verified": false
+            },
+            {
+                "id": "94388843",
+                "name": "Di\u00e1rio do Com\u00e9rcio",
+                "username": "diario_comercio",
+                "verified": false
+            },
+            {
+                "id": "57460014",
+                "name": "Charles Luiz",
+                "username": "OCharlesLuiz",
+                "verified": false
+            },
+            {
+                "id": "8110402",
+                "name": "iG \u00daltimo Segundo",
+                "username": "ultimosegundo",
+                "verified": true
+            },
+            {
+                "id": "39397485",
+                "name": "Pizzaria",
+                "username": "fornodeouro",
+                "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "524523187351343104",
-        "next_token": "1jzu9lk96gu5npw1r8udfkc7djonkujswswqsxv6yg71",
-        "oldest_id": "523602707467091968",
-        "result_count": 478
+        "newest_id": "524331627518771200",
+        "next_token": "1jzu9lk96gu5npw1r8uddgiguc85ugwm6syjrf6uqfel",
+        "oldest_id": "523533786609647616",
+        "result_count": 487
     }
 }

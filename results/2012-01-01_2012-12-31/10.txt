@@ -1,300 +1,6 @@
 {
     "data": [
         {
-            "author_id": "112185190",
-            "created_at": "2012-10-15T12:53:55.000Z",
-            "id": "257826639700979712",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "http://t.co/DKgcLAFd Casa Nobre do Correio-Mor (Ponte da Barca): Com as montanhas do Parque Nacional de Peneda-Ger\u00eas no h"
-        },
-        {
-            "author_id": "35802694",
-            "created_at": "2012-10-15T12:38:05.000Z",
-            "id": "257822652004200448",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Not\u00edcias JR 15/10 08:32 -  Parque Nacional da Tijuca (RJ) restaura lagos e jardins http://t.co/BzrX0wlS"
-        },
-        {
-            "author_id": "581644853",
-            "created_at": "2012-10-15T12:35:25.000Z",
-            "id": "257821984283561984",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "15/10 08:32 -  Parque Nacional da Tijuca (RJ) restaura lagos e jardins http://t.co/ai5ihWoT"
-        },
-        {
-            "author_id": "275674015",
-            "created_at": "2012-10-15T12:31:51.000Z",
-            "id": "257821083456131072",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "AeroBlogJoi: Parque Nacional da Tijuca (RJ) restaura lagos e ja... http://t.co/QcdLM00c"
-        },
-        {
-            "author_id": "267276979",
-            "created_at": "2012-10-15T12:30:35.000Z",
-            "id": "257820767675363328",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional da Tijuca (RJ) restaura lagos e jardins http://t.co/ipdCQgEf"
-        },
-        {
-            "author_id": "436469166",
-            "created_at": "2012-10-15T12:27:57.000Z",
-            "id": "257820105147285504",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "15/10 08:32 -  Parque Nacional da Tijuca (RJ) restaura lagos e jardins: O Parque Nacional da Tijuca, unidade de ... http://t.co/ig80d18u"
-        },
-        {
-            "author_id": "21331092",
-            "created_at": "2012-10-15T12:17:00.000Z",
-            "id": "257817347883163648",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#jornalcopacabana 15/10 08:32 -  Parque Nacional da Tijuca (RJ) restaura lagos e jardins: O... http://t.co/5C1... http://t.co/trcJOX84"
-        },
-        {
-            "author_id": "4209301",
-            "created_at": "2012-10-15T12:12:06.000Z",
-            "id": "257816115462422528",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#jornalcopacabana 15/10 08:32 -  Parque Nacional da Tijuca (RJ) restaura lagos e jardins: O... http://t.co/5C1OOKSe http://t.co/2h4EjvN1"
-        },
-        {
-            "author_id": "191403895",
-            "created_at": "2012-10-15T12:04:38.000Z",
-            "id": "257814237903216640",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Ap\u00f3s chuva, inc\u00eandio \u00e9 controlado no Parque Nacional da Serra do Cip\u00f3 http://t.co/wp2TLwMK"
-        },
-        {
-            "author_id": "619994873",
-            "created_at": "2012-10-15T11:56:48.000Z",
-            "id": "257812263925334016",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "15/10 08:32 -  Parque Nacional da Tijuca (RJ) restaura lagos e jardins: O Parque Nacional da Tijuca, unidade de ... http://t.co/VUyD2hpR"
-        },
-        {
-            "author_id": "153941705",
-            "created_at": "2012-10-15T11:56:47.000Z",
-            "id": "257812262272778240",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "15/10 08:32 -  Parque Nacional da Tijuca (RJ) restaura lagos e jardins: O Parque Nacional da Tijuca, unidade de ... http://t.co/2IFNXQ2z"
-        },
-        {
-            "author_id": "71920313",
-            "created_at": "2012-10-15T11:34:23.000Z",
-            "id": "257806622448029696",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Mais de 30 mil pessoas visitaram o Parque Nacional neste feriad\u00e3o http://t.co/X4ZpK3V8"
-        },
-        {
-            "author_id": "614453255",
-            "created_at": "2012-10-15T11:16:12.000Z",
-            "id": "257802048932835328",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Floresta Nacional de Silv\u00e2nia recebe visita de diretor do Instituto Chico Mendes http://t.co/raxUtg8n"
-        },
-        {
-            "author_id": "405324832",
-            "created_at": "2012-10-15T10:53:48.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 3,
-                        "username": "piramikim"
-                    }
-                ]
-            },
-            "id": "257796411863728128",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "RT @piramikim   Parque Nacional da Serra da Capivara Piau\u00ed http://t.co/4Ob0UeSQ"
-        },
-        {
-            "author_id": "405324832",
-            "created_at": "2012-10-15T10:43:57.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 18,
-                        "start": 10,
-                        "username": "gr8benj"
-                    }
-                ]
-            },
-            "id": "257793933323689985",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "ACONTECE: @gr8benj   Parque Nacional da Serra da Capivara Piau\u00ed http://t.co/4Ob0UeSQ"
-        },
-        {
-            "author_id": "405324832",
-            "created_at": "2012-10-15T10:42:48.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 21,
-                        "start": 10,
-                        "username": "BillyGuest"
-                    }
-                ]
-            },
-            "id": "257793644113846272",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "ACONTECE: @BillyGuest  Parque Nacional da Serra da Capivara Piau\u00ed http://t.co/4Ob0UeSQ"
-        },
-        {
-            "author_id": "405324832",
-            "created_at": "2012-10-15T10:39:06.000Z",
-            "id": "257792712571490304",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "ACONTECE: @HappySonatanet Parque Nacional da Serra da Capivara Piau\u00ed http://t.co/4Ob0UeSQ"
-        },
-        {
-            "author_id": "70065005",
-            "created_at": "2012-10-15T10:32:59.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 12,
-                        "start": 3,
-                        "username": "emaneazy"
-                    }
-                ]
-            },
-            "id": "257791172754427905",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "RT @emaneazy   Parque Nacional da Serra da Capivara Piau\u00ed http://t.co/wTmrCIuc"
-        },
-        {
-            "author_id": "70065005",
-            "created_at": "2012-10-15T10:28:11.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 26,
-                        "start": 13,
-                        "username": "supDawgiHerd"
-                    }
-                ]
-            },
-            "id": "257789965721804800",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "ACONTECE: RT @supDawgiHerd  Parque Nacional da Serra da Capivara Piau\u00ed http://t.co/wTmrCIuc"
-        },
-        {
-            "author_id": "70065005",
-            "created_at": "2012-10-15T09:33:39.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 22,
-                        "start": 10,
-                        "username": "BarackObama"
-                    }
-                ]
-            },
-            "id": "257776238154903553",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "ACONTECE: @BarackObama   Parque Nacional da Serra da Capivara Piau\u00ed http://t.co/wTmrCIuc"
-        },
-        {
             "author_id": "70065005",
             "created_at": "2012-10-15T09:31:09.000Z",
             "entities": {
@@ -5847,18 +5553,6 @@
             "text": "NOSSA REGI\u00c3O: Inc\u00eandio consome Parque Nacional da Serra do Cip\u00f3 h\u00e1 cinco dias http://t.co/hmd1AP34 @tvintegracao"
         },
         {
-            "author_id": "44642892",
-            "created_at": "2012-10-10T20:41:55.000Z",
-            "id": "256132475175198720",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "BLOG - Vida simples: Entrevista com Luiz Nelson, propriet\u00e1rio da RPPN Fazenda Bom Retiro http://t.co/4CyCFFVL via @GreenNationFest"
-        },
-        {
             "author_id": "463099938",
             "created_at": "2012-10-10T20:30:00.000Z",
             "id": "256129477078315009",
@@ -6001,18 +5695,6 @@
                 "retweet_count": 0
             },
             "text": "Casas em \u00e1rea protegida s\u00e3o demolidas em Arraial do Cabo, RJ http://t.co/QIWH4zjA"
-        },
-        {
-            "author_id": "71067227",
-            "created_at": "2012-10-10T20:05:33.000Z",
-            "id": "256123323325480963",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Saiba o que s\u00e3o RPPNs e a import\u00e2ncia, aqui: http://t.co/7PScUMmq Ilustra\u00e7\u00e3o: RPPN M\u00e3e da Mata http://t.co/18fAiasg"
         },
         {
             "author_id": "173551483",
@@ -6479,27 +6161,6 @@
             "text": "Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais - not\u00edcias em Minas Gerais http://t.co/w9BxjrPk :'("
         },
         {
-            "author_id": "148820294",
-            "created_at": "2012-10-10T13:17:17.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 85,
-                        "start": 79,
-                        "username": "o_eco"
-                    }
-                ]
-            },
-            "id": "256020579205918723",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Muriquis-do-norte se multiplicam em RPPN de Caratinga http://t.co/yiom98sb via @o_eco"
-        },
-        {
             "author_id": "129854436",
             "created_at": "2012-10-10T12:57:07.000Z",
             "entities": {
@@ -6569,18 +6230,6 @@
             "text": "Aqui ao lado, temos Mon\u00e7\u00e3o e a Natureza no Parque Nacional Peneda Ger\u00eas (nem precisamos de sair de Portugal para... http://t.co/MGgmlm6f"
         },
         {
-            "author_id": "306225784",
-            "created_at": "2012-10-10T11:27:06.000Z",
-            "id": "255992851882729472",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Muriquis-do-norte se multiplicam em Caratinga, MG. Reserva particular que os abriga precisa ser ampliada http://t.co/BgWkQ3Y0."
-        },
-        {
             "author_id": "288951324",
             "created_at": "2012-10-10T11:01:28.000Z",
             "id": "255986399847780352",
@@ -6625,18 +6274,6 @@
                 "retweet_count": 0
             },
             "text": "O amanhecer no Parque Nacional de Itatiaia  @ Pico Das Agulhas Negras http://t.co/I1yZT8cB"
-        },
-        {
-            "author_id": "370993832",
-            "created_at": "2012-10-10T03:38:27.000Z",
-            "id": "255874912579903488",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Muriquis-do-norte se multiplicam em RPPN de Caratinga: Estudo detecta aumento da popula\u00e7\u00e3o de\u2026 http://t.co/wQZFX13x"
         },
         {
             "author_id": "405324832",
@@ -6723,28 +6360,433 @@
             "text": "Acabei de publicar uma foto  @ Parque Nacional Torres Del Paine http://t.co/J51te9fu"
         },
         {
-            "author_id": "82913355",
-            "created_at": "2012-10-10T02:25:23.000Z",
-            "id": "255856522347827201",
+            "author_id": "54670687",
+            "created_at": "2012-10-10T02:00:32.000Z",
+            "id": "255850268342751234",
             "public_metrics": {
                 "like_count": 0,
                 "quote_count": 0,
                 "reply_count": 0,
                 "retweet_count": 0
             },
-            "text": "Muriquis-do-norte se multiplicam em RPPN de Caratinga http://t.co/oeZCQqYB"
+            "text": "Parque Nacional do Itatiaia registra queda de neve #in #portalTA http://t.co/GnOvvr5P"
         },
         {
-            "author_id": "216732839",
-            "created_at": "2012-10-10T02:25:19.000Z",
-            "id": "255856508997345281",
+            "author_id": "279314726",
+            "created_at": "2012-10-10T00:31:51.000Z",
+            "id": "255827950388248576",
             "public_metrics": {
                 "like_count": 0,
                 "quote_count": 0,
                 "reply_count": 0,
                 "retweet_count": 0
             },
-            "text": "Muriquis-do-norte se multiplicam em RPPN de Caratinga http://t.co/e03o39sD"
+            "text": "Parque Nacional da Serra do Cip\u00f3 \u00e9 fechado por causa de inc\u00eandio http://t.co/nGoZwDdv"
+        },
+        {
+            "author_id": "87038822",
+            "created_at": "2012-10-09T23:52:33.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 125,
+                        "start": 122,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "255818062887010304",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "G1 - Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais - not\u00edcias em Minas Gerais http://t.co/ZhEUOk5n via @g1"
+        },
+        {
+            "author_id": "412428260",
+            "created_at": "2012-10-09T23:48:09.000Z",
+            "id": "255816953611046912",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "O Parque Nacional da Serra do Cip\u00f3 est\u00e1 fechado devido a um inc\u00eandio. :(... http://t.co/IxykHvLv"
+        },
+        {
+            "author_id": "820646384",
+            "created_at": "2012-10-09T23:12:43.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 114,
+                        "start": 100,
+                        "username": "InternaciaLab"
+                    }
+                ]
+            },
+            "id": "255808037984534530",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Inova\u00e7\u00e3o: Pesquisadores comentam plano para Floresta Nacional de Caxiuan\u00e3 http://t.co/pkPY4V3N via @internacialab"
+        },
+        {
+            "author_id": "339833655",
+            "created_at": "2012-10-09T23:12:43.000Z",
+            "id": "255808035581218816",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "[mct] Pesquisadores comentam plano para Floresta Nacional de Caxiuan\u00e3:  http://t.co/WQsnhS5O"
+        },
+        {
+            "author_id": "42727412",
+            "created_at": "2012-10-09T22:09:28.000Z",
+            "id": "255792119640367104",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Arara-canind\u00e9 clicada no Monumento Natural das \u00c1rvores Fossilizadas, no Tocantins. Havia revoadas dos p\u00e1ssaros... http://t.co/hNSTenwf"
+        },
+        {
+            "author_id": "709314853",
+            "created_at": "2012-10-09T21:08:58.000Z",
+            "id": "255776895596130304",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais: Chamas come\u00e7aram a destruir vegeta\u00e7\u00e3o no fim d... http://t.co/ZQM9cSgz"
+        },
+        {
+            "author_id": "634643597",
+            "created_at": "2012-10-09T21:08:56.000Z",
+            "id": "255776888272846848",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais: Chamas come\u00e7aram a destruir vegeta\u00e7\u00e3o no fim d... http://t.co/xp8d3n7r"
+        },
+        {
+            "author_id": "187609372",
+            "created_at": "2012-10-09T21:08:53.000Z",
+            "id": "255776875895472128",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais http://t.co/3i8qCoph"
+        },
+        {
+            "author_id": "360839390",
+            "created_at": "2012-10-09T21:08:51.000Z",
+            "id": "255776865816555520",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00faltimas not\u00edcias Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais http://t.co/eZeGYrVd"
+        },
+        {
+            "author_id": "525359485",
+            "created_at": "2012-10-09T21:08:49.000Z",
+            "id": "255776856752660480",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais: Chamas come\u00e7aram a destruir vegeta\u00e7\u00e3o no fim d... http://t.co/uaRdsoiq"
+        },
+        {
+            "author_id": "101822551",
+            "created_at": "2012-10-09T21:08:47.000Z",
+            "id": "255776849257431041",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais: Chamas come\u00e7aram a destruir vegeta\u00e7\u00e3o no fim d... http://t.co/J7stJEfg"
+        },
+        {
+            "author_id": "471932543",
+            "created_at": "2012-10-09T21:08:46.000Z",
+            "id": "255776842529792001",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "[NOTICIA] Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais http://t.co/5nKLISxg #InfoPontual"
+        },
+        {
+            "author_id": "175896929",
+            "created_at": "2012-10-09T21:08:43.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 136,
+                        "start": 133,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "255776831540707330",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais: Chamas come\u00e7aram a destruir vegeta\u00e7\u00e3o ... http://t.co/PF1FAKBu via @g1"
+        },
+        {
+            "author_id": "368419530",
+            "created_at": "2012-10-09T21:08:40.000Z",
+            "id": "255776820945907712",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais"
+        },
+        {
+            "author_id": "71637810",
+            "created_at": "2012-10-09T21:08:35.000Z",
+            "id": "255776800003727360",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "[G1] Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais: Chamas come\u00e7aram a destruir vegeta\u00e7\u00e3o no ... http://t.co/wbC2Uwvq"
+        },
+        {
+            "author_id": "280504996",
+            "created_at": "2012-10-09T21:08:34.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "255776794362380289",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais http://t.co/1ebNXvHq #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "96991533",
+            "created_at": "2012-10-09T21:08:29.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "255776771876732928",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais http://t.co/Sc1bqwHJ #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "96413309",
+            "created_at": "2012-10-09T21:08:26.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "255776760728272897",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais http://t.co/c5uMQtp2 #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "171180508",
+            "created_at": "2012-10-09T21:08:24.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "255776751328849921",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais http://t.co/EXIc76HQ #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "71265174",
+            "created_at": "2012-10-09T21:08:22.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "255776742155882496",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais http://t.co/2Jq0bX3x #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "208631651",
+            "created_at": "2012-10-09T21:08:19.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "255776732727099392",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais http://t.co/m9RidbvZ #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "209288492",
+            "created_at": "2012-10-09T21:08:15.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "255776714683203585",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais http://t.co/4N53ZZry #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "213308939",
+            "created_at": "2012-10-09T21:08:13.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "255776704948211712",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais http://t.co/SBW32fSA #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "488746319",
+            "created_at": "2012-10-09T21:08:10.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "255776695523618816",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Inc\u00eandio atinge Parque Nacional da Serra do Cip\u00f3 em Minas Gerais http://t.co/mOGs5mLQ #TvOnline #Tv #Filme"
         }
     ],
     "errors": [
@@ -6874,130 +6916,10 @@
         ],
         "users": [
             {
-                "id": "112185190",
-                "name": "CMLx",
-                "username": "charles_wood_lx",
-                "verified": false
-            },
-            {
-                "id": "35802694",
-                "name": "JR Hotel",
-                "username": "JRHotel",
-                "verified": false
-            },
-            {
-                "id": "581644853",
-                "name": "Turismo Atual",
-                "username": "TurismoAtual",
-                "verified": false
-            },
-            {
-                "id": "275674015",
-                "name": "Claudionei Citadin",
-                "username": "CCitadin",
-                "verified": false
-            },
-            {
-                "id": "267276979",
-                "name": "AeroBlogJoi",
-                "username": "AeroBlogJoi",
-                "verified": false
-            },
-            {
-                "id": "436469166",
-                "name": "Rodney Melo Mentor",
-                "username": "rodney_melo",
-                "verified": false
-            },
-            {
-                "id": "21331092",
-                "name": "copacabana com",
-                "username": "copacabanacom",
-                "verified": false
-            },
-            {
-                "id": "4209301",
-                "name": "copacabana",
-                "username": "copacabana",
-                "verified": false
-            },
-            {
-                "id": "191403895",
-                "name": "Espa\u00e7o Ambiental",
-                "username": "Espacoambiental",
-                "verified": false
-            },
-            {
-                "id": "619994873",
-                "name": "Consultravel",
-                "username": "Consultravelp",
-                "verified": false
-            },
-            {
-                "id": "153941705",
-                "name": "MANAUARA TRAVEL TOUR",
-                "username": "manauaratour",
-                "verified": false
-            },
-            {
-                "id": "71920313",
-                "name": "Giuliano Costa",
-                "username": "GiulianoCosta",
-                "verified": false
-            },
-            {
-                "id": "614453255",
-                "name": "Radio Rio Vermelho",
-                "username": "RadioRVermelho",
-                "verified": false
-            },
-            {
-                "id": "405324832",
-                "name": "Santyago Silva",
-                "username": "SantyagoPI",
-                "verified": false
-            },
-            {
-                "id": "174902886",
-                "name": "\uae40\uacbd\uad6c(\ub9cc\ud314\ub2f9 \ubd80\ub2f9\uc8fc/\ucd08\ubcf4\ub2f9 \ucf54\uce58)",
-                "username": "piramikim",
-                "verified": false
-            },
-            {
-                "id": "54731290",
-                "name": "Drea\u24c2Believer \ud83c\uddec\ud83c\udde7",
-                "username": "gr8benj",
-                "verified": false
-            },
-            {
-                "id": "28493748",
-                "name": "Billy Guest",
-                "username": "BillyGuest",
-                "verified": false
-            },
-            {
                 "id": "70065005",
                 "name": "Andr\u00e9",
                 "username": "Andrepmpe",
                 "verified": false
-            },
-            {
-                "id": "122884753",
-                "name": "emaneazy",
-                "username": "emaneazy",
-                "verified": false
-            },
-            {
-                "id": "237948485",
-                "name": "supDawg iHerd",
-                "username": "supDawgiHerd",
-                "verified": false
-            },
-            {
-                "id": "813286",
-                "name": "Barack Obama",
-                "username": "BarackObama",
-                "verified": true
             },
             {
                 "id": "221866054",
@@ -7049,7 +6971,7 @@
             },
             {
                 "id": "119557685",
-                "name": "carij\u00f3 \ud83d\udc14 \u2018\u2019) \u00a3 (#)",
+                "name": "Sakuna \ud83d\udc79",
                 "username": "victorcarrijo",
                 "verified": false
             },
@@ -7073,7 +6995,7 @@
             },
             {
                 "id": "18067631",
-                "name": "Kaio Freitas",
+                "name": "Kaio",
                 "username": "kaiofreitas",
                 "verified": false
             },
@@ -7385,7 +7307,7 @@
             },
             {
                 "id": "10796882",
-                "name": "natalie",
+                "name": "Natalie",
                 "username": "natalierosa",
                 "verified": false
             },
@@ -8147,8 +8069,8 @@
             },
             {
                 "id": "56181717",
-                "name": "Hilquias Darcley",
-                "username": "hilquiasdarcley",
+                "name": "Israel - Palestina",
+                "username": "newsoriente24h",
                 "verified": false
             },
             {
@@ -8333,7 +8255,7 @@
             },
             {
                 "id": "170410790",
-                "name": "Gabriel",
+                "name": "Gabriel Marti",
                 "username": "GabrielMartiR",
                 "verified": false
             },
@@ -8932,6 +8854,12 @@
                 "verified": false
             },
             {
+                "id": "405324832",
+                "name": "Santyago Silva",
+                "username": "SantyagoPI",
+                "verified": false
+            },
+            {
                 "id": "274704175",
                 "name": "queenkaridheinshian",
                 "username": "srtadhein",
@@ -9022,12 +8950,6 @@
                 "verified": false
             },
             {
-                "id": "44642892",
-                "name": "Green Nation",
-                "username": "green_nation_br",
-                "verified": false
-            },
-            {
                 "id": "463099938",
                 "name": "elemidia",
                 "username": "elemidia",
@@ -9091,12 +9013,6 @@
                 "id": "484205960",
                 "name": "voluveis.com.br",
                 "username": "voluveis",
-                "verified": false
-            },
-            {
-                "id": "71067227",
-                "name": "Marcos Pennha",
-                "username": "marcospennha",
                 "verified": false
             },
             {
@@ -9256,18 +9172,6 @@
                 "verified": false
             },
             {
-                "id": "148820294",
-                "name": "A\u00e7\u00e3o e Meio Ambiente",
-                "username": "acaoeambiente",
-                "verified": false
-            },
-            {
-                "id": "22914738",
-                "name": "((o))eco | Jornalismo Ambiental",
-                "username": "o_eco",
-                "verified": true
-            },
-            {
                 "id": "129854436",
                 "name": "Pablo Camargo",
                 "username": "pablomcamargo",
@@ -9292,12 +9196,6 @@
                 "verified": false
             },
             {
-                "id": "306225784",
-                "name": "CanalCi\u00eancia",
-                "username": "canal_ciencia",
-                "verified": false
-            },
-            {
                 "id": "288951324",
                 "name": "Guia Manaus Online",
                 "username": "GuiaManausOL",
@@ -9316,12 +9214,6 @@
                 "verified": false
             },
             {
-                "id": "370993832",
-                "name": "Atitude Terra",
-                "username": "AtitudeTerra",
-                "verified": false
-            },
-            {
                 "id": "232236417",
                 "name": "Turrance Green Hotel",
                 "username": "Turrancehotel",
@@ -9334,23 +9226,89 @@
                 "verified": false
             },
             {
-                "id": "82913355",
-                "name": "Daniela Pi Zacca",
-                "username": "DaniPiZacca",
+                "id": "54670687",
+                "name": "Tratamento de \u00c1gua",
+                "username": "tratamentoagua",
                 "verified": false
             },
             {
-                "id": "216732839",
-                "name": "Ecotonus Amb e Arq",
-                "username": "Ecotonus_Eco",
+                "id": "87038822",
+                "name": "Alyne Cunha",
+                "username": "Alyne__Cunha",
+                "verified": false
+            },
+            {
+                "id": "412428260",
+                "name": "Nerds Viajantes",
+                "username": "NerdsViajantes",
+                "verified": false
+            },
+            {
+                "id": "820646384",
+                "name": "Intern\u00e1cia Lab",
+                "username": "InternaciaLab",
+                "verified": false
+            },
+            {
+                "id": "339833655",
+                "name": "minhas leituras",
+                "username": "minhas_leituras",
+                "verified": false
+            },
+            {
+                "id": "42727412",
+                "name": "amaz\u00f4nia",
+                "username": "AMAZONIAcerrado",
+                "verified": false
+            },
+            {
+                "id": "280504996",
+                "name": "VEJAM TV ONLINE 0800",
+                "username": "VejaTvOnline7",
+                "verified": false
+            },
+            {
+                "id": "96991533",
+                "name": "Lionel Messi",
+                "username": "Dieta_Mais",
+                "verified": false
+            },
+            {
+                "id": "96413309",
+                "name": "Ronaldinho Ga\u00facho",
+                "username": "DietaMais",
+                "verified": false
+            },
+            {
+                "id": "208631651",
+                "name": "CITY TOUR - VANS BH",
+                "username": "4102_0940",
+                "verified": false
+            },
+            {
+                "id": "209288492",
+                "name": "Rodrigo Faro",
+                "username": "41020940",
+                "verified": false
+            },
+            {
+                "id": "213308939",
+                "name": "Luan Santana",
+                "username": "91223322",
+                "verified": false
+            },
+            {
+                "id": "488746319",
+                "name": "Margarida Santos",
+                "username": "Wellington_Tour",
                 "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "257826639700979712",
-        "next_token": "1jzu9lk96gu5npvzzmnk5o4bvjbt3xvwceonbgp5d1fh",
-        "oldest_id": "255856508997345281",
-        "result_count": 483
+        "newest_id": "257775609411932160",
+        "next_token": "1jzu9lk96gu5npvzzmnk3jzrejo9yy59upmrn0r90pkt",
+        "oldest_id": "255776695523618816",
+        "result_count": 482
     }
 }

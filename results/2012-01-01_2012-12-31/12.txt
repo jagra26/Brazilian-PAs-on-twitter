@@ -1,406 +1,6 @@
 {
     "data": [
         {
-            "author_id": "50207317",
-            "created_at": "2012-10-03T05:13:25.000Z",
-            "id": "253362094039236608",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Editando agora o v\u00eddeo do encontro com Flavio Silva, bi\u00f3logo, educador ambiental, chefe da Reserva Biol\u00f3gica -... http://t.co/RZN1rTEv"
-        },
-        {
-            "author_id": "464189528",
-            "created_at": "2012-10-03T04:40:59.000Z",
-            "id": "253353935069409280",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\"Aprendendo com os Le\u00f5es\"\n\nDe acordo com as observa\u00e7\u00f5es de Norman Carr, guarda de ca\u00e7a no Parque Nacional de... http://t.co/aKLqRPnK"
-        },
-        {
-            "author_id": "103726643",
-            "created_at": "2012-10-03T04:21:06.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -39.43732335,
-                        -7.21716293
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "04279e8b69ef0f08"
-            },
-            "id": "253348929603784706",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "I'm at Floresta Nacional do Araripe (Crato, Cear\u00e1) http://t.co/dLdMKGBm"
-        },
-        {
-            "author_id": "48923998",
-            "created_at": "2012-10-03T02:06:24.000Z",
-            "id": "253315031003959297",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional dos Len\u00e7\u00f3is #partiu!"
-        },
-        {
-            "author_id": "108064610",
-            "created_at": "2012-10-03T02:02:53.000Z",
-            "id": "253314147142483968",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional do Vale da Morte, EUA http://t.co/RwiVENKH"
-        },
-        {
-            "author_id": "240649649",
-            "created_at": "2012-10-03T01:39:55.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "stefanicapricho"
-                    }
-                ]
-            },
-            "id": "253308364740763648",
-            "in_reply_to_user_id": "205013905",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 2,
-                "retweet_count": 0
-            },
-            "text": "@stefanicapricho manda pra mim um que tenha unidade de conserva\u00e7ao e relevancia com rela\u00e7ao aos moradores da cidade de sp e munic vizinhos"
-        },
-        {
-            "author_id": "604559493",
-            "created_at": "2012-10-03T01:18:04.000Z",
-            "id": "253302868008898560",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Relato de viajem solo feminina pelo Parque Nacional do Capara\u00f3, no Carnaval de 2012. http://t.co/2F0Bquzd"
-        },
-        {
-            "author_id": "281728915",
-            "created_at": "2012-10-03T00:42:03.000Z",
-            "id": "253293805753757696",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "brazilwonders: Parque Nacional de Aparados da Serra - Rio Grande do Sul (by radiosong) http://t.co/yR6UQgBj"
-        },
-        {
-            "author_id": "97128354",
-            "created_at": "2012-10-03T00:37:02.000Z",
-            "id": "253292542936895489",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "PARQUE NACIONAL WALTER THILO DEININGER http://t.co/FslnYldU"
-        },
-        {
-            "author_id": "87225247",
-            "created_at": "2012-10-03T00:30:44.000Z",
-            "id": "253290956760158208",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "brazilwonders: Parque Nacional de Aparados da Serra - Rio Grande do Sul (by radiosong) http://t.co/d9KZsfAJ"
-        },
-        {
-            "author_id": "59298199",
-            "created_at": "2012-10-03T00:10:22.000Z",
-            "id": "253285832549613569",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "brazilwonders: Parque Nacional de Aparados da Serra - Rio Grande do Sul (by radiosong) http://t.co/iLx9z0U"
-        },
-        {
-            "author_id": "339823876",
-            "created_at": "2012-10-02T23:58:54.000Z",
-            "id": "253282943039045632",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional de Aparados da Serra - Rio Grande do Sul (by radiosong) http://t.co/Oclxiabw"
-        },
-        {
-            "author_id": "161382516",
-            "created_at": "2012-10-02T22:01:28.000Z",
-            "id": "253253393752150016",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "Arquip\u00e9lago dos Alcatrazes. Opera\u00e7\u00e3o `Alma Mestre` no combate a pesca ilegal na regi\u00e3o da unidade de conserva\u00e7\u00e3o. http://t.co/d9ozMx2I"
-        },
-        {
-            "author_id": "63126129",
-            "created_at": "2012-10-02T21:30:03.000Z",
-            "id": "253245484599234560",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Santa Marta (Col\u00f4mbia)\n\nEm meio \u00e0 vegeta\u00e7\u00e3o do Parque Nacional Tayrona, encontram-se os Ecohabs, meios de... http://t.co/V4X4BHHX"
-        },
-        {
-            "author_id": "53899784",
-            "created_at": "2012-10-02T21:16:07.000Z",
-            "id": "253241981130637312",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Participa\u00e7\u00e3o do Estado em congresso de Unidade de Conserva\u00e7\u00e3o prev\u00ea novas parcerias http://t.co/ZFZdE9yQ"
-        },
-        {
-            "author_id": "300263731",
-            "created_at": "2012-10-02T21:07:04.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 11,
-                        "start": 0,
-                        "username": "anagirlene"
-                    }
-                ]
-            },
-            "id": "253239701476106240",
-            "in_reply_to_user_id": "166669914",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@anagirlene o parecer deu ao Parque  Ncional das Montanhas do Tumucumaque 1.697.919,99,Estac\u00e3o Ecologica do Jari,2milh\u00f5es,Para   rds 0,0000,"
-        },
-        {
-            "author_id": "62847967",
-            "created_at": "2012-10-02T19:47:02.000Z",
-            "id": "253219562449932289",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "O Parque Nacional Plitvice est\u00e1 situado na Cro\u00e1cia. Trata-se de um parque nacional que se estende por 20000... http://t.co/GiJ6wwBC"
-        },
-        {
-            "author_id": "35201891",
-            "created_at": "2012-10-02T19:45:35.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 128,
-                        "start": 120,
-                        "username": "rj_inea"
-                    }
-                ]
-            },
-            "id": "253219195846795264",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "(+) A publica\u00e7\u00e3o, com 76 p\u00e1ginas, \u00e9 a + recente iniciativa do programa de incentivo \u00e0 cria\u00e7\u00e3o de RPPN do estado do Rio/ @rj_inea"
-        },
-        {
-            "author_id": "35201891",
-            "created_at": "2012-10-02T19:45:01.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 8,
-                        "start": 0,
-                        "username": "rj_inea"
-                    },
-                    {
-                        "end": 111,
-                        "start": 103,
-                        "username": "minc_rj"
-                    },
-                    {
-                        "end": 127,
-                        "start": 112,
-                        "username": "fund_boticario"
-                    }
-                ]
-            },
-            "id": "253219054750404608",
-            "in_reply_to_user_id": "253061062",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "@rj_Inea lan\u00e7ou roteiro para plano de manejo de RPPN em Congresso de Unidades de Conserva\u00e7\u00e3o/ #viicbuc @minc_rj @fund_boticario"
-        },
-        {
-            "author_id": "43347078",
-            "created_at": "2012-10-02T19:02:31.000Z",
-            "id": "253208359086477313",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 2
-            },
-            "text": "A \u00c1rea de Prote\u00e7\u00e3o Ambiental (APA) de Guapimirim (RJ) comemora 28 anos de luta, conquista e ainda muitos desafios! http://t.co/bjVpzQVf"
-        },
-        {
-            "author_id": "95250195",
-            "created_at": "2012-10-02T18:15:51.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 3,
-                        "username": "jaquegrasi"
-                    }
-                ]
-            },
-            "id": "253196611595931648",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "RT @jaquegrasi: sexta de manh\u00e3 viajar com a turma pra foz, coleta de dados no parque nacional do igua\u00e7u, voltar no sabado"
-        },
-        {
-            "author_id": "124037055",
-            "created_at": "2012-10-02T17:12:38.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "bruunacezario"
-                    }
-                ]
-            },
-            "id": "253180705025187840",
-            "in_reply_to_user_id": "56874003",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@bruunacezario http://t.co/tMFSnAG7 / http://t.co/lb8hptfZ / http://t.co/8ygPRHCW ta contratada ahsuhasuhau"
-        },
-        {
-            "author_id": "41036546",
-            "created_at": "2012-10-02T16:44:06.000Z",
-            "id": "253173522032103426",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 2,
-                "retweet_count": 4
-            },
-            "text": "O parque nacional marinho de Noronha sendo MT bem administrado. http://t.co/zkynAko0 PARAB\u00c9NS a todos os envolvidos."
-        },
-        {
-            "author_id": "799141824",
-            "created_at": "2012-10-02T16:37:45.000Z",
-            "id": "253171926346907650",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "A maior anta das Am\u00e9ricas, dizem os colombianos, vive no Parque Nacional Natural los Kat\u00edos. Criado em 1973, o... http://t.co/nfOMFLze"
-        },
-        {
-            "author_id": "36968483",
-            "created_at": "2012-10-02T15:54:43.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -43.27391952,
-                        -22.96141392
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "97bcdfca1a2dca59"
-            },
-            "id": "253161095592824833",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Floresta da Tijuca  @ Parque Nacional da Floresta da Tijuca http://t.co/pvUSfvWh"
-        },
-        {
-            "author_id": "116295266",
-            "created_at": "2012-10-02T15:34:25.000Z",
-            "id": "253155985588383744",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\u00c1rea Protegida, h\u00e1 3 anos dispomos deste servi\u00e7o! Hardman Praia Hotel/JPA pioneirismo sempre! http://t.co/FuBqBphJ"
-        },
-        {
             "author_id": "213252830",
             "created_at": "2012-10-02T15:19:10.000Z",
             "id": "253152151432491008",
@@ -878,19 +478,6 @@
                 "retweet_count": 0
             },
             "text": "\u00c1rea Protegida http://t.co/C2iAcECz #BananasLife"
-        },
-        {
-            "author_id": "97456852",
-            "created_at": "2012-10-02T01:18:28.000Z",
-            "id": "252940581167316992",
-            "in_reply_to_user_id": "217466622",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@carrascooficial \u00e1rea de prote\u00e7\u00e3o ambiental do Russomano?"
         },
         {
             "author_id": "305369318",
@@ -2068,28 +1655,6 @@
             "text": "Parque Nacional das Nascentes do Rio Parna\u00edba come\u00e7a a ser demarcado http://t.co/ZiUrFvqC"
         },
         {
-            "author_id": "38273481",
-            "created_at": "2012-09-30T17:51:44.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "abranches"
-                    }
-                ]
-            },
-            "id": "252465770762739712",
-            "in_reply_to_user_id": "26318018",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "text": "@abranches e @MiriamLeitaoCom Parab\u00e9ns pelo trabalho e pelo exemplo na RPPN Reserva Brejo Novo!"
-        },
-        {
             "author_id": "177113169",
             "created_at": "2012-09-30T17:47:00.000Z",
             "id": "252464579412639745",
@@ -2589,18 +2154,6 @@
             "text": "Reserva Biol\u00f3gica Huilo-Huilo: Para\u00ed\u00adso natural ... http://t.co/1kkQYvMK"
         },
         {
-            "author_id": "101248283",
-            "created_at": "2012-09-29T16:21:43.000Z",
-            "id": "252080728924385281",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "13h de sono na minha cama maravilhosa e quente e eu ainda n\u00e3o recuperei a noite de quinta na RPPN maragato..."
-        },
-        {
             "author_id": "191473369",
             "created_at": "2012-09-29T15:53:10.000Z",
             "id": "252073544165507072",
@@ -2611,18 +2164,6 @@
                 "retweet_count": 0
             },
             "text": "Participa\u00e7\u00e3o do Estado em congresso de Unidade de Conserva\u00e7\u00e3o prev\u00ea novas parcerias - http://t.co/AmQmfZ6H"
-        },
-        {
-            "author_id": "15774970",
-            "created_at": "2012-09-29T15:50:16.000Z",
-            "id": "252072811387052033",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\ud83c\udf43 Cascatinha\n  @ Parque Nacional da Floresta da Tijuca http://t.co/RocpdKkY"
         },
         {
             "author_id": "174557684",
@@ -3281,18 +2822,6 @@
                 "retweet_count": 22
             },
             "text": "Parque Nacional de Itatiaia registra 7 graus abaixo de zero. http://t.co/zUKRKTX5"
-        },
-        {
-            "author_id": "259133754",
-            "created_at": "2012-09-28T22:34:03.000Z",
-            "id": "251812039541002240",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Chegando em cada agora depois de passar o dia todo na RPPN de Pedro de Toledo, muito legal mais muito cansativo."
         },
         {
             "author_id": "62408188",
@@ -5752,60 +5281,6 @@
             "text": "Acontece hoje, \u00e0s 17h, no VII Congresso Brasileiro de Unidades de Conserva\u00e7\u00e3o (CBUC) a inaugura\u00e7\u00e3o do Parque Nacional de Furna Feia. (RN)"
         },
         {
-            "author_id": "21892364",
-            "created_at": "2012-09-26T14:46:16.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 9,
-                        "start": 0,
-                        "username": "CIBrasil"
-                    },
-                    {
-                        "end": 135,
-                        "start": 129,
-                        "username": "sosma"
-                    }
-                ]
-            },
-            "id": "250969541654478849",
-            "in_reply_to_user_id": "21892364",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@CIBrasil no #VIICBUC Inea lan\u00e7a roteiro para planos de manejo de RPPN para RJ, c/ apoio do Programa RPPN da Alian\u00e7a CI-Brasil e @sosma"
-        },
-        {
-            "author_id": "21892364",
-            "created_at": "2012-09-26T14:41:57.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 9,
-                        "start": 0,
-                        "username": "CIBrasil"
-                    },
-                    {
-                        "end": 134,
-                        "start": 128,
-                        "username": "sosma"
-                    }
-                ]
-            },
-            "id": "250968457535946755",
-            "in_reply_to_user_id": "21892364",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@CIBrasil no #VIICBUC Monica Fonseca apresenta os resultados dos 10 anos do Programa de Incentivo as RPPN da Mata Atl\u00e2ntica, c/ @sosma"
-        },
-        {
             "author_id": "414038302",
             "created_at": "2012-09-26T14:41:27.000Z",
             "id": "250968332075929600",
@@ -6834,24 +6309,413 @@
                 "retweet_count": 0
             },
             "text": "Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no Paran\u00e1 http://t.co/2eWox8Nh"
+        },
+        {
+            "author_id": "105613843",
+            "created_at": "2012-09-25T22:12:46.000Z",
+            "id": "250719522607210496",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#RGP Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no Paran\u00e1: Curitiba - Um helic\u00f3ptero da empresa Helisul, resp... http://t.co/TrNm9JTd"
+        },
+        {
+            "author_id": "552071671",
+            "created_at": "2012-09-25T22:08:46.000Z",
+            "id": "250718512409083904",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no PR: \nUm helic\u00f3ptero da empresa Helisul, respons\u00e1vel por fazer ... http://t.co/YjqFX2w1"
+        },
+        {
+            "author_id": "20593190",
+            "created_at": "2012-09-25T22:08:44.000Z",
+            "id": "250718506985873408",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no PR: \nUm helic\u00f3ptero da empresa Helisul, respons\u00e1vel por fazer ... http://t.co/2uXWoJrO"
+        },
+        {
+            "author_id": "272110077",
+            "created_at": "2012-09-25T21:57:55.000Z",
+            "id": "250715783909478400",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero com turistas cai ao decolar http://t.co/Zq5vXnhj"
+        },
+        {
+            "author_id": "118399171",
+            "created_at": "2012-09-25T21:57:55.000Z",
+            "id": "250715783456497664",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero com turistas cai ao decolar:  http://t.co/7A9Nq5um"
+        },
+        {
+            "author_id": "537516120",
+            "created_at": "2012-09-25T21:57:53.000Z",
+            "id": "250715775843840000",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero com turistas cai ao decolar:  http://t.co/q1Co53Ek"
+        },
+        {
+            "author_id": "40111999",
+            "created_at": "2012-09-25T21:53:23.000Z",
+            "id": "250714642576445440",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acidente com helic\u00f3ptero no Parque Nacional do Igua\u00e7u deixa quatro feridos http://t.co/BjcYKKCy"
+        },
+        {
+            "author_id": "355018464",
+            "created_at": "2012-09-25T21:46:23.000Z",
+            "id": "250712881438543872",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Piaga\u00e7u Purus\n\nA Reserva de Desenvolvimento Sustent\u00e1vel Piaga\u00e7u-Purus (RDS PP) \u00e9 uma Unidade de Conserva\u00e7\u00e3o... http://t.co/1Q1AdBXx"
+        },
+        {
+            "author_id": "432790305",
+            "created_at": "2012-09-25T21:42:43.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 103,
+                        "start": 88,
+                        "username": "tribunadonorte"
+                    }
+                ]
+            },
+            "id": "250711956141531136",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Instituto Chico Mendes inaugura primeiro Parque Nacional do RN http://t.co/8wdnyyAU via @tribunadonorte"
+        },
+        {
+            "author_id": "72165706",
+            "created_at": "2012-09-25T21:37:26.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -46.734375,
+                        -23.54617691
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "68e019afec7d0ba5"
+            },
+            "id": "250710627369230336",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Amores meus! Eles fizeram meu final de semana mais feliz... \ue20c\ue329\ue41d\ue304  @ Esta\u00e7\u00e3o Ecol\u00f3gica da Jur\u00e9ia... http://t.co/HdfORGX"
+        },
+        {
+            "author_id": "462771738",
+            "created_at": "2012-09-25T21:34:05.000Z",
+            "id": "250709785022971904",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no PR http://t.co/Oxn22Fjw"
+        },
+        {
+            "author_id": "86117649",
+            "created_at": "2012-09-25T21:29:43.000Z",
+            "id": "250708685205168128",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Policiais militares s\u00e3o suspeitos de praticar ca\u00e7a em Goi\u00e1s\n\nA dire\u00e7\u00e3o do Parque Nacional das Emas, no... http://t.co/79jT7PZC"
+        },
+        {
+            "author_id": "93924900",
+            "created_at": "2012-09-25T21:26:18.000Z",
+            "id": "250707826735976448",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acidente com helic\u00f3ptero no Parque Nacional do Igua\u00e7u deixa quatro feridos. http://t.co/JXdFKvcI"
+        },
+        {
+            "author_id": "39691177",
+            "created_at": "2012-09-25T21:25:36.000Z",
+            "id": "250707652072599552",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no PR http://t.co/4P4yo3k7"
+        },
+        {
+            "author_id": "759983617",
+            "created_at": "2012-09-25T21:24:09.000Z",
+            "id": "250707287667245058",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "6 Em Brotas voc\u00ea se aproxima do meio ambiente com atividades que ressaltam a consci\u00eancia ambiental! Visite a Esta\u00e7\u00e3o Ecol\u00f3gica de Itirapina."
+        },
+        {
+            "author_id": "108058425",
+            "created_at": "2012-09-25T21:22:14.000Z",
+            "id": "250706803434848256",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no PR http://t.co/6oK2y46U #xanndfjv"
+        },
+        {
+            "author_id": "40042091",
+            "created_at": "2012-09-25T21:21:57.000Z",
+            "id": "250706732416917504",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no PR http://t.co/ws9Uo6XN"
+        },
+        {
+            "author_id": "170747494",
+            "created_at": "2012-09-25T21:20:17.000Z",
+            "id": "250706313825361920",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no PR\" #Verdadeiramente"
+        },
+        {
+            "author_id": "329540379",
+            "created_at": "2012-09-25T21:18:43.000Z",
+            "id": "250705920286404608",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Not\u00edcia: Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no PR http://t.co/C26JUCqp"
+        },
+        {
+            "author_id": "242613598",
+            "created_at": "2012-09-25T21:18:41.000Z",
+            "id": "250705911063138304",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Not\u00edcia: Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no PR http://t.co/M7DbMNE5"
+        },
+        {
+            "author_id": "126155537",
+            "created_at": "2012-09-25T21:15:46.000Z",
+            "id": "250705176451751937",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no PR: Quatro pessoas ficaram feridas; acidente aconteceu segundos... http://t.co/YhlSI1ZN"
+        },
+        {
+            "author_id": "298598428",
+            "created_at": "2012-09-25T21:15:45.000Z",
+            "id": "250705171447955456",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no PR: Quatro pessoas ficaram feridas; acidente aconteceu segundos... http://t.co/AAGH4Ewr"
+        },
+        {
+            "author_id": "124808780",
+            "created_at": "2012-09-25T21:15:20.000Z",
+            "id": "250705067395661824",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero cai em Parque Nacional do Igua\u00e7u, no PR:  http://t.co/WxMzk7vR"
+        },
+        {
+            "author_id": "40406264",
+            "created_at": "2012-09-25T21:12:28.000Z",
+            "id": "250704343479750656",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Panda aproveita ter\u00e7a ensolarada e tira cochilo em reserva: Panda-gigante relaxa em parque nacional na China. (F... http://t.co/3vSlR6Xr"
+        },
+        {
+            "author_id": "40406264",
+            "created_at": "2012-09-25T20:03:15.000Z",
+            "id": "250686924753354753",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Policiais militares s\u00e3o suspeitos de praticar ca\u00e7a em Goi\u00e1s: Foto: Reprodu\u00e7\u00e3o/G1\nA dire\u00e7\u00e3o do Parque Nacional da... http://t.co/DIb8thua"
+        },
+        {
+            "author_id": "170182490",
+            "created_at": "2012-09-25T20:01:04.000Z",
+            "id": "250686377312788480",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Instituto Chico Mendes abre o primeiro Parque Nacional do RN\nhttp://t.co/yg1rjmLQ"
+        },
+        {
+            "author_id": "54658172",
+            "created_at": "2012-09-25T19:59:38.000Z",
+            "id": "250686016917229569",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Instituto Chico Mendes abre o primeiro Parque Nacional do RN\nhttp://t.co/n66x1m8H"
+        },
+        {
+            "author_id": "188860743",
+            "created_at": "2012-09-25T19:12:01.000Z",
+            "id": "250674031752278016",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acidente com helic\u00f3ptero deixa feridos pr\u00f3ximo ao Parque Nacional do Igua\u00e7u http://t.co/j6VHg3V7"
+        },
+        {
+            "author_id": "91055709",
+            "created_at": "2012-09-25T19:00:03.000Z",
+            "id": "250671019977736193",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fort Jefferson, \nA fortaleza foi abandonada em 1907. Atualmente \u00e9 o cart\u00e3o-postal do Parque Nacional Dry... http://t.co/k6at2aZB"
+        },
+        {
+            "author_id": "309083601",
+            "created_at": "2012-09-25T18:38:45.000Z",
+            "id": "250665660382855169",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero cai pr\u00f3ximo ao Parque Nacional em Foz do Igua\u00e7u http://t.co/JGO6hIaW"
+        },
+        {
+            "author_id": "88900203",
+            "created_at": "2012-09-25T18:29:07.000Z",
+            "id": "250663235676680194",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Helic\u00f3ptero caiu no final da manh\u00e3 de hoje no Parque Nacional de Foz do Igua\u00e7u, no Paran\u00e1, e deixou quatro feridos."
+        },
+        {
+            "author_id": "162096257",
+            "created_at": "2012-09-25T18:06:28.000Z",
+            "id": "250657538041860096",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pacote para Serra da Capivara 2012 \u2013 2013: pre\u00e7os: O Parque Nacional\u00a0Serra da Capivara\u00a0declarado Patrim\u00f4nio Cult... http://t.co/fRZkOXYq"
         }
     ],
     "includes": {
         "places": [
-            {
-                "country": "Brasil",
-                "country_code": "BR",
-                "full_name": "Crato, Brasil",
-                "id": "04279e8b69ef0f08",
-                "place_type": "city"
-            },
-            {
-                "country": "Brasil",
-                "country_code": "BR",
-                "full_name": "Rio de Janeiro, Brasil",
-                "id": "97bcdfca1a2dca59",
-                "place_type": "city"
-            },
             {
                 "country": "Brasil",
                 "country_code": "BR",
@@ -6878,6 +6742,13 @@
                 "country_code": "BR",
                 "full_name": "Foz do Igua\u00e7u, Brasil",
                 "id": "91f818a4abfb1d4d",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Crato, Brasil",
+                "id": "04279e8b69ef0f08",
                 "place_type": "city"
             },
             {
@@ -6939,195 +6810,9 @@
         ],
         "users": [
             {
-                "id": "50207317",
-                "name": "Adriano Dias",
-                "username": "adrianodiasrio",
-                "verified": false
-            },
-            {
-                "id": "464189528",
-                "name": "Alex Hideki Takeda",
-                "username": "AlexHidekiTaked",
-                "verified": false
-            },
-            {
-                "id": "103726643",
-                "name": "cuscuz com ovo",
-                "username": "dante_siebra",
-                "verified": false
-            },
-            {
-                "id": "48923998",
-                "name": "Andr\u00e9a Soares",
-                "username": "AndreaSoares_08",
-                "verified": false
-            },
-            {
-                "id": "108064610",
-                "name": "Doutor Jr",
-                "username": "DoutorJr",
-                "verified": false
-            },
-            {
-                "id": "240649649",
-                "name": "Ousadia&Alegria",
-                "username": "weelmanzan",
-                "verified": false
-            },
-            {
-                "id": "205013905",
-                "name": "Perfect Disaster \u2654",
-                "username": "stefanicapricho",
-                "verified": false
-            },
-            {
-                "id": "604559493",
-                "name": "MUITO MAIS RIO",
-                "username": "GLMUITOMAISRIO",
-                "verified": false
-            },
-            {
-                "id": "281728915",
-                "name": "Edson Alves",
-                "username": "fffading",
-                "verified": false
-            },
-            {
-                "id": "97128354",
-                "name": "Carlos Delgado",
-                "username": "carloshde",
-                "verified": false
-            },
-            {
-                "id": "87225247",
-                "name": "Karine Souza",
-                "username": "KariineSoouza",
-                "verified": false
-            },
-            {
-                "id": "59298199",
-                "name": "\ud83c\udfae lurimel \ud83d\udc7e",
-                "username": "lurimel_",
-                "verified": false
-            },
-            {
-                "id": "339823876",
-                "name": "Brazil Wonders",
-                "username": "BrazilWonders",
-                "verified": false
-            },
-            {
-                "id": "161382516",
-                "name": "iPesque | A Pesca",
-                "username": "iPesque",
-                "verified": false
-            },
-            {
-                "id": "63126129",
-                "name": "SIDNEY C\u00c2MBIO",
-                "username": "sidneycambio",
-                "verified": false
-            },
-            {
-                "id": "53899784",
-                "name": "O GIRASSOL",
-                "username": "OGIRASSOL",
-                "verified": false
-            },
-            {
-                "id": "300263731",
-                "name": "Mamede Leal Siqueira",
-                "username": "MamedeAP",
-                "verified": false
-            },
-            {
-                "id": "166669914",
-                "name": "Ana Girlene Oliveira",
-                "username": "anagirlene",
-                "verified": false
-            },
-            {
-                "id": "62847967",
-                "name": "ACORIANA TURISMO",
-                "username": "ACORIANATURISMO",
-                "verified": false
-            },
-            {
-                "id": "35201891",
-                "name": "plurale em site #vacinaparatodos",
-                "username": "pluraleemsite",
-                "verified": false
-            },
-            {
-                "id": "253061062",
-                "name": "Inea-RJ",
-                "username": "rj_inea",
-                "verified": false
-            },
-            {
-                "id": "131286287",
-                "name": "Carlos Minc",
-                "username": "minc_rj",
-                "verified": false
-            },
-            {
-                "id": "56441916",
-                "name": "Funda\u00e7\u00e3o Grupo Botic\u00e1rio",
-                "username": "fund_boticario",
-                "verified": false
-            },
-            {
-                "id": "43347078",
-                "name": "SOS Mata Atl\u00e2ntica",
-                "username": "sosma",
-                "verified": true
-            },
-            {
-                "id": "95250195",
-                "name": "Foz do Igua\u00e7u",
-                "username": "foziguacu",
-                "verified": false
-            },
-            {
                 "id": "213252830",
                 "name": "Jaqueline Grasiele",
                 "username": "jaquegrasi",
-                "verified": false
-            },
-            {
-                "id": "124037055",
-                "name": "Paula",
-                "username": "_Paulapp",
-                "verified": false
-            },
-            {
-                "id": "56874003",
-                "name": "Bruna",
-                "username": "bruunacezario",
-                "verified": false
-            },
-            {
-                "id": "41036546",
-                "name": "Bruno Gagliasso - Pai de 3",
-                "username": "brunogagliasso",
-                "verified": true
-            },
-            {
-                "id": "799141824",
-                "name": "i love latam",
-                "username": "ilovelatam",
-                "verified": false
-            },
-            {
-                "id": "36968483",
-                "name": "Marcus Brum",
-                "username": "nickvit",
-                "verified": false
-            },
-            {
-                "id": "116295266",
-                "name": "Hardman Praia Hotel",
-                "username": "hotelhardman",
                 "verified": false
             },
             {
@@ -7146,6 +6831,12 @@
                 "id": "40406264",
                 "name": "byflaviacombr",
                 "username": "byflaviacombr",
+                "verified": false
+            },
+            {
+                "id": "53899784",
+                "name": "O GIRASSOL",
+                "username": "OGIRASSOL",
                 "verified": false
             },
             {
@@ -7314,12 +7005,6 @@
                 "id": "68554574",
                 "name": "Maria Tereza Penna",
                 "username": "Mineiridades",
-                "verified": false
-            },
-            {
-                "id": "97456852",
-                "name": "G\u00f6khan",
-                "username": "gokhio",
                 "verified": false
             },
             {
@@ -7629,6 +7314,12 @@
                 "verified": false
             },
             {
+                "id": "103726643",
+                "name": "cuscuz com ovo",
+                "username": "dante_siebra",
+                "verified": false
+            },
+            {
                 "id": "113160621",
                 "name": "Kau\u00ea Neckel",
                 "username": "kaueneckel",
@@ -7707,18 +7398,6 @@
                 "verified": false
             },
             {
-                "id": "38273481",
-                "name": "Beto Mesquita",
-                "username": "betomesquita",
-                "verified": false
-            },
-            {
-                "id": "26318018",
-                "name": "Sergio Abranches",
-                "username": "abranches",
-                "verified": false
-            },
-            {
                 "id": "177113169",
                 "name": "Guia Chapada",
                 "username": "GuiaChapada",
@@ -7738,7 +7417,7 @@
             },
             {
                 "id": "24358851",
-                "name": "Conhe\u00e7a Foz do Igua\u00e7u",
+                "name": "Venha para Foz do Igua\u00e7u",
                 "username": "loumartur",
                 "verified": false
             },
@@ -7899,21 +7578,9 @@
                 "verified": false
             },
             {
-                "id": "101248283",
-                "name": "Cassieli Matiasso",
-                "username": "Cassi_m",
-                "verified": false
-            },
-            {
                 "id": "191473369",
                 "name": "Arqueologika - Consultoria em Arqueologia",
                 "username": "ARQUEOLOGIKA",
-                "verified": false
-            },
-            {
-                "id": "15774970",
-                "name": "Lidi Faria",
-                "username": "lidifaria",
                 "verified": false
             },
             {
@@ -8079,6 +7746,12 @@
                 "verified": false
             },
             {
+                "id": "604559493",
+                "name": "MUITO MAIS RIO",
+                "username": "GLMUITOMAISRIO",
+                "verified": false
+            },
+            {
                 "id": "605665913",
                 "name": "Terceiro Inclu\u00eddo",
                 "username": "TerceiroIncludo",
@@ -8130,12 +7803,6 @@
                 "id": "29901093",
                 "name": "Tati",
                 "username": "ttatti",
-                "verified": false
-            },
-            {
-                "id": "259133754",
-                "name": "Bruno Diniz",
-                "username": "BrUnOwDiNiz",
                 "verified": false
             },
             {
@@ -8511,6 +8178,12 @@
                 "verified": false
             },
             {
+                "id": "63126129",
+                "name": "SIDNEY C\u00c2MBIO",
+                "username": "sidneycambio",
+                "verified": false
+            },
+            {
                 "id": "57437806",
                 "name": "Edgard Ajax",
                 "username": "AJAXPUCCI",
@@ -8850,6 +8523,12 @@
                 "id": "200230862",
                 "name": "Portal TV Canal 13",
                 "username": "portalcanal13",
+                "verified": false
+            },
+            {
+                "id": "35201891",
+                "name": "plurale em site #vacinaparatodos",
+                "username": "pluraleemsite",
                 "verified": false
             },
             {
@@ -9397,13 +9076,151 @@
                 "name": "",
                 "username": "express_news_",
                 "verified": false
+            },
+            {
+                "id": "105613843",
+                "name": "Rede Geral Perfis",
+                "username": "OrgulhoCapixaba",
+                "verified": false
+            },
+            {
+                "id": "552071671",
+                "name": "All News",
+                "username": "All_noticia",
+                "verified": false
+            },
+            {
+                "id": "20593190",
+                "name": "Farley Mota",
+                "username": "montesclarosofc",
+                "verified": false
+            },
+            {
+                "id": "272110077",
+                "name": "Luan Matheus",
+                "username": "LuaNmrv",
+                "verified": false
+            },
+            {
+                "id": "118399171",
+                "name": "dunningham2",
+                "username": "dunningham2",
+                "verified": false
+            },
+            {
+                "id": "537516120",
+                "name": "Roberto",
+                "username": "importandoja",
+                "verified": false
+            },
+            {
+                "id": "40111999",
+                "name": "Nelson E. Junior",
+                "username": "nej1959",
+                "verified": false
+            },
+            {
+                "id": "432790305",
+                "name": "Angelo Gusm\u00e3o",
+                "username": "ngelojorge",
+                "verified": false
+            },
+            {
+                "id": "462771738",
+                "name": "Portal Home",
+                "username": "PortalHome",
+                "verified": false
+            },
+            {
+                "id": "93924900",
+                "name": "Alcio Ricardo",
+                "username": "alcioricardo",
+                "verified": false
+            },
+            {
+                "id": "39691177",
+                "name": "O Di\u00e1rio",
+                "username": "odiario",
+                "verified": false
+            },
+            {
+                "id": "759983617",
+                "name": "TIC_LZT",
+                "username": "TIC_LZT",
+                "verified": false
+            },
+            {
+                "id": "108058425",
+                "name": "Alexandre Bastos II",
+                "username": "xanndfjv2",
+                "verified": false
+            },
+            {
+                "id": "170747494",
+                "name": "Lucas Oliveira",
+                "username": "LucasRatedRock",
+                "verified": false
+            },
+            {
+                "id": "329540379",
+                "name": "_, ssa_",
+                "username": "20SeguirDeVolta",
+                "verified": false
+            },
+            {
+                "id": "242613598",
+                "name": "@AntiAlone *-*",
+                "username": "AntiAlone",
+                "verified": false
+            },
+            {
+                "id": "298598428",
+                "name": "Lok Oficial",
+                "username": "LokOficial",
+                "verified": false
+            },
+            {
+                "id": "124808780",
+                "name": "OVALE",
+                "username": "jornalovale",
+                "verified": false
+            },
+            {
+                "id": "170182490",
+                "name": "NatalPress.com",
+                "username": "natalpress_com",
+                "verified": false
+            },
+            {
+                "id": "54658172",
+                "name": "Minervino Wanderley",
+                "username": "MinervinoWSalem",
+                "verified": false
+            },
+            {
+                "id": "309083601",
+                "name": "R\u00e1dio Grande Lago",
+                "username": "radiograndelago",
+                "verified": false
+            },
+            {
+                "id": "88900203",
+                "name": "Revista Voto",
+                "username": "revistavoto",
+                "verified": false
+            },
+            {
+                "id": "162096257",
+                "name": "blog.pacotes",
+                "username": "blogpacotes",
+                "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "253362094039236608",
-        "next_token": "1jzu9lk96gu5npvzzmlgbghk3y63m2dfj6db1s42u2d9",
-        "oldest_id": "250719534040895489",
-        "result_count": 486
+        "newest_id": "253152151432491008",
+        "next_token": "1jzu9lk96gu5npvzzmlg9cyhg8rci3lijdt1mafr0p6l",
+        "oldest_id": "250657538041860096",
+        "result_count": 485
     }
 }

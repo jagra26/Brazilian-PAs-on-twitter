@@ -1,796 +1,6 @@
 {
     "data": [
         {
-            "author_id": "488760669",
-            "created_at": "2016-10-28T23:02:34.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139526059634688",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/gInYdqj3wH tv online #tvonline"
-        },
-        {
-            "author_id": "96422902",
-            "created_at": "2016-10-28T23:02:30.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139506728050688",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/WGzqiFIyO9 tv online #tvonline"
-        },
-        {
-            "author_id": "96397867",
-            "created_at": "2016-10-28T23:02:23.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139479247052801",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/vT3i4WwBt2 tv online #tvonline"
-        },
-        {
-            "author_id": "96991533",
-            "created_at": "2016-10-28T23:02:20.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139466563432448",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/blG6qI5Q6W tv online #tvonline"
-        },
-        {
-            "author_id": "96413309",
-            "created_at": "2016-10-28T23:02:18.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139456866193408",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/5irVAcVqPE tv online #tvonline"
-        },
-        {
-            "author_id": "96438553",
-            "created_at": "2016-10-28T23:02:16.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139448267870208",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/fYKW5ZFuxQ tv online #tvonline"
-        },
-        {
-            "author_id": "97019886",
-            "created_at": "2016-10-28T23:02:12.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139430144331776",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/NZYk0lBZmr tv online #tvonline"
-        },
-        {
-            "author_id": "97019464",
-            "created_at": "2016-10-28T23:02:09.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139420547756032",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/7M1S94RXeB tv online #tvonline"
-        },
-        {
-            "author_id": "173223604",
-            "created_at": "2016-10-28T23:02:05.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139403783090176",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/GJJ5zmMk2h tv online #tvonline"
-        },
-        {
-            "author_id": "96443148",
-            "created_at": "2016-10-28T23:02:02.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139390239682561",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/JfCjYcnMnf tv online #tvonline"
-        },
-        {
-            "author_id": "213308939",
-            "created_at": "2016-10-28T23:01:53.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139352251830272",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/d0GtU1fPxy tv online #tvonline"
-        },
-        {
-            "author_id": "209288492",
-            "created_at": "2016-10-28T23:01:51.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139344735711232",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/zRSEF0esny tv online #tvonline"
-        },
-        {
-            "author_id": "209994850",
-            "created_at": "2016-10-28T23:01:49.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139334358970368",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/8AkwAlXUJJ tv online #tvonline"
-        },
-        {
-            "author_id": "209992993",
-            "created_at": "2016-10-28T23:01:47.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139325538381825",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/toQHykwgmt tv online #tvonline"
-        },
-        {
-            "author_id": "96451944",
-            "created_at": "2016-10-28T23:01:40.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139298791231488",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/MLf77cYEbj tv online #tvonline"
-        },
-        {
-            "author_id": "208622375",
-            "created_at": "2016-10-28T23:01:38.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139288553017344",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/KBf1t3XOGn tv online #tvonline"
-        },
-        {
-            "author_id": "96764794",
-            "created_at": "2016-10-28T23:01:32.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139263030603776",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/UQteMbG2R0 tv online #tvonline"
-        },
-        {
-            "author_id": "173986914",
-            "created_at": "2016-10-28T23:01:30.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139254365171712",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/0ynY3yVOl1 tv online #tvonline"
-        },
-        {
-            "author_id": "96449334",
-            "created_at": "2016-10-28T23:01:28.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139248048537600",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/C5J2wBPGKU tv online #tvonline"
-        },
-        {
-            "author_id": "172905497",
-            "created_at": "2016-10-28T23:01:21.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 20,
-                        "start": 5,
-                        "username": "CanaisTvOnline"
-                    }
-                ]
-            },
-            "id": "792139219674161152",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Siga @CanaisTvOnline Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/PEhCgmEGCC tv online #tvonline"
-        },
-        {
-            "author_id": "2775035258",
-            "created_at": "2016-10-28T23:00:55.000Z",
-            "id": "792139110894800898",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Me segue a\u00ed galera Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia https://t.co/RGGhRUxZh7 #TIMBETA"
-        },
-        {
-            "author_id": "388002961",
-            "created_at": "2016-10-28T22:41:19.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -54.43929333,
-                        -25.68458335
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "91f818a4abfb1d4d"
-            },
-            "id": "792134174580670464",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\ud83c\udf08\ud83c\udde7\ud83c\uddf7 @ Cataratas Do Igua\u00e7u, Parque Nacional Do Igua\u00e7u - Brasil https://t.co/KBM73yLSdM"
-        },
-        {
-            "author_id": "2990095954",
-            "created_at": "2016-10-28T22:39:47.000Z",
-            "id": "792133789228990464",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Ex-prefeito \u00e9 condenado por desviar recursos do Parque Nacional da Serra da Capivara: Ex-prefeito \u00e9 condenado... https://t.co/HGNkY4kTiG"
-        },
-        {
-            "author_id": "68863920",
-            "created_at": "2016-10-28T22:39:46.000Z",
-            "id": "792133786330771457",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Ex-prefeito \u00e9 condenado por desviar recursos do Parque Nacional da Serra da Capivara: Ex-prefeito \u00e9 condenado... https://t.co/oExPy2IPE9"
-        },
-        {
-            "author_id": "2951983415",
-            "created_at": "2016-10-28T22:36:20.000Z",
-            "id": "792132921620443136",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/vMzCAyoGm9"
-        },
-        {
-            "author_id": "785162706814902273",
-            "created_at": "2016-10-28T22:36:16.000Z",
-            "id": "792132907800199168",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66... https://t.co/X1wqgoQh2B #betalab"
-        },
-        {
-            "author_id": "174482087",
-            "created_at": "2016-10-28T22:36:11.000Z",
-            "id": "792132886526697472",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#operacaobetalab Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreir... https://t.co/uVHQ97j1dT #timbeta"
-        },
-        {
-            "author_id": "3179399429",
-            "created_at": "2016-10-28T22:36:11.000Z",
-            "id": "792132885679525888",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/3Kk4hJLDGT"
-        },
-        {
-            "author_id": "722575530504122368",
-            "created_at": "2016-10-28T22:36:08.000Z",
-            "id": "792132870466785284",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/mu1ftzjITX"
-        },
-        {
-            "author_id": "534610895",
-            "created_at": "2016-10-28T22:36:06.000Z",
-            "id": "792132864858918912",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/J4ynoVdLJ2"
-        },
-        {
-            "author_id": "4276899023",
-            "created_at": "2016-10-28T22:36:05.000Z",
-            "id": "792132858903048192",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/LvCZ8Try6U"
-        },
-        {
-            "author_id": "4002701985",
-            "created_at": "2016-10-28T22:36:04.000Z",
-            "id": "792132854591348736",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/wTWeEAyQMX"
-        },
-        {
-            "author_id": "723159791053336576",
-            "created_at": "2016-10-28T22:36:03.000Z",
-            "id": "792132852234072065",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/sxNc2MciDV"
-        },
-        {
-            "author_id": "716757840795336705",
-            "created_at": "2016-10-28T22:36:02.000Z",
-            "id": "792132848580829185",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/f8WW8ae1jI"
-        },
-        {
-            "author_id": "744226526862913536",
-            "created_at": "2016-10-28T22:36:02.000Z",
-            "id": "792132846517301248",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/YNPlz4zOUz"
-        },
-        {
-            "author_id": "736657467707392001",
-            "created_at": "2016-10-28T22:36:01.000Z",
-            "id": "792132843107328001",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/uSkM2R22Vx"
-        },
-        {
-            "author_id": "735174205550022660",
-            "created_at": "2016-10-28T22:36:01.000Z",
-            "id": "792132841031077889",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/GWg8VhpPFw"
-        },
-        {
-            "author_id": "726152728351805444",
-            "created_at": "2016-10-28T22:35:59.000Z",
-            "id": "792132835616239618",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/mEqjR8Euvg"
-        },
-        {
-            "author_id": "722548933894004737",
-            "created_at": "2016-10-28T22:35:59.000Z",
-            "id": "792132832818626560",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/4CSky38Q8w"
-        },
-        {
-            "author_id": "720029284270809090",
-            "created_at": "2016-10-28T22:35:58.000Z",
-            "id": "792132830146945024",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/QuQq0x2DgG"
-        },
-        {
-            "author_id": "720028111384002561",
-            "created_at": "2016-10-28T22:35:57.000Z",
-            "id": "792132827345068032",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/OAaCGY1WOj"
-        },
-        {
-            "author_id": "720026637941784576",
-            "created_at": "2016-10-28T22:35:57.000Z",
-            "id": "792132824572633088",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/99PsMaU1OB"
-        },
-        {
-            "author_id": "720024776333504512",
-            "created_at": "2016-10-28T22:35:55.000Z",
-            "id": "792132818738393088",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/PJyqVqzGv9"
-        },
-        {
-            "author_id": "720024185871998976",
-            "created_at": "2016-10-28T22:35:55.000Z",
-            "id": "792132815982702592",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/CgFUHQuXQc"
-        },
-        {
-            "author_id": "3297394977",
-            "created_at": "2016-10-28T22:35:54.000Z",
-            "id": "792132812077879296",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/YHqFX7OdTs"
-        },
-        {
-            "author_id": "2941223037",
-            "created_at": "2016-10-28T22:35:53.000Z",
-            "id": "792132808906985472",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/kSpzP3k0tb"
-        },
-        {
-            "author_id": "2701830427",
-            "created_at": "2016-10-28T22:35:52.000Z",
-            "id": "792132806591729665",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/M82WE9R1NZ"
-        },
-        {
-            "author_id": "3074713235",
-            "created_at": "2016-10-28T22:35:52.000Z",
-            "id": "792132804901429248",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/5HQbtfK57F"
-        },
-        {
-            "author_id": "3094445033",
-            "created_at": "2016-10-28T22:35:51.000Z",
-            "id": "792132802099556352",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/sCKBnkEnoY"
-        },
-        {
-            "author_id": "2931159471",
-            "created_at": "2016-10-28T22:35:51.000Z",
-            "id": "792132799725645825",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Morre um dos volunt\u00e1rios mais antigos do Parque Nacional do Itatiaia: Edson Ferreira Santiago, de 66 anos, so... https://t.co/ocbxscDjVV"
-        },
-        {
             "author_id": "1951792993",
             "created_at": "2016-10-28T22:35:50.000Z",
             "id": "792132796760240129",
@@ -3857,7 +3067,7 @@
             "created_at": "2016-10-28T12:44:35.000Z",
             "id": "791984001703706624",
             "public_metrics": {
-                "like_count": 7,
+                "like_count": 6,
                 "quote_count": 0,
                 "reply_count": 0,
                 "retweet_count": 4
@@ -5274,18 +4484,6 @@
             "text": "Voc\u00ea vai se impressionar com a Ponta da Piedade, no Algarve! \ud83d\ude0d https://t.co/v0u2CeRD2M"
         },
         {
-            "author_id": "56441916",
-            "created_at": "2016-10-27T12:00:02.000Z",
-            "id": "791610402656415744",
-            "public_metrics": {
-                "like_count": 3,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "A RPPN Rio das Lontras (SC) veio se apresentar para voc\u00ea. Conhe\u00e7a mais em: https://t.co/SD99J80k4g https://t.co/12FbMip86O"
-        },
-        {
             "author_id": "3229623694",
             "created_at": "2016-10-27T11:16:27.000Z",
             "id": "791599438036865024",
@@ -6660,6 +5858,829 @@
                 "retweet_count": 0
             },
             "text": "Visita de campo re\u00fane 100 alunos de Engenharia Ambiental e Arquitetura - https://t.co/4Z3RYNmNC5"
+        },
+        {
+            "author_id": "27080304",
+            "created_at": "2016-10-25T15:51:58.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -52.59387038,
+                        -27.09374322
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "84f19b30bbc69b59"
+            },
+            "id": "790943998018027521",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Olha a fofura... @ Floresta Nacional De Chapec\u00f3 https://t.co/TrFlxlsNQf"
+        },
+        {
+            "author_id": "182582636",
+            "created_at": "2016-10-25T15:23:43.000Z",
+            "id": "790936888961925120",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Como chegar aos Len\u00e7\u00f3is Maranhenses: O parque nacional dos Len\u00e7\u00f3is Maranhenses \u00e9 o principal destino tur\u00edstic... https://t.co/8l6qQbZsYN"
+        },
+        {
+            "author_id": "517908088",
+            "created_at": "2016-10-25T15:23:43.000Z",
+            "id": "790936886361546752",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Como chegar aos Len\u00e7\u00f3is Maranhenses: O parque nacional dos Len\u00e7\u00f3is Maranhenses \u00e9 o principal destino tur\u00edstic... https://t.co/K9MNJLHRJt"
+        },
+        {
+            "author_id": "2329109605",
+            "created_at": "2016-10-25T15:00:02.000Z",
+            "id": "790930928952573953",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "O Parque Nacional do Pau Brasil est\u00e1 localizado no munic\u00edpio de Porto Seguro. https://t.co/lfXLr5ulh8"
+        },
+        {
+            "author_id": "25023858",
+            "created_at": "2016-10-25T14:22:57.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 47,
+                        "start": 35,
+                        "username": "parnatijuca"
+                    }
+                ]
+            },
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -43.27273937,
+                        -22.96142122
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "97bcdfca1a2dca59"
+            },
+            "id": "790921593878896640",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Parque Nacional da Tijuca - @parnatijuca in Rio de Janeiro, RJ https://t.co/0O8jm387fo"
+        },
+        {
+            "author_id": "211665932",
+            "created_at": "2016-10-25T14:00:51.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.43929333,
+                        -25.68458335
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "790916034786197504",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Just posted a photo @ Cataratas Do Igua\u00e7u, Parque Nacional Do Igua\u00e7u - Brasil https://t.co/flnkMtpI85"
+        },
+        {
+            "author_id": "578088310",
+            "created_at": "2016-10-25T13:59:29.000Z",
+            "id": "790915690911772672",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Na paisagem pedregosa do Parque Nacional da Serra da Capivara, no Piau\u00ed, macacos-prego de vez em quando passam um... https://t.co/OwcF1erweA"
+        },
+        {
+            "author_id": "17629482",
+            "created_at": "2016-10-25T13:54:40.000Z",
+            "id": "790914477571108868",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Queridones, come\u00e7ou hj em Manaus (AM)  o semin\u00e1rio de celebra\u00e7\u00e3o dos 36 anos do Parque Nacional do Ja\u00fa #jau #pndojau https://t.co/sGriXrVMQR"
+        },
+        {
+            "author_id": "744536050371026944",
+            "created_at": "2016-10-25T13:40:39.000Z",
+            "id": "790910950815793152",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Lugar Lindo Parque nacional cavernas do Perua\u00e7u. \ud83d\ude03 https://t.co/OXKSpIcxbq"
+        },
+        {
+            "author_id": "602295320",
+            "created_at": "2016-10-25T13:38:20.000Z",
+            "id": "790910367350132736",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Banheiro qu\u00edmico \u00e9 retirado de \u00c1rea de Prote\u00e7\u00e3o Ambiental de Guapimirim https://t.co/5INfkyyeRN https://t.co/SJGFZlb2AY"
+        },
+        {
+            "author_id": "198291069",
+            "created_at": "2016-10-25T13:28:58.000Z",
+            "id": "790908011216719872",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Casual \ud83d\ude0e\ud83c\udf05 @ Bahia Concha, Parque Nacional Tayrona https://t.co/o3RzEq93Ms"
+        },
+        {
+            "author_id": "751274041097396224",
+            "created_at": "2016-10-25T12:31:05.000Z",
+            "id": "790893443765694465",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "text": "Vale Encantado - Parque Nacional do Capara\u00f3 - MG https://t.co/lgfTH1jK4Y"
+        },
+        {
+            "author_id": "49726843",
+            "created_at": "2016-10-25T12:05:03.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 122,
+                        "start": 108,
+                        "username": "TurismoItaipu"
+                    }
+                ]
+            },
+            "id": "790886891167948800",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Recomendo. N\u00e3o apenas as Cataratas do Igua\u00e7u, como todo o complexo Tur\u00edstico do Parque Nacional e tamb\u00e9m de @turismoitaipu. https://t.co/xo7Sp4FlUY"
+        },
+        {
+            "author_id": "39860568",
+            "created_at": "2016-10-25T10:36:38.000Z",
+            "id": "790864640750317570",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "Unidade de conserva\u00e7\u00e3o \u00e9 separada da \u00e1rea de lazer no Parque Imperatriz, em S\u00e3o Leopoldo https://t.co/wHGAZdl7zR https://t.co/JT7y95RD3U"
+        },
+        {
+            "author_id": "57197388",
+            "created_at": "2016-10-25T10:32:48.000Z",
+            "id": "790863676324581376",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "A caminho do Parque Nacional do Xingu... https://t.co/Dcd36kfM2C"
+        },
+        {
+            "author_id": "147207477",
+            "created_at": "2016-10-25T09:17:39.000Z",
+            "id": "790844764954497024",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "PF: Opera\u00e7\u00e3o para combater crimes ambientais na Reserva Ind\u00edgena Xacriab\u00e1 e no Parque Nacional Cavernas do Perua\u00e7u: https://t.co/uA8Ifj9N6d"
+        },
+        {
+            "author_id": "3229623694",
+            "created_at": "2016-10-25T09:02:19.000Z",
+            "id": "790840906828148736",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional dos Lagos Plitvice, na Cro\u00e1cia https://t.co/lWmFvXRRBt https://t.co/GUbhLsBTiV"
+        },
+        {
+            "author_id": "3229623694",
+            "created_at": "2016-10-25T07:56:41.000Z",
+            "id": "790824389558362112",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional dos Lagos Plitvice, na Cro\u00e1cia https://t.co/9kUoHYiJYo"
+        },
+        {
+            "author_id": "25023858",
+            "created_at": "2016-10-25T04:18:14.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 47,
+                        "start": 35,
+                        "username": "parnatijuca"
+                    }
+                ]
+            },
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -43.27273937,
+                        -22.96142122
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "97bcdfca1a2dca59"
+            },
+            "id": "790769412785733632",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Parque Nacional da Tijuca - @parnatijuca in Rio de Janeiro, RJ https://t.co/VK1F0ANzzn"
+        },
+        {
+            "author_id": "1925343570",
+            "created_at": "2016-10-25T01:06:06.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.43929333,
+                        -25.68458335
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "790721062535172097",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los am\u2661res de mi vida @ Cataratas Do Igua\u00e7u, Parque Nacional Do Igua\u00e7u - Brasil https://t.co/mWaTyHAWKx"
+        },
+        {
+            "author_id": "27425781",
+            "created_at": "2016-10-25T00:27:38.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -41.660997,
+                        -22.186366
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "34f9588b90da374f"
+            },
+            "id": "790711379959373824",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Nas flores, a terra sorri \ud83c\udf38 @ Parque Nacional da Restinga de Jurubatiba https://t.co/V6fIYfp87v"
+        },
+        {
+            "author_id": "27425781",
+            "created_at": "2016-10-25T00:02:51.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -41.660997,
+                        -22.186366
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "34f9588b90da374f"
+            },
+            "id": "790705144379891712",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Em todas as caminhadas na natureza se recebe muito mais do que se procura @ Parque Nacional da\u2026 https://t.co/ylyVbRZ9mu"
+        },
+        {
+            "author_id": "59449183",
+            "created_at": "2016-10-24T22:22:20.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -47.81622845,
+                        -14.17680603
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "49fedb3076f9153f"
+            },
+            "id": "790679847567822849",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Biologia e Magia @ Parque Nacional da Chapada dos Veadeiros https://t.co/ZIqiYzTulV"
+        },
+        {
+            "author_id": "408611985",
+            "created_at": "2016-10-24T21:48:28.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.43929333,
+                        -25.68458335
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "790671325794824192",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Molha mais que t\u00e1 pouco! \ud83d\ude02 @ Cataratas Do Igua\u00e7u, Parque Nacional Do Igua\u00e7u - Brasil https://t.co/IosIiHrmPk"
+        },
+        {
+            "author_id": "84481798",
+            "created_at": "2016-10-24T21:42:09.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -49.91621052,
+                        -6.06372884
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "d3cd0000791f42df"
+            },
+            "id": "790669733838356482",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Escorregador na Amaz\u00f4nia\n\ud83d\ude02\ud83c\udf0e\ud83c\udfd5\ud83c\udde7\ud83c\uddf7 @ Floresta Nacional de Caraj\u00e1s https://t.co/jlMJzoEHY6"
+        },
+        {
+            "author_id": "2785048975",
+            "created_at": "2016-10-24T21:38:12.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -43.20426376,
+                        -22.96032296
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "97bcdfca1a2dca59"
+            },
+            "id": "790668741596053505",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Alta estatua!! @ Parque Nacional da Tijuca - Cristo Redentor https://t.co/o5Og6wIW6o"
+        },
+        {
+            "author_id": "408611985",
+            "created_at": "2016-10-24T21:30:11.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.43929333,
+                        -25.68458335
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "790666722424549376",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "O arco-\u00edris bem na queda d'\u00e1gua \ud83c\udf08\ud83d\udc95 @ Cataratas Do Igua\u00e7u, Parque Nacional Do Igua\u00e7u - Brasil https://t.co/nO4zShV7rV"
+        },
+        {
+            "author_id": "62077503",
+            "created_at": "2016-10-24T21:08:05.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -55.75235,
+                        -15.17905
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "46da9e6ffa2f166d"
+            },
+            "id": "790661163763789824",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#desafiosentaapua #ultramacho #12k #trailrun @ Parque Nacional da Chapada dos Guimar\u00e3es https://t.co/56gruWJUT5"
+        },
+        {
+            "author_id": "508767988",
+            "created_at": "2016-10-24T21:00:01.000Z",
+            "id": "790659133682905088",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "A gente fica pequeninho diante da gradiosidade e beleza natural de Canoas, no Parque Nacional Serra Da Capivara.... https://t.co/WTgGsYnvz4"
+        },
+        {
+            "author_id": "408611985",
+            "created_at": "2016-10-24T20:51:24.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.43929333,
+                        -25.68458335
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "790656961968738310",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00c1gua all over the place @ Cataratas Do Igua\u00e7u, Parque Nacional Do Igua\u00e7u - Brasil https://t.co/zJHpT9CN0N"
+        },
+        {
+            "author_id": "408611985",
+            "created_at": "2016-10-24T20:49:14.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.43929333,
+                        -25.68458335
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "790656419179692032",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "As Cataratas e um arco-\u00edris \ud83c\udf08 @ Cataratas Do Igua\u00e7u, Parque Nacional Do Igua\u00e7u - Brasil https://t.co/PTLUopY8Or"
+        },
+        {
+            "author_id": "3229623694",
+            "created_at": "2016-10-24T19:36:19.000Z",
+            "id": "790638070093742080",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional dos Lagos Plitvice, na Cro\u00e1cia https://t.co/EftgCW6vol https://t.co/Xjtz3oyB9D"
+        },
+        {
+            "author_id": "83723738",
+            "created_at": "2016-10-24T19:31:28.000Z",
+            "id": "790636845990289408",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "O Parque Nacional de Ilha Grande abrange cinco munic\u00edpios do nosso PR: #Gua\u00edra, #Alt\u00f4nia, #S\u00e3oJorgeDoPatroc\u00ednio, #AltoPara\u00edso e #Icara\u00edma. https://t.co/617xcfjrtS"
+        },
+        {
+            "author_id": "253034260",
+            "created_at": "2016-10-24T18:57:51.000Z",
+            "id": "790628386670600192",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "Toda essa biodiversidade \u00e9 protegida pelo Parque Nacional Marinho de Abrolhos https://t.co/EY9cxuvhvp https://t.co/cjcMETTcu9"
+        },
+        {
+            "author_id": "29521241",
+            "created_at": "2016-10-24T18:34:28.000Z",
+            "id": "790622501508296704",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Ap\u00f3s 16 anos, estou retornando ao Parque Nacional Serra da Capivara com a CRIATu... https://t.co/QoqhZDSQzr https://t.co/g9D1R0Wq9K"
+        },
+        {
+            "author_id": "27080304",
+            "created_at": "2016-10-24T17:53:37.000Z",
+            "id": "790612221999116288",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Vamos amanh\u00e3 na floresta nacional de Chapec\u00f3... espero que n\u00e3o chova. Mas com@esse tempo t\u00e1 foda."
+        },
+        {
+            "author_id": "4205126201",
+            "created_at": "2016-10-24T17:41:51.000Z",
+            "id": "790609260270985221",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "O passeio de flutua\u00e7\u00e3o, realizado em uma Unidade de Conserva\u00e7\u00e3o \u2013 RPPN (Reserva Particular do\u2026 https://t.co/ljVqCGAGaM"
+        },
+        {
+            "author_id": "211665932",
+            "created_at": "2016-10-24T17:31:37.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.43929333,
+                        -25.68458335
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "790606687799545856",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Hoy nos toc\u00f3 cruzar. @ Cataratas Do Igua\u00e7u, Parque Nacional Do Igua\u00e7u - Brasil https://t.co/iMEtiqd5iG"
+        },
+        {
+            "author_id": "211665932",
+            "created_at": "2016-10-24T17:29:30.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.43929333,
+                        -25.68458335
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "790606152685985792",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Just posted a photo @ Cataratas Do Igua\u00e7u, Parque Nacional Do Igua\u00e7u - Brasil https://t.co/iMEtiqd5iG"
+        },
+        {
+            "author_id": "15576145",
+            "created_at": "2016-10-24T16:44:16.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.43929333,
+                        -25.68458335
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "790594770250833920",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Vou pintar um arco \u00edris de energia. @ Cataratas Do Igua\u00e7u, Parque Nacional Do Igua\u00e7u - Brasil https://t.co/d8sILMI2fp"
+        },
+        {
+            "author_id": "31233633",
+            "created_at": "2016-10-24T16:40:32.000Z",
+            "id": "790593831662186498",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "Voc\u00ea sabia que o Brasil possui registros pr\u00e9-hist\u00f3ricos? \ud83d\ude31 Conhe\u00e7a a Serra da Capivara, no Piau\u00ed: https://t.co/pG5MkhnlhS https://t.co/fTynZCY8WP"
+        },
+        {
+            "author_id": "17242779",
+            "created_at": "2016-10-24T16:33:41.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.47950775,
+                        -25.61380942
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "790592105403985921",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": ".Ainda muito chocada com toda essa imposi\u00e7\u00e3o da natureza. @ Parque Nacional do Igua\u00e7\u00fa -\u2026 https://t.co/WYU0YEmBow"
+        },
+        {
+            "author_id": "2761518503",
+            "created_at": "2016-10-24T16:06:54.000Z",
+            "id": "790585366466093056",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Reserva Biol\u00f3gica Huilo Huilo est\u00e1 entre os 100 destinos sustent\u00e1veis do\u00a0mundo https://t.co/Vg2ERMi7Gv https://t.co/e0yi30Txod"
+        },
+        {
+            "author_id": "71601003",
+            "created_at": "2016-10-24T15:36:15.000Z",
+            "id": "790577654097440768",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Uma bela vista de um belo local @ Parque Nacional Da Serra Da Capivara https://t.co/Aeax3Vitpt"
+        },
+        {
+            "author_id": "764846936",
+            "created_at": "2016-10-24T15:33:20.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 125,
+                        "start": 113,
+                        "username": "Shareaholic"
+                    }
+                ]
+            },
+            "id": "790576918097788929",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "ICMBio e Roraima negociam cria\u00e7\u00e3o de uma reserva extrativista no estado | ((o))eco - https://t.co/cfB3cODusH via @Shareaholic"
+        },
+        {
+            "author_id": "4228163843",
+            "created_at": "2016-10-24T15:33:11.000Z",
+            "id": "790576879870709763",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "E foi Assim \ud83d\udc91 #UmDomingoLindo @ Reserva Biol\u00f3gica De Tingua https://t.co/kCUponwQwa"
+        },
+        {
+            "author_id": "1690039166",
+            "created_at": "2016-10-24T15:30:26.000Z",
+            "id": "790576190071406592",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "ACONTECE: Parque Nacional Serra das Confus\u00f5es https://t.co/Oq5fMlYY9P"
+        },
+        {
+            "author_id": "788026581147086848",
+            "created_at": "2016-10-24T15:22:21.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 140,
+                        "start": 130,
+                        "username": "change_br"
+                    }
+                ]
+            },
+            "id": "790574155322327040",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "N\u00e3o permitam a constru\u00e7\u00e3o de um pr\u00e9dio numa \u00e1rea de prote\u00e7\u00e3o ambiental em Sorocaba - Assine o abai... https://t.co/X0tYDOZrX5 via @change_br"
+        },
+        {
+            "author_id": "768533083964510208",
+            "created_at": "2016-10-24T15:06:48.000Z",
+            "id": "790570244322406400",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Reserva Biol\u00f3gica Huilo Huilo est\u00e1 entre os 100 destinos sustent\u00e1veis do\u00a0mundo https://t.co/wLEEgX3E7v https://t.co/4T1tuNWPIi"
         }
     ],
     "includes": {
@@ -6782,315 +6803,44 @@
                 "full_name": "Torrej\u00f3n el Rubio, Espa\u00f1a",
                 "id": "64732d4cf11c7ab2",
                 "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Chapec\u00f3, Brasil",
+                "id": "84f19b30bbc69b59",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Carapebus, Brasil",
+                "id": "34f9588b90da374f",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Alto Para\u00edso de Goi\u00e1s, Brasil",
+                "id": "49fedb3076f9153f",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Parauapebas, Brasil",
+                "id": "d3cd0000791f42df",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Chapada dos Guimar\u00e3es, Brasil",
+                "id": "46da9e6ffa2f166d",
+                "place_type": "city"
             }
         ],
         "users": [
-            {
-                "id": "488760669",
-                "name": "Turismo em Vans MG",
-                "username": "TurismoVansMG",
-                "verified": false
-            },
-            {
-                "id": "4048683831",
-                "name": "Canais TV Online",
-                "username": "CanaisTvOnline",
-                "verified": false
-            },
-            {
-                "id": "96422902",
-                "name": "Turismo e Viagens BH",
-                "username": "EuAmoBH",
-                "verified": false
-            },
-            {
-                "id": "96397867",
-                "name": "Etevaldo Gandra",
-                "username": "EtevaldoGandra",
-                "verified": false
-            },
-            {
-                "id": "96991533",
-                "name": "Lionel Messi",
-                "username": "Dieta_Mais",
-                "verified": false
-            },
-            {
-                "id": "96413309",
-                "name": "Ronaldinho Ga\u00facho",
-                "username": "DietaMais",
-                "verified": false
-            },
-            {
-                "id": "96438553",
-                "name": "City Tour BH",
-                "username": "CityTourBH",
-                "verified": false
-            },
-            {
-                "id": "97019886",
-                "name": "Vans BH - Baladas BH",
-                "username": "Turismo7Viagens",
-                "verified": false
-            },
-            {
-                "id": "97019464",
-                "name": "Israel Novaes",
-                "username": "BH_Vans_BH_Van",
-                "verified": false
-            },
-            {
-                "id": "173223604",
-                "name": "Aluguel Van BH",
-                "username": "Aluguel_VanBH",
-                "verified": false
-            },
-            {
-                "id": "96443148",
-                "name": "Claudia Leitte",
-                "username": "AGENTE_TURISMO",
-                "verified": false
-            },
-            {
-                "id": "213308939",
-                "name": "Luan Santana",
-                "username": "91223322",
-                "verified": false
-            },
-            {
-                "id": "209288492",
-                "name": "Rodrigo Faro",
-                "username": "41020940",
-                "verified": false
-            },
-            {
-                "id": "209994850",
-                "name": "Vans BH - Shows BH",
-                "username": "3213_4360",
-                "verified": false
-            },
-            {
-                "id": "209992993",
-                "name": "Gugu Liberato",
-                "username": "32134360",
-                "verified": false
-            },
-            {
-                "id": "96451944",
-                "name": "BH Vans Aluguel",
-                "username": "VansBHAluguel",
-                "verified": false
-            },
-            {
-                "id": "208622375",
-                "name": "George Michael",
-                "username": "31_4102_0940",
-                "verified": false
-            },
-            {
-                "id": "96764794",
-                "name": "Galv\u00e3o Bueno",
-                "username": "BH_Turismo",
-                "verified": false
-            },
-            {
-                "id": "173986914",
-                "name": "Zez\u00e9 Di Camargo",
-                "username": "AluguelVansBH",
-                "verified": false
-            },
-            {
-                "id": "96449334",
-                "name": "Luciano Huck",
-                "username": "TurismoBH",
-                "verified": false
-            },
-            {
-                "id": "172905497",
-                "name": "Vans BH",
-                "username": "vansbh",
-                "verified": false
-            },
-            {
-                "id": "2775035258",
-                "name": "Joah Miranda",
-                "username": "joahmiranda",
-                "verified": false
-            },
-            {
-                "id": "388002961",
-                "name": "Agustina",
-                "username": "Aguusmorinigo",
-                "verified": false
-            },
-            {
-                "id": "2990095954",
-                "name": "TIM BETA Dilly",
-                "username": "DillyAdorno",
-                "verified": false
-            },
-            {
-                "id": "68863920",
-                "name": "Camylla Soares #BETA",
-                "username": "mylla_soares",
-                "verified": false
-            },
-            {
-                "id": "2951983415",
-                "name": "Emy beta",
-                "username": "Akitaa3",
-                "verified": false
-            },
-            {
-                "id": "785162706814902273",
-                "name": "Igor Beta",
-                "username": "Beta1190",
-                "verified": false
-            },
-            {
-                "id": "174482087",
-                "name": "Luiz Fernando",
-                "username": "luizfmed",
-                "verified": false
-            },
-            {
-                "id": "3179399429",
-                "name": "Astro da zueira",
-                "username": "astrodazueira",
-                "verified": false
-            },
-            {
-                "id": "722575530504122368",
-                "name": "Ariadna Morais",
-                "username": "ariadinaipa",
-                "verified": false
-            },
-            {
-                "id": "534610895",
-                "name": "ShopTopS",
-                "username": "ShoP_TopS",
-                "verified": false
-            },
-            {
-                "id": "4276899023",
-                "name": "karol Carvalho",
-                "username": "Karolipa2015",
-                "verified": false
-            },
-            {
-                "id": "4002701985",
-                "name": "Bia",
-                "username": "Biaipa",
-                "verified": false
-            },
-            {
-                "id": "723159791053336576",
-                "name": "Gardenha Moreira",
-                "username": "gardenhaipa",
-                "verified": false
-            },
-            {
-                "id": "716757840795336705",
-                "name": "Erika marques",
-                "username": "Erikaipa2016",
-                "verified": false
-            },
-            {
-                "id": "744226526862913536",
-                "name": "Marilia mendon\u00e7a",
-                "username": "Mariliaipa",
-                "verified": false
-            },
-            {
-                "id": "736657467707392001",
-                "name": "Agda MOura",
-                "username": "agdaipa",
-                "verified": false
-            },
-            {
-                "id": "735174205550022660",
-                "name": "Ludimila moura",
-                "username": "ludimilaipa",
-                "verified": false
-            },
-            {
-                "id": "726152728351805444",
-                "name": "Larisa Menezes",
-                "username": "Larisaipa",
-                "verified": false
-            },
-            {
-                "id": "722548933894004737",
-                "name": "Lucia Moreira",
-                "username": "Luciaipa2016",
-                "verified": false
-            },
-            {
-                "id": "720029284270809090",
-                "name": "Munik Moreira",
-                "username": "Munikipa",
-                "verified": false
-            },
-            {
-                "id": "720028111384002561",
-                "name": "Nadia moreira",
-                "username": "Nadiaipa2016",
-                "verified": false
-            },
-            {
-                "id": "720026637941784576",
-                "name": "Alana Rios",
-                "username": "alanaipa",
-                "verified": false
-            },
-            {
-                "id": "720024776333504512",
-                "name": "Patricia martins",
-                "username": "Patricaipa",
-                "verified": false
-            },
-            {
-                "id": "720024185871998976",
-                "name": "Marina Lima",
-                "username": "Marinaipa2016",
-                "verified": false
-            },
-            {
-                "id": "3297394977",
-                "name": "Pedro Beta",
-                "username": "400lab",
-                "verified": false
-            },
-            {
-                "id": "2941223037",
-                "name": "Nathalia Dias Lima",
-                "username": "nathaliaipa",
-                "verified": false
-            },
-            {
-                "id": "2701830427",
-                "name": "Lais Liima",
-                "username": "laisipa",
-                "verified": false
-            },
-            {
-                "id": "3074713235",
-                "name": "KaKA Martins",
-                "username": "kakaipa2014",
-                "verified": false
-            },
-            {
-                "id": "3094445033",
-                "name": "Raissa Nascimento",
-                "username": "Raisaipa",
-                "verified": false
-            },
-            {
-                "id": "2931159471",
-                "name": "thaygla lima matos",
-                "username": "thayglaipa",
-                "verified": false
-            },
             {
                 "id": "1951792993",
                 "name": "pamela lima",
@@ -8911,7 +8661,7 @@
             },
             {
                 "id": "1704550302",
-                "name": "Inteligov (em \ud83c\udfe0)",
+                "name": "Inteligov",
                 "username": "inteligovbr",
                 "verified": false
             },
@@ -9394,13 +9144,205 @@
                 "name": "Universidade Cat\u00f3lica de Santos",
                 "username": "unisantosweb",
                 "verified": false
+            },
+            {
+                "id": "27080304",
+                "name": "William",
+                "username": "Legresy",
+                "verified": false
+            },
+            {
+                "id": "211665932",
+                "name": "Fuerza natural.",
+                "username": "AgusGarriido",
+                "verified": false
+            },
+            {
+                "id": "578088310",
+                "name": "Z\u00e9",
+                "username": "Zefacilitador",
+                "verified": false
+            },
+            {
+                "id": "17629482",
+                "name": "jorge_eduardo_dantas",
+                "username": "jeduardodantas",
+                "verified": false
+            },
+            {
+                "id": "744536050371026944",
+                "name": "Kate cilene",
+                "username": "MilagresLiliane",
+                "verified": false
+            },
+            {
+                "id": "602295320",
+                "name": "Informe S\u00e3o Gon\u00e7alo",
+                "username": "InformeSG",
+                "verified": false
+            },
+            {
+                "id": "198291069",
+                "name": "MILENA POLO",
+                "username": "milepolovalle",
+                "verified": false
+            },
+            {
+                "id": "751274041097396224",
+                "name": "Gostaria de Ir \u2708\ufe0f",
+                "username": "lugaresespecial",
+                "verified": false
+            },
+            {
+                "id": "49726843",
+                "name": "Samara R. Washington",
+                "username": "samararw",
+                "verified": false
+            },
+            {
+                "id": "1318628234423115779",
+                "name": "Turismo Itaipu",
+                "username": "TurismoItaipu",
+                "verified": false
+            },
+            {
+                "id": "39860568",
+                "name": "Jornal VS",
+                "username": "jornalvs",
+                "verified": false
+            },
+            {
+                "id": "57197388",
+                "name": "@callanga",
+                "username": "PatriciaLino",
+                "verified": false
+            },
+            {
+                "id": "147207477",
+                "name": "Rodolpho Rebello",
+                "username": "RVR2010",
+                "verified": false
+            },
+            {
+                "id": "1925343570",
+                "name": "Lu",
+                "username": "lunaguzevich",
+                "verified": false
+            },
+            {
+                "id": "27425781",
+                "name": "Marcio Cezar",
+                "username": "marcinhoCezar",
+                "verified": false
+            },
+            {
+                "id": "59449183",
+                "name": "Nat\u00e1lia",
+                "username": "nsbayeh",
+                "verified": false
+            },
+            {
+                "id": "408611985",
+                "name": "Yara Georgia",
+                "username": "schreiyarai",
+                "verified": false
+            },
+            {
+                "id": "84481798",
+                "name": "Bruno \ud83c\udf35",
+                "username": "brunocleber",
+                "verified": false
+            },
+            {
+                "id": "2785048975",
+                "name": "Guille Rojas",
+                "username": "guiguitorojas",
+                "verified": false
+            },
+            {
+                "id": "62077503",
+                "name": "L\u00e9o",
+                "username": "leo_ncampos",
+                "verified": false
+            },
+            {
+                "id": "83723738",
+                "name": "Sanepar",
+                "username": "Sanepar_PR",
+                "verified": false
+            },
+            {
+                "id": "29521241",
+                "name": "Paula Theotonio",
+                "username": "paulatheotonio",
+                "verified": false
+            },
+            {
+                "id": "4205126201",
+                "name": "Eu sou MS",
+                "username": "eusoums",
+                "verified": false
+            },
+            {
+                "id": "15576145",
+                "name": "Vin\u00edcius Ribeiro",
+                "username": "vlribeiro",
+                "verified": false
+            },
+            {
+                "id": "17242779",
+                "name": "Lets Figueiredo",
+                "username": "LetsFigueiredo",
+                "verified": false
+            },
+            {
+                "id": "2761518503",
+                "name": "Portal Turismo&Eventos",
+                "username": "turismoeventos1",
+                "verified": false
+            },
+            {
+                "id": "764846936",
+                "name": "Miss Lexotan",
+                "username": "Mari_ssousa",
+                "verified": false
+            },
+            {
+                "id": "791635",
+                "name": "Shareaholic",
+                "username": "Shareaholic",
+                "verified": true
+            },
+            {
+                "id": "1690039166",
+                "name": "Emerson",
+                "username": "EmersonJampa",
+                "verified": false
+            },
+            {
+                "id": "788026581147086848",
+                "name": "Marly Santos",
+                "username": "MMSGALEGA",
+                "verified": false
+            },
+            {
+                "id": "900348469",
+                "name": "Change.org Brasil #LuteEmCasa",
+                "username": "change_br",
+                "verified": true
+            },
+            {
+                "id": "768533083964510208",
+                "name": "Casa da Sustentabili",
+                "username": "idsustentavel",
+                "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "792139526059634688",
-        "next_token": "1jzu9lk96gu5npw2yek6yfak668ztlre41iwizluo4u5",
-        "oldest_id": "790961474919333890",
-        "result_count": 492
+        "newest_id": "792132796760240129",
+        "next_token": "1jzu9lk96gu5npw2yek6pwopqni6ivm40py8o0jyylq5",
+        "oldest_id": "790570244322406400",
+        "result_count": 490
     }
 }

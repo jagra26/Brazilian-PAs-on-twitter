@@ -1,797 +1,6 @@
 {
     "data": [
         {
-            "author_id": "570169681",
-            "created_at": "2012-08-31T09:08:57.000Z",
-            "id": "241462568277929984",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas, Parque Nacional do Igua\u00e7u oferece atividades para todas as idades http://t.co/ikBtxxNF via @_bol"
-        },
-        {
-            "author_id": "60206914",
-            "created_at": "2012-08-31T05:28:43.000Z",
-            "id": "241407145868931072",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Um sonho; trabalhar em um safari, zool\u00f3gico ou parque nacional. Serei muitiss\u00edmo feliz."
-        },
-        {
-            "author_id": "4530791",
-            "created_at": "2012-08-31T02:34:33.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "rbrasiliense"
-                    }
-                ]
-            },
-            "id": "241363313957683201",
-            "in_reply_to_user_id": "53169018",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "text": "@rbrasiliense \u00e9 subjetiva sua pergunta. Se o Estado ofertasse mais educa\u00e7\u00e3o e sa\u00fade, viver numa unidade de conserva\u00e7\u00e3o seria muito melhor."
-        },
-        {
-            "author_id": "295950245",
-            "created_at": "2012-08-31T00:53:11.000Z",
-            "id": "241337807140966401",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "EXCURS\u00c3O RPPN - OSVALDO TIM\u00d3TEO\n\nVAGAS LIMITADAS. DIA 16 DE SETEMBRO http://t.co/6XwSSrJR"
-        },
-        {
-            "author_id": "27940101",
-            "created_at": "2012-08-30T23:27:56.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 1,
-                        "username": "alobrasilia"
-                    },
-                    {
-                        "end": 29,
-                        "start": 15,
-                        "username": "infoambiental"
-                    }
-                ]
-            },
-            "id": "241316353087262721",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\u201c@alobrasilia: @infoambiental Pol\u00edcia Ambiental encontra animais mortos no Parque Nacional do DF -   http://t.co/WwSAeqxJ #alobrasilia\u201d"
-        },
-        {
-            "author_id": "47549698",
-            "created_at": "2012-08-30T22:50:07.000Z",
-            "id": "241306833510350848",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional Cusuco... http://t.co/CTBDXsS"
-        },
-        {
-            "author_id": "300971443",
-            "created_at": "2012-08-30T22:27:38.000Z",
-            "id": "241301177915035648",
-            "in_reply_to_user_id": "482997645",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@allformyfrankie voltei! fofolete hj andei muito, 5km,fui pra itatiaia, no parque nacional! conheci as cahoreiras! to morta,mais foi legal!"
-        },
-        {
-            "author_id": "62891396",
-            "created_at": "2012-08-30T21:45:07.000Z",
-            "id": "241290475624087554",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Al\u00e9m das Cataratas, Parque Nacional do Igua\u00e7u oferece atividades para todas as idades: http://t.co/tFB5wKRR #NoticiasdoTurismo"
-        },
-        {
-            "author_id": "30771870",
-            "created_at": "2012-08-30T21:39:54.000Z",
-            "id": "241289163905839104",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "I just liked \"North Shopping Esta\u00e7\u00e3o Ecol\u00f3gica 2012\" on Vimeo: http://t.co/7oKzuCvI"
-        },
-        {
-            "author_id": "445586140",
-            "created_at": "2012-08-30T21:17:43.000Z",
-            "id": "241283580490301441",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#SemBagagem Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades http://t.co/EluVAWN3 Via @UolViagens"
-        },
-        {
-            "author_id": "433866396",
-            "created_at": "2012-08-30T21:17:42.000Z",
-            "id": "241283579848556544",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades http://t.co/tEe8XXLQ"
-        },
-        {
-            "author_id": "259412912",
-            "created_at": "2012-08-30T21:17:42.000Z",
-            "id": "241283579034877953",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades http://t.co/rDUt3W31"
-        },
-        {
-            "author_id": "118110182",
-            "created_at": "2012-08-30T21:17:42.000Z",
-            "id": "241283577394888705",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:  http://t.co/6NCPY06s"
-        },
-        {
-            "author_id": "424154878",
-            "created_at": "2012-08-30T21:07:03.000Z",
-            "id": "241280899885457408",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas, Parque Nacional do Igua\u00e7u oferece atividades para todas as idades http://t.co/Q5pG33kk"
-        },
-        {
-            "author_id": "163286303",
-            "created_at": "2012-08-30T21:06:49.000Z",
-            "id": "241280837994303488",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas, Parque Nacional do Igua\u00e7u oferece atividades para todas as idades: Observar\u2026 http://t.co/QxxfpEun"
-        },
-        {
-            "author_id": "14595084",
-            "created_at": "2012-08-30T21:04:31.000Z",
-            "id": "241280260900016129",
-            "public_metrics": {
-                "like_count": 2,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas, Parque Nacional do Igua\u00e7u oferece atividades para todas as idades http://t.co/45ZvaUo0 #UOL"
-        },
-        {
-            "author_id": "729663626",
-            "created_at": "2012-08-30T21:03:02.000Z",
-            "id": "241279886537396224",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/YcEDDdV8"
-        },
-        {
-            "author_id": "77885396",
-            "created_at": "2012-08-30T21:03:01.000Z",
-            "id": "241279884813537280",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/HdMHh6ol"
-        },
-        {
-            "author_id": "467404420",
-            "created_at": "2012-08-30T21:02:59.000Z",
-            "id": "241279872725557248",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/WT5V2Cyw"
-        },
-        {
-            "author_id": "440849510",
-            "created_at": "2012-08-30T21:02:58.000Z",
-            "id": "241279871551168512",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/j64EWV7r"
-        },
-        {
-            "author_id": "242876115",
-            "created_at": "2012-08-30T21:02:57.000Z",
-            "id": "241279868036345857",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/orK2ZC62"
-        },
-        {
-            "author_id": "171294578",
-            "created_at": "2012-08-30T21:02:57.000Z",
-            "id": "241279865918193665",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades http://t.co/tfjtRWbW"
-        },
-        {
-            "author_id": "168637379",
-            "created_at": "2012-08-30T21:02:56.000Z",
-            "id": "241279862696992768",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/CnwwpgFF"
-        },
-        {
-            "author_id": "704208295",
-            "created_at": "2012-08-30T21:02:55.000Z",
-            "id": "241279859580604416",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/TF2618h1"
-        },
-        {
-            "author_id": "569594505",
-            "created_at": "2012-08-30T21:02:55.000Z",
-            "id": "241279856921436161",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/nPdzEAhV"
-        },
-        {
-            "author_id": "571344895",
-            "created_at": "2012-08-30T21:02:55.000Z",
-            "id": "241279856262922242",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/kau8xTXb"
-        },
-        {
-            "author_id": "562998358",
-            "created_at": "2012-08-30T21:02:54.000Z",
-            "id": "241279853238833152",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/NAoRzhUm"
-        },
-        {
-            "author_id": "283873449",
-            "created_at": "2012-08-30T21:02:54.000Z",
-            "id": "241279851816964096",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/gDhLm5zW"
-        },
-        {
-            "author_id": "473085112",
-            "created_at": "2012-08-30T21:02:53.000Z",
-            "id": "241279849552031745",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/9P70P3wb"
-        },
-        {
-            "author_id": "541212316",
-            "created_at": "2012-08-30T21:02:52.000Z",
-            "id": "241279845676490752",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/RYxYjvRF"
-        },
-        {
-            "author_id": "126155537",
-            "created_at": "2012-08-30T21:02:52.000Z",
-            "id": "241279844695035904",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/xdRXWhTb"
-        },
-        {
-            "author_id": "554447662",
-            "created_at": "2012-08-30T21:02:50.000Z",
-            "id": "241279837547921408",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/2Jlzq6QH"
-        },
-        {
-            "author_id": "178934101",
-            "created_at": "2012-08-30T21:02:50.000Z",
-            "id": "241279836562280448",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/sg1MkX6Y"
-        },
-        {
-            "author_id": "553026541",
-            "created_at": "2012-08-30T21:02:50.000Z",
-            "id": "241279835702427648",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/QQV9a9xe"
-        },
-        {
-            "author_id": "508366202",
-            "created_at": "2012-08-30T21:02:47.000Z",
-            "id": "241279824306524160",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/9QfBfSWl"
-        },
-        {
-            "author_id": "304356598",
-            "created_at": "2012-08-30T21:02:46.000Z",
-            "id": "241279818082160640",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/5cDu3ywI"
-        },
-        {
-            "author_id": "74760746",
-            "created_at": "2012-08-30T21:02:45.000Z",
-            "id": "241279814814793729",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/91kzSDmh"
-        },
-        {
-            "author_id": "368641337",
-            "created_at": "2012-08-30T21:02:45.000Z",
-            "id": "241279813887877121",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/97TzMjLc"
-        },
-        {
-            "author_id": "489566716",
-            "created_at": "2012-08-30T21:02:44.000Z",
-            "id": "241279813166440448",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/8zVw9Wek"
-        },
-        {
-            "author_id": "449140733",
-            "created_at": "2012-08-30T21:02:43.000Z",
-            "id": "241279807642550272",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/Lnib5WXO"
-        },
-        {
-            "author_id": "245042856",
-            "created_at": "2012-08-30T21:02:42.000Z",
-            "id": "241279803645390848",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/hr6e4ZLg"
-        },
-        {
-            "author_id": "485154412",
-            "created_at": "2012-08-30T21:02:42.000Z",
-            "id": "241279802470965248",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/HKBykZ4p"
-        },
-        {
-            "author_id": "125167212",
-            "created_at": "2012-08-30T21:02:42.000Z",
-            "id": "241279801497882625",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/aBLMwypB"
-        },
-        {
-            "author_id": "551117986",
-            "created_at": "2012-08-30T21:02:42.000Z",
-            "id": "241279801489510400",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades http://t.co/pCgyHi4s"
-        },
-        {
-            "author_id": "480912424",
-            "created_at": "2012-08-30T21:02:40.000Z",
-            "id": "241279796116598785",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/jZ2tj4GG"
-        },
-        {
-            "author_id": "184924511",
-            "created_at": "2012-08-30T21:02:40.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "AKAnetfcOficial"
-                    }
-                ]
-            },
-            "id": "241279795307089920",
-            "in_reply_to_user_id": "184924511",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@akanetfcOficial Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades http://t.co/kRW6paaw"
-        },
-        {
-            "author_id": "474348519",
-            "created_at": "2012-08-30T21:02:38.000Z",
-            "id": "241279785551134720",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/cHOgfxcU"
-        },
-        {
-            "author_id": "475131734",
-            "created_at": "2012-08-30T21:02:38.000Z",
-            "id": "241279784443838465",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/Fty3Mjzx"
-        },
-        {
-            "author_id": "466770826",
-            "created_at": "2012-08-30T21:02:36.000Z",
-            "id": "241279779528130560",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/zVcOrKm5"
-        },
-        {
-            "author_id": "451118258",
-            "created_at": "2012-08-30T21:02:36.000Z",
-            "id": "241279778022371328",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/Hfoe314D"
-        },
-        {
-            "author_id": "425137946",
-            "created_at": "2012-08-30T21:02:35.000Z",
-            "id": "241279774759211008",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/QXGKJmQq"
-        },
-        {
-            "author_id": "86109523",
-            "created_at": "2012-08-30T21:02:35.000Z",
-            "id": "241279773920350209",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/rly24rE2"
-        },
-        {
-            "author_id": "449443536",
-            "created_at": "2012-08-30T21:02:35.000Z",
-            "id": "241279773135994880",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/GhDPwb7U"
-        },
-        {
-            "author_id": "81238364",
-            "created_at": "2012-08-30T21:02:35.000Z",
-            "id": "241279772334882817",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/YPzHtI1v"
-        },
-        {
-            "author_id": "194762993",
-            "created_at": "2012-08-30T21:02:34.000Z",
-            "id": "241279771454091264",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/aG61fWqh"
-        },
-        {
-            "author_id": "438437849",
-            "created_at": "2012-08-30T21:02:34.000Z",
-            "id": "241279769935745024",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/mRL6imm6"
-        },
-        {
-            "author_id": "442733700",
-            "created_at": "2012-08-30T21:02:34.000Z",
-            "id": "241279769205932032",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/ZLegACB8"
-        },
-        {
-            "author_id": "437885960",
-            "created_at": "2012-08-30T21:02:34.000Z",
-            "id": "241279768450965505",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/dSICeOkR"
-        },
-        {
-            "author_id": "129222915",
-            "created_at": "2012-08-30T21:02:33.000Z",
-            "id": "241279763942084609",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/r9MHNJO4"
-        },
-        {
-            "author_id": "313562882",
-            "created_at": "2012-08-30T21:02:32.000Z",
-            "id": "241279762365030400",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/uwQSATzF"
-        },
-        {
-            "author_id": "415215782",
-            "created_at": "2012-08-30T21:02:32.000Z",
-            "id": "241279759735201792",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/vMY7MD7g"
-        },
-        {
-            "author_id": "411499602",
-            "created_at": "2012-08-30T21:02:31.000Z",
-            "id": "241279759001190400",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/OenzLIeZ"
-        },
-        {
-            "author_id": "409215094",
-            "created_at": "2012-08-30T21:02:30.000Z",
-            "id": "241279754827866112",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Lar das Cataratas,  Parque Nacional do Igua\u00e7u oferece atividades para todas as idades:   \tObservar as quedas d'\u00e1... http://t.co/7Ykd3Q7P"
-        },
-        {
             "author_id": "349954114",
             "created_at": "2012-08-30T21:02:30.000Z",
             "id": "241279751761842176",
@@ -2137,27 +1346,6 @@
             "text": "#crimeambiental- 17 porcos-do-mato s\u00e3o encontrados mortos no Parque Nacional de Bras\u00edlia &gt;http://t.co/UMKYj2U9 via @ICMBio"
         },
         {
-            "author_id": "38273481",
-            "created_at": "2012-08-30T13:20:01.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 131,
-                        "start": 128,
-                        "username": "g1"
-                    }
-                ]
-            },
-            "id": "241163364749938688",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "Mat\u00e9ria sobre RPPN e o Programa de Incentivo \u00e0s RPPN da Mata Atl\u00e2ntica, exibida no Globo Rural de hoje http://t.co/y1wiqYOP via @g1"
-        },
-        {
             "author_id": "253034260",
             "created_at": "2012-08-30T13:13:33.000Z",
             "id": "241161737792024577",
@@ -3358,39 +2546,6 @@
             "text": "Foto do dia hoje, dedicada ao Maranh\u00e3o - Len\u00e7\u00f3is Maranhenses!!!\n\nO Parque Nacional dos Len\u00e7\u00f3is Maranhenses \u00e9 um... http://t.co/gKD7qXYj"
         },
         {
-            "author_id": "166592691",
-            "created_at": "2012-08-28T12:17:49.000Z",
-            "id": "240422937826582528",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "RPPN Mutinga: a 1\u00ba RPPN do Munic\u00edpio de SP - http://t.co/EU9z3XFV"
-        },
-        {
-            "author_id": "204550479",
-            "created_at": "2012-08-28T12:10:15.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 140,
-                        "start": 129,
-                        "username": "caicaraexp"
-                    }
-                ]
-            },
-            "id": "240421033730011137",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "RPPN e Biodiversidade O Papel das Reservas Particulares na prote\u00e7\u00e3o da Biodiversidade da Mata Atl\u00e2ntica http://t.co/Ip8wiooo via @caicaraexp"
-        },
-        {
             "author_id": "16370355",
             "created_at": "2012-08-28T10:23:26.000Z",
             "id": "240394152381145088",
@@ -3692,51 +2847,6 @@
             "text": "Serra dos Org\u00e3os e Pico Dedo de Deus \u2013 Teres\u00f3polis: O Parque Nacional da Serra dos \u00d3rg\u00e3os \u00e9 uma unidade de conse... http://t.co/JrgXBbeS"
         },
         {
-            "author_id": "27042474",
-            "created_at": "2012-08-27T20:23:11.000Z",
-            "id": "240182695450275841",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Pensar Eco, \u00e9 l\u00f3gico!: RPPN Mutinga: a 1\u00ba RPPN do Munic\u00edpio de SP http://t.co/2NAR4OV0"
-        },
-        {
-            "author_id": "27042474",
-            "created_at": "2012-08-27T20:17:40.000Z",
-            "id": "240181307483774977",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Pensar Eco, \u00e9 l\u00f3gico!: RPPN Mutinga: a 1\u00ba RPPN do Munic\u00edpio de SP http://t.co/X0v1i6kg"
-        },
-        {
-            "author_id": "60212448",
-            "created_at": "2012-08-27T20:17:17.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 79,
-                        "start": 69,
-                        "username": "Pensareco"
-                    }
-                ]
-            },
-            "id": "240181210461114368",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "RPPN Mutinga: a 1\u00ba RPPN do Munic\u00edpio de SP http://t.co/dsyhl2FA (via @pensareco)"
-        },
-        {
             "author_id": "106480080",
             "created_at": "2012-08-27T20:14:42.000Z",
             "id": "240180561644249089",
@@ -3761,18 +2871,6 @@
             "text": "Por ser um \u201cMuseu Parque\u201d, o espa\u00e7o tamb\u00e9m j\u00e1 tem o t\u00edtulo de segunda Unidade de Conserva\u00e7\u00e3o do munic\u00edpio."
         },
         {
-            "author_id": "349783899",
-            "created_at": "2012-08-27T20:00:53.000Z",
-            "id": "240177083941273600",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Novo Post - Que tal conhecer uma RPPN sem sair de casa?  http://t.co/1ZlPZdxx"
-        },
-        {
             "author_id": "176126865",
             "created_at": "2012-08-27T19:55:40.000Z",
             "id": "240175770486583296",
@@ -3795,27 +2893,6 @@
                 "retweet_count": 0
             },
             "text": "Parque Nacional Torres del Paine/Chile \u00e9 cen\u00e1rio da Patagonian International Marathon http://t.co/Emcc0hm2"
-        },
-        {
-            "author_id": "204550479",
-            "created_at": "2012-08-27T19:48:13.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 95,
-                        "start": 84,
-                        "username": "caicaraexp"
-                    }
-                ]
-            },
-            "id": "240173896811311104",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "RPPN Mata Atl\u00e2ntica - ICMS Ecol\u00f3gico - Por Wilson Loureiro http://t.co/SIUllZuq via @caicaraexp"
         },
         {
             "author_id": "40168534",
@@ -6432,6 +5509,991 @@
                 "retweet_count": 0
             },
             "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/JbAb9AIh"
+        },
+        {
+            "author_id": "557283767",
+            "created_at": "2012-08-26T17:30:38.000Z",
+            "id": "239776882806116352",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/WTAor01P"
+        },
+        {
+            "author_id": "350275176",
+            "created_at": "2012-08-26T17:30:23.000Z",
+            "id": "239776818520027136",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/58DT6NoM"
+        },
+        {
+            "author_id": "424570236",
+            "created_at": "2012-08-26T17:30:20.000Z",
+            "id": "239776806360719360",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/RtVR3Y6w"
+        },
+        {
+            "author_id": "603841843",
+            "created_at": "2012-08-26T17:30:18.000Z",
+            "id": "239776798064406528",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/vUBbDYuy"
+        },
+        {
+            "author_id": "194700453",
+            "created_at": "2012-08-26T17:30:08.000Z",
+            "id": "239776757677428736",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/H1axQAhp"
+        },
+        {
+            "author_id": "561465906",
+            "created_at": "2012-08-26T17:29:54.000Z",
+            "id": "239776697883430913",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/A4MhUiQB"
+        },
+        {
+            "author_id": "362542154",
+            "created_at": "2012-08-26T17:29:53.000Z",
+            "id": "239776693915639808",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/HsI0y4vx"
+        },
+        {
+            "author_id": "362598693",
+            "created_at": "2012-08-26T17:29:47.000Z",
+            "id": "239776670888890368",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/O90S7gop"
+        },
+        {
+            "author_id": "358533100",
+            "created_at": "2012-08-26T17:29:40.000Z",
+            "id": "239776640991916032",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/UJhEaFam"
+        },
+        {
+            "author_id": "609429741",
+            "created_at": "2012-08-26T17:29:35.000Z",
+            "id": "239776619911319552",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/ubcK9PoD"
+        },
+        {
+            "author_id": "609359839",
+            "created_at": "2012-08-26T17:29:34.000Z",
+            "id": "239776615872208896",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/SjamsC6m"
+        },
+        {
+            "author_id": "609360290",
+            "created_at": "2012-08-26T17:29:33.000Z",
+            "id": "239776612424491008",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/s3ieqj0V"
+        },
+        {
+            "author_id": "609447210",
+            "created_at": "2012-08-26T17:29:32.000Z",
+            "id": "239776608641232896",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/64oA4lTf"
+        },
+        {
+            "author_id": "609460710",
+            "created_at": "2012-08-26T17:29:30.000Z",
+            "id": "239776597434040320",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/i6fmHGlj"
+        },
+        {
+            "author_id": "231084914",
+            "created_at": "2012-08-26T17:29:27.000Z",
+            "id": "239776586440773632",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/oRDaCFTD"
+        },
+        {
+            "author_id": "548059933",
+            "created_at": "2012-08-26T17:29:25.000Z",
+            "id": "239776579071377409",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/MRwsjseO"
+        },
+        {
+            "author_id": "548057407",
+            "created_at": "2012-08-26T17:29:24.000Z",
+            "id": "239776574956785664",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/sHk42DYE"
+        },
+        {
+            "author_id": "248221757",
+            "created_at": "2012-08-26T17:29:23.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 136,
+                        "start": 133,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "239776568099094528",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros... http://t.co/BGnBBPxv Via @G1"
+        },
+        {
+            "author_id": "390129523",
+            "created_at": "2012-08-26T17:29:21.000Z",
+            "id": "239776561346277376",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/TuezOtuZ"
+        },
+        {
+            "author_id": "171180508",
+            "created_at": "2012-08-26T17:29:15.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "start": 3,
+                        "username": "RochaPeritos"
+                    }
+                ]
+            },
+            "id": "239776535660339200",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT @RochaPeritos Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/W6FA2EfK #pericia #contabil"
+        },
+        {
+            "author_id": "322684714",
+            "created_at": "2012-08-26T17:28:59.000Z",
+            "id": "239776469990137856",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/ByoSTonG"
+        },
+        {
+            "author_id": "322684714",
+            "created_at": "2012-08-26T17:28:56.000Z",
+            "id": "239776455171649536",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/JxtZDOdo"
+        },
+        {
+            "author_id": "709314853",
+            "created_at": "2012-08-26T17:28:44.000Z",
+            "id": "239776407167832065",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim, criado em 2003, tem um 1,7 milh\u00e3o ... http://t.co/HEe6XFYd"
+        },
+        {
+            "author_id": "96422367",
+            "created_at": "2012-08-26T17:28:44.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "239776403418136576",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/mL8rgts6 #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "634643597",
+            "created_at": "2012-08-26T17:28:43.000Z",
+            "id": "239776399110574080",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim, criado em 2003, tem um 1,7 milh\u00e3o ... http://t.co/yZmRa7B4"
+        },
+        {
+            "author_id": "173120394",
+            "created_at": "2012-08-26T17:28:41.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "239776394140336129",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/bdnAV4TE #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "187609372",
+            "created_at": "2012-08-26T17:28:40.000Z",
+            "id": "239776387282653184",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/aW8xqrGC"
+        },
+        {
+            "author_id": "194177969",
+            "created_at": "2012-08-26T17:28:39.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "239776385550385152",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/lmFx057H #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "194720567",
+            "created_at": "2012-08-26T17:28:37.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "239776376960462850",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/rvKiSVDF #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "360839390",
+            "created_at": "2012-08-26T17:28:34.000Z",
+            "id": "239776361709977603",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00faltimas not\u00edcias Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/qljPVuNJ"
+        },
+        {
+            "author_id": "525359485",
+            "created_at": "2012-08-26T17:28:32.000Z",
+            "id": "239776353266835457",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim, criado em 2003, tem um 1,7 milh\u00e3o ... http://t.co/0woCW5rB"
+        },
+        {
+            "author_id": "101822551",
+            "created_at": "2012-08-26T17:28:30.000Z",
+            "id": "239776345234743296",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim, criado em 2003, tem um 1,7 milh\u00e3o ... http://t.co/rjQ72q86"
+        },
+        {
+            "author_id": "96994630",
+            "created_at": "2012-08-26T17:28:29.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "239776341845762049",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/su3RAW5t #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "471932543",
+            "created_at": "2012-08-26T17:28:29.000Z",
+            "id": "239776340490993666",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "[NOTICIA] Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/ZPFiE68P #InfoPontual"
+        },
+        {
+            "author_id": "96442406",
+            "created_at": "2012-08-26T17:28:27.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "239776333511659520",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/cowjL0CV #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "175896929",
+            "created_at": "2012-08-26T17:28:26.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 136,
+                        "start": 133,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "239776330294648832",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim, criado em 2003, tem um 1,7... http://t.co/PPZWfiz0 via @g1"
+        },
+        {
+            "author_id": "172862485",
+            "created_at": "2012-08-26T17:28:25.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "username": "CanaisTvOnline"
+                    }
+                ]
+            },
+            "id": "239776323902529536",
+            "in_reply_to_user_id": "96428417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@CanaisTVOnline Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/UrVIRYiq #TvOnline #Tv #Filme"
+        },
+        {
+            "author_id": "368419530",
+            "created_at": "2012-08-26T17:28:24.000Z",
+            "id": "239776321494999040",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental"
+        },
+        {
+            "author_id": "96994630",
+            "created_at": "2012-08-26T17:28:20.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "start": 3,
+                        "username": "RochaPeritos"
+                    }
+                ]
+            },
+            "id": "239776305611145217",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT @RochaPeritos Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/su3RAW5t #perito #contabil"
+        },
+        {
+            "author_id": "71637810",
+            "created_at": "2012-08-26T17:28:19.000Z",
+            "id": "239776299718148097",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "[G1] Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim, criado em 2003, tem um 1,7 mi... http://t.co/wcprPNfL"
+        },
+        {
+            "author_id": "169215881",
+            "created_at": "2012-08-26T17:28:12.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "start": 3,
+                        "username": "RochaPeritos"
+                    }
+                ]
+            },
+            "id": "239776270819422209",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT @RochaPeritos Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/abXYDqwG #perito #contabil"
+        },
+        {
+            "author_id": "169061664",
+            "created_at": "2012-08-26T17:28:04.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "start": 3,
+                        "username": "RochaPeritos"
+                    }
+                ]
+            },
+            "id": "239776238896562176",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT @RochaPeritos Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/ZAC2q3Av #perito #contabil"
+        },
+        {
+            "author_id": "268440938",
+            "created_at": "2012-08-26T17:28:02.000Z",
+            "id": "239776230323396608",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/HFIPs5dI"
+        },
+        {
+            "author_id": "268439532",
+            "created_at": "2012-08-26T17:28:00.000Z",
+            "id": "239776221888651265",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/cKjP7nZY"
+        },
+        {
+            "author_id": "268438409",
+            "created_at": "2012-08-26T17:27:58.000Z",
+            "id": "239776212992524288",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/U7LhmMBv"
+        },
+        {
+            "author_id": "268437439",
+            "created_at": "2012-08-26T17:27:56.000Z",
+            "id": "239776204557783041",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/txD31ScO"
+        },
+        {
+            "author_id": "268426407",
+            "created_at": "2012-08-26T17:27:49.000Z",
+            "id": "239776174748868608",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/Ldyt1AWK"
+        },
+        {
+            "author_id": "268422235",
+            "created_at": "2012-08-26T17:27:47.000Z",
+            "id": "239776166028931072",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/LAJdlkPV"
+        },
+        {
+            "author_id": "268422981",
+            "created_at": "2012-08-26T17:27:41.000Z",
+            "id": "239776139101495297",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/0J03YUlm"
+        },
+        {
+            "author_id": "268423656",
+            "created_at": "2012-08-26T17:27:38.000Z",
+            "id": "239776129576218624",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/e2ZCu2HM"
+        },
+        {
+            "author_id": "268410912",
+            "created_at": "2012-08-26T17:27:36.000Z",
+            "id": "239776120738828289",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/YoCrjVIc"
+        },
+        {
+            "author_id": "268412925",
+            "created_at": "2012-08-26T17:27:34.000Z",
+            "id": "239776112031449088",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/iGAHY5Ge"
+        },
+        {
+            "author_id": "178367712",
+            "created_at": "2012-08-26T17:27:32.000Z",
+            "id": "239776103084982272",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de ... http://t.co/IpRv1QVA #garraseguros"
+        },
+        {
+            "author_id": "71265174",
+            "created_at": "2012-08-26T17:27:15.000Z",
+            "id": "239776032268382208",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de ... http://t.co/RX9CBlM2 #garraseguros"
+        },
+        {
+            "author_id": "267336909",
+            "created_at": "2012-08-26T17:27:13.000Z",
+            "id": "239776023611330560",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de ... http://t.co/hubyUmqz #garraseguros"
+        },
+        {
+            "author_id": "238226038",
+            "created_at": "2012-08-26T17:27:11.000Z",
+            "id": "239776013956026369",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/TELy0iJE"
+        },
+        {
+            "author_id": "75869122",
+            "created_at": "2012-08-26T17:27:08.000Z",
+            "id": "239776001800957954",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de met... http://t.co/0UCiAhDy #vccomenta"
+        },
+        {
+            "author_id": "189918634",
+            "created_at": "2012-08-26T17:27:06.000Z",
+            "id": "239775993974366208",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/eUIAWutB"
+        },
+        {
+            "author_id": "191683102",
+            "created_at": "2012-08-26T17:27:05.000Z",
+            "id": "239775989767483392",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental: Parque do Itaim tem um 1,7 milh\u00e3o de metros quadrad... http://t.co/c3WxPxNR"
+        },
+        {
+            "author_id": "31513669",
+            "created_at": "2012-08-26T17:21:05.000Z",
+            "id": "239774479637684224",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/NFvJzhx6"
+        },
+        {
+            "author_id": "625624118",
+            "created_at": "2012-08-26T17:21:03.000Z",
+            "id": "239774471102267392",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taubat\u00e9 quer tornar parque unidade de conserva\u00e7\u00e3o ambiental http://t.co/rgweOPco"
+        },
+        {
+            "author_id": "29437458",
+            "created_at": "2012-08-26T17:10:54.000Z",
+            "id": "239771916775329792",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Procurava por frio e encontrei!!!\ud83d\ude37\u2614\u2601\ud83c\udf0a\ud83c\udf02  @ Parque Nacional do Igua\u00e7u! http://t.co/mJu2ChVP"
+        },
+        {
+            "author_id": "29437458",
+            "created_at": "2012-08-26T17:03:57.000Z",
+            "id": "239770167758958592",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acabei de publicar uma foto  @ Parque Nacional do Igua\u00e7u! http://t.co/UfoVOHys"
+        },
+        {
+            "author_id": "29437458",
+            "created_at": "2012-08-26T17:03:23.000Z",
+            "id": "239770025546891264",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acabei de publicar uma foto  @ Parque Nacional do Igua\u00e7u! http://t.co/cd9VOtvT"
+        },
+        {
+            "author_id": "29437458",
+            "created_at": "2012-08-26T17:02:07.000Z",
+            "id": "239769706331004928",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acabei de publicar uma foto  @ Parque Nacional do Igua\u00e7u! http://t.co/xG205YDC"
+        },
+        {
+            "author_id": "94586734",
+            "created_at": "2012-08-26T17:01:22.000Z",
+            "id": "239769517646020608",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Urso mata turista no Alasca e \u00e9 abatido em seguida: Um urso pardo atacou e matou um turista no Parque Nacional d... http://t.co/epst3CZf"
+        },
+        {
+            "author_id": "68055341",
+            "created_at": "2012-08-26T16:53:47.000Z",
+            "id": "239767611112583169",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Primeiro ensaio no Parque Nacional http://t.co/Pf1Z27D8 adoreii editar essa foto"
+        },
+        {
+            "author_id": "447397227",
+            "created_at": "2012-08-26T16:49:01.000Z",
+            "id": "239766409100554241",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Urso mata homem em parque do Alasca: Foi o primeiro caso mortal\u00a0na hist\u00f3ria\u00a0daquele parque nacional.\n http://t.co/8kYWfGVP"
+        },
+        {
+            "author_id": "78412828",
+            "created_at": "2012-08-26T16:38:06.000Z",
+            "id": "239763663249084417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Passear nomeio dessa mata faz bem pra alma! Reserva Particular do Patrim\u00f4nio Natural (RPPN) Cafund\u00f3. Sexta m http://t.co/yI2WZkd6"
+        },
+        {
+            "author_id": "405123394",
+            "created_at": "2012-08-26T15:32:50.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 71,
+                        "start": 61,
+                        "username": "tvi24_iol"
+                    }
+                ]
+            },
+            "id": "239747238132330497",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Agora os ursos.E ainda h\u00e1 quem diga mal da esp\u00e9cie humana RT @tvi24_iol: Urso mata visitante de parque nacional no Alasca://t.co/FGHNVHEx"
+        },
+        {
+            "author_id": "26339515",
+            "created_at": "2012-08-26T15:31:36.000Z",
+            "id": "239746929146359808",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Paisagem do dia...  @ Parque Nacional do Igua\u00e7u http://t.co/6EYxuUBe"
         }
     ],
     "errors": [
@@ -6532,402 +6594,6 @@
             }
         ],
         "users": [
-            {
-                "id": "570169681",
-                "name": "Julio Cesar",
-                "username": "cidadefutura2",
-                "verified": false
-            },
-            {
-                "id": "60206914",
-                "name": "Rafaela Monteiro",
-                "username": "r4f4mt",
-                "verified": false
-            },
-            {
-                "id": "4530791",
-                "name": "Paulo Lima",
-                "username": "plima",
-                "verified": false
-            },
-            {
-                "id": "53169018",
-                "name": "Ronaldo Brasiliense",
-                "username": "rbrasiliense",
-                "verified": false
-            },
-            {
-                "id": "295950245",
-                "name": "Alagoas Group",
-                "username": "alagoasgroup",
-                "verified": false
-            },
-            {
-                "id": "27940101",
-                "name": "Rafael Favrin",
-                "username": "rafavrin",
-                "verified": false
-            },
-            {
-                "id": "85331176",
-                "name": "Al\u00f4 Bras\u00edlia",
-                "username": "alobrasilia",
-                "verified": false
-            },
-            {
-                "id": "14077645",
-                "name": "@infoambiental \ud83d\udca7 #vacinaparatodos \ud83c\udfe1",
-                "username": "infoambiental",
-                "verified": false
-            },
-            {
-                "id": "47549698",
-                "name": "iCatracho Tours",
-                "username": "iCatracho",
-                "verified": false
-            },
-            {
-                "id": "300971443",
-                "name": "e",
-                "username": "justjonastics",
-                "verified": false
-            },
-            {
-                "id": "62891396",
-                "name": "Minist\u00e9rio do Turismo",
-                "username": "MTurismo",
-                "verified": true
-            },
-            {
-                "id": "30771870",
-                "name": "igor pontes",
-                "username": "igorpontesce",
-                "verified": false
-            },
-            {
-                "id": "445586140",
-                "name": "Sem Bagagem",
-                "username": "SemBagagem",
-                "verified": false
-            },
-            {
-                "id": "433866396",
-                "name": "lawrence sevillo",
-                "username": "LawrenceSevillo",
-                "verified": false
-            },
-            {
-                "id": "259412912",
-                "name": "PersonalTour",
-                "username": "personal_tour",
-                "verified": false
-            },
-            {
-                "id": "118110182",
-                "name": "All Not\u00edcias",
-                "username": "AllNoticias",
-                "verified": false
-            },
-            {
-                "id": "424154878",
-                "name": "Turismo Brazil",
-                "username": "BrazilTurismo",
-                "verified": false
-            },
-            {
-                "id": "163286303",
-                "name": "Music Videos Novelas",
-                "username": "MusicaseClips",
-                "verified": false
-            },
-            {
-                "id": "14595084",
-                "name": "Nossa UOL",
-                "username": "nossa_uol",
-                "verified": false
-            },
-            {
-                "id": "729663626",
-                "name": "Renda Extra Pela Internet!",
-                "username": "rendaspelaweb",
-                "verified": false
-            },
-            {
-                "id": "77885396",
-                "name": "Ricardo",
-                "username": "ricardoslap",
-                "verified": false
-            },
-            {
-                "id": "467404420",
-                "name": "MagnoSEP",
-                "username": "MagnoCosta84",
-                "verified": false
-            },
-            {
-                "id": "440849510",
-                "name": "Lucas Fusinato",
-                "username": "LucaasF7",
-                "verified": false
-            },
-            {
-                "id": "242876115",
-                "name": "Wendell Esteves",
-                "username": "_WendellEsteves",
-                "verified": false
-            },
-            {
-                "id": "171294578",
-                "name": "Natal Neto\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7",
-                "username": "natalcneto",
-                "verified": false
-            },
-            {
-                "id": "168637379",
-                "name": "Anderson: do c\u00e9u",
-                "username": "stealzito",
-                "verified": false
-            },
-            {
-                "id": "704208295",
-                "name": "Camila Schneider",
-                "username": "aprendendonanet",
-                "verified": false
-            },
-            {
-                "id": "569594505",
-                "name": "Brasil Mega Store",
-                "username": "BrasilMegaStore",
-                "verified": false
-            },
-            {
-                "id": "571344895",
-                "name": "silvestre silva",
-                "username": "sacividros",
-                "verified": false
-            },
-            {
-                "id": "562998358",
-                "name": "noezio rocha",
-                "username": "noeziopereira",
-                "verified": false
-            },
-            {
-                "id": "283873449",
-                "name": "Depend\u00eancia Qu\u00edmica",
-                "username": "SoSDependenciaQ",
-                "verified": false
-            },
-            {
-                "id": "473085112",
-                "name": "Radio Bemais",
-                "username": "radiobemais",
-                "verified": false
-            },
-            {
-                "id": "541212316",
-                "name": "Sergio Ricardo",
-                "username": "SergioPeo",
-                "verified": false
-            },
-            {
-                "id": "126155537",
-                "name": "Leia na Bio",
-                "username": "iagostosao",
-                "verified": false
-            },
-            {
-                "id": "554447662",
-                "name": "Suce$$o 7",
-                "username": "sucessosete",
-                "verified": false
-            },
-            {
-                "id": "178934101",
-                "name": "Sergio Souza",
-                "username": "antenados___",
-                "verified": false
-            },
-            {
-                "id": "553026541",
-                "name": "Erivaldo",
-                "username": "Hinode1234",
-                "verified": false
-            },
-            {
-                "id": "508366202",
-                "name": "Via Web",
-                "username": "pontodachina",
-                "verified": false
-            },
-            {
-                "id": "304356598",
-                "name": "Valter Paulista",
-                "username": "vanupa",
-                "verified": false
-            },
-            {
-                "id": "74760746",
-                "name": "Robson Rara",
-                "username": "bariocv",
-                "verified": false
-            },
-            {
-                "id": "368641337",
-                "name": "djfrankwilem",
-                "username": "djfrankwilem",
-                "verified": false
-            },
-            {
-                "id": "489566716",
-                "name": "francine bueno",
-                "username": "buenofranc",
-                "verified": false
-            },
-            {
-                "id": "449140733",
-                "name": "Anisio Miron Aran",
-                "username": "AnisioMAran",
-                "verified": false
-            },
-            {
-                "id": "245042856",
-                "name": "ALDOMAIS",
-                "username": "almeidamec",
-                "verified": false
-            },
-            {
-                "id": "485154412",
-                "name": "ganhodinheiroagora",
-                "username": "ganhodinheiroag",
-                "verified": false
-            },
-            {
-                "id": "125167212",
-                "name": "sergio ricardo",
-                "username": "sergiaolellis",
-                "verified": false
-            },
-            {
-                "id": "551117986",
-                "name": "Tornado Sertanejo",
-                "username": "Tsertanejo2012",
-                "verified": false
-            },
-            {
-                "id": "480912424",
-                "name": "RodrigoCr\u00e9ditoPaypal",
-                "username": "fxrodrigues1",
-                "verified": false
-            },
-            {
-                "id": "184924511",
-                "name": "AKA - Vale do Jequi",
-                "username": "AKAnetfcOficial",
-                "verified": false
-            },
-            {
-                "id": "474348519",
-                "name": "Giovanni silva",
-                "username": "BlogPonto7",
-                "verified": false
-            },
-            {
-                "id": "475131734",
-                "name": "Sergio",
-                "username": "SergioCampos655",
-                "verified": false
-            },
-            {
-                "id": "466770826",
-                "name": "Du_Virtual",
-                "username": "Du_Virtual",
-                "verified": false
-            },
-            {
-                "id": "451118258",
-                "name": "FM Ouro Negro",
-                "username": "Fmdoalto",
-                "verified": false
-            },
-            {
-                "id": "425137946",
-                "name": "Ana ramos",
-                "username": "Anaramos62",
-                "verified": false
-            },
-            {
-                "id": "86109523",
-                "name": "Luzinete Santos",
-                "username": "LuzineteSilva3",
-                "verified": false
-            },
-            {
-                "id": "449443536",
-                "name": "O vencedor",
-                "username": "ovencedorr",
-                "verified": false
-            },
-            {
-                "id": "81238364",
-                "name": "Barbosa Ibarr",
-                "username": "ibarr88",
-                "verified": false
-            },
-            {
-                "id": "194762993",
-                "name": "IDEMARCOS",
-                "username": "idneres",
-                "verified": false
-            },
-            {
-                "id": "438437849",
-                "name": "Amaury Lima",
-                "username": "AmauryRlima",
-                "verified": false
-            },
-            {
-                "id": "442733700",
-                "name": "RP Contabilidade",
-                "username": "RPPassosrj",
-                "verified": false
-            },
-            {
-                "id": "437885960",
-                "name": "Fernando Limeira Fri",
-                "username": "FriFernando",
-                "verified": false
-            },
-            {
-                "id": "129222915",
-                "name": "J\u00falio C\u00e9sar",
-                "username": "julio4010",
-                "verified": false
-            },
-            {
-                "id": "313562882",
-                "name": "\ud83d\udcd6\ud83d\ude4f\ud83c\udf0e\ud83c\uddef \ud83c\uddf4 \ud83c\udded \ud83c\uddf3 \ud83c\uddf3 \ud83c\uddfe \ud83c\uddeb \ud83c\uddee \ud83c\uddf1 \ud83c\udded \ud83c\uddf4\ud83d\udd25",
-                "username": "JOHNNYFILHOLIVE",
-                "verified": false
-            },
-            {
-                "id": "415215782",
-                "name": "\ud83c\udf0f\ud83c\uddea \ud83c\udde8 \ud83c\uddf4 \ud83c\uddf2 \ud83c\uddf2 \ud83c\uddea \ud83c\uddf7 \ud83c\udde8 \ud83c\uddea\ud83d\udd25\ud83c\uddec \ud83c\uddf1 \ud83c\uddf4 \ud83c\udde7 \ud83c\udde6 \ud83c\uddf1\u2757",
-                "username": "BUSINESSMUNDIAL",
-                "verified": false
-            },
-            {
-                "id": "411499602",
-                "name": "Humberto Pereira",
-                "username": "Betinhosgda",
-                "verified": false
-            },
-            {
-                "id": "409215094",
-                "name": "Adam Neves Rodrigues",
-                "username": "VendasAdam",
-                "verified": false
-            },
             {
                 "id": "349954114",
                 "name": "Erica Matos",
@@ -7415,6 +7081,12 @@
                 "verified": false
             },
             {
+                "id": "85331176",
+                "name": "Al\u00f4 Bras\u00edlia",
+                "username": "alobrasilia",
+                "verified": false
+            },
+            {
                 "id": "255588053",
                 "name": "Ser Sustent\u00e1vel",
                 "username": "SustentavelCB",
@@ -7487,6 +7159,18 @@
                 "verified": false
             },
             {
+                "id": "14077645",
+                "name": "@infoambiental \ud83d\udca7 #vacinaparatodos \ud83c\udfe1",
+                "username": "infoambiental",
+                "verified": false
+            },
+            {
+                "id": "47549698",
+                "name": "iCatracho Tours",
+                "username": "iCatracho",
+                "verified": false
+            },
+            {
                 "id": "67150902",
                 "name": "Correio Braziliense",
                 "username": "correio",
@@ -7527,18 +7211,6 @@
                 "name": "ICMBio",
                 "username": "ICMBio",
                 "verified": false
-            },
-            {
-                "id": "38273481",
-                "name": "Beto Mesquita",
-                "username": "betomesquita",
-                "verified": false
-            },
-            {
-                "id": "8802752",
-                "name": "G1",
-                "username": "g1",
-                "verified": true
             },
             {
                 "id": "149153514",
@@ -7599,6 +7271,12 @@
                 "name": "HuffPost",
                 "username": "HuffingtonPost",
                 "verified": false
+            },
+            {
+                "id": "62891396",
+                "name": "Minist\u00e9rio do Turismo",
+                "username": "MTurismo",
+                "verified": true
             },
             {
                 "id": "552272585",
@@ -7943,18 +7621,6 @@
                 "verified": false
             },
             {
-                "id": "166592691",
-                "name": "Art Ambiental",
-                "username": "artambiental",
-                "verified": false
-            },
-            {
-                "id": "204550479",
-                "name": "Cai\u00e7ara Expedi\u00e7\u00f5es",
-                "username": "caicaraexp",
-                "verified": false
-            },
-            {
                 "id": "16370355",
                 "name": "Fabio Lima \u23f3 #42",
                 "username": "fabioagora",
@@ -8051,6 +7717,12 @@
                 "verified": false
             },
             {
+                "id": "8802752",
+                "name": "G1",
+                "username": "g1",
+                "verified": true
+            },
+            {
                 "id": "74763991",
                 "name": "cynara menezes",
                 "username": "cynaramenezes",
@@ -8063,27 +7735,9 @@
                 "verified": false
             },
             {
-                "id": "27042474",
-                "name": "EricaSena-Pensareco",
-                "username": "Pensareco",
-                "verified": false
-            },
-            {
-                "id": "60212448",
-                "name": "EcoZilla",
-                "username": "EcoZilla",
-                "verified": false
-            },
-            {
                 "id": "106480080",
                 "name": "Pref. de Ananindeua",
                 "username": "PrefAnanindeua",
-                "verified": false
-            },
-            {
-                "id": "349783899",
-                "name": "Libero Social",
-                "username": "liberosocial",
                 "verified": false
             },
             {
@@ -8201,6 +7855,12 @@
                 "verified": true
             },
             {
+                "id": "166592691",
+                "name": "Art Ambiental",
+                "username": "artambiental",
+                "verified": false
+            },
+            {
                 "id": "256516758",
                 "name": "EncontraRJ",
                 "username": "encontrarj",
@@ -8280,8 +7940,8 @@
             },
             {
                 "id": "139703452",
-                "name": "tried",
-                "username": "ducktried",
+                "name": "YIDAL NFT MASKS",
+                "username": "yidalmask",
                 "verified": false
             },
             {
@@ -8456,6 +8116,12 @@
                 "id": "46467773",
                 "name": "TORLONI STAR \ud83d\udc8e",
                 "username": "Torloni_Star",
+                "verified": false
+            },
+            {
+                "id": "440849510",
+                "name": "Lucas Fusinato",
+                "username": "LucaasF7",
                 "verified": false
             },
             {
@@ -8684,6 +8350,12 @@
                 "id": "429667239",
                 "name": "Alessandro Kawan",
                 "username": "alekawan_",
+                "verified": false
+            },
+            {
+                "id": "553026541",
+                "name": "Erivaldo",
+                "username": "Hinode1234",
                 "verified": false
             },
             {
@@ -9035,6 +8707,12 @@
                 "verified": false
             },
             {
+                "id": "126155537",
+                "name": "Leia na Bio",
+                "username": "iagostosao",
+                "verified": false
+            },
+            {
                 "id": "557283767",
                 "name": "Noticias 24h",
                 "username": "24hDeNoticias",
@@ -9063,13 +8741,403 @@
                 "name": "Health Cred",
                 "username": "HealthCred_OCZ",
                 "verified": false
+            },
+            {
+                "id": "424570236",
+                "name": "Jornal do Twiiter",
+                "username": "Jornal_Twiiter",
+                "verified": false
+            },
+            {
+                "id": "603841843",
+                "name": "\u2663 I am the Z\u00e9 \u2663",
+                "username": "jefersonn_silv",
+                "verified": false
+            },
+            {
+                "id": "194700453",
+                "name": "Janaina Tavarez",
+                "username": "JanainaTavarez",
+                "verified": false
+            },
+            {
+                "id": "561465906",
+                "name": "Z\u00e9zin Para\u00edba",
+                "username": "zezirra6",
+                "verified": false
+            },
+            {
+                "id": "362542154",
+                "name": "iza.",
+                "username": "Caliely___",
+                "verified": false
+            },
+            {
+                "id": "362598693",
+                "name": "Juju *-*",
+                "username": "jujuzirra5",
+                "verified": false
+            },
+            {
+                "id": "358533100",
+                "name": "PatrickBobs",
+                "username": "Patrick_bobs",
+                "verified": false
+            },
+            {
+                "id": "609429741",
+                "name": "Ivete.",
+                "username": "IvetaoSan",
+                "verified": false
+            },
+            {
+                "id": "609359839",
+                "name": "Veveta.",
+                "username": "IveteSangg",
+                "verified": false
+            },
+            {
+                "id": "609360290",
+                "name": "IS.",
+                "username": "IvetteSangg",
+                "verified": false
+            },
+            {
+                "id": "609447210",
+                "name": "Rafa Lima Veras",
+                "username": "__RafaellaLima",
+                "verified": false
+            },
+            {
+                "id": "609460710",
+                "name": " Dinha s2",
+                "username": "Dinha_da_CL",
+                "verified": false
+            },
+            {
+                "id": "231084914",
+                "name": "Carla Faleiros",
+                "username": "CarlinhaFa_",
+                "verified": false
+            },
+            {
+                "id": "548059933",
+                "name": "Bruninha Mikeli",
+                "username": "Bruninha_Mikeli",
+                "verified": false
+            },
+            {
+                "id": "548057407",
+                "name": "@Alex",
+                "username": "alexsilvesttre",
+                "verified": false
+            },
+            {
+                "id": "248221757",
+                "name": "Feed Brasil",
+                "username": "feed_brasil",
+                "verified": false
+            },
+            {
+                "id": "390129523",
+                "name": "Goolden \u00a9",
+                "username": "GooldenINFO",
+                "verified": false
+            },
+            {
+                "id": "171180508",
+                "name": "Rocha Peritos  \u00ae",
+                "username": "Peritos_BH",
+                "verified": false
+            },
+            {
+                "id": "96428020",
+                "name": "Rocha Peritos",
+                "username": "RochaPeritos",
+                "verified": false
+            },
+            {
+                "id": "96422367",
+                "name": "SEGURO MOTOS BH MOTO",
+                "username": "Seguro_BH_Motos",
+                "verified": false
+            },
+            {
+                "id": "4048683831",
+                "name": "Canais TV Online",
+                "username": "CanaisTvOnline",
+                "verified": false
+            },
+            {
+                "id": "634643597",
+                "name": "Eraldo Proc\u00f3pio",
+                "username": "Hinode2053622",
+                "verified": false
+            },
+            {
+                "id": "173120394",
+                "name": "Seguro BH Moto BH/MG",
+                "username": "BH_Seguros_Moto",
+                "verified": false
+            },
+            {
+                "id": "187609372",
+                "name": ".",
+                "username": "flabsurda",
+                "verified": false
+            },
+            {
+                "id": "194177969",
+                "name": "BH Seguros Motos BH",
+                "username": "Seguro_de_Moto",
+                "verified": false
+            },
+            {
+                "id": "194720567",
+                "name": "Seguro Moto BH Motos",
+                "username": "Seguro_Motos",
+                "verified": false
+            },
+            {
+                "id": "360839390",
+                "name": "FezinhoYoutuber",
+                "username": "FezinhoYoutuber",
+                "verified": false
+            },
+            {
+                "id": "525359485",
+                "name": "@kaike andrade",
+                "username": "kaaiike__",
+                "verified": false
+            },
+            {
+                "id": "101822551",
+                "name": "juninho",
+                "username": "juninho_viola",
+                "verified": false
+            },
+            {
+                "id": "96994630",
+                "name": "Seguros de Carros BH",
+                "username": "SeguroSantander",
+                "verified": false
+            },
+            {
+                "id": "471932543",
+                "name": "Infos e Publicidade",
+                "username": "InfoPontual",
+                "verified": false
+            },
+            {
+                "id": "96442406",
+                "name": "Seguro de Carro BH",
+                "username": "SEGUROdeVEICULO",
+                "verified": false
+            },
+            {
+                "id": "175896929",
+                "name": "Jonatas Rodrigues.",
+                "username": "soujonatas",
+                "verified": false
+            },
+            {
+                "id": "172862485",
+                "name": "Cristiano Ronaldo",
+                "username": "UAI_Seguros",
+                "verified": false
+            },
+            {
+                "id": "368419530",
+                "name": "Notici\u00e1rio 24h/dia",
+                "username": "tweetnoticiario",
+                "verified": false
+            },
+            {
+                "id": "71637810",
+                "name": "Gustavo",
+                "username": "_gtoselli_",
+                "verified": false
+            },
+            {
+                "id": "169215881",
+                "name": "Viagens em Minas BH",
+                "username": "ViagensMinasBH",
+                "verified": false
+            },
+            {
+                "id": "169061664",
+                "name": "Perito Cont\u00e1bil BH",
+                "username": "RochaPeritosBH",
+                "verified": false
+            },
+            {
+                "id": "268440938",
+                "name": "fordtruckbh",
+                "username": "ford_truck_bh",
+                "verified": false
+            },
+            {
+                "id": "268439532",
+                "name": "tecar_bh",
+                "username": "tecar_bh",
+                "verified": false
+            },
+            {
+                "id": "268438409",
+                "name": "tecarbh",
+                "username": "tecarbh",
+                "verified": false
+            },
+            {
+                "id": "268437439",
+                "name": "tecar_bh_ford",
+                "username": "tecar_bh_ford",
+                "verified": false
+            },
+            {
+                "id": "268426407",
+                "name": "ford_truck",
+                "username": "ford_truck",
+                "verified": false
+            },
+            {
+                "id": "268422235",
+                "name": "tecaveiculos",
+                "username": "taceveiculos",
+                "verified": false
+            },
+            {
+                "id": "268422981",
+                "name": "tecaford",
+                "username": "tecaford",
+                "verified": false
+            },
+            {
+                "id": "268423656",
+                "name": "teca_veiculos",
+                "username": "teca_veiculos",
+                "verified": false
+            },
+            {
+                "id": "268410912",
+                "name": "tecarveiculos",
+                "username": "tecarveiculos",
+                "verified": false
+            },
+            {
+                "id": "268412925",
+                "name": "tecarford",
+                "username": "tecarford",
+                "verified": false
+            },
+            {
+                "id": "178367712",
+                "name": "BH Seguros",
+                "username": "md_comunicacao",
+                "verified": false
+            },
+            {
+                "id": "71265174",
+                "name": "UAI Seguros BH \u00ae",
+                "username": "UAI_SEGUROS_BH",
+                "verified": false
+            },
+            {
+                "id": "267336909",
+                "name": "seguroeprotecao",
+                "username": "seguroprotecao",
+                "verified": false
+            },
+            {
+                "id": "238226038",
+                "name": "Alexandre Faria",
+                "username": "sgdaganhar",
+                "verified": false
+            },
+            {
+                "id": "75869122",
+                "name": "News",
+                "username": "noticias_mundo_",
+                "verified": false
+            },
+            {
+                "id": "189918634",
+                "name": "Yuna Hirae Kim",
+                "username": "YunaHirae",
+                "verified": false
+            },
+            {
+                "id": "191683102",
+                "name": "AN Noticias",
+                "username": "annoticia",
+                "verified": false
+            },
+            {
+                "id": "31513669",
+                "name": "G1 - S\u00e3o Paulo",
+                "username": "g1saopaulo",
+                "verified": true
+            },
+            {
+                "id": "625624118",
+                "name": "g1vanguarda",
+                "username": "g1vanguarda",
+                "verified": false
+            },
+            {
+                "id": "29437458",
+                "name": "Roberta Campos",
+                "username": "robertacampos",
+                "verified": true
+            },
+            {
+                "id": "94586734",
+                "name": "Areeiro Bau",
+                "username": "bauareeiro",
+                "verified": false
+            },
+            {
+                "id": "68055341",
+                "name": "alana",
+                "username": "lana_stark",
+                "verified": false
+            },
+            {
+                "id": "447397227",
+                "name": "Ler Not\u00edcias",
+                "username": "LerNoticias",
+                "verified": false
+            },
+            {
+                "id": "78412828",
+                "name": "luiza maklouf",
+                "username": "lumaklouf",
+                "verified": false
+            },
+            {
+                "id": "405123394",
+                "name": "In\u00eas Pedrosa",
+                "username": "inespedrosa_pt",
+                "verified": false
+            },
+            {
+                "id": "2986746864",
+                "name": "exexbupoo1983",
+                "username": "tvi24_iol",
+                "verified": false
+            },
+            {
+                "id": "26339515",
+                "name": "Lu Vieira",
+                "username": "luh_vieira",
+                "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "241462568277929984",
-        "next_token": "1jzu9lk96gu5npvzzgpoxxdb7awp2moyu4g653n284u5",
-        "oldest_id": "239776890917900288",
+        "newest_id": "241279751761842176",
+        "next_token": "1jzu9lk96gu5npvzzgpoxwgxxdwajs3ugazenpizu0e5",
+        "oldest_id": "239746929146359808",
         "result_count": 485
     }
 }

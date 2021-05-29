@@ -1,350 +1,6 @@
 {
     "data": [
         {
-            "author_id": "472369955",
-            "created_at": "2015-12-15T02:20:48.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 8,
-                        "start": 0,
-                        "username": "ecodorg"
-                    }
-                ]
-            },
-            "geo": {
-                "place_id": "1b107df3ccc0aaa1"
-            },
-            "id": "676587681933996032",
-            "in_reply_to_user_id": "27636830",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@ecodorg Crowdfunding ir\u00e1 viabilizar 10 visitas ao Parque Nacional das Emas #Compartilhe e apoie esse #projeto, https://t.co/79PmfgyJWF"
-        },
-        {
-            "author_id": "103297293",
-            "created_at": "2015-12-15T01:47:49.000Z",
-            "id": "676579383180570625",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Vai pra Ubajara? Al\u00e9m do menor parque nacional, voc\u00ea poder\u00e1 conferir alguns dos atrativos culturais e religiosos... https://t.co/cCnyTkZSa6"
-        },
-        {
-            "author_id": "145586895",
-            "created_at": "2015-12-15T01:01:57.000Z",
-            "id": "676567840107859968",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "As a\u00e7\u00f5es de combate ao inc\u00eandio no Parque Nacional da Chapada Diamantina se intensificaram hoje (14), segundo o... https://t.co/yarPbUEQFG"
-        },
-        {
-            "author_id": "65383163",
-            "created_at": "2015-12-14T23:08:49.000Z",
-            "id": "676539367301615616",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Publiquei 6 fotos no Facebook no \u00e1lbum \"PARQUE NACIONAL MARINHO ILHA DE ARIDE\" https://t.co/QQYlzeq0z3"
-        },
-        {
-            "author_id": "53757099",
-            "created_at": "2015-12-14T22:36:17.000Z",
-            "id": "676531181597364226",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Artes\u00e3s da Comunidade Jamaraqu\u00e1 - Floresta Nacional do Tapaj\u00f3s - Santar\u00e9m PA -\n foto Leonardo Milano https://t.co/jH9ZfIOzYv"
-        },
-        {
-            "author_id": "53757099",
-            "created_at": "2015-12-14T22:32:10.000Z",
-            "id": "676530145352617984",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Artes\u00e3s da Comunidade Jamaraqu\u00e1 - Floresta Nacional do Tapaj\u00f3s - Santar\u00e9m PA\n foto: Leonardo Milano https://t.co/35o3obmvwr"
-        },
-        {
-            "author_id": "632965321",
-            "created_at": "2015-12-14T21:42:40.000Z",
-            "id": "676517689209307140",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Filme produzido para COP 21 mostra reflorestamento da RPPN Fazenda Bulc\u00e3o, sede do Instituto Terra. https://t.co/8Y17IBhbNv"
-        },
-        {
-            "author_id": "17566302",
-            "created_at": "2015-12-14T21:14:46.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 82,
-                        "start": 72,
-                        "username": "change_br"
-                    }
-                ]
-            },
-            "id": "676510667671781377",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Conseguimos! As bibliotecas continuar\u00e3o abertas https://t.co/FWMlhNzR01 @change_br QUE NOTICIA BOA A BIBLIOTECA PARQUE NACIONAL CONTINUA"
-        },
-        {
-            "author_id": "39319245",
-            "created_at": "2015-12-14T20:36:04.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 19,
-                        "start": 9,
-                        "username": "gnatalini"
-                    }
-                ]
-            },
-            "id": "676500928317546496",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Vereador @gnatalini entregou pedido de parque nacional na Mantiqueira \u00e0 Min. Izabella Teixeira, durante a COP.  https://t.co/EqsAlgbPE2"
-        },
-        {
-            "author_id": "1092503732",
-            "created_at": "2015-12-14T20:33:57.000Z",
-            "id": "676500394760081410",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\u201cPremio a la mejor iniciativa de conservaci\u00f3n\u201d a Antonio Manuel Ribeiro Martins Ca\u00e7ador, \n\nhttps://t.co/6FoFY7M2Of"
-        },
-        {
-            "author_id": "2596269422",
-            "created_at": "2015-12-14T20:15:16.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "gnatalini"
-                    }
-                ]
-            },
-            "id": "676495693138288640",
-            "in_reply_to_user_id": "35879806",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "@gnatalini\n Natalini entrega mo\u00e7\u00e3o da 14\u00aa P+L e pedido de parque nacional na Mantiqueira para Min. Izabella Teixeira https://t.co/5GaTvkxNb3"
-        },
-        {
-            "author_id": "462285762",
-            "created_at": "2015-12-14T19:33:35.000Z",
-            "id": "676485202068135940",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Marcel Huijser and Joel Jesus Silva, Parque Nacional das Emas, Goi\u00e1s, Brazil https://t.co/qfi43rl6uQ"
-        },
-        {
-            "author_id": "273569937",
-            "created_at": "2015-12-14T18:56:41.000Z",
-            "id": "676475916936019968",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Yosemite - EUA\n\nUm vale rochoso monumental protegido pelo terceiro mais antigo parque nacional americano, lar de... https://t.co/4PsoBtIv1Z"
-        },
-        {
-            "author_id": "82440817",
-            "created_at": "2015-12-14T18:29:34.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 27,
-                        "start": 19,
-                        "username": "YouTube"
-                    },
-                    {
-                        "end": 46,
-                        "start": 31,
-                        "username": "jardiningamoto"
-                    }
-                ]
-            },
-            "id": "676469091578814464",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Gostei de um v\u00eddeo @YouTube de @jardiningamoto https://t.co/zmpqeGhTZy parte 02 gangue faz arrast\u00e3o no \u00e1gua mineral parque nacional"
-        },
-        {
-            "author_id": "82440817",
-            "created_at": "2015-12-14T18:23:04.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 119,
-                        "start": 111,
-                        "username": "YouTube"
-                    }
-                ]
-            },
-            "id": "676467458606239744",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "C\u00f3pia de gangue faz arrast\u00e3o no \u00e1gua mineral parque nacional de bras\u00edlia parte 01: https://t.co/9GlYySh9FD via @YouTube"
-        },
-        {
-            "author_id": "2690172127",
-            "created_at": "2015-12-14T18:17:49.000Z",
-            "id": "676466137622794240",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "SEMIN\u00c1RIO \u201cCRIA\u00c7\u00c3O DA RESERVA EXTRATIVISTA DO LITORAL SUL DE SERGIPE E PRESERVA\u00c7\u00c3O DA MANGABEIRA\u201d https://t.co/fNeXcsUr3y"
-        },
-        {
-            "author_id": "88543314",
-            "created_at": "2015-12-14T18:05:09.000Z",
-            "id": "676462949121327105",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "O C\u00e2nion Fortaleza fica situado no Parque Nacional da Serra Geral entre os munic\u00edpios de Cambar\u00e1\u2026 https://t.co/VPSbtaBFr9"
-        },
-        {
-            "author_id": "82440817",
-            "created_at": "2015-12-14T17:58:59.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 102,
-                        "username": "YouTube"
-                    }
-                ]
-            },
-            "id": "676461394187968512",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "gangue faz arrast\u00e3o no \u00e1gua mineral parque nacional de bras\u00edlia parte 03: https://t.co/bLsakaeKhF via @YouTube"
-        },
-        {
-            "author_id": "82440817",
-            "created_at": "2015-12-14T17:58:57.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 110,
-                        "start": 102,
-                        "username": "YouTube"
-                    }
-                ]
-            },
-            "id": "676461385853902852",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "parte 02 gangue faz arrast\u00e3o no \u00e1gua mineral parque nacional de bras\u00edlia: https://t.co/zmpqeGhTZy via @YouTube"
-        },
-        {
-            "author_id": "86612430",
-            "created_at": "2015-12-14T17:01:23.000Z",
-            "id": "676446898635579393",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\u00c9 uma unidade de conserva\u00e7\u00e3o brasileira de prote\u00e7\u00e3o \u00e0 natureza. Patrim\u00f4nio mundial da UNESCO desde 2001. #VPmundo https://t.co/u3GeYNvqMU"
-        },
-        {
-            "author_id": "351775808",
-            "created_at": "2015-12-14T16:44:15.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -49.55140762,
-                        -27.99955459
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "18352c087c3a65e2"
-            },
-            "id": "676442589449596929",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Pedra Furada, no Parque Nacional de S\u00e3o Joaquim, em Urubici/SC. Uma forma\u00e7\u00e3o muito interessante e\u2026 https://t.co/wkCoKR3zjn"
-        },
-        {
             "author_id": "82440817",
             "created_at": "2015-12-14T16:41:00.000Z",
             "entities": {
@@ -980,28 +636,6 @@
             "text": "Cachorros-Vinagres s\u00e3o registrados novamente no Parque Nacional das Emas.\n\n#ParqueNacionaldasEmas\u2026 https://t.co/KeXhTq6DeP"
         },
         {
-            "author_id": "68545274",
-            "created_at": "2015-12-13T23:47:58.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -39.56445184,
-                        -15.39188566
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "2705a379aef0d1e9"
-            },
-            "id": "676186831826784260",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Posso gastar um minuto do seu dia para falar da #Entomologia? @ RPPN Serra Bonita - Bahia https://t.co/jpkNx6nIeR"
-        },
-        {
             "author_id": "472369955",
             "created_at": "2015-12-13T23:24:00.000Z",
             "id": "676180803240480768",
@@ -1114,28 +748,6 @@
                 "retweet_count": 0
             },
             "text": "Mais um parque nacional  que eu nao conhecia https://t.co/KMoFmaUryj"
-        },
-        {
-            "author_id": "4167225856",
-            "created_at": "2015-12-13T20:03:32.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -54.45270538,
-                        -25.63255019
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "91f818a4abfb1d4d"
-            },
-            "id": "676130352788803587",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "I'm at Parque Nacional Do Igua\u00e7u (Brazil) - @cataratas_sa in Foz do Igua\u00e7u, PR https://t.co/OO3iN6qE8D"
         },
         {
             "author_id": "3027656169",
@@ -1835,28 +1447,6 @@
                 "retweet_count": 0
             },
             "text": "Ir para o parque nacional da tijuca sozinha \ud83d\udc94"
-        },
-        {
-            "author_id": "208173978",
-            "created_at": "2015-12-12T00:55:37.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -50.7864304,
-                        -25.3416805
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "036d8d77a0afdcff"
-            },
-            "id": "675479083577303040",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Uma linda cara de que ta tudo bem por\u00e9m n\u00e3o tava tudo bem \ud83d\ude02\ud83d\ude35 #rapelesa #ecoturismo @ RPPN Ninho\u2026 https://t.co/kOEzFWO2hH"
         },
         {
             "author_id": "214577203",
@@ -4008,18 +3598,6 @@
                 "retweet_count": 0
             },
             "text": "Em Guaraque\u00e7aba situa-se o Parque Nacional do Superagui, complexo estuarino-lagunar: https://t.co/XiVy3DPVTB https://t.co/HxkIWjKIrQ"
-        },
-        {
-            "author_id": "69614558",
-            "created_at": "2015-12-11T15:44:29.000Z",
-            "id": "675340385263222784",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Publiquei 30 fotos no Facebook no \u00e1lbum \"Instituto Santo \u00c2ngelo lan\u00e7a livro fotogr\u00e1fico da RPPN Vereda da\" https://t.co/WsQtSAvJfv"
         },
         {
             "author_id": "1165961713",
@@ -6244,6 +5822,359 @@
                 "retweet_count": 0
             },
             "text": "#Repost @portalminas\n\u30fb\u30fb\u30fb\nTrekking Vale do Travess\u00e3o \nParque Nacional Serra do Cip\u00f3 \nSantana do Riacho MG... https://t.co/J7lxfZ6nmM"
+        },
+        {
+            "author_id": "2759451965",
+            "created_at": "2015-12-09T22:19:31.000Z",
+            "id": "674715023512576004",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Repost @leymais\n\u30fb\u30fb\u30fb\nTrekking Vale do Travess\u00e3o \nParque Nacional Serra do Cip\u00f3 \nSantana do Riacho\u2026 https://t.co/mvp7YF4rxG"
+        },
+        {
+            "author_id": "1329655129",
+            "created_at": "2015-12-09T22:10:50.000Z",
+            "id": "674712835558146048",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "New post: \"Novas queimadas s\u00e3o registradas em \u00e1rea de prote\u00e7\u00e3o ambiental no AP\" https://t.co/uiRz425t1t"
+        },
+        {
+            "author_id": "2741225132",
+            "created_at": "2015-12-09T22:05:06.000Z",
+            "id": "674711395221532673",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Novas queimadas s\u00e3o registradas em \u00e1rea de prote\u00e7\u00e3o ambiental no AP https://t.co/8rqA2LIls1"
+        },
+        {
+            "author_id": "2741225132",
+            "created_at": "2015-12-09T22:04:55.000Z",
+            "id": "674711347893026816",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Novas queimadas s\u00e3o registradas em \u00e1rea de prote\u00e7\u00e3o ambiental no AP https://t.co/8rqA2LIls1 \nFogo atinge \u00e1rea na Lagoa dos \u00cdndios, na Zona\u2026"
+        },
+        {
+            "author_id": "31468484",
+            "created_at": "2015-12-09T21:58:08.000Z",
+            "id": "674709642572922880",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "Novas queimadas s\u00e3o registradas em \u00e1rea de prote\u00e7\u00e3o ambiental no AP https://t.co/sCebQRgHCX"
+        },
+        {
+            "author_id": "1187141252",
+            "created_at": "2015-12-09T21:57:31.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -48.05813608,
+                        -15.79194554
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "5722ff20ba67083b"
+            },
+            "id": "674709484321787904",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "J\u00e1 podem julgar... @ Flona - Floresta Nacional https://t.co/6gum42UfbC"
+        },
+        {
+            "author_id": "206376987",
+            "created_at": "2015-12-09T21:57:09.000Z",
+            "id": "674709391266967553",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Novas queimadas s\u00e3o registradas em \u00e1rea de prote\u00e7\u00e3o ambiental no AP https://t.co/D2fnIzZbkm"
+        },
+        {
+            "author_id": "388969140",
+            "created_at": "2015-12-09T21:55:56.000Z",
+            "id": "674709089151229952",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Prezados\n\nRecebemos informa\u00e7\u00f5es de moradores de in\u00fameros pontos de inc\u00eandio na \u00c1rea de Prote\u00e7\u00e3o Ambiental (APA)... https://t.co/PFABIIjtce"
+        },
+        {
+            "author_id": "112428708",
+            "created_at": "2015-12-09T21:39:40.000Z",
+            "id": "674704994872913920",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Conhece Santar\u00e9n Novo? L\u00e1 est\u00e1 localizada a Reserva Extrativista Chocoar\u00e9-Mato Grosso, conhe\u00e7a seus encantos... https://t.co/pcUg61xQBg"
+        },
+        {
+            "author_id": "112428708",
+            "created_at": "2015-12-09T21:39:26.000Z",
+            "id": "674704935821398016",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Conhece Santar\u00e9n Novo? L\u00e1 est\u00e1 localizada a Reserva Extrativista Chocoar\u00e9-Mato Grosso, conhe\u00e7a seus encantos... https://t.co/KtQpAl6nEJ"
+        },
+        {
+            "author_id": "108431413",
+            "created_at": "2015-12-09T21:37:49.000Z",
+            "id": "674704528198008832",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Guias do Parque Nacional do Capara\u00f3 recebem capacita\u00e7\u00e3o https://t.co/gnUwb8xSNM"
+        },
+        {
+            "author_id": "330918216",
+            "created_at": "2015-12-09T21:29:26.000Z",
+            "id": "674702419004030977",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Na regi\u00e3o pr\u00f3xima \u00e0 reserva biol\u00f3gica Marinha do Arvoredo, existem praias exclusivas e quase desertas. Algumas... https://t.co/xBCIko8bQX"
+        },
+        {
+            "author_id": "300591655",
+            "created_at": "2015-12-09T21:26:34.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.58775585,
+                        -25.53482869
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "674701697638354944",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Destino de hoje \ud83d\udc4a\ud83c\udffc @ Parque Nacional Cataratas Do Igua\u00e7u https://t.co/8EjUbnJRL2"
+        },
+        {
+            "author_id": "212810585",
+            "created_at": "2015-12-09T21:26:12.000Z",
+            "id": "674701602897334272",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Unidade de Conserva\u00e7\u00e3o do Espraiado ter\u00e1 sua sede em janeiro https://t.co/6jrVgPhs1d"
+        },
+        {
+            "author_id": "234047020",
+            "created_at": "2015-12-09T20:41:14.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 54,
+                        "start": 43,
+                        "username": "jcidadesbh"
+                    }
+                ]
+            },
+            "id": "674690287701217280",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Jornal Cidades https://t.co/sXeKSCQw3a via @jcidadesbh"
+        },
+        {
+            "author_id": "3055584701",
+            "created_at": "2015-12-09T19:40:30.000Z",
+            "id": "674675004588494848",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pedra Bonita - S\u00e3o Conrado\nA Pedra Bonita \u00e9 um ponto tur\u00edstico localizado no Parque Nacional da Tijuca, na cidade... https://t.co/6csqvtx0Z4"
+        },
+        {
+            "author_id": "2936989516",
+            "created_at": "2015-12-09T18:54:07.000Z",
+            "id": "674663333266591745",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT \nAn\u00fancio foi feito durante evento do 'Minha Casa, Minha Vida' em Boa Vista. Ela tamb\u00e9m assinou decreto para abdicar do Parque Nacional d\u2026"
+        },
+        {
+            "author_id": "895081556",
+            "created_at": "2015-12-09T18:47:47.000Z",
+            "id": "674661737006809088",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Serra dos \u00d3rg\u00e3os, state of Rio de Janeiro, Brazil - Photo by Carlos Per\u2026 https://t.co/ewWlUzERPN https://t.co/RcN0BxV8ev"
+        },
+        {
+            "author_id": "895081556",
+            "created_at": "2015-12-09T18:47:43.000Z",
+            "id": "674661719269068800",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Serra dos \u00d3rg\u00e3os, state of Rio de Janeiro, Brazil - Photo by Carlos Per\u2026 https://t.co/fowZKuwU4N https://t.co/ZIAMVgwm8Z"
+        },
+        {
+            "author_id": "2856557914",
+            "created_at": "2015-12-09T18:46:35.000Z",
+            "id": "674661434463232000",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Serra dos \u00d3rg\u00e3os, state of Rio de Janeiro, Brazil - Photo by Carlos Perez Couto [3550x2376] from\u2026 https://t.co/gNAvr1pIVY"
+        },
+        {
+            "author_id": "16440543",
+            "created_at": "2015-12-09T18:44:58.000Z",
+            "id": "674661028249096193",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Serra dos \u00d3rg\u00e3os, state of Rio de Janeiro, Brazil - Photo by Carlos Perez Couto [3550x2376] via \u2026 https://t.co/3JxsCheAPa"
+        },
+        {
+            "author_id": "895081556",
+            "created_at": "2015-12-09T18:39:58.000Z",
+            "id": "674659771744690176",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Serra dos \u00d3rg\u00e3os, state of Rio de Janeiro, Brazil - Photo by Carlos Per\u2026 https://t.co/7DYApwqunF https://t.co/eWEkL9HKZ6"
+        },
+        {
+            "author_id": "895081556",
+            "created_at": "2015-12-09T18:39:21.000Z",
+            "id": "674659614919680000",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Serra dos \u00d3rg\u00e3os, state of Rio de Janeiro, Brazil - Photo by Carlos Per\u2026 https://t.co/lRouqlw40U https://t.co/7DYApwqunF"
+        },
+        {
+            "author_id": "895081556",
+            "created_at": "2015-12-09T18:38:59.000Z",
+            "id": "674659523978731520",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Serra dos \u00d3rg\u00e3os, state of Rio de Janeiro, Brazil - Photo by Carlos Per\u2026 https://t.co/ouZnXFFepf https://t.co/lRouqlw40U"
+        },
+        {
+            "author_id": "4295839275",
+            "created_at": "2015-12-09T18:17:21.000Z",
+            "id": "674654080225124352",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "ICMBio - Parque Nacional da Serra dos Org\u00e3os - O Que Fazemos https://t.co/MtQ0us4QNv"
+        },
+        {
+            "author_id": "4295839275",
+            "created_at": "2015-12-09T18:08:57.000Z",
+            "id": "674651966585364480",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "ICMBio - Parque Nacional da Serra dos Org\u00e3os - Galeria de Imagens - Paisagens https://t.co/MFmjd6E3lV"
+        },
+        {
+            "author_id": "48475842",
+            "created_at": "2015-12-09T18:07:30.000Z",
+            "id": "674651600036597764",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "UC ser\u00e1 criada em junho de 2016; recursos necess\u00e1rios s\u00e3o oriundos do Programa de Desenvolvimento Sustent\u00e1vel https://t.co/xZAOB6Xqv5"
         }
     ],
     "errors": [
@@ -6259,20 +6190,6 @@
     ],
     "includes": {
         "places": [
-            {
-                "country": "Brasil",
-                "country_code": "BR",
-                "full_name": "Brasil",
-                "id": "1b107df3ccc0aaa1",
-                "place_type": "country"
-            },
-            {
-                "country": "Brasil",
-                "country_code": "BR",
-                "full_name": "Urubici, Brasil",
-                "id": "18352c087c3a65e2",
-                "place_type": "city"
-            },
             {
                 "country": "Paraguay",
                 "country_code": "PY",
@@ -6304,13 +6221,6 @@
             {
                 "country": "Brasil",
                 "country_code": "BR",
-                "full_name": "Camacan, Brasil",
-                "id": "2705a379aef0d1e9",
-                "place_type": "city"
-            },
-            {
-                "country": "Brasil",
-                "country_code": "BR",
                 "full_name": "Santo Amaro do Maranh\u00e3o, Brasil",
                 "id": "78201cdd04028b27",
                 "place_type": "city"
@@ -6328,13 +6238,6 @@
                 "full_name": "Nicaragua",
                 "id": "d2a0bb4acbd6b824",
                 "place_type": "country"
-            },
-            {
-                "country": "Brasil",
-                "country_code": "BR",
-                "full_name": "Foz do Igua\u00e7u, Brasil",
-                "id": "91f818a4abfb1d4d",
-                "place_type": "city"
             },
             {
                 "country": "Brasil",
@@ -6367,6 +6270,13 @@
             {
                 "country": "Brasil",
                 "country_code": "BR",
+                "full_name": "Foz do Igua\u00e7u, Brasil",
+                "id": "91f818a4abfb1d4d",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
                 "full_name": "Crato, Brasil",
                 "id": "04279e8b69ef0f08",
                 "place_type": "city"
@@ -6376,13 +6286,6 @@
                 "country_code": "CO",
                 "full_name": "Bogot\u00e1, D.C., Colombia",
                 "id": "0161be1b3f98d6c3",
-                "place_type": "city"
-            },
-            {
-                "country": "Brasil",
-                "country_code": "BR",
-                "full_name": "Imbituva, Brasil",
-                "id": "036d8d77a0afdcff",
                 "place_type": "city"
             },
             {
@@ -6437,96 +6340,6 @@
         ],
         "users": [
             {
-                "id": "472369955",
-                "name": "Joel Jesus Silva",
-                "username": "Joellsky",
-                "verified": false
-            },
-            {
-                "id": "27636830",
-                "name": "Portal EcoD",
-                "username": "ecodorg",
-                "verified": false
-            },
-            {
-                "id": "103297293",
-                "name": "Rodando pelo Cear\u00e1",
-                "username": "rodandopelocear",
-                "verified": false
-            },
-            {
-                "id": "145586895",
-                "name": "Rep\u00f3rter Nordeste",
-                "username": "report_nordeste",
-                "verified": false
-            },
-            {
-                "id": "65383163",
-                "name": "mikami, adilson",
-                "username": "adilsonestaaqui",
-                "verified": false
-            },
-            {
-                "id": "53757099",
-                "name": "Claudio e Lene",
-                "username": "Claudiocolonia",
-                "verified": false
-            },
-            {
-                "id": "632965321",
-                "name": "ComTradi\u00e7\u00e3o",
-                "username": "restcomtradicao",
-                "verified": false
-            },
-            {
-                "id": "17566302",
-                "name": "Luciano Andrade",
-                "username": "lucianoAC",
-                "verified": false
-            },
-            {
-                "id": "900348469",
-                "name": "Change.org Brasil #LuteEmCasa",
-                "username": "change_br",
-                "verified": true
-            },
-            {
-                "id": "39319245",
-                "name": "Luciana",
-                "username": "lufeldman",
-                "verified": false
-            },
-            {
-                "id": "35879806",
-                "name": "Gilberto Natalini",
-                "username": "gnatalini",
-                "verified": true
-            },
-            {
-                "id": "1092503732",
-                "name": "Pablo Rovi \u200f \u0646",
-                "username": "pablorovid",
-                "verified": false
-            },
-            {
-                "id": "2596269422",
-                "name": "S\u00f4nia Scarnero",
-                "username": "SScarnero1",
-                "verified": false
-            },
-            {
-                "id": "462285762",
-                "name": "Marcel Huijser",
-                "username": "marcelhuijser",
-                "verified": false
-            },
-            {
-                "id": "273569937",
-                "name": "Turisforma",
-                "username": "turisforma",
-                "verified": false
-            },
-            {
                 "id": "82440817",
                 "name": "raimundo n.s almeida",
                 "username": "jardiningamoto",
@@ -6537,30 +6350,6 @@
                 "name": "YouTube",
                 "username": "YouTube",
                 "verified": true
-            },
-            {
-                "id": "2690172127",
-                "name": "Jo\u00e3o Lula Daniel #LulaLivre",
-                "username": "depjoaodanielpt",
-                "verified": true
-            },
-            {
-                "id": "88543314",
-                "name": "Brasil na Foto",
-                "username": "brasilnafoto",
-                "verified": false
-            },
-            {
-                "id": "86612430",
-                "name": "Vitor Quintan",
-                "username": "vitorquintan",
-                "verified": false
-            },
-            {
-                "id": "351775808",
-                "name": "Fam\u00edlia Viagem",
-                "username": "FamiliaViagem",
-                "verified": false
             },
             {
                 "id": "1570557547",
@@ -6647,6 +6436,12 @@
                 "verified": false
             },
             {
+                "id": "65383163",
+                "name": "mikami, adilson",
+                "username": "adilsonestaaqui",
+                "verified": false
+            },
+            {
                 "id": "333089672",
                 "name": "Quinho Castro",
                 "username": "quinhocastro",
@@ -6695,15 +6490,21 @@
                 "verified": false
             },
             {
-                "id": "68545274",
-                "name": "Judas Montero",
-                "username": "eun4ndo",
+                "id": "472369955",
+                "name": "Joel Jesus Silva",
+                "username": "Joellsky",
                 "verified": false
             },
             {
                 "id": "723486710",
                 "name": "clehomens almeida",
                 "username": "clehomens",
+                "verified": false
+            },
+            {
+                "id": "462285762",
+                "name": "Marcel Huijser",
+                "username": "marcelhuijser",
                 "verified": false
             },
             {
@@ -6728,12 +6529,6 @@
                 "id": "731604986",
                 "name": "Alex Ramaldes",
                 "username": "Alex_Ramaldes",
-                "verified": false
-            },
-            {
-                "id": "4167225856",
-                "name": "Lele (Tim Beta)",
-                "username": "Le7pires",
                 "verified": false
             },
             {
@@ -6869,6 +6664,12 @@
                 "verified": false
             },
             {
+                "id": "103297293",
+                "name": "Rodando pelo Cear\u00e1",
+                "username": "rodandopelocear",
+                "verified": false
+            },
+            {
                 "id": "2808521040",
                 "name": "S\u00f3 o senhor \u00e9 Deus.",
                 "username": "A1Noticias1",
@@ -6986,12 +6787,6 @@
                 "id": "3312282670",
                 "name": "Juro@Marte",
                 "username": "Giarolagabs",
-                "verified": false
-            },
-            {
-                "id": "208173978",
-                "name": "keine idee",
-                "username": "VictoriaBackoff",
                 "verified": false
             },
             {
@@ -7901,12 +7696,6 @@
                 "verified": false
             },
             {
-                "id": "69614558",
-                "name": "SIAMIG",
-                "username": "SIAMIG",
-                "verified": false
-            },
-            {
                 "id": "1165961713",
                 "name": "Sudoeste Bahia",
                 "username": "sudoestebahia",
@@ -7923,6 +7712,12 @@
                 "name": "Silvio Ramirez",
                 "username": "silvioramirezm",
                 "verified": false
+            },
+            {
+                "id": "35879806",
+                "name": "Gilberto Natalini",
+                "username": "gnatalini",
+                "verified": true
             },
             {
                 "id": "3297734269",
@@ -8622,7 +8417,7 @@
             },
             {
                 "id": "81369657",
-                "name": "quase um bicho triste",
+                "name": "s\u00f3 mais cem dias de lula",
                 "username": "belchiorista",
                 "verified": false
             },
@@ -8736,7 +8531,7 @@
             },
             {
                 "id": "1704550302",
-                "name": "Inteligov (em \ud83c\udfe0)",
+                "name": "Inteligov",
                 "username": "inteligovbr",
                 "verified": false
             },
@@ -8781,13 +8576,91 @@
                 "name": "NIVER CABRERA",
                 "username": "PORTALMINAS",
                 "verified": false
+            },
+            {
+                "id": "1187141252",
+                "name": "Let\u00edcia Fernandes \u2649\ufe0f",
+                "username": "LeticiaFbraz",
+                "verified": false
+            },
+            {
+                "id": "388969140",
+                "name": "Roberto Simon Neto",
+                "username": "NetoSimon",
+                "verified": false
+            },
+            {
+                "id": "112428708",
+                "name": "Slow Food Brasil",
+                "username": "slowfoodbrasil",
+                "verified": false
+            },
+            {
+                "id": "108431413",
+                "name": "DEFENDA O SUS",
+                "username": "BeneditoP",
+                "verified": false
+            },
+            {
+                "id": "330918216",
+                "name": "Happy Travel Viagens",
+                "username": "viagemfelizrs",
+                "verified": false
+            },
+            {
+                "id": "212810585",
+                "name": "Lucas Silva",
+                "username": "leandrobass12",
+                "verified": false
+            },
+            {
+                "id": "234047020",
+                "name": "Jornal Cidades",
+                "username": "jcidadesbh",
+                "verified": false
+            },
+            {
+                "id": "3055584701",
+                "name": "Milessis Travel Group",
+                "username": "MilessisGroup",
+                "verified": false
+            },
+            {
+                "id": "895081556",
+                "name": "levone W",
+                "username": "levoneW1",
+                "verified": false
+            },
+            {
+                "id": "2856557914",
+                "name": "PaisajesIncreibles",
+                "username": "PaisajesIn",
+                "verified": false
+            },
+            {
+                "id": "16440543",
+                "name": "Kathleen Barnes",
+                "username": "KathleenSBarnes",
+                "verified": false
+            },
+            {
+                "id": "4295839275",
+                "name": "alan siqueira neves",
+                "username": "alanneves78",
+                "verified": false
+            },
+            {
+                "id": "48475842",
+                "name": "Amazonas",
+                "username": "Amazonas",
+                "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "676587681933996032",
-        "next_token": "1jzu9lk96gu5npw2cy7zvzi9hvtu14z5bl4t4rmcuph9",
-        "oldest_id": "674715031376793600",
-        "result_count": 475
+        "newest_id": "676441768750153729",
+        "next_token": "1jzu9lk96gu5npw2cy7ztvz3u7k8v0jyfud9tc5d6s1p",
+        "oldest_id": "674651600036597764",
+        "result_count": 477
     }
 }

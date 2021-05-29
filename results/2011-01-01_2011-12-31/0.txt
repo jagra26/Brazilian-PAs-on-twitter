@@ -1,28 +1,6 @@
 {
     "data": [
         {
-            "author_id": "329198662",
-            "created_at": "2011-12-31T22:44:35.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "beatrizcastrope"
-                    }
-                ]
-            },
-            "id": "153245192474992640",
-            "in_reply_to_user_id": "235758014",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@beatrizcastrope Fique tranquila, pois a RPPN estar\u00e1 todo tempo de bra\u00e7os abertos para vc, Chico e equipe."
-        },
-        {
             "author_id": "35524446",
             "created_at": "2011-12-31T22:07:18.000Z",
             "id": "153235808948723712",
@@ -3581,33 +3559,6 @@
             "text": "Cataratas do Igua\u00e7u, Parque Nacional e Barragem de Itaipu. Apenas algumas das atra\u00e7\u00f5es que voc\u00ea conhece vindo para Foz!"
         },
         {
-            "author_id": "60942456",
-            "created_at": "2011-12-28T17:30:04.000Z",
-            "id": "152078877068509184",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Firmado conv\u00eanio para RPPN\u0092s\nhttp://t.co/2YBdaSTy"
-        },
-        {
-            "author_id": "253034260",
-            "created_at": "2011-12-28T17:29:59.000Z",
-            "geo": {
-                "place_id": "5722ff20ba67083b"
-            },
-            "id": "152078854649946113",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "ICMBio cria tr\u00eas RPPN http://t.co/ysuTsZWU"
-        },
-        {
             "author_id": "265012100",
             "created_at": "2011-12-28T16:14:38.000Z",
             "geo": {
@@ -4719,27 +4670,6 @@
             "text": "O embaixador do Xingu - Planeta Sustent\u00e1vel http://t.co/aLqDna2D via @psustentavel"
         },
         {
-            "author_id": "167233391",
-            "created_at": "2011-12-26T20:28:34.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 15,
-                        "start": 1,
-                        "username": "daniambiental"
-                    }
-                ]
-            },
-            "id": "151399023402688512",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "text": "\u201c@daniambiental: o que faria se ganhasse na MEGA-SENA?\u201d  com certeza teria uma RPPN, e' um grande sonho - alias, alguma dica?!"
-        },
-        {
             "author_id": "51834513",
             "created_at": "2011-12-26T19:35:13.000Z",
             "id": "151385596856778752",
@@ -4774,45 +4704,6 @@
                 "retweet_count": 1
             },
             "text": "Cachoeira do Escorrega \u00e9 do Itatiaia\nhttp://t.co/y1v60LFh"
-        },
-        {
-            "author_id": "33979512",
-            "created_at": "2011-12-26T19:03:51.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "daniambiental"
-                    },
-                    {
-                        "end": 29,
-                        "start": 15,
-                        "username": "infoambiental"
-                    }
-                ]
-            },
-            "id": "151377703709315073",
-            "in_reply_to_user_id": "320430303",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 1
-            },
-            "text": "@daniambiental @infoambiental montaria uma RPPN de cada ecossistema"
-        },
-        {
-            "author_id": "320430303",
-            "created_at": "2011-12-26T18:45:55.000Z",
-            "id": "151373188008390657",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 3,
-                "retweet_count": 2
-            },
-            "text": "montar uma RPPN, e/ou ter local com espa\u00e7o amplo p/ abrigo de animais dom\u00e9sticos? o que faria se ganhasse na MEGA-SENA?"
         },
         {
             "author_id": "36225186",
@@ -5173,33 +5064,6 @@
             "text": "Parque Nacional do Igua\u00e7u tem hor\u00e1rio normal no fim de ano http://t.co/0Hp68afh"
         },
         {
-            "author_id": "54790333",
-            "created_at": "2011-12-25T20:09:05.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 8,
-                        "start": 0,
-                        "username": "dociile"
-                    },
-                    {
-                        "end": 19,
-                        "start": 9,
-                        "username": "rocktenis"
-                    }
-                ]
-            },
-            "id": "151031731942727682",
-            "in_reply_to_user_id": "50770596",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@dociile @rocktenis eu tava dentro de uma reserva biol\u00f3gica, n\u00e3o pode ter asfalto hahaha dps eu posto uma foto da minha rua"
-        },
-        {
             "author_id": "66113269",
             "created_at": "2011-12-25T18:36:39.000Z",
             "id": "151008470995439617",
@@ -5229,7 +5093,7 @@
                     {
                         "end": 82,
                         "start": 75,
-                        "username": "nature"
+                        "username": "Nature"
                     }
                 ]
             },
@@ -6430,18 +6294,6 @@
             "text": "rt @1step2theleft Surreal Landscape of Parque Nacional dos Len\u00e7\u00f3is http://t.co/j9cHPgoW #Travel #TTOT #Archives"
         },
         {
-            "author_id": "369787581",
-            "created_at": "2011-12-23T03:08:08.000Z",
-            "id": "150050027002273793",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "text": "RPPN Sebu\u00ed (Paran\u00e1, Brasilien) | Brazil Adventure International&#39;s Blog"
-        },
-        {
             "author_id": "66113269",
             "created_at": "2011-12-22T23:52:30.000Z",
             "id": "150000794169638912",
@@ -6531,27 +6383,6 @@
                 "retweet_count": 2
             },
             "text": "@minc_rj  Ag\u00eancia de Not\u00edcias: Galp\u00e3o constru\u00eddo em \u00e1rea protegida de S\u00e3o Gon\u00e7alo \u00e9 demolido  http://t.co/MKW59xlj"
-        },
-        {
-            "author_id": "217466230",
-            "created_at": "2011-12-22T18:34:14.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 65,
-                        "start": 57,
-                        "username": "addthis"
-                    }
-                ]
-            },
-            "id": "149920698792558592",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "RPPN Sebu\u00ed (Paran\u00e1, Brasilien)  http://t.co/giBED3wF via @AddThis"
         },
         {
             "author_id": "27885053",
@@ -7101,6 +6932,115 @@
                 "retweet_count": 0
             },
             "text": "Parque Nacional Yurubi - http://t.co/8ueIZl3H"
+        },
+        {
+            "author_id": "91296428",
+            "created_at": "2011-12-21T08:56:50.000Z",
+            "id": "149413004079923200",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Cristo Redentor (Morro do Corcovado, Parque Nacional da Tijuca, Rio de Janeiro) http://t.co/aER3mbD"
+        },
+        {
+            "author_id": "90678706",
+            "created_at": "2011-12-21T06:35:18.000Z",
+            "id": "149377385010167808",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00c1rea protegida para fumadores."
+        },
+        {
+            "author_id": "213695361",
+            "created_at": "2011-12-21T05:00:24.000Z",
+            "id": "149353502454460416",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Hoje de manh\u00e3 saimos de SF e fomos para o parque nacional de Yosemite! Muito lindo l\u00e1! Mas frio pra caralho! Hahaha pegamos -4\u00baC!"
+        },
+        {
+            "author_id": "434266746",
+            "created_at": "2011-12-21T03:09:36.000Z",
+            "id": "149325620696989696",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "E\u00f3lico Chilo\u00e9: \u00bfDENTRO DE \u00c1REA PROTEGIDA SAG?"
+        },
+        {
+            "author_id": "225088881",
+            "created_at": "2011-12-21T00:33:32.000Z",
+            "geo": {
+                "place_id": "f207b85be9f1513e"
+            },
+            "id": "149286345079132161",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Opera\u00e7\u00e3o combate desmatamento na Terra do Meio: A opera\u00e7\u00e3o de fiscaliza\u00e7\u00e3o foi conclu\u00edda na Floresta Nacional d... http://t.co/tcotpMeg"
+        },
+        {
+            "author_id": "275993054",
+            "created_at": "2011-12-20T22:51:22.000Z",
+            "id": "149260631252537346",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional La Cangreja http://t.co/xTqcoyXp [PHOTO] #costarica"
+        },
+        {
+            "author_id": "282600602",
+            "created_at": "2011-12-20T22:38:00.000Z",
+            "id": "149257268209258496",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Monumento natural em B\u00fazios: A prefeitura lan\u00e7ou at\u00e9 o programa \u201cMangue de Pedras \u2014 Monumento natural\u201d. De acord... http://t.co/OUjP9HuD"
+        },
+        {
+            "author_id": "69904787",
+            "created_at": "2011-12-20T22:28:49.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "username": "botocarioca"
+                    }
+                ]
+            },
+            "id": "149254957357473793",
+            "in_reply_to_user_id": "128003920",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@botocarioca Monumento natural em B\u00fazios http://t.co/peqzG24r #bairros"
         }
     ],
     "errors": [
@@ -7208,21 +7148,16 @@
                 "full_name": "Teres\u00f3polis, Brasil",
                 "id": "2228665f02a6c9c8",
                 "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Recife, Brasil",
+                "id": "f207b85be9f1513e",
+                "place_type": "city"
             }
         ],
         "users": [
-            {
-                "id": "329198662",
-                "name": "Ara\u00fajo Valgueiro",
-                "username": "AraujoValgueiro",
-                "verified": false
-            },
-            {
-                "id": "235758014",
-                "name": "Beatriz Castro #VacinaJ\u00c1",
-                "username": "beatrizcastrope",
-                "verified": false
-            },
             {
                 "id": "35524446",
                 "name": "Portal EcoDebate",
@@ -7273,7 +7208,7 @@
             },
             {
                 "id": "166449135",
-                "name": "\u2022Nude.js\u2022",
+                "name": "\u2022Gitbug.me\u2022",
                 "username": "nerdeliciouss",
                 "verified": false
             },
@@ -8089,7 +8024,7 @@
             },
             {
                 "id": "81265518",
-                "name": "edu do vigor",
+                "name": "edu",
                 "username": "EduardoAllex",
                 "verified": false
             },
@@ -8179,8 +8114,8 @@
             },
             {
                 "id": "139703452",
-                "name": "Rio de Janeiro",
-                "username": "CidadedoRio",
+                "name": "YIDAL NFT MASKS",
+                "username": "yidalmask",
                 "verified": false
             },
             {
@@ -8562,12 +8497,6 @@
                 "verified": false
             },
             {
-                "id": "60942456",
-                "name": "Terra da Gente",
-                "username": "terradagente",
-                "verified": true
-            },
-            {
                 "id": "265012100",
                 "name": "DESATIVADO",
                 "username": "correajulianaa",
@@ -8754,6 +8683,12 @@
                 "verified": false
             },
             {
+                "id": "329198662",
+                "name": "Ara\u00fajo Valgueiro",
+                "username": "AraujoValgueiro",
+                "verified": false
+            },
+            {
                 "id": "258317594",
                 "name": "Wellington Cruz \uf8ff",
                 "username": "WL_Cruz",
@@ -8886,12 +8821,6 @@
                 "verified": false
             },
             {
-                "id": "167233391",
-                "name": "Volnei Freitas",
-                "username": "volnei_freitas",
-                "verified": false
-            },
-            {
                 "id": "51834513",
                 "name": "Anthony Garotinho",
                 "username": "blogdogarotinho",
@@ -8904,16 +8833,10 @@
                 "verified": true
             },
             {
-                "id": "33979512",
-                "name": "Alessandro Vital",
-                "username": "alessandrovital",
-                "verified": false
-            },
-            {
-                "id": "14077645",
-                "name": "@infoambiental \ud83d\udca7 #vacinaparatodos \ud83c\udfe1",
-                "username": "infoambiental",
-                "verified": false
+                "id": "60942456",
+                "name": "Terra da Gente",
+                "username": "terradagente",
+                "verified": true
             },
             {
                 "id": "36225186",
@@ -8994,24 +8917,6 @@
                 "verified": false
             },
             {
-                "id": "54790333",
-                "name": "Marden Diller",
-                "username": "TheMardenDiller",
-                "verified": false
-            },
-            {
-                "id": "50770596",
-                "name": "Amore",
-                "username": "dociile",
-                "verified": false
-            },
-            {
-                "id": "191280947",
-                "name": "Rock T\u00eanis",
-                "username": "rocktenis",
-                "verified": false
-            },
-            {
                 "id": "79297183",
                 "name": "ThisisChile.cl",
                 "username": "thisisChile",
@@ -9030,9 +8935,9 @@
                 "verified": false
             },
             {
-                "id": "487833518",
-                "name": "Nature",
-                "username": "nature",
+                "id": "15862891",
+                "name": "nature",
+                "username": "Nature",
                 "verified": true
             },
             {
@@ -9384,12 +9289,6 @@
                 "verified": false
             },
             {
-                "id": "369787581",
-                "name": "NewsDeutscher",
-                "username": "NewsDeutscher",
-                "verified": false
-            },
-            {
                 "id": "19988782",
                 "name": "GeovanaCartaxo",
                 "username": "geovanaMcartaxo",
@@ -9411,12 +9310,6 @@
                 "id": "131286287",
                 "name": "Carlos Minc",
                 "username": "minc_rj",
-                "verified": false
-            },
-            {
-                "id": "217466230",
-                "name": "Brasilien Urlaub",
-                "username": "urlaubbrasilien",
                 "verified": false
             },
             {
@@ -9625,7 +9518,7 @@
             },
             {
                 "id": "55350966",
-                "name": "Patricia Mar\u00e7on Chagas",
+                "name": "Patricia M Chagas \ud83d\ude37\ud83d\ude37\ud83d\ude37 #OButantanN\u00e3oPodeParar",
                 "username": "consumidoradv",
                 "verified": false
             },
@@ -9640,13 +9533,67 @@
                 "name": "Escapadelas",
                 "username": "escapadelascom",
                 "verified": false
+            },
+            {
+                "id": "91296428",
+                "name": "Ais Aisyah",
+                "username": "Aishaquille",
+                "verified": false
+            },
+            {
+                "id": "90678706",
+                "name": "Pablo G\u00e1lvez",
+                "username": "Galvez10",
+                "verified": false
+            },
+            {
+                "id": "213695361",
+                "name": "Eric Yokoyama",
+                "username": "ericyokoyama",
+                "verified": false
+            },
+            {
+                "id": "434266746",
+                "name": "AmigosMarBrava",
+                "username": "amigosmarbrava",
+                "verified": false
+            },
+            {
+                "id": "225088881",
+                "name": "FranciscodeOliveira",
+                "username": "junioroliv04",
+                "verified": false
+            },
+            {
+                "id": "275993054",
+                "name": "Pura Deli",
+                "username": "PuraDeli",
+                "verified": false
+            },
+            {
+                "id": "282600602",
+                "name": "Marcos Paulo",
+                "username": "MarcosPVencendo",
+                "verified": false
+            },
+            {
+                "id": "69904787",
+                "name": "boto do tiet\u00ea",
+                "username": "botodotiete",
+                "verified": false
+            },
+            {
+                "id": "128003920",
+                "name": "botocarioca",
+                "username": "botocarioca",
+                "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "153245192474992640",
-        "next_token": "1jzu9lk96gu5npvze9b4v19qwm6hsteli66bizbmylq5",
-        "oldest_id": "149445600901996544",
-        "result_count": 492
+        "newest_id": "153235808948723712",
+        "next_token": "1jzu9lk96gu5npvze9b4qs47639q874l8elarn5ca7b1",
+        "oldest_id": "149254957357473793",
+        "result_count": 491
     }
 }

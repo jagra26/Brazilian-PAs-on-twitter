@@ -1,1788 +1,6 @@
 {
     "data": [
         {
-            "author_id": "143632373",
-            "created_at": "2013-08-02T15:00:26.000Z",
-            "id": "363313346176491520",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "http://t.co/DT4dnyfzhU\n\nCarrera... http://t.co/bKcnTIzNij"
-        },
-        {
-            "author_id": "346712610",
-            "created_at": "2013-08-02T14:24:57.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 114,
-                        "start": 101,
-                        "username": "Portaliguacu"
-                    }
-                ]
-            },
-            "id": "363304417656700928",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Valor do ingresso do Parque Nacional do Igua\u00e7u ter\u00e1 aumento em setembro - http://t.co/gVDFooVDIY via @Portaliguacu"
-        },
-        {
-            "author_id": "46748708",
-            "created_at": "2013-08-02T14:19:10.000Z",
-            "id": "363302960358367232",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada a reparar dano causado por reportagem a Unidade de Conserva\u00e7\u00e3o \u2013 Epoch Times | Leia a diferen\u00e7a. http://t.co/eNkL6nETdX"
-        },
-        {
-            "author_id": "149352478",
-            "created_at": "2013-08-02T13:45:58.000Z",
-            "id": "363294606177222657",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o | Brasil de Fato http://t.co/yGkiRDD4f1"
-        },
-        {
-            "author_id": "40460716",
-            "created_at": "2013-08-02T13:19:00.000Z",
-            "id": "363287819655335936",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "S\u00e3o contra a cria\u00e7\u00e3o da Reserva Extrativista Marinha de Itaipu a FAPESCA, FEPERJ, Col\u00f4nias de Pescadores Z-7... http://t.co/pHYM0HtiVN"
-        },
-        {
-            "author_id": "339990733",
-            "created_at": "2013-08-02T13:17:48.000Z",
-            "id": "363287516939845632",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o. http://t.co/tJ1UWQCRQF"
-        },
-        {
-            "author_id": "68729247",
-            "created_at": "2013-08-02T13:17:48.000Z",
-            "id": "363287516163878912",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o. http://t.co/AlRugwraMn"
-        },
-        {
-            "author_id": "630663529",
-            "created_at": "2013-08-02T13:10:05.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -54.47919488,
-                        -25.61374444
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "91f818a4abfb1d4d"
-            },
-            "id": "363285577891717120",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "I'm at Parque Nacional do Igua\u00e7u (Foz do Igua\u00e7u, PR) w/ 2 others http://t.co/gSb7cx8sJA"
-        },
-        {
-            "author_id": "41117407",
-            "created_at": "2013-08-02T13:07:29.000Z",
-            "id": "363284920103211008",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o | Brasil de Fato http://t.co/5vQqwr8eHS"
-        },
-        {
-            "author_id": "34952919",
-            "created_at": "2013-08-02T13:05:20.000Z",
-            "id": "363284378924761088",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional do Igua\u00e7u reajusta valor do ingresso em setembro: 02/08/2013 - O ingresso para visitar o Parqu... http://t.co/gp8HHXr1H0"
-        },
-        {
-            "author_id": "90938654",
-            "created_at": "2013-08-02T12:58:56.000Z",
-            "id": "363282768442036224",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Bom dia!!!!!!!!!!!\n\nEm Parque Nacional de Yushan, Taiwan\n\nExcelente sexta-feira a todos! http://t.co/shrN6YFTTN"
-        },
-        {
-            "author_id": "243651141",
-            "created_at": "2013-08-02T12:52:20.000Z",
-            "id": "363281107321499648",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\"Say cheese\" Chitas sobem ao telhado do carro de safari no Parque Nacional Masai Mara, Qu\u00e9nia. Foto vencedora... http://t.co/fCBqq5Z7h8"
-        },
-        {
-            "author_id": "34952919",
-            "created_at": "2013-08-02T12:47:30.000Z",
-            "id": "363279892541997056",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "O ingresso do Parque Nacional do Igua\u00e7u ter\u00e1 reajuste de 21,21%, a partir de 20 de setembro de 2013.  http://t.co/2fZajO4UdF"
-        },
-        {
-            "author_id": "216121750",
-            "created_at": "2013-08-02T12:30:14.000Z",
-            "id": "363275546093817860",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "A equipe da \u00c1rea de Prote\u00e7\u00e3o Ambiental Marinha do Litoral Centro (APAMLC), gerenciada pelo Funda\u00e7\u00e3o Florestal,... http://t.co/c2huTMt1kw"
-        },
-        {
-            "author_id": "40406264",
-            "created_at": "2013-08-02T12:01:23.000Z",
-            "id": "363268285665517568",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Avan\u00e7o de atividades petrol\u00edferas amea\u00e7am animais em parque no Congo: Hipop\u00f3tamos que vivem no Parque Nacional... http://t.co/H7s5zxw7l6"
-        },
-        {
-            "author_id": "350971409",
-            "created_at": "2013-08-02T11:56:00.000Z",
-            "id": "363266931844853760",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Oportunidade - Pousada Pr\u00f3xima a \u00c1rea Protegida http://t.co/5FYc8FotG7"
-        },
-        {
-            "author_id": "350971409",
-            "created_at": "2013-08-02T11:52:43.000Z",
-            "id": "363266105433128960",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Casa Pr\u00f3xima a \u00c1rea Protegida - Excelente Pre\u00e7o http://t.co/wAYltFwtj1"
-        },
-        {
-            "author_id": "33727400",
-            "created_at": "2013-08-02T11:49:25.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -55.829474,
-                        -15.40581273
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "5187201f64c8b889"
-            },
-            "id": "363265275321655296",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Arvore tipica do  cerrado #instaphoto #instaday #FF #picoftheday #byme @ Parque Nacional de Chapada\u2026 http://t.co/togr5UCbH7"
-        },
-        {
-            "author_id": "130813634",
-            "created_at": "2013-08-02T11:49:22.000Z",
-            "id": "363265261819805697",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Tocantins: Rede Globo \u00e9 condenadas por promover rafting em esta\u00e7\u00e3o ecol\u00f3gica http://t.co/nlzYD4Fec0"
-        },
-        {
-            "author_id": "15206844",
-            "created_at": "2013-08-02T11:28:32.000Z",
-            "id": "363260021817479168",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o http://t.co/qQSUuOQG8v"
-        },
-        {
-            "author_id": "34036508",
-            "created_at": "2013-08-02T11:13:37.000Z",
-            "id": "363256267256512514",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena TV por mat\u00e9ria sem autoriza\u00e7\u00e3o em Unidade de Conserva\u00e7\u00e3o... http://t.co/UHOEZiv7Q7"
-        },
-        {
-            "author_id": "1339729844",
-            "created_at": "2013-08-02T10:30:04.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -41.158587,
-                        -11.551451
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "11035f685ace82b3"
-            },
-            "id": "363245308152537088",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "I'm at Monumento Natural Cachoeira do Ferro Doido (Morro do Chap\u00e9u, Bahia) http://t.co/CYie2nDwG0"
-        },
-        {
-            "author_id": "258746102",
-            "created_at": "2013-08-02T10:20:13.000Z",
-            "id": "363242827331141632",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/gxLiFxpQpP .J\u00e1 n\u00e3o basta os danos que ela causa pela tela da TV?"
-        },
-        {
-            "author_id": "123686780",
-            "created_at": "2013-08-02T09:58:39.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 127,
-                        "start": 118,
-                        "username": "RdGaucha"
-                    }
-                ]
-            },
-            "id": "363237400371134464",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "#Ga\u00fachaHoje Buscas ao desaparecido do Parque Nacional Aparados da Serra foram encerradas e jovem n\u00e3o foi localizado - @Rdgaucha"
-        },
-        {
-            "author_id": "378057420",
-            "created_at": "2013-08-02T09:38:02.000Z",
-            "id": "363232210230722560",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/eDQcahvXpL"
-        },
-        {
-            "author_id": "192230651",
-            "created_at": "2013-08-02T08:21:14.000Z",
-            "id": "363212884953661440",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\u201c\u00c1rea de prote\u00e7\u00e3o ambiental em Macap\u00e1 recebe mapeamento para garantir preserva\u00e7\u00e3o\u201d http://t.co/LTIyHFJPHD"
-        },
-        {
-            "author_id": "174901520",
-            "created_at": "2013-08-02T05:37:47.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 104,
-                        "start": 89,
-                        "username": "paduafernandes"
-                    }
-                ]
-            },
-            "id": "363171749405671425",
-            "in_reply_to_user_id": "70887911",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@rede_globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/JPaL42f0Dn via @paduafernandes"
-        },
-        {
-            "author_id": "1523815567",
-            "created_at": "2013-08-02T04:40:17.000Z",
-            "id": "363157281476988928",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o http://t.co/dv8Ilzscmy"
-        },
-        {
-            "author_id": "1163986992",
-            "created_at": "2013-08-02T04:31:52.000Z",
-            "id": "363155163785068544",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\"O eco\": TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o\n\nA Justi\u00e7a Federal de Tocantins condenou a... http://t.co/NvFHxudWvR"
-        },
-        {
-            "author_id": "64257256",
-            "created_at": "2013-08-02T04:30:50.000Z",
-            "id": "363154903968907264",
-            "public_metrics": {
-                "like_count": 2,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 6
-            },
-            "text": "Uso indevido de imagem - Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o http://t.co/f2hjOUMTSs da Reda\u00e7\u00e3o"
-        },
-        {
-            "author_id": "70887911",
-            "created_at": "2013-08-02T04:29:22.000Z",
-            "id": "363154532458446848",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 2
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/HpXU8r4bV3"
-        },
-        {
-            "author_id": "1478816869",
-            "created_at": "2013-08-02T04:14:29.000Z",
-            "id": "363150786189987841",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Conhe\u00e7a o Parque Nacional Aparados da Serra http://t.co/HVOly6uhvX"
-        },
-        {
-            "author_id": "288442321",
-            "created_at": "2013-08-02T03:19:41.000Z",
-            "id": "363136997298151424",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Est\u00e1 aberto o edital de licita\u00e7\u00e3o para concess\u00e3o da Floresta Nacional (Flona) do Crepori, situada no munic\u00edpio de... http://t.co/nvN2qnzn9l"
-        },
-        {
-            "author_id": "171653681",
-            "created_at": "2013-08-02T02:56:27.000Z",
-            "id": "363131150392229891",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Artibeus lituratus\n\nParque Nacional da Pedra Branca - RJ http://t.co/SP0uPSt8Rb"
-        },
-        {
-            "author_id": "128520019",
-            "created_at": "2013-08-02T02:46:06.000Z",
-            "id": "363128543615520769",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o | Brasil de Fato. #NaMoral http://t.co/ZttWJOX37Y"
-        },
-        {
-            "author_id": "258425435",
-            "created_at": "2013-08-02T02:17:53.000Z",
-            "id": "363121442432364544",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 4
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o http://t.co/tEZ8WVrX0n"
-        },
-        {
-            "author_id": "26480270",
-            "created_at": "2013-08-02T02:02:25.000Z",
-            "id": "363117551351775232",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "The Len\u00e7\u00f3is Maranhenses National Park (Parque Nacional dos Len\u00e7\u00f3is Maranhenses)  Maranh\u00e3o, Brazil http://t.co/mfdGelf2Po"
-        },
-        {
-            "author_id": "1944241",
-            "created_at": "2013-08-02T01:57:20.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 18,
-                        "start": 3,
-                        "username": "maristelarocha"
-                    },
-                    {
-                        "end": 93,
-                        "start": 83,
-                        "username": "lisduarte"
-                    }
-                ]
-            },
-            "id": "363116272369664000",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "RT @maristelarocha: TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o via @lisduarte http://t.co/mNGg8THFWR"
-        },
-        {
-            "author_id": "35637375",
-            "created_at": "2013-08-02T01:23:15.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 73,
-                        "start": 63,
-                        "username": "lisduarte"
-                    }
-                ]
-            },
-            "id": "363107695882018818",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o via @lisduarte http://t.co/tvkoZmwxr8"
-        },
-        {
-            "author_id": "480708008",
-            "created_at": "2013-08-02T01:02:00.000Z",
-            "id": "363102347590778881",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Fotos: Parque Nacional do Itatiaia, RJ, amanhace coberto de gelo http://t.co/KPxzrDUoFs"
-        },
-        {
-            "author_id": "22819562",
-            "created_at": "2013-08-02T00:39:35.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 17,
-                        "start": 1,
-                        "username": "revistaamazonia"
-                    }
-                ]
-            },
-            "id": "363096706705272832",
-            "in_reply_to_user_id": "192230651",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\u201c@revistaamazonia: \u201c\u00c1rea de prote\u00e7\u00e3o ambiental em Macap\u00e1 recebe mapeamento para garantir preserva\u00e7\u00e3o\u201d http://t.co/6AiV59aAFw\u201d"
-        },
-        {
-            "author_id": "22849805",
-            "created_at": "2013-08-02T00:38:01.000Z",
-            "id": "363096313740529665",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Globo \u00e9 condenada por reportagem em Unidade de Conserva\u00e7\u00e3o do Tocantins: \n\nA reportagem associa a imagem de u... http://t.co/7vxq0kYPbw"
-        },
-        {
-            "author_id": "192230651",
-            "created_at": "2013-08-02T00:32:19.000Z",
-            "id": "363094877917036544",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "text": "\u201c\u00c1rea de prote\u00e7\u00e3o ambiental em Macap\u00e1 recebe mapeamento para garantir preserva\u00e7\u00e3o\u201d http://t.co/LTIyHFJPHD"
-        },
-        {
-            "author_id": "121734786",
-            "created_at": "2013-08-02T00:32:14.000Z",
-            "id": "363094858073767936",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o http://t.co/omKzvDR8bL"
-        },
-        {
-            "author_id": "389236994",
-            "created_at": "2013-08-02T00:30:56.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 78,
-                        "start": 66,
-                        "username": "trip2gether"
-                    }
-                ]
-            },
-            "id": "363094530586718208",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Quer #viajar? Conhe\u00e7a Parque Nacional da Chapada dos Veadeiros no @trip2gether http://t.co/58obzsf18j"
-        },
-        {
-            "author_id": "487110460",
-            "created_at": "2013-08-02T00:25:23.000Z",
-            "id": "363093134831394818",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem PROIBIDA em Unidade de Conserva\u00e7\u00e3o http://t.co/KR4vhgovBX #GloboInvasora t\u00e1 achando que \u00e9 zona!"
-        },
-        {
-            "author_id": "1291871119",
-            "created_at": "2013-08-02T00:04:00.000Z",
-            "id": "363087750720782336",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o. http://t.co/zauvc3jmmz"
-        },
-        {
-            "author_id": "77526480",
-            "created_at": "2013-08-02T00:03:04.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 93,
-                        "start": 87,
-                        "username": "o_eco"
-                    }
-                ]
-            },
-            "id": "363087515751682049",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV #Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/YftfYljRw2 via @o_eco #Veja"
-        },
-        {
-            "author_id": "139530649",
-            "created_at": "2013-08-01T23:55:10.000Z",
-            "id": "363085529682018304",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Esta \u00e9\"nossa\"Imprensa tudo pela mat\u00e9ria ,em nome da liberdade de imprensa passa por cima at\u00e9 da lei, aqui acol\u00e1 perde http://t.co/3CuA9y5oWx"
-        },
-        {
-            "author_id": "134512804",
-            "created_at": "2013-08-01T23:34:01.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 69,
-                        "start": 63,
-                        "username": "o_eco"
-                    }
-                ]
-            },
-            "id": "363080206728175616",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o via @o_eco http://t.co/wQ9CDebN55"
-        },
-        {
-            "author_id": "74167636",
-            "created_at": "2013-08-01T23:31:13.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 92,
-                        "start": 86,
-                        "username": "o_eco"
-                    }
-                ]
-            },
-            "id": "363079499555946496",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/knIyzceUow via @o_eco"
-        },
-        {
-            "author_id": "15846225",
-            "created_at": "2013-08-01T23:10:44.000Z",
-            "id": "363074345263841281",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Aproveite a programa\u00e7\u00e3o de Turismo. Em setembro, Parque Nacional da Serra da Canastra. Inscri\u00e7\u00f5es abertas! http://t.co/CSEfGRf2wh"
-        },
-        {
-            "author_id": "98218364",
-            "created_at": "2013-08-01T23:08:22.000Z",
-            "id": "363073751052599296",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o  http://t.co/iD2UzNLrsP"
-        },
-        {
-            "author_id": "19593634",
-            "created_at": "2013-08-01T23:00:31.000Z",
-            "id": "363071774327451649",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 3
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o. http://t.co/TCqlxqlewV"
-        },
-        {
-            "author_id": "69014411",
-            "created_at": "2013-08-01T22:52:10.000Z",
-            "id": "363069672608260096",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o.\nhttp://t.co/aPaxGzyTXT http://t.co/U0w6wbymYw"
-        },
-        {
-            "author_id": "19593634",
-            "created_at": "2013-08-01T22:48:59.000Z",
-            "id": "363068874704433152",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 4
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o http://t.co/sOdBifDdy7"
-        },
-        {
-            "author_id": "1486390814",
-            "created_at": "2013-08-01T22:40:09.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 90,
-                        "start": 77,
-                        "username": "diarioonline"
-                    }
-                ]
-            },
-            "id": "363066650502766593",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Unidade de Conserva\u00e7\u00e3o de Crate\u00fas come\u00e7a a surgir http://t.co/LlsRdEkVl9 via @diarioonline"
-        },
-        {
-            "author_id": "211600217",
-            "created_at": "2013-08-01T22:35:45.000Z",
-            "id": "363065542644465665",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Rede Globo por mat\u00e9ria sem autoriza\u00e7\u00e3o em Unidade de Conserva\u00e7\u00e3o em Tocantins http://t.co/OvX407mzRu"
-        },
-        {
-            "author_id": "107229766",
-            "created_at": "2013-08-01T22:23:35.000Z",
-            "id": "363062479426818049",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o\nhttp://t.co/phNlm8268Z"
-        },
-        {
-            "author_id": "1560797137",
-            "created_at": "2013-08-01T22:19:24.000Z",
-            "id": "363061430141984769",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o\u2026 http://t.co/mjrNR3vD53"
-        },
-        {
-            "author_id": "1170421680",
-            "created_at": "2013-08-01T22:16:37.000Z",
-            "id": "363060729618120704",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Combate Racismo Ambiental \u00bb TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/ctnIfJyQEe"
-        },
-        {
-            "author_id": "173263155",
-            "created_at": "2013-08-01T22:07:37.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 122,
-                        "start": 110,
-                        "username": "comuniquese"
-                    }
-                ]
-            },
-            "id": "363058460872544256",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Show da poderosa! \"Globo \u00e9 condenada por #reportagem em unidade de conserva\u00e7ao\" | http://t.co/yr7QEIn0wl (via @comuniquese) #midiaFail"
-        },
-        {
-            "author_id": "192230651",
-            "created_at": "2013-08-01T22:04:18.000Z",
-            "id": "363057627434987520",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\u201cGlobo \u00e9 condenada por reportagem em Unidade de Conserva\u00e7\u00e3o do Tocantins\u201d http://t.co/Jhia2iRS53"
-        },
-        {
-            "author_id": "216385416",
-            "created_at": "2013-08-01T21:47:08.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 92,
-                        "start": 86,
-                        "username": "o_eco"
-                    }
-                ]
-            },
-            "id": "363053307800981504",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/5mnRPlIu8D via @o_eco"
-        },
-        {
-            "author_id": "359567741",
-            "created_at": "2013-08-01T21:36:50.000Z",
-            "id": "363050717617352704",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque nacional de ca\u00e7a (Catalu\u00f1a) Pirineos http://t.co/ib2IYiwOll"
-        },
-        {
-            "author_id": "245622537",
-            "created_at": "2013-08-01T21:31:59.000Z",
-            "id": "363049497149976576",
-            "in_reply_to_user_id": "64257256",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\u201c@Brasil_de_Fato: Uso indevido de imagem - Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o http://t.co/lRtSetxDVe da Reda\u00e7\u00e3o\u201d"
-        },
-        {
-            "author_id": "64257256",
-            "created_at": "2013-08-01T21:30:54.000Z",
-            "id": "363049221328343040",
-            "public_metrics": {
-                "like_count": 2,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 6
-            },
-            "text": "Uso indevido de imagem - Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o http://t.co/xxPraIMjEN da Reda\u00e7\u00e3o"
-        },
-        {
-            "author_id": "253281224",
-            "created_at": "2013-08-01T21:24:45.000Z",
-            "id": "363047676730171392",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque nacional landmannalaugar \u2013 sul da Isl\u00e2ndia http://t.co/7QCG7WEmyw"
-        },
-        {
-            "author_id": "48483839",
-            "created_at": "2013-08-01T21:24:31.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 140,
-                        "start": 126,
-                        "username": "MatheusSchuch"
-                    }
-                ]
-            },
-            "id": "363047614985408512",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Buscas a jovem desaparecido no s\u00e1bado no Parque Nacional Aparados da Serra, em Cambar\u00e1 Do Sul, foram finalizadas hoje informa @MatheusSchuch"
-        },
-        {
-            "author_id": "1128209838",
-            "created_at": "2013-08-01T21:15:09.000Z",
-            "id": "363045257857871873",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque nacional landmannalaugar - sul da Isl\u00e2ndia http://t.co/MTo21dxrII"
-        },
-        {
-            "author_id": "52539016",
-            "created_at": "2013-08-01T21:11:14.000Z",
-            "id": "363044273106587648",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Mais uma da #Globo. Desta vez por danos ecol\u00f3gicos. http://t.co/ApUoidWQ1y"
-        },
-        {
-            "author_id": "52539016",
-            "created_at": "2013-08-01T20:37:31.000Z",
-            "id": "363035789799600128",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "#Globo condenada por uso indevido da imagem Reportagem na Esta\u00e7\u00e3o Ecol\u00f3gica Tocantins foi realizada sem autoriza\u00e7\u00e3o http://t.co/5k9VUz9Kow"
-        },
-        {
-            "author_id": "632184568",
-            "created_at": "2013-08-01T20:32:08.000Z",
-            "id": "363034434812919808",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Estrada que amea\u00e7ava Parque Nacional do Igua\u00e7u pode ser reaberta http://t.co/twXfbTGyky"
-        },
-        {
-            "author_id": "1008787100",
-            "created_at": "2013-08-01T20:32:08.000Z",
-            "id": "363034434297430016",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "Combate Racismo Ambiental \u00bb TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/VoPkFei48e"
-        },
-        {
-            "author_id": "104514346",
-            "created_at": "2013-08-01T20:13:30.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -49.30121855,
-                        -16.61827562
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "23d81de6fe7594cb"
-            },
-            "id": "363029744255647745",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\ue41d @ Monumento Natural das Fal\u00e9sias de Beberibe - CE http://t.co/1aqaWtlUbh"
-        },
-        {
-            "author_id": "273513557",
-            "created_at": "2013-08-01T20:07:38.000Z",
-            "id": "363028267780939776",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/F2Nlbagoap"
-        },
-        {
-            "author_id": "216408752",
-            "created_at": "2013-08-01T19:34:16.000Z",
-            "id": "363019869576372224",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Curta a p\u00e1gina do Parque Estadual Serra do Intendente e saiba mais sobre esta unidade de conserva\u00e7\u00e3o estadual... http://t.co/JYArjTlZm4"
-        },
-        {
-            "author_id": "101448188",
-            "created_at": "2013-08-01T19:21:36.000Z",
-            "id": "363016682400268290",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Atualmente, a regi\u00e3o \u00e9 um parque nacional, mas naquela \u00e9poca era um lugar hostil."
-        },
-        {
-            "author_id": "389537510",
-            "created_at": "2013-08-01T19:13:58.000Z",
-            "id": "363014762981883904",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "MPF investiga processo de cria\u00e7\u00e3o de unidade de conserva\u00e7\u00e3o: ICMBio deve indicar em que estado se encontra pro... http://t.co/AJyDjpG9W7"
-        },
-        {
-            "author_id": "55936414",
-            "created_at": "2013-08-01T19:13:58.000Z",
-            "id": "363014761270620160",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "MPF investiga processo de cria\u00e7\u00e3o de unidade de conserva\u00e7\u00e3o: ICMBio deve indicar em que estado se encontra pro... http://t.co/0lY6yOOA7i"
-        },
-        {
-            "author_id": "160334148",
-            "created_at": "2013-08-01T19:10:51.000Z",
-            "id": "363013978361835521",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Folha Diferenciada: Globo \u00e9 condenada por reportagem em Unidade de Conserva\u00e7\u00e3o do Tocantins http://t.co/cNRJgrE3nw"
-        },
-        {
-            "author_id": "188860743",
-            "created_at": "2013-08-01T19:10:50.000Z",
-            "id": "363013971986497536",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "[TURISMO] Ingressos do Parque Nacional ficar\u00e3o mais caros a partir de Setembro: http://t.co/9ZknQceYav"
-        },
-        {
-            "author_id": "342909485",
-            "created_at": "2013-08-01T19:07:43.000Z",
-            "id": "363013190403096576",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Atualmente, a regi\u00e3o \u00e9 um parque nacional, mas naquela \u00e9poca era um lugar hostil."
-        },
-        {
-            "author_id": "462771738",
-            "created_at": "2013-08-01T18:59:48.000Z",
-            "id": "363011197953515521",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Erramos: Parque Nacional e a cidade de Cambar\u00e1 ficam no nordeste do Rio Grande do Sul http://t.co/YyuELpZTwd"
-        },
-        {
-            "author_id": "385380624",
-            "created_at": "2013-08-01T18:51:40.000Z",
-            "id": "363009150009094144",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Primeira turma do Curso de Capacita\u00e7\u00e3o do Receptivo Tur\u00edstico, ministrado em nossa Unidade de Conserva\u00e7\u00e3o pela... http://t.co/sp7uK15Z2I"
-        },
-        {
-            "author_id": "85402590",
-            "created_at": "2013-08-01T18:45:37.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 92,
-                        "start": 86,
-                        "username": "o_eco"
-                    }
-                ]
-            },
-            "id": "363007629796184065",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/b0EQc9VFBs via @o_eco"
-        },
-        {
-            "author_id": "163286303",
-            "created_at": "2013-08-01T18:38:29.000Z",
-            "id": "363005833883299840",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "UOL Not\u00edcias: Parque Nacional e a cidade de Cambar\u00e1 ficam no nordeste do RS: Diferentemente do\u2026 http://t.co/MgVvGj89Sd"
-        },
-        {
-            "author_id": "532489816",
-            "created_at": "2013-08-01T18:37:46.000Z",
-            "id": "363005652148301824",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "UOL : UOL Not\u00edcias: Parque Nacional e a cidade de Cambar\u00e1 ficam no nordeste do RS: Diferentemente ... http://t.co/cn65eYgI13 #XZNOTICIAS"
-        },
-        {
-            "author_id": "76022651",
-            "created_at": "2013-08-01T18:33:30.000Z",
-            "id": "363004578167390209",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em esta\u00e7\u00e3o ecol\u00f3gica de TO - Portal IMPRENSA http://t.co/begko2KBla"
-        },
-        {
-            "author_id": "57665732",
-            "created_at": "2013-08-01T18:30:05.000Z",
-            "id": "363003718301515776",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/fTeyIGyLmZ"
-        },
-        {
-            "author_id": "33190304",
-            "created_at": "2013-08-01T18:08:28.000Z",
-            "id": "362998278708658176",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque nacional do Rio abre trilha de 68 km\n\nO ICMBio (Instituto Chico Mendes de Conserva\u00e7\u00e3o da Biodiversidade)... http://t.co/5zAQVXQMKj"
-        },
-        {
-            "author_id": "577292822",
-            "created_at": "2013-08-01T18:06:36.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 69,
-                        "start": 63,
-                        "username": "o_eco"
-                    }
-                ]
-            },
-            "id": "362997808636231680",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o via @o_eco"
-        },
-        {
-            "author_id": "106865119",
-            "created_at": "2013-08-01T18:04:25.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 12,
-                        "start": 1,
-                        "username": "proffabiao"
-                    }
-                ]
-            },
-            "id": "362997259098533890",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "\"@proffabiao: praias desertas na Esta\u00e7\u00e3o Ecol\u00f3gica da Jur\u00e9ia repletas de res\u00edduos trazidos pela mar\u00e9, estou fazendo a rastreabilidade!\""
-        },
-        {
-            "author_id": "53968408",
-            "created_at": "2013-08-01T17:54:37.000Z",
-            "id": "362994792935878656",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Bonita a foto do helic\u00f3ptero da BM feita ontem no Parque Nacional Aparados da Serra, em Cambar\u00e1 do Sul. http://t.co/UW8wd8mZQz"
-        },
-        {
-            "author_id": "253034260",
-            "created_at": "2013-08-01T17:45:20.000Z",
-            "geo": {
-                "place_id": "5722ff20ba67083b"
-            },
-            "id": "362992458549837824",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "Justi\u00e7a condena TV por mat\u00e9ria sem autoriza\u00e7\u00e3o em unidade de conserva\u00e7\u00e3o. http://t.co/Z6HN072xJa"
-        },
-        {
-            "author_id": "152350865",
-            "created_at": "2013-08-01T17:28:01.000Z",
-            "id": "362988100911661056",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Que tal aproveitar a temporada e ir visitar o Parque Nacional Marinho Abrolhos? http://t.co/CXkHQ4sdjB"
-        },
-        {
-            "author_id": "57254597",
-            "created_at": "2013-08-01T16:36:15.000Z",
-            "id": "362975072534798337",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Sem autoriza\u00e7\u00e3o para entrar em unidade de conserva\u00e7\u00e3o e incentivando #rafting, Globo \u00e9 condenada no Tocantins http://t.co/e2lcoXxurN #Globo"
-        },
-        {
-            "author_id": "216097941",
-            "created_at": "2013-08-01T16:18:04.000Z",
-            "id": "362970496855314432",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "A Rppn Revecom PRECISA URGENTEMENTE DA SUA AJUDA..\n\nAo longo de toda a sua jornada, nunca a Revecom passou por... http://t.co/hVmRYb8HHy"
-        },
-        {
-            "author_id": "26026236",
-            "created_at": "2013-08-01T15:42:00.000Z",
-            "id": "362961419207053315",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "text": "Parque Nacional do Igua\u00e7u (@cataratas_sa) ir\u00e1 reajustar valor do ingresso em setembro - http://t.co/mQkKuNAzD3"
-        },
-        {
-            "author_id": "44417051",
-            "created_at": "2013-08-01T15:37:07.000Z",
-            "id": "362960189718134785",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "A gente se v\u00ea por aqui . . .  ehehehehehe http://t.co/foLPElHJkT"
-        },
-        {
-            "author_id": "34036508",
-            "created_at": "2013-08-01T15:24:34.000Z",
-            "id": "362957032967512065",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional mais antigo da \u00c1frica \u00e9 alvo de empresas de petr\u00f3leo. Ajude a impedir, assine a peti\u00e7\u00e3o:... http://t.co/1PaZmRjxsy"
-        },
-        {
-            "author_id": "1362520134",
-            "created_at": "2013-08-01T15:10:57.000Z",
-            "id": "362953603729727490",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional mais antigo da \u00c1frica \u00e9 alvo de empresas de petr\u00f3leo. Ajude a impedir, assine a peti\u00e7\u00e3o:... http://t.co/RvqgAz1wUu"
-        },
-        {
-            "author_id": "961039129",
-            "created_at": "2013-08-01T14:59:35.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -43.27374958,
-                        -22.96119189
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "97bcdfca1a2dca59"
-            },
-            "id": "362950742904025089",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "\ud83d\udc35\ud83d\udc35 @ Parque Nacional da Tijuca http://t.co/LZWEGMnLh2"
-        },
-        {
-            "author_id": "11160692",
-            "created_at": "2013-08-01T14:54:47.000Z",
-            "id": "362949537838534656",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 12
-            },
-            "text": "Parque Nacional mais antigo da \u00c1frica \u00e9 alvo de empresas de petr\u00f3leo. Ajude a impedir, assine a peti\u00e7\u00e3o: http://t.co/V81GN5ltap #SOSvirunga"
-        },
-        {
-            "author_id": "608131558",
-            "created_at": "2013-08-01T14:32:26.000Z",
-            "id": "362943913985716224",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "O Luau das Cataratas reuniu turistas e moradores da regi\u00e3o das Tr\u00eas Fronteiras, no Parque Nacional do Igua\u00e7u, na... http://t.co/zR4c4lEFL7"
-        },
-        {
-            "author_id": "324145736",
-            "created_at": "2013-08-01T14:04:34.000Z",
-            "id": "362936898865479680",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "DIA 30 DE AGOSTO A 01 DE SETEMBRO!! (RESTAM 7 VAGAS)\n\nA Mar de Bem vai te levar para o Parque Nacional do... http://t.co/z92n3r178f"
-        },
-        {
-            "author_id": "44699814",
-            "created_at": "2013-08-01T13:58:51.000Z",
-            "id": "362935462240849922",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Mingau de A\u00e7o: JUSTI\u00c7A CONDENA A GLOBO POR REPORTAGEM EM UNIDADE DE CONSERVA\u00c7\u00c3O http://t.co/2iDTMk9KaA"
-        },
-        {
-            "author_id": "42727412",
-            "created_at": "2013-08-01T13:56:19.000Z",
-            "id": "362934823129579521",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Emissora veiculou mat\u00e9ria sobre esporte radical na Esta\u00e7\u00e3o Ecol\u00f3gica Serra Geral do Tocantins, mesmo com... http://t.co/ChCTaKYa5Y"
-        },
-        {
-            "author_id": "83294591",
-            "created_at": "2013-08-01T13:54:04.000Z",
-            "id": "362934256898547712",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o -... http://t.co/VVdltRzdWR"
-        },
-        {
-            "author_id": "59476909",
-            "created_at": "2013-08-01T13:46:58.000Z",
-            "id": "362932471236534273",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Come\u00e7amos o dia com esta linda imagem do Po\u00e7o Encantado, Chapada Diamantina, Parque Nacional na Bahia. \n\nLindo... http://t.co/XYst4fNuwo"
-        },
-        {
-            "author_id": "1616337548",
-            "created_at": "2013-08-01T13:15:05.000Z",
-            "id": "362924446450843648",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/2ijKcjQ8BP"
-        },
-        {
-            "author_id": "25324361",
-            "created_at": "2013-08-01T13:09:37.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 9,
-                        "start": 0,
-                        "username": "eCycleBr"
-                    }
-                ]
-            },
-            "id": "362923071608332290",
-            "in_reply_to_user_id": "106865119",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@eCycleBr praias desertas na Esta\u00e7\u00e3o Ecol\u00f3gica da Jur\u00e9ia repletas de res\u00edduos trazidos pela mar\u00e9, estou fazendo a rastreabilidade!"
-        },
-        {
-            "author_id": "108678868",
-            "created_at": "2013-08-01T12:59:51.000Z",
-            "id": "362920614467616768",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Viagem indicada para o m\u00eas de agosto:  Parque Nacional Manu - Peru\n\nVoc\u00ea precisa de no m\u00ednimo tr\u00eas noites em... http://t.co/w67MZYZlQL"
-        },
-        {
-            "author_id": "224059677",
-            "created_at": "2013-08-01T12:40:56.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 92,
-                        "start": 86,
-                        "username": "o_eco"
-                    }
-                ]
-            },
-            "id": "362915853001433089",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o http://t.co/DU0SujH4bv via @o_eco"
-        },
-        {
-            "author_id": "166533490",
-            "created_at": "2013-08-01T12:39:12.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -54.47919488,
-                        -25.61374444
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "91f818a4abfb1d4d"
-            },
-            "id": "362915414130429953",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "I'm at Parque Nacional do Igua\u00e7u (Foz do Igua\u00e7u, PR) http://t.co/7ml78plABO"
-        },
-        {
-            "author_id": "340647596",
-            "created_at": "2013-08-01T12:36:52.000Z",
-            "id": "362914830618861570",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Ecoturismo: \"Justi\u00e7a condena Globo por reportagem em esta\u00e7\u00e3o ecol\u00f3gica de TO\".... http://t.co/Ece7x0FKxE"
-        },
-        {
-            "author_id": "111633513",
-            "created_at": "2013-08-01T12:33:12.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 69,
-                        "start": 63,
-                        "username": "o_eco"
-                    }
-                ]
-            },
-            "id": "362913906756300803",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o via @o_eco"
-        },
-        {
-            "author_id": "1143688086",
-            "created_at": "2013-08-01T12:25:09.000Z",
-            "id": "362911881754722306",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Idol Rock: incr\u00edvel monumento natural de pedra que se equilibra sobre pequena sali\u00eancia http://t.co/Ny9coOrTGx"
-        },
-        {
-            "author_id": "1143688086",
-            "created_at": "2013-08-01T12:25:03.000Z",
-            "id": "362911855901028352",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Idol Rock: incr\u00edvel monumento natural! http://t.co/TfqITjvQlg"
-        },
-        {
-            "author_id": "246340442",
-            "created_at": "2013-08-01T12:23:15.000Z",
-            "id": "362911400995192833",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Trilha do Rio do Boi - Interior do Canyon Itaimbezinho - Parque Nacional Aparados da Serra http://t.co/9lDBvMT78q"
-        },
-        {
-            "author_id": "832070143",
-            "created_at": "2013-08-01T12:10:36.000Z",
-            "id": "362908220420931584",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parques Parque Nacional dos Len\u00e7\u00f3is Maranhenses - S\u00e3o Luis - Guia da Semana #passeio http://t.co/TlIz5O2b0q #BuscaCult"
-        },
-        {
-            "author_id": "1623653504",
-            "created_at": "2013-08-01T12:08:20.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 124,
-                        "start": 109,
-                        "username": "portalvermelho"
-                    }
-                ]
-            },
-            "id": "362907646912761856",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Justi\u00e7a condena Globo por reportagem em Unidade de Conserva\u00e7\u00e3o - Portal Vermelho: http://t.co/tliNMm1WYd via @portalvermelho"
-        },
-        {
-            "author_id": "101625090",
-            "created_at": "2013-08-01T12:04:06.000Z",
-            "id": "362906581131726848",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Idol Rock: incr\u00edvel monumento natural de pedra que se equilibra sobre pequena sali\u00eancia http://t.co/0pNTKuGhlr"
-        },
-        {
-            "author_id": "174557684",
-            "created_at": "2013-08-01T11:44:07.000Z",
-            "id": "362901551729225729",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "TV Globo \u00e9 condenada por mat\u00e9ria em Unidade de Conserva\u00e7\u00e3o: \nA Justi\u00e7a Federal de Tocantins condenou a TV Glob... http://t.co/qAlZLNyPEX"
-        },
-        {
-            "author_id": "63594548",
-            "created_at": "2013-08-01T11:21:39.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 39,
-                        "start": 29,
-                        "username": "eciavatta"
-                    }
-                ]
-            },
-            "id": "362895900189794305",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Wou q foto linda mestre!  RT @eciavatta 59m  \u2600 BOM DIA \u2600 Chapada do Araripe - CE @ Floresta Nacional do Araripe http://t.co/smMKVXqe88"
-        },
-        {
-            "author_id": "339998504",
-            "created_at": "2013-08-01T11:21:22.000Z",
-            "id": "362895829331218433",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "via O ECO... http://t.co/NUgPmJP3eG"
-        },
-        {
             "author_id": "25324361",
             "created_at": "2013-08-01T11:16:09.000Z",
             "entities": {
@@ -2650,18 +868,6 @@
             "text": "#MEIO_AMBIENTE | #TVGlobo \u00e9 condenada a reparar dano causado por reportagem a Unidade de Conserva\u00e7\u00e3o .: #Jalap\u00e3o | http://t.co/dy0kQhiBdW"
         },
         {
-            "author_id": "70404821",
-            "created_at": "2013-07-31T18:58:59.000Z",
-            "id": "362648603845591040",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Parque Nacional durante a semana \u00e9 muito bom. #instagay #friends #natureza #piscina #niceday #instaboy http://t.co/LZx0Ofqd2G"
-        },
-        {
             "author_id": "26169532",
             "created_at": "2013-07-31T18:51:26.000Z",
             "id": "362646704945762306",
@@ -2730,18 +936,6 @@
                 "retweet_count": 0
             },
             "text": "Globo \u00e9 condenada por gravar em esta\u00e7\u00e3o ecol\u00f3gica sem autoriza\u00e7\u00e3o.http://t.co/PvPpdmICM8 http://t.co/migCkcwSi9"
-        },
-        {
-            "author_id": "70404821",
-            "created_at": "2013-07-31T18:29:37.000Z",
-            "id": "362641211707756544",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "S\u00f3 no Parque Nacional vemos cenas lindas assim. #instagay #natureza #beleza #piscina #BeloDia #friends http://t.co/QCwbtg7KBI"
         },
         {
             "author_id": "380620633",
@@ -3013,28 +1207,6 @@
                 "retweet_count": 1
             },
             "text": "Globo \u00e9 condenada por reportagem em Unidade de Conserva\u00e7\u00e3o do Tocantins http://t.co/8vAC4KwHQ1 via @CicloVivo"
-        },
-        {
-            "author_id": "70404821",
-            "created_at": "2013-07-31T14:56:44.000Z",
-            "geo": {
-                "coordinates": {
-                    "coordinates": [
-                        -47.9238224,
-                        -15.73806664
-                    ],
-                    "type": "Point"
-                },
-                "place_id": "5722ff20ba67083b"
-            },
-            "id": "362587638248665088",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Vamos cair na piscina? (@ Parque Nacional de Bras\u00edlia) http://t.co/dCsRQeuypP"
         },
         {
             "author_id": "48475842",
@@ -5694,30 +3866,6 @@
         },
         {
             "author_id": "1475781127",
-            "created_at": "2013-07-29T14:57:45.000Z",
-            "id": "361863117652758530",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "APA E RPPN n\u00e3o tem \u00e1rea de amortecimento."
-        },
-        {
-            "author_id": "1475781127",
-            "created_at": "2013-07-29T14:54:38.000Z",
-            "id": "361862336178425857",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Unidade Conserva\u00e7\u00e3o uso sustent\u00e1vel.\nPoss\u00edvel utiliza\u00e7\u00e3o direta. S\u00e3o 7. APA- ARIE-FLORESTA NACIONALRESERVA EXTRATIVISTA reseva da fa\u00fana RPPN"
-        },
-        {
-            "author_id": "1475781127",
             "created_at": "2013-07-29T14:51:01.000Z",
             "id": "361861425091719168",
             "public_metrics": {
@@ -6465,18 +4613,6 @@
             "text": "Parque Nacional da Gorongosa: \u201cO homem sonha, a obra nasce\u201d - O Parque Nacional da Gorongosa, no... http://t.co/4GmURMXzzQ"
         },
         {
-            "author_id": "150642643",
-            "created_at": "2013-07-28T01:29:59.000Z",
-            "id": "361297451950411777",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Que tal curtir essa paisagem durante a IV Festa da Flor &amp; Caf\u00e9 de Bom Jardim/RJ... Venha curtir e conhecer a RPPN... http://t.co/1g5IHpMFt1"
-        },
-        {
             "author_id": "319051735",
             "created_at": "2013-07-28T01:14:17.000Z",
             "id": "361293499456425985",
@@ -6822,6 +4958,1666 @@
                 "retweet_count": 1
             },
             "text": "Temperatura atinge - 6,9 \u00b0C no Parque Nacional do Itatiaia, RJ http://t.co/e4CHpK8z99"
+        },
+        {
+            "author_id": "962479274",
+            "created_at": "2013-07-27T16:58:28.000Z",
+            "id": "361168723878494212",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "http://t.co/Jq8affJztV - Deputadas dos EUA apresentam plano para parque nacional na Lua"
+        },
+        {
+            "author_id": "146896116",
+            "created_at": "2013-07-27T16:56:02.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 7,
+                        "start": 1,
+                        "username": "g1rio"
+                    }
+                ]
+            },
+            "id": "361168109316481025",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\"@g1rio: Temperatura atinge - 6,9 \u00b0C no Parque Nacional do Itatiaia, RJ http://t.co/5ep1ke4Pab\""
+        },
+        {
+            "author_id": "31511871",
+            "created_at": "2013-07-27T16:50:09.000Z",
+            "id": "361166630715269120",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "text": "Temperatura atinge - 6,9 \u00b0C no Parque Nacional do Itatiaia, RJ http://t.co/g26ft1Py6f"
+        },
+        {
+            "author_id": "1109764189",
+            "created_at": "2013-07-27T15:43:17.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 44,
+                        "start": 30,
+                        "username": "daniambiental"
+                    }
+                ]
+            },
+            "id": "361149803104698371",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Artigo de Daniele R. Barbosa [@daniambiental]\n\"ARIE Florestada Cicuta (RJ): unidade de conserva\u00e7\u00e3o p\u00fablica ou... http://t.co/Lo1735OMu5"
+        },
+        {
+            "author_id": "47549698",
+            "created_at": "2013-07-27T15:33:57.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "start": 1,
+                        "username": "iCatracho"
+                    }
+                ]
+            },
+            "id": "361147452394446850",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u201c@iCatracho: PARQUE NACIONAL CUSUCO\u2026https://t.co/SWVKmI9XRO\u201d"
+        },
+        {
+            "author_id": "47549698",
+            "created_at": "2013-07-27T15:21:36.000Z",
+            "id": "361144347930005504",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "PARQUE NACIONAL CUSUCO\u2026https://t.co/SWVKmI9XRO"
+        },
+        {
+            "author_id": "17718003",
+            "created_at": "2013-07-27T15:10:42.000Z",
+            "id": "361141604964249600",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "Conhe\u00e7a o Parque Nacional da Chapada Diamantina, localizado na Bahia &gt; http://t.co/FgcI77fova"
+        },
+        {
+            "author_id": "941687935",
+            "created_at": "2013-07-27T15:07:30.000Z",
+            "id": "361140799448162304",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "[foto do dia] O Parque Nacional do Archipi\u00e9lago de Cabrera, um bate-volta a partir da ilha de #Mallorca https://t.co/Qun7mM6A4q"
+        },
+        {
+            "author_id": "1041052776",
+            "created_at": "2013-07-27T13:48:43.000Z",
+            "id": "361120971593232384",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Eucalipto j\u00e1 se tornou a primeira esp\u00e9cie da floresta nacional http://t.co/3IHf0rbIsh"
+        },
+        {
+            "author_id": "219696253",
+            "created_at": "2013-07-27T13:46:28.000Z",
+            "id": "361120405685149698",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Vamos pro Parque Nacional de Itatiaia ::::::: fotos \u2661"
+        },
+        {
+            "author_id": "243651141",
+            "created_at": "2013-07-27T13:10:27.000Z",
+            "id": "361111342834393089",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Gorongosa, Sofala, Mo\u00e7ambique. Reservas: reservations@muhimbiafrica.com http://t.co/shdtLdfQxp"
+        },
+        {
+            "author_id": "194569651",
+            "created_at": "2013-07-27T12:44:41.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 91,
+                        "start": 80,
+                        "username": "O_Presente"
+                    }
+                ]
+            },
+            "id": "361104856691388416",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "18 on\u00e7as correm risco no Parque Nacional do Igua\u00e7u - http://t.co/45g8kRNurm via @o_presente"
+        },
+        {
+            "author_id": "42985931",
+            "created_at": "2013-07-27T12:15:28.000Z",
+            "id": "361097505695481856",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "Obra em Guaratiba teria beneficiado empres\u00e1rios e prejudicado a reserva biol\u00f3gica de Guaratiba http://t.co/ZgQxPQyUwP"
+        },
+        {
+            "author_id": "14925838",
+            "created_at": "2013-07-27T12:15:28.000Z",
+            "id": "361097504089051137",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Obra em Guaratiba teria beneficiado empres\u00e1rios e prejudicado a reserva biol\u00f3gica de Guaratiba http://t.co/GA2TtZDA3P"
+        },
+        {
+            "author_id": "136750907",
+            "created_at": "2013-07-27T11:51:08.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "username": "minc_rj"
+                    }
+                ]
+            },
+            "id": "361091381747384321",
+            "in_reply_to_user_id": "131286287",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@minc_rj curto muito seu trabalho, mas... \u00c1rea de prote\u00e7\u00e3o ambiental,  aterrada com dinheiro publico,  propriedade do sogro do governador."
+        },
+        {
+            "author_id": "543096807",
+            "created_at": "2013-07-27T10:40:01.000Z",
+            "id": "361073484186656768",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "J\u00e1 ouviu falar no Vietn\u00e3? \u00c9 nesse pa\u00eds, no Parque Nacional Phong Nha-Ke Bang, que est\u00e1 localizada a maior boca de... http://t.co/478Y3tjjnk"
+        },
+        {
+            "author_id": "1326794737",
+            "created_at": "2013-07-27T10:01:11.000Z",
+            "id": "361063712607567872",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque nacional Erawan, Tail\u00e2ndia http://t.co/tiF66iOE2o"
+        },
+        {
+            "author_id": "832070143",
+            "created_at": "2013-07-27T08:10:44.000Z",
+            "id": "361035914727784448",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parques Parque Nacional dos Len\u00e7\u00f3is Maranhenses - S\u00e3o Luis - Guia da Semana #feira http://t.co/TlIz5O2b0q #BuscaCult"
+        },
+        {
+            "author_id": "52259942",
+            "created_at": "2013-07-27T08:01:16.000Z",
+            "id": "361033532782542848",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "No Parque Nacional do Itatiaia j\u00e1 est\u00e1 -6,2\u00b0C, \u00e9 o frio chegando a Mantiqueira!"
+        },
+        {
+            "author_id": "832070143",
+            "created_at": "2013-07-27T06:10:40.000Z",
+            "id": "361005699515428865",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parques Parque Nacional De Bras\u00edlia - \u00c1gua Mineral - Bras\u00edlia - Guia da Semana #passeio http://t.co/mLasdgOppI #BuscaCult"
+        },
+        {
+            "author_id": "106962007",
+            "created_at": "2013-07-27T04:34:02.000Z",
+            "id": "360981380483661824",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Espero que n\u00e3o. http://t.co/ZB82JfSC4J"
+        },
+        {
+            "author_id": "957537865",
+            "created_at": "2013-07-27T04:33:17.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 61,
+                        "start": 49,
+                        "username": "Tripdaareia"
+                    }
+                ]
+            },
+            "id": "360981192729833474",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Parque Nacional dos Len\u00e7\u00f3is Maranhenses - @tripdaareia (Barreirinhas, MA) http://t.co/SzfqsMQQTX"
+        },
+        {
+            "author_id": "115861320",
+            "created_at": "2013-07-27T02:26:26.000Z",
+            "id": "360949267084488706",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acabou de publicar uma foto @ Parque Nacional da Tijuca http://t.co/xv5QBuPSzV"
+        },
+        {
+            "author_id": "901216753",
+            "created_at": "2013-07-27T01:36:29.000Z",
+            "id": "360936700509290496",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "!!! #setecidades @ parque nacional de sete cidades http://t.co/V30OEzMDBY"
+        },
+        {
+            "author_id": "100140904",
+            "created_at": "2013-07-27T00:27:06.000Z",
+            "id": "360919239177150464",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Itatiaia http://t.co/B32UfiNYOG"
+        },
+        {
+            "author_id": "998047364",
+            "created_at": "2013-07-26T23:37:37.000Z",
+            "id": "360906786468933633",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional Natural Tayrona, para\u00edso terrenal!!!"
+        },
+        {
+            "author_id": "42996423",
+            "created_at": "2013-07-26T22:49:03.000Z",
+            "id": "360894561142317056",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "My friend cahh_moraes @ Parque Nacional dos Len\u00e7\u00f3is Maranhenses http://t.co/yqfBDyU5BZ"
+        },
+        {
+            "author_id": "42996423",
+            "created_at": "2013-07-26T22:40:03.000Z",
+            "id": "360892297157672961",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Len\u00e7\u00f3is Maranhense @ Parque Nacional dos Len\u00e7\u00f3is Maranhenses http://t.co/QC7KGWNAzD"
+        },
+        {
+            "author_id": "127215997",
+            "created_at": "2013-07-26T22:37:00.000Z",
+            "id": "360891528673112064",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Salve!! Visita ao Parque Viru\u00e1 - Alunos do projeto Olhar Brasileiro... @ Parque Nacional Viru\u00e1 -\u2026 http://t.co/LrsEbl2fWJ"
+        },
+        {
+            "author_id": "48403618",
+            "created_at": "2013-07-26T22:14:22.000Z",
+            "id": "360885833252868096",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Descobri que n\u00e3o \u00e9 aberta pra visita\u00e7\u00e3o a floresta nacional."
+        },
+        {
+            "author_id": "62421849",
+            "created_at": "2013-07-26T22:05:00.000Z",
+            "id": "360883478943903744",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Que dia hein! Passamos o dia todo no parque nacional da argentina e to cansadona! Ainda vamos no passeio da Lua agora a noite"
+        },
+        {
+            "author_id": "325070774",
+            "created_at": "2013-07-26T22:01:28.000Z",
+            "id": "360882586391814144",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acabou de publicar uma foto @ Parque Nacional da Tijuca http://t.co/gor6bB9di6"
+        },
+        {
+            "author_id": "325070774",
+            "created_at": "2013-07-26T22:00:55.000Z",
+            "id": "360882447929442305",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acabou de publicar uma foto @ Parque Nacional da Tijuca http://t.co/F14D8yQJn8"
+        },
+        {
+            "author_id": "325070774",
+            "created_at": "2013-07-26T21:46:55.000Z",
+            "id": "360878927130009602",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acabou de publicar uma foto @ Parque Nacional da Tijuca http://t.co/jOPgB79iQn"
+        },
+        {
+            "author_id": "128865646",
+            "created_at": "2013-07-26T20:56:52.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "username": "LeilaBarreto"
+                    }
+                ]
+            },
+            "id": "360866331421179904",
+            "in_reply_to_user_id": "38838634",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@LeilaBarreto vai sim q vale a pena (se puder, conhe\u00e7a o Parque Nacional da Serra dos \u00d3rg\u00e3os, mas num dia de sol). Bj"
+        },
+        {
+            "author_id": "1607228462",
+            "created_at": "2013-07-26T19:11:17.000Z",
+            "id": "360839760744415232",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Taa , l\u00e1 no Parque Nacional , que numero mesmo do seu celular ?\n (@clubofmiley live on http://t.co/4bkrOEUvt6)"
+        },
+        {
+            "author_id": "20535681",
+            "created_at": "2013-07-26T18:03:49.000Z",
+            "id": "360822779941109762",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "12 graus!!! Os sons desse local maravilhoso ainda est\u00e3o na minha mente \u2764 Parque Nacional Alto Capara\u00f3\u2026 http://t.co/fayWie6jiq"
+        },
+        {
+            "author_id": "1091052276",
+            "created_at": "2013-07-26T18:03:30.000Z",
+            "id": "360822703197917184",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Blog Post: Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u - http://t.co/ducKiwb839"
+        },
+        {
+            "author_id": "376400979",
+            "created_at": "2013-07-26T18:02:17.000Z",
+            "id": "360822396833374210",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u http://t.co/4Nocbo5jLv"
+        },
+        {
+            "author_id": "1115611165",
+            "created_at": "2013-07-26T17:50:10.000Z",
+            "id": "360819347855388672",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Ponto-tur\u00edstico da #Austr\u00e1lia da semana \u2013 Explore o Parque Nacional Kakadu. http://t.co/a0wDwlUriF"
+        },
+        {
+            "author_id": "211404036",
+            "created_at": "2013-07-26T17:46:57.000Z",
+            "id": "360818537230643202",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Ponto-tur\u00edstico da Semana \u2013 Parque Nacional Kakadu\n\nO Parque Nacional Kakadu localiza-se a 171 km leste da... http://t.co/WhRdKjuTZY"
+        },
+        {
+            "author_id": "15050285",
+            "created_at": "2013-07-26T17:37:55.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 78,
+                        "start": 68,
+                        "username": "feitosaka"
+                    }
+                ]
+            },
+            "id": "360816265322962944",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Nao me canso deste lugar! (@ Parque Nacional da Serra dos \u00d3rg\u00e3os w/ @feitosaka) [pic]: http://t.co/BteSEFl7Ph"
+        },
+        {
+            "author_id": "69014411",
+            "created_at": "2013-07-26T17:06:13.000Z",
+            "id": "360808286884331520",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "O Parque Nacional do Igua\u00e7u e a Estrada do Colono. Entrevista especial com Apolonio Rodrigues.... http://t.co/T0XoqEDj1v"
+        },
+        {
+            "author_id": "198605630",
+            "created_at": "2013-07-26T17:01:35.000Z",
+            "id": "360807121266294785",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Manacapuru sai na frente com a primeira unidade de conserva\u00e7\u00e3o do pa\u00eds (Legado de Angelus... http://t.co/0KTpSMUz8P"
+        },
+        {
+            "author_id": "190905382",
+            "created_at": "2013-07-26T16:34:40.000Z",
+            "id": "360800344923578368",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u http://t.co/6KD28ioqqI"
+        },
+        {
+            "author_id": "279314726",
+            "created_at": "2013-07-26T16:23:42.000Z",
+            "id": "360797588137574400",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u http://t.co/eBQ5OnSkMw"
+        },
+        {
+            "author_id": "231280267",
+            "created_at": "2013-07-26T16:22:37.000Z",
+            "id": "360797311686819842",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u http://t.co/7BnpXskYDz"
+        },
+        {
+            "author_id": "248693492",
+            "created_at": "2013-07-26T16:21:08.000Z",
+            "id": "360796940906135553",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u http://t.co/JbNnQrEhJK"
+        },
+        {
+            "author_id": "92891035",
+            "created_at": "2013-07-26T16:21:05.000Z",
+            "id": "360796929401163777",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u: Material foi apreendido em uma propriedad... http://t.co/wHHwBvyBIY"
+        },
+        {
+            "author_id": "469652471",
+            "created_at": "2013-07-26T16:21:05.000Z",
+            "id": "360796927014600704",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u: Material foi apreendido em uma propriedad... http://t.co/uJT1ZQOQPK"
+        },
+        {
+            "author_id": "871949941",
+            "created_at": "2013-07-26T16:21:04.000Z",
+            "id": "360796924762271744",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u: Material foi apreendido em uma propriedad... http://t.co/NE6kvcB52D"
+        },
+        {
+            "author_id": "111342203",
+            "created_at": "2013-07-26T16:21:04.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 136,
+                        "start": 133,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "360796922417659904",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#joamarda: Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u: Material foi apreendid... http://t.co/8PPlBj8NMF via @g1"
+        },
+        {
+            "author_id": "1465160659",
+            "created_at": "2013-07-26T16:21:03.000Z",
+            "id": "360796920534405120",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u: Material foi apreendido em uma propriedad... http://t.co/5A1XDF3sJF"
+        },
+        {
+            "author_id": "327593533",
+            "created_at": "2013-07-26T16:20:59.000Z",
+            "id": "360796903358730240",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u: Material foi apreendido em uma propriedad... http://t.co/TgCdKRxhaE"
+        },
+        {
+            "author_id": "384490339",
+            "created_at": "2013-07-26T16:20:58.000Z",
+            "id": "360796898099068929",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "[oglobonot\u00edcias] Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u: Material foi apr... http://t.co/q5rYt62M68 #brasil"
+        },
+        {
+            "author_id": "106829092",
+            "created_at": "2013-07-26T16:20:46.000Z",
+            "id": "360796848732110849",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Material foi apreendido em uma propriedade rural vizinha \u00e0 reserva.\nCaseiro foi detido durante patrulhamento n... http://t.co/3DO62lrQN8"
+        },
+        {
+            "author_id": "1252114290",
+            "created_at": "2013-07-26T16:17:11.000Z",
+            "id": "360795945715249153",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pol\u00edcia apreende armas e carne de ca\u00e7a do Parque Nacional do Igua\u00e7u http://t.co/skDQt4NS2b"
+        },
+        {
+            "author_id": "39296585",
+            "created_at": "2013-07-26T15:16:23.000Z",
+            "id": "360780646416777216",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parte alta do Parque Nacional de Itatiaia ontem pela manh\u00e3. http://t.co/QERKTKvWq6"
+        },
+        {
+            "author_id": "216408752",
+            "created_at": "2013-07-26T14:42:22.000Z",
+            "id": "360772086630854656",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Veja a composi\u00e7\u00e3o do Conselho Consultivo do Parque Nacional da Serra do Cip\u00f3 - CONCIP\u00d3: http://t.co/7EYt20jz5n"
+        },
+        {
+            "author_id": "840636330",
+            "created_at": "2013-07-26T14:36:17.000Z",
+            "id": "360770554745196545",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Problemas na opera\u00e7\u00e3o tur\u00edstica do Parque Nacional continuam sem solu\u00e7\u00e3o | Gazeta Igua\u00e7u http://t.co/Bvzs6JK4D5"
+        },
+        {
+            "author_id": "69003533",
+            "created_at": "2013-07-26T13:43:19.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 120,
+                        "start": 112,
+                        "username": "YouTube"
+                    }
+                ]
+            },
+            "id": "360757222327857154",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fot\u00f3grafo registra imagens de um Lobo Guar\u00e1 na Esta\u00e7\u00e3o Ecol\u00f3gica de \u00c1guas Emendadas: http://t.co/s2OhfSm4MU via @YouTube"
+        },
+        {
+            "author_id": "501926819",
+            "created_at": "2013-07-26T13:23:02.000Z",
+            "id": "360752120124817408",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Publiquei 28 fotos no Facebook no \u00e1lbum \"MATA , CACHOEIRA PARQUE NACIONAL DOS ORIX\u00c1S\" http://t.co/OT89yUFxzI"
+        },
+        {
+            "author_id": "26009717",
+            "created_at": "2013-07-26T13:19:37.000Z",
+            "id": "360751258958692352",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "contagem regressiva, aguardando confirma\u00e7\u00e3o de reserva no Parque Nacional da Serra do Cip\u00f3 .... am\u00e9m.... http://t.co/6c9KmB1zj9"
+        },
+        {
+            "author_id": "255515628",
+            "created_at": "2013-07-26T13:11:18.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "username": "bandnewsfmrio"
+                    }
+                ]
+            },
+            "id": "360749167276081152",
+            "in_reply_to_user_id": "83634722",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@bandnewsfmrio \nBoechat esse terreno em Guaratiba n\u00e3o \u00e9 \u00e1rea de prote\u00e7\u00e3o ambiental?Por ser mangue;"
+        },
+        {
+            "author_id": "341715130",
+            "created_at": "2013-07-26T13:07:20.000Z",
+            "id": "360748168763293697",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "parque nacional da tijuca \u00e9 muito lindo"
+        },
+        {
+            "author_id": "1357714754",
+            "created_at": "2013-07-26T12:40:42.000Z",
+            "id": "360741464617140224",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "A Serra da Canastra (MG) \u00e9 um parque nacional brasileiro localizado \u00e0s cidades de Sacramento, S\u00e3o Roque de Minas e... http://t.co/tQ5qZFmFTf"
+        },
+        {
+            "author_id": "966253638",
+            "created_at": "2013-07-26T12:35:17.000Z",
+            "id": "360740102881812481",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Visitar o Parque Nacional dos Len\u00e7\u00f3is Maranhenses \u00e9 uma excelente oportunidade de desfrutar das \u00e1guas doces e das... http://t.co/V1p4SblLXh"
+        },
+        {
+            "author_id": "1558957646",
+            "created_at": "2013-07-26T12:23:50.000Z",
+            "id": "360737223320145921",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Vest\u00edgios do passado que resistem ao passar dos anos // Parque Nacional da Peneda Ger\u00eas http://t.co/4E97Dyy4i5"
+        },
+        {
+            "author_id": "540197898",
+            "created_at": "2013-07-26T12:22:38.000Z",
+            "id": "360736918213902336",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#PortalWL: Term\u00f4metros registram - 0,1\u00baC no Parque Nacional do Itatiaia, RJ http://t.co/HLJfAyq3N7 #Brasil"
+        },
+        {
+            "author_id": "760499784",
+            "created_at": "2013-07-26T12:22:28.000Z",
+            "id": "360736877294260225",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Term\u00f4metros registram - 0,1\u00baC no Parque Nacional do Itatiaia, RJ: Expectativa \u00e9 que n\u00famero de visitantes chegu... http://t.co/kZY4YCRyk6"
+        },
+        {
+            "author_id": "246340442",
+            "created_at": "2013-07-26T12:16:47.000Z",
+            "id": "360735445858009089",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "No Parque NAcional Aparados da Serra (Canyon Itaimbezinho). Ja conheces a ROTA DOS Canyons Ecoturismo? http://t.co/XmYJ2WXWlQ"
+        },
+        {
+            "author_id": "428608598",
+            "created_at": "2013-07-26T12:15:43.000Z",
+            "id": "360735177930051584",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Term\u00f4metros registram - 0,1\u00baC no Parque Nacional do Itatiaia, RJ | Portal SOMA (G1) http://t.co/VqzVnXaWTz"
+        },
+        {
+            "author_id": "288330146",
+            "created_at": "2013-07-26T12:13:38.000Z",
+            "id": "360734656901029889",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Term\u00f4metros registram - 0,1\u00baC no Parque Nacional do Itatiaia, RJ http://t.co/6UEhs5dhQw"
+        },
+        {
+            "author_id": "285443624",
+            "created_at": "2013-07-26T12:11:41.000Z",
+            "id": "360734162723938304",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Term\u00f4metros registram - 0,1\u00baC no Parque Nacional do Itatiaia, RJ http://t.co/z1MaEvmk9w"
+        },
+        {
+            "author_id": "1331599908",
+            "created_at": "2013-07-26T11:58:32.000Z",
+            "id": "360730855607504896",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Term\u00f4metros registram - 0,1\u00baC no Parque Nacional do Itatiaia, RJ http://t.co/JsJYnOoqqE"
+        },
+        {
+            "author_id": "51669304",
+            "created_at": "2013-07-26T11:58:22.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 6,
+                        "start": 0,
+                        "username": "g1rio"
+                    }
+                ]
+            },
+            "id": "360730811634434048",
+            "in_reply_to_user_id": "31511871",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@g1rio: Term\u00f4metros registram - 0,1\u00baC no Parque Nacional do Itatiaia, RJ http://t.co/anLXHBt5v2"
+        },
+        {
+            "author_id": "90032658",
+            "created_at": "2013-07-26T11:55:06.000Z",
+            "id": "360729989588594689",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Term\u00f4metros registram - 0,1\u00baC no Parque Nacional do Itatiaia, RJ: Expectativa \u00e9 que n\u00famero de visitantes chegu... http://t.co/6BwfoRogmz"
+        },
+        {
+            "author_id": "269832565",
+            "created_at": "2013-07-26T11:54:04.000Z",
+            "id": "360729729789206529",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Term\u00f4metros registram - 0,1\u00baC no Parque Nacional do Itatiaia, RJ http://t.co/NqlEJDxgy7"
+        },
+        {
+            "author_id": "31511871",
+            "created_at": "2013-07-26T11:53:13.000Z",
+            "id": "360729515393159168",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 8
+            },
+            "text": "Term\u00f4metros registram - 0,1\u00baC no Parque Nacional do Itatiaia, RJ http://t.co/efzcSGBPuO"
+        },
+        {
+            "author_id": "111065431",
+            "created_at": "2013-07-26T11:40:35.000Z",
+            "id": "360726337025097728",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Aprovada a obra do Complexo Paineiras no Parque Nacional da Tijuca, RJ - ARCOweb http://t.co/VYCk88Ca1l"
+        },
+        {
+            "author_id": "50137023",
+            "created_at": "2013-07-26T11:21:43.000Z",
+            "id": "360721588108275712",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Mata do Cabril, Parque Nacional Peneda-Ger\u00eas. http://t.co/xJCbtXK9O4"
+        },
+        {
+            "author_id": "14801327",
+            "created_at": "2013-07-26T11:12:35.000Z",
+            "id": "360719290187513856",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/LbLoGlV3pl"
+        },
+        {
+            "author_id": "204341121",
+            "created_at": "2013-07-26T11:05:24.000Z",
+            "id": "360717482144702464",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Um parque nacional de Los Angeles teve \u00e1reas interditadas por causa de um esquilo infestado pela peste negra. Esquilo."
+        },
+        {
+            "author_id": "1176492692",
+            "created_at": "2013-07-26T10:44:31.000Z",
+            "id": "360712228946714624",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/46Yw55wwy8"
+        },
+        {
+            "author_id": "1173937724",
+            "created_at": "2013-07-26T10:44:29.000Z",
+            "id": "360712219538898944",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/AzD71fW17R"
+        },
+        {
+            "author_id": "1176357757",
+            "created_at": "2013-07-26T10:44:23.000Z",
+            "id": "360712196063367169",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/EQWqUjd3t1"
+        },
+        {
+            "author_id": "398433081",
+            "created_at": "2013-07-26T10:44:14.000Z",
+            "id": "360712157215731712",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/YLvN0YeeuI"
+        },
+        {
+            "author_id": "106747646",
+            "created_at": "2013-07-26T10:43:42.000Z",
+            "id": "360712023291604992",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/BRtP6GsCEK"
+        },
+        {
+            "author_id": "9908282",
+            "created_at": "2013-07-26T10:43:38.000Z",
+            "id": "360712003549016066",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/nYqRbzIHvQ"
+        },
+        {
+            "author_id": "14801327",
+            "created_at": "2013-07-26T10:43:35.000Z",
+            "id": "360711992551538688",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/W3X5Iqubl6"
+        },
+        {
+            "author_id": "43625035",
+            "created_at": "2013-07-26T09:45:55.000Z",
+            "id": "360697482629492736",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/rPN20V75KA"
+        },
+        {
+            "author_id": "807188264",
+            "created_at": "2013-07-26T09:45:51.000Z",
+            "id": "360697465558675456",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/SViutoYoKJ"
+        },
+        {
+            "author_id": "364862275",
+            "created_at": "2013-07-26T09:45:48.000Z",
+            "id": "360697451579056128",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/2w8H968s49"
+        },
+        {
+            "author_id": "467404420",
+            "created_at": "2013-07-26T09:45:47.000Z",
+            "id": "360697446172598273",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/6CxlNgSNnx"
+        },
+        {
+            "author_id": "704208295",
+            "created_at": "2013-07-26T09:45:46.000Z",
+            "id": "360697442540339200",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/ubrHntvV3t"
+        },
+        {
+            "author_id": "569594505",
+            "created_at": "2013-07-26T09:45:45.000Z",
+            "id": "360697438887084032",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/qWcUrk3Bq4"
+        },
+        {
+            "author_id": "571344895",
+            "created_at": "2013-07-26T09:45:45.000Z",
+            "id": "360697437129674753",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/Z2sYHPwowz"
+        },
+        {
+            "author_id": "562998358",
+            "created_at": "2013-07-26T09:45:44.000Z",
+            "id": "360697435305152512",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/mKDEj3C95H"
+        },
+        {
+            "author_id": "473085112",
+            "created_at": "2013-07-26T09:45:44.000Z",
+            "id": "360697433564528640",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/EBwQaUHuh9"
+        },
+        {
+            "author_id": "541212316",
+            "created_at": "2013-07-26T09:45:43.000Z",
+            "id": "360697429768667136",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/gWmDG8LNfY"
+        },
+        {
+            "author_id": "554447662",
+            "created_at": "2013-07-26T09:45:42.000Z",
+            "id": "360697428149665792",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/wIXWRAVHuM"
+        },
+        {
+            "author_id": "553026541",
+            "created_at": "2013-07-26T09:45:42.000Z",
+            "id": "360697426392260608",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/iOrLPIQqmh"
+        },
+        {
+            "author_id": "508366202",
+            "created_at": "2013-07-26T09:45:39.000Z",
+            "id": "360697415596113922",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/UA300JDVFl"
+        },
+        {
+            "author_id": "304356598",
+            "created_at": "2013-07-26T09:45:37.000Z",
+            "id": "360697406704197633",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/TJdY19qS02"
+        },
+        {
+            "author_id": "74760746",
+            "created_at": "2013-07-26T09:45:37.000Z",
+            "id": "360697403403280384",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/hutGZ4jaA2"
+        },
+        {
+            "author_id": "368641337",
+            "created_at": "2013-07-26T09:45:36.000Z",
+            "id": "360697402623131648",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/Bjq5O5D1yX"
+        },
+        {
+            "author_id": "489566716",
+            "created_at": "2013-07-26T09:45:36.000Z",
+            "id": "360697401167708160",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/uTGGpD2sht"
+        },
+        {
+            "author_id": "449140733",
+            "created_at": "2013-07-26T09:45:35.000Z",
+            "id": "360697396038086656",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/mqvKb37bPy"
+        },
+        {
+            "author_id": "485154412",
+            "created_at": "2013-07-26T09:45:33.000Z",
+            "id": "360697386412154880",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/08xsxfSsZX"
+        },
+        {
+            "author_id": "125167212",
+            "created_at": "2013-07-26T09:45:32.000Z",
+            "id": "360697384533106688",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/43k5ohmg6A"
+        },
+        {
+            "author_id": "480912424",
+            "created_at": "2013-07-26T09:45:31.000Z",
+            "id": "360697381047635969",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/49aJg3MrBr"
+        },
+        {
+            "author_id": "475131734",
+            "created_at": "2013-07-26T09:45:21.000Z",
+            "id": "360697339146534914",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/Fs6pPaEBot"
+        },
+        {
+            "author_id": "466770826",
+            "created_at": "2013-07-26T09:45:21.000Z",
+            "id": "360697336617381888",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/XIQbVldeWD"
+        },
+        {
+            "author_id": "451118258",
+            "created_at": "2013-07-26T09:45:19.000Z",
+            "id": "360697331173175296",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/GO3pLgpTSW"
+        },
+        {
+            "author_id": "425137946",
+            "created_at": "2013-07-26T09:45:18.000Z",
+            "id": "360697323803779073",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/dAb11QyD0B"
+        },
+        {
+            "author_id": "449443536",
+            "created_at": "2013-07-26T09:45:17.000Z",
+            "id": "360697322251878400",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/zbkxQYTUUV"
+        },
+        {
+            "author_id": "194762993",
+            "created_at": "2013-07-26T09:45:17.000Z",
+            "id": "360697320167321600",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/KqUB5YYfn9"
+        },
+        {
+            "author_id": "438437849",
+            "created_at": "2013-07-26T09:45:16.000Z",
+            "id": "360697315691986945",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/ZFvMtUM3uo"
+        },
+        {
+            "author_id": "442733700",
+            "created_at": "2013-07-26T09:45:15.000Z",
+            "id": "360697313783586816",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/LHqQEZFBbu"
+        },
+        {
+            "author_id": "437885960",
+            "created_at": "2013-07-26T09:45:15.000Z",
+            "id": "360697311980040193",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/b6PyrUAs1a"
+        },
+        {
+            "author_id": "129222915",
+            "created_at": "2013-07-26T09:45:13.000Z",
+            "id": "360697303335567361",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/jkSBfdWDUd"
+        },
+        {
+            "author_id": "411499602",
+            "created_at": "2013-07-26T09:45:11.000Z",
+            "id": "360697298071732225",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/9io79tyv8v"
+        },
+        {
+            "author_id": "409215094",
+            "created_at": "2013-07-26T09:45:10.000Z",
+            "id": "360697292937895937",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/M7e24PmlHj"
+        },
+        {
+            "author_id": "57924914",
+            "created_at": "2013-07-26T09:45:10.000Z",
+            "id": "360697291310510080",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/FiNxN8gsDi"
+        },
+        {
+            "author_id": "386613888",
+            "created_at": "2013-07-26T09:45:09.000Z",
+            "id": "360697287405604865",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/BqT8j9d0bo"
+        },
+        {
+            "author_id": "364561952",
+            "created_at": "2013-07-26T09:45:09.000Z",
+            "id": "360697285904044032",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/LfWvtSThzf"
+        },
+        {
+            "author_id": "367167784",
+            "created_at": "2013-07-26T09:45:07.000Z",
+            "id": "360697280459849728",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/NtdbTPcq2d"
+        },
+        {
+            "author_id": "378175857",
+            "created_at": "2013-07-26T09:45:07.000Z",
+            "id": "360697278727589889",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/9KC9VayA7b"
+        },
+        {
+            "author_id": "294525293",
+            "created_at": "2013-07-26T09:45:06.000Z",
+            "id": "360697276974379009",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Los Angeles fecha parque por esquilo infectado com peste negra: \u00c1reas de um parque nacional de Los Angeles, no... http://t.co/WkEQVCDr7r"
         }
     ],
     "errors": [
@@ -6858,15 +6654,8 @@
             {
                 "country": "Brasil",
                 "country_code": "BR",
-                "full_name": "Foz do Igua\u00e7u, Brasil",
-                "id": "91f818a4abfb1d4d",
-                "place_type": "city"
-            },
-            {
-                "country": "Brasil",
-                "country_code": "BR",
-                "full_name": "Cuiab\u00e1, Brasil",
-                "id": "5187201f64c8b889",
+                "full_name": "Barreirinhas, Brasil",
+                "id": "289e4a986223844b",
                 "place_type": "city"
             },
             {
@@ -6874,13 +6663,6 @@
                 "country_code": "BR",
                 "full_name": "Morro do Chap\u00e9u, Brasil",
                 "id": "11035f685ace82b3",
-                "place_type": "city"
-            },
-            {
-                "country": "Brasil",
-                "country_code": "BR",
-                "full_name": "Goi\u00e2nia, Brasil",
-                "id": "23d81de6fe7594cb",
                 "place_type": "city"
             },
             {
@@ -6900,13 +6682,6 @@
             {
                 "country": "Brasil",
                 "country_code": "BR",
-                "full_name": "Barreirinhas, Brasil",
-                "id": "289e4a986223844b",
-                "place_type": "city"
-            },
-            {
-                "country": "Brasil",
-                "country_code": "BR",
                 "full_name": "Rio Grande, Brasil",
                 "id": "3c465ed3fc434def",
                 "place_type": "city"
@@ -6914,285 +6689,9 @@
         ],
         "users": [
             {
-                "id": "143632373",
-                "name": "Perito Moreno",
-                "username": "ispmedu",
-                "verified": false
-            },
-            {
-                "id": "346712610",
-                "name": "Portal Igua\u00e7u",
-                "username": "Portaliguacu",
-                "verified": false
-            },
-            {
-                "id": "46748708",
-                "name": "@brunomnzs \u00b7 Gab.com",
-                "username": "brunomnzs",
-                "verified": false
-            },
-            {
-                "id": "149352478",
-                "name": "O Subversivo",
-                "username": "o_subversivo",
-                "verified": false
-            },
-            {
-                "id": "40460716",
-                "name": "Gerhard Sardo",
-                "username": "GerhardSardo",
-                "verified": false
-            },
-            {
-                "id": "339990733",
-                "name": "Rog\u00e9rio Marques",
-                "username": "rogeriomarques5",
-                "verified": false
-            },
-            {
-                "id": "68729247",
-                "name": "foque.com.br",
-                "username": "coletivofoque",
-                "verified": false
-            },
-            {
-                "id": "630663529",
-                "name": "Cesar",
-                "username": "CesarBalotin",
-                "verified": false
-            },
-            {
-                "id": "41117407",
-                "name": "DOSSI\u00ca ILUSTRAN\u00c1RIO",
-                "username": "marcos_bicalho",
-                "verified": false
-            },
-            {
-                "id": "34952919",
-                "name": "Portal H2FOZ",
-                "username": "H2FOZ",
-                "verified": false
-            },
-            {
-                "id": "90938654",
-                "name": "Greentur",
-                "username": "Greentur",
-                "verified": false
-            },
-            {
-                "id": "243651141",
-                "name": "Muhimbi \u00c1frica",
-                "username": "muhimbiafrica",
-                "verified": false
-            },
-            {
-                "id": "216121750",
-                "name": "Prefeitura de Itanha\u00e9m",
-                "username": "pref_itanhaem",
-                "verified": false
-            },
-            {
-                "id": "40406264",
-                "name": "byflaviacombr",
-                "username": "byflaviacombr",
-                "verified": false
-            },
-            {
-                "id": "350971409",
-                "name": "www.countryimoveis.com.br",
-                "username": "countryimoveis",
-                "verified": false
-            },
-            {
-                "id": "33727400",
-                "name": "Jonilson Fraga",
-                "username": "FragaOJonilson",
-                "verified": false
-            },
-            {
-                "id": "130813634",
-                "name": "Atitudeto",
-                "username": "atitudeto",
-                "verified": false
-            },
-            {
-                "id": "15206844",
-                "name": "marcoshavana",
-                "username": "marcosmanulu",
-                "verified": false
-            },
-            {
-                "id": "34036508",
-                "name": "biologias",
-                "username": "biologias",
-                "verified": false
-            },
-            {
-                "id": "1339729844",
-                "name": "Arika Mattos TimBeta",
-                "username": "ArikaCosta",
-                "verified": false
-            },
-            {
-                "id": "258746102",
-                "name": "CARLOS F.FRANK RESIST\u00caNCIA DE ABREU.",
-                "username": "carlosffrank",
-                "verified": false
-            },
-            {
-                "id": "123686780",
-                "name": "Jocimar Farina",
-                "username": "jocimarfarina",
-                "verified": true
-            },
-            {
-                "id": "46409160",
-                "name": "R\u00e1dio Ga\u00facha",
-                "username": "RdGaucha",
-                "verified": true
-            },
-            {
-                "id": "378057420",
-                "name": "Jusambiental",
-                "username": "jusambiental",
-                "verified": false
-            },
-            {
-                "id": "192230651",
-                "name": "Revista Amaz\u00f4nia",
-                "username": "revistaamazonia",
-                "verified": false
-            },
-            {
-                "id": "174901520",
-                "name": "Cadu Lorena",
-                "username": "cadulorena",
-                "verified": false
-            },
-            {
-                "id": "70887911",
-                "name": "P\u00e1dua Fernandes",
-                "username": "paduafernandes",
-                "verified": false
-            },
-            {
-                "id": "1523815567",
-                "name": "RadarLivre",
-                "username": "RadarLivre",
-                "verified": false
-            },
-            {
-                "id": "1163986992",
-                "name": "Mescla Not\u00edcias",
-                "username": "mesclanoticias",
-                "verified": false
-            },
-            {
-                "id": "64257256",
-                "name": "Brasil de Fato (em \ud83c\udfe0)",
-                "username": "brasildefato",
-                "verified": true
-            },
-            {
-                "id": "1478816869",
-                "name": "dulce helena silveir",
-                "username": "helensilveir",
-                "verified": false
-            },
-            {
-                "id": "288442321",
-                "name": "\u267bApoema Consultoria",
-                "username": "ApoemaConsult",
-                "verified": false
-            },
-            {
-                "id": "171653681",
-                "name": "M\u00e1rcia - Avalon Land",
-                "username": "avalonland",
-                "verified": false
-            },
-            {
-                "id": "128520019",
-                "name": "o passatempista \ud83c\udff4",
-                "username": "Herege",
-                "verified": false
-            },
-            {
-                "id": "258425435",
-                "name": "O mundo muda, s\u00f3 n\u00e3o mudam meus princ\u00edpios!",
-                "username": "vando_correia",
-                "verified": false
-            },
-            {
-                "id": "26480270",
-                "name": "Antonio Rodriguez soy Pensionado",
-                "username": "AmaroAlem",
-                "verified": false
-            },
-            {
-                "id": "1944241",
-                "name": "\u00c9rico Abreu",
-                "username": "ericoabreu",
-                "verified": false
-            },
-            {
-                "id": "35637375",
-                "name": "Maristela Rocha",
-                "username": "maristelarocha",
-                "verified": false
-            },
-            {
-                "id": "14851837",
-                "name": "Lis Duarte",
-                "username": "lisduarte",
-                "verified": false
-            },
-            {
-                "id": "480708008",
-                "name": "Louise Nagel",
-                "username": "lolimakx",
-                "verified": false
-            },
-            {
-                "id": "22819562",
-                "name": "Rodrigo H\u00fchn",
-                "username": "RodrigoHuhn",
-                "verified": false
-            },
-            {
-                "id": "22849805",
-                "name": "Nogueira Jr.",
-                "username": "WikiMidiaBr",
-                "verified": false
-            },
-            {
-                "id": "121734786",
-                "name": "IcasaCE",
-                "username": "IcasaCE",
-                "verified": false
-            },
-            {
-                "id": "389236994",
-                "name": "trip2gether",
-                "username": "trip2gether",
-                "verified": false
-            },
-            {
-                "id": "487110460",
-                "name": "Rodrigo #ForaBolsonaro Lula 2022",
-                "username": "RodP13",
-                "verified": false
-            },
-            {
-                "id": "1291871119",
-                "name": "Webnos",
-                "username": "w3bnos",
-                "verified": false
-            },
-            {
-                "id": "77526480",
-                "name": "Ed Oliveira \ud83c\udde7\ud83c\uddf7",
-                "username": "Ed_Oliiver",
+                "id": "25324361",
+                "name": "Professor Fabiao",
+                "username": "proffabiao",
                 "verified": false
             },
             {
@@ -7200,468 +6699,6 @@
                 "name": "((o))eco | Jornalismo Ambiental",
                 "username": "o_eco",
                 "verified": true
-            },
-            {
-                "id": "139530649",
-                "name": "Palestina LIVRE! \u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0644\u062d\u0631\u0629",
-                "username": "hostilio00",
-                "verified": false
-            },
-            {
-                "id": "134512804",
-                "name": "Luan Rodrigues",
-                "username": "CRF_LuanGA",
-                "verified": false
-            },
-            {
-                "id": "74167636",
-                "name": "Djalma Ara\u00fajo",
-                "username": "djalmaaraujo18",
-                "verified": false
-            },
-            {
-                "id": "15846225",
-                "name": "Sesc Santos",
-                "username": "sescsantos",
-                "verified": false
-            },
-            {
-                "id": "98218364",
-                "name": "Heriberto Pozzuto",
-                "username": "HPozzuto",
-                "verified": false
-            },
-            {
-                "id": "19593634",
-                "name": "Revista F\u00f3rum",
-                "username": "revistaforum",
-                "verified": true
-            },
-            {
-                "id": "69014411",
-                "name": "Paulo \u00c1vila",
-                "username": "pauloavila2008g",
-                "verified": false
-            },
-            {
-                "id": "1486390814",
-                "name": "Maria Kl\u00e9cia Neves",
-                "username": "klecia_neves",
-                "verified": false
-            },
-            {
-                "id": "60722362",
-                "name": "Di\u00e1rio do Nordeste",
-                "username": "diarioonline",
-                "verified": true
-            },
-            {
-                "id": "211600217",
-                "name": "Jos\u00e9 Ant\u00f4nio Dias",
-                "username": "profjabiorritmo",
-                "verified": false
-            },
-            {
-                "id": "107229766",
-                "name": "MARCOSGEO",
-                "username": "marcosrc_geo",
-                "verified": false
-            },
-            {
-                "id": "1560797137",
-                "name": "#LULA e PonTo final.",
-                "username": "tarlouze",
-                "verified": false
-            },
-            {
-                "id": "1170421680",
-                "name": "Edson Spressola Jr.",
-                "username": "edspres",
-                "verified": false
-            },
-            {
-                "id": "173263155",
-                "name": "BERTRAND",
-                "username": "bertrandsousa",
-                "verified": false
-            },
-            {
-                "id": "25552667",
-                "name": "Comunique-se",
-                "username": "comuniquese",
-                "verified": false
-            },
-            {
-                "id": "216385416",
-                "name": "Hamilton",
-                "username": "htoadv",
-                "verified": false
-            },
-            {
-                "id": "359567741",
-                "name": "Francisco Manuel",
-                "username": "Fleonrubio",
-                "verified": false
-            },
-            {
-                "id": "245622537",
-                "name": "\u00cdris Tavares",
-                "username": "iristavaresce",
-                "verified": false
-            },
-            {
-                "id": "253281224",
-                "name": "Gospel Down",
-                "username": "baixar_mp3",
-                "verified": false
-            },
-            {
-                "id": "48483839",
-                "name": "Marcus Bruno\ud83c\udf31",
-                "username": "OMarcusBruno",
-                "verified": true
-            },
-            {
-                "id": "75220124",
-                "name": "Matheus Schuch",
-                "username": "MatheusSchuch",
-                "verified": true
-            },
-            {
-                "id": "1128209838",
-                "name": "Voc\u00ea Realmente Sabia",
-                "username": "VRSabia",
-                "verified": false
-            },
-            {
-                "id": "52539016",
-                "name": "Zari Paiva",
-                "username": "Marizapaiva",
-                "verified": false
-            },
-            {
-                "id": "632184568",
-                "name": "Fragmaq",
-                "username": "Fragmaq",
-                "verified": false
-            },
-            {
-                "id": "1008787100",
-                "name": "Ecossocialismo PSOL",
-                "username": "ecossocialismoo",
-                "verified": false
-            },
-            {
-                "id": "104514346",
-                "name": "caroli",
-                "username": "carolinavioli",
-                "verified": false
-            },
-            {
-                "id": "273513557",
-                "name": "Combate Racismo",
-                "username": "combateracismo",
-                "verified": false
-            },
-            {
-                "id": "216408752",
-                "name": "Circuito Serra Cip\u00f3",
-                "username": "circuitocipo",
-                "verified": false
-            },
-            {
-                "id": "101448188",
-                "name": "\u266b\u2665\u266aRadioIceunetOrg\u2665\u266b",
-                "username": "WebRadioICEUnet",
-                "verified": false
-            },
-            {
-                "id": "389537510",
-                "name": "ONordeste.com.br",
-                "username": "PortalNordeste",
-                "verified": false
-            },
-            {
-                "id": "55936414",
-                "name": "O Nordeste",
-                "username": "MarcosCartaxo",
-                "verified": false
-            },
-            {
-                "id": "160334148",
-                "name": "ronaldo de souza",
-                "username": "ronaldolivreiro",
-                "verified": false
-            },
-            {
-                "id": "188860743",
-                "name": "em 1320 AM",
-                "username": "radioglobofoz",
-                "verified": false
-            },
-            {
-                "id": "342909485",
-                "name": "Pastor Luciano [SE]",
-                "username": "OBomPastorSE",
-                "verified": false
-            },
-            {
-                "id": "462771738",
-                "name": "Portal Home",
-                "username": "PortalHome",
-                "verified": false
-            },
-            {
-                "id": "385380624",
-                "name": "mnegrm",
-                "username": "mnegrm",
-                "verified": false
-            },
-            {
-                "id": "85402590",
-                "name": "Fernando  Carreira",
-                "username": "fern_carreira",
-                "verified": false
-            },
-            {
-                "id": "163286303",
-                "name": "Music Videos Novelas",
-                "username": "MusicaseClips",
-                "verified": false
-            },
-            {
-                "id": "532489816",
-                "name": "ZONA NOTICIAS",
-                "username": "XZNOTICIAS",
-                "verified": false
-            },
-            {
-                "id": "76022651",
-                "name": "C\u00e1ssia Ribas \u2763\ufe0f",
-                "username": "cassiaribas",
-                "verified": false
-            },
-            {
-                "id": "57665732",
-                "name": "Cimi",
-                "username": "ciminacional",
-                "verified": false
-            },
-            {
-                "id": "33190304",
-                "name": "ECOTV",
-                "username": "ECOTV",
-                "verified": false
-            },
-            {
-                "id": "577292822",
-                "name": "Lorivaldo de Azevedo",
-                "username": "LorivaldodeAzev",
-                "verified": false
-            },
-            {
-                "id": "106865119",
-                "name": "Portal eCycle",
-                "username": "eCycleBr",
-                "verified": false
-            },
-            {
-                "id": "25324361",
-                "name": "Professor Fabiao",
-                "username": "proffabiao",
-                "verified": false
-            },
-            {
-                "id": "53968408",
-                "name": "Leandro Staudt",
-                "username": "leandrostaudt",
-                "verified": true
-            },
-            {
-                "id": "253034260",
-                "name": "ICMBio",
-                "username": "ICMBio",
-                "verified": false
-            },
-            {
-                "id": "152350865",
-                "name": "Sailing & Diving",
-                "username": "sailinganddivin",
-                "verified": false
-            },
-            {
-                "id": "57254597",
-                "name": "CicloVivo",
-                "username": "CicloVivo",
-                "verified": false
-            },
-            {
-                "id": "216097941",
-                "name": "PAULO ROCHA",
-                "username": "paulorocha_ap",
-                "verified": false
-            },
-            {
-                "id": "26026236",
-                "name": "Clickfoz.com",
-                "username": "clickfoz",
-                "verified": false
-            },
-            {
-                "id": "44417051",
-                "name": "Renato Bacellar",
-                "username": "bacellarsr",
-                "verified": false
-            },
-            {
-                "id": "1362520134",
-                "name": "Mauricio_Ativismo",
-                "username": "MauriceAtivista",
-                "verified": false
-            },
-            {
-                "id": "961039129",
-                "name": "vanessamoreiraac",
-                "username": "vamoreiraac",
-                "verified": false
-            },
-            {
-                "id": "11160692",
-                "name": "WWF-Brasil",
-                "username": "WWF_Brasil",
-                "verified": true
-            },
-            {
-                "id": "608131558",
-                "name": "Point Tur Receptivo",
-                "username": "agenciapointtur",
-                "verified": false
-            },
-            {
-                "id": "324145736",
-                "name": "Mar de Bem",
-                "username": "MardeBem",
-                "verified": false
-            },
-            {
-                "id": "44699814",
-                "name": "Marcelo Delfino \ud83c\udf1f",
-                "username": "mjdelfino",
-                "verified": false
-            },
-            {
-                "id": "42727412",
-                "name": "amaz\u00f4nia",
-                "username": "AMAZONIAcerrado",
-                "verified": false
-            },
-            {
-                "id": "83294591",
-                "name": "ContilNet Not\u00edcias",
-                "username": "ContilNet",
-                "verified": false
-            },
-            {
-                "id": "59476909",
-                "name": "CMMC Turismo",
-                "username": "cmmcturismo",
-                "verified": false
-            },
-            {
-                "id": "1616337548",
-                "name": "Glaucio Zingali",
-                "username": "eng_glaucio",
-                "verified": false
-            },
-            {
-                "id": "108678868",
-                "name": "SA Project",
-                "username": "sa_project",
-                "verified": false
-            },
-            {
-                "id": "224059677",
-                "name": "Jo\u00e3o Guilherme Cunha",
-                "username": "wegnergeo",
-                "verified": false
-            },
-            {
-                "id": "166533490",
-                "name": "Andressa Ducosta \u2606",
-                "username": "AndressaDucosta",
-                "verified": false
-            },
-            {
-                "id": "340647596",
-                "name": "Direito Ambiente",
-                "username": "ambientedireito",
-                "verified": false
-            },
-            {
-                "id": "111633513",
-                "name": "Eleon\u00e9sio D. Leitzke",
-                "username": "eleonesio",
-                "verified": false
-            },
-            {
-                "id": "1143688086",
-                "name": "Novidades do Sul",
-                "username": "novidadesdosul",
-                "verified": false
-            },
-            {
-                "id": "246340442",
-                "name": "Rota dos Canyons",
-                "username": "rotadoscanyons",
-                "verified": false
-            },
-            {
-                "id": "832070143",
-                "name": "BuscaCult",
-                "username": "buscacult",
-                "verified": false
-            },
-            {
-                "id": "1623653504",
-                "name": "Francis",
-                "username": "ribeirfs",
-                "verified": false
-            },
-            {
-                "id": "45908423",
-                "name": "Portal Vermelho",
-                "username": "portalvermelho",
-                "verified": false
-            },
-            {
-                "id": "101625090",
-                "name": "Revoada.com",
-                "username": "SiteRevoada",
-                "verified": false
-            },
-            {
-                "id": "174557684",
-                "name": "Guardi\u00f5es do Mar",
-                "username": "guardioesdomar",
-                "verified": false
-            },
-            {
-                "id": "63594548",
-                "name": "Claudiaa_Dias",
-                "username": "Claudiaa_Dias",
-                "verified": false
-            },
-            {
-                "id": "220815236",
-                "name": "Estev\u0101o Ciavatta",
-                "username": "eciavatta",
-                "verified": false
-            },
-            {
-                "id": "339998504",
-                "name": "Nicho Legal",
-                "username": "NichoLegal",
-                "verified": false
             },
             {
                 "id": "35232853",
@@ -7688,10 +6725,28 @@
                 "verified": false
             },
             {
+                "id": "220815236",
+                "name": "Estev\u0101o Ciavatta",
+                "username": "eciavatta",
+                "verified": false
+            },
+            {
                 "id": "111257258",
                 "name": "PJ",
                 "username": "gidgetdigit",
                 "verified": false
+            },
+            {
+                "id": "123686780",
+                "name": "Jocimar Farina",
+                "username": "jocimarfarina",
+                "verified": true
+            },
+            {
+                "id": "46409160",
+                "name": "R\u00e1dio Ga\u00facha",
+                "username": "RdGaucha",
+                "verified": true
             },
             {
                 "id": "143385052",
@@ -7730,6 +6785,12 @@
                 "verified": true
             },
             {
+                "id": "192230651",
+                "name": "Revista Amaz\u00f4nia",
+                "username": "revistaamazonia",
+                "verified": false
+            },
+            {
                 "id": "74912725",
                 "name": "Jose RODRIGUEZ",
                 "username": "jargo_21",
@@ -7766,6 +6827,12 @@
                 "verified": false
             },
             {
+                "id": "57254597",
+                "name": "CicloVivo",
+                "username": "CicloVivo",
+                "verified": false
+            },
+            {
                 "id": "58360188",
                 "name": "Leoneldoindio",
                 "username": "Leoneldoindio",
@@ -7775,6 +6842,18 @@
                 "id": "54598319",
                 "name": "PAMPAS VIAGENS E TUR",
                 "username": "pampasviagens",
+                "verified": false
+            },
+            {
+                "id": "160334148",
+                "name": "ronaldo de souza",
+                "username": "ronaldolivreiro",
+                "verified": false
+            },
+            {
+                "id": "246340442",
+                "name": "Rota dos Canyons",
+                "username": "rotadoscanyons",
                 "verified": false
             },
             {
@@ -7851,7 +6930,7 @@
             },
             {
                 "id": "387259123",
-                "name": "fenty from rio \ud83c\udf35",
+                "name": "fenty from barbados",
                 "username": "fenty013",
                 "verified": false
             },
@@ -7934,6 +7013,12 @@
                 "verified": false
             },
             {
+                "id": "273513557",
+                "name": "Combate Racismo",
+                "username": "combateracismo",
+                "verified": false
+            },
+            {
                 "id": "887738167",
                 "name": "OBRADO Redundante",
                 "username": "bradoredundante",
@@ -7985,12 +7070,6 @@
                 "id": "518529082",
                 "name": "Epoch Times Portugu\u00eas",
                 "username": "EpochTimesPT",
-                "verified": false
-            },
-            {
-                "id": "70404821",
-                "name": "Siga-me os bons",
-                "username": "edlipee",
                 "verified": false
             },
             {
@@ -8069,6 +7148,12 @@
                 "id": "177430503",
                 "name": "BN Justi\u00e7a",
                 "username": "bnjustica",
+                "verified": false
+            },
+            {
+                "id": "324145736",
+                "name": "Mar de Bem",
+                "username": "MardeBem",
                 "verified": false
             },
             {
@@ -8177,7 +7262,7 @@
                 "id": "74715478",
                 "name": "ClimaInfo",
                 "username": "ClimaInfoNews",
-                "verified": false
+                "verified": true
             },
             {
                 "id": "243241632",
@@ -8216,9 +7301,21 @@
                 "verified": true
             },
             {
+                "id": "1339729844",
+                "name": "Arika Mattos TimBeta",
+                "username": "ArikaCosta",
+                "verified": false
+            },
+            {
                 "id": "586033644",
-                "name": "Brasil \u00e0 deriva \ud83c\udde7\ud83c\uddf7\ud83d\udea9#SOSbrasil",
+                "name": "Lennomix",
                 "username": "lenno2016",
+                "verified": false
+            },
+            {
+                "id": "45908423",
+                "name": "Portal Vermelho",
+                "username": "portalvermelho",
                 "verified": false
             },
             {
@@ -8231,6 +7328,12 @@
                 "id": "193625910",
                 "name": "Ag\u00eancia P\u00e9 de Lim\u00e3o",
                 "username": "apedelimao",
+                "verified": false
+            },
+            {
+                "id": "339998504",
+                "name": "Nicho Legal",
+                "username": "NichoLegal",
                 "verified": false
             },
             {
@@ -8516,6 +7619,12 @@
                 "verified": false
             },
             {
+                "id": "57665732",
+                "name": "Cimi",
+                "username": "ciminacional",
+                "verified": false
+            },
+            {
                 "id": "898006974",
                 "name": "TZ Viagens",
                 "username": "TZViagens",
@@ -8627,6 +7736,12 @@
                 "id": "48863557",
                 "name": "Naturatins",
                 "username": "Naturatins",
+                "verified": false
+            },
+            {
+                "id": "25552667",
+                "name": "Comunique-se",
+                "username": "comuniquese",
                 "verified": false
             },
             {
@@ -8972,6 +8087,12 @@
                 "verified": false
             },
             {
+                "id": "253034260",
+                "name": "ICMBio",
+                "username": "ICMBio",
+                "verified": false
+            },
+            {
                 "id": "27795438",
                 "name": "\u041c\u0430rcio Santos",
                 "username": "marciomsantos",
@@ -9122,6 +8243,12 @@
                 "verified": false
             },
             {
+                "id": "34036508",
+                "name": "biologias",
+                "username": "biologias",
+                "verified": false
+            },
+            {
                 "id": "50473036",
                 "name": "\ud83c\udd70\ufe0fluisio Lacerda",
                 "username": "AluisioLacerda",
@@ -9194,6 +8321,12 @@
                 "verified": false
             },
             {
+                "id": "832070143",
+                "name": "BuscaCult",
+                "username": "buscacult",
+                "verified": false
+            },
+            {
                 "id": "257324860",
                 "name": "adilson bozzi",
                 "username": "dilsinhobozzy",
@@ -9207,7 +8340,7 @@
             },
             {
                 "id": "715457828",
-                "name": "UniversoRacionalista",
+                "name": "Universo Racionalista",
                 "username": "U_Racionalista",
                 "verified": false
             },
@@ -9333,7 +8466,7 @@
             },
             {
                 "id": "15575353",
-                "name": "N\u00e3o ao massacre!",
+                "name": "Vacina gratuita para todos!",
                 "username": "HerliMenezes",
                 "verified": false
             },
@@ -9395,12 +8528,6 @@
                 "id": "1435291280",
                 "name": "Leituras",
                 "username": "leitura",
-                "verified": false
-            },
-            {
-                "id": "150642643",
-                "name": "Adriana Rocha",
-                "username": "nannarocha",
                 "verified": false
             },
             {
@@ -9522,13 +8649,697 @@
                 "name": "Rivaldo Araujo",
                 "username": "rivaaraujo",
                 "verified": false
+            },
+            {
+                "id": "962479274",
+                "name": "Ritos Ocultos",
+                "username": "ritosocultos",
+                "verified": false
+            },
+            {
+                "id": "146896116",
+                "name": "Bianco Costa",
+                "username": "BiancoMCosta",
+                "verified": false
+            },
+            {
+                "id": "1109764189",
+                "name": "Comiss\u00e3o Amb Sul-RJ",
+                "username": "ComAmbSulRJ",
+                "verified": false
+            },
+            {
+                "id": "320430303",
+                "name": "daninha",
+                "username": "daniambiental",
+                "verified": false
+            },
+            {
+                "id": "47549698",
+                "name": "iCatracho Tours",
+                "username": "iCatracho",
+                "verified": false
+            },
+            {
+                "id": "17718003",
+                "name": "Guia Quatro Rodas",
+                "username": "guia4rodas",
+                "verified": true
+            },
+            {
+                "id": "941687935",
+                "name": "passaporteBCN",
+                "username": "passaporteBCN",
+                "verified": false
+            },
+            {
+                "id": "1041052776",
+                "name": "Ricardo Mateus",
+                "username": "RicardoJGMateus",
+                "verified": false
+            },
+            {
+                "id": "243651141",
+                "name": "Muhimbi \u00c1frica",
+                "username": "muhimbiafrica",
+                "verified": false
+            },
+            {
+                "id": "194569651",
+                "name": "Jornal O Presente",
+                "username": "O_Presente",
+                "verified": false
+            },
+            {
+                "id": "42985931",
+                "name": "Barra da Tijuca",
+                "username": "Barrazine",
+                "verified": false
+            },
+            {
+                "id": "14925838",
+                "name": "Surfe",
+                "username": "Surfe",
+                "verified": false
+            },
+            {
+                "id": "136750907",
+                "name": "Claudia Freitas",
+                "username": "csondermannf",
+                "verified": false
+            },
+            {
+                "id": "543096807",
+                "name": "B\u00edblia Ensina",
+                "username": "BibliaEnsina",
+                "verified": false
+            },
+            {
+                "id": "106962007",
+                "name": "Mariella Foresti",
+                "username": "20ella200",
+                "verified": false
+            },
+            {
+                "id": "957537865",
+                "name": "Kleyderson",
+                "username": "kleydersonkd",
+                "verified": false
+            },
+            {
+                "id": "115861320",
+                "name": "Ka\u00edque Almeida \uf8ff",
+                "username": "kaiquerammos",
+                "verified": false
+            },
+            {
+                "id": "901216753",
+                "name": "Andrea Capella",
+                "username": "andrea_capella",
+                "verified": false
+            },
+            {
+                "id": "100140904",
+                "name": "Jo\u00e3o Pereira Jr.",
+                "username": "prjoaopereira",
+                "verified": false
+            },
+            {
+                "id": "998047364",
+                "name": "Jaru.",
+                "username": "AndreaJaruffe",
+                "verified": false
+            },
+            {
+                "id": "42996423",
+                "name": "annehelise",
+                "username": "annehelise",
+                "verified": false
+            },
+            {
+                "id": "127215997",
+                "name": "Alvaro Severo",
+                "username": "alvarosevero",
+                "verified": false
+            },
+            {
+                "id": "48403618",
+                "name": "Pagnussatt, THIAGO",
+                "username": "ThiagoPagn",
+                "verified": false
+            },
+            {
+                "id": "62421849",
+                "name": "Vit\u00f3ria Cristofalo",
+                "username": "oivits",
+                "verified": false
+            },
+            {
+                "id": "325070774",
+                "name": "RAFAEL TALAVERA",
+                "username": "RafaelCocama",
+                "verified": false
+            },
+            {
+                "id": "128865646",
+                "name": "Flavio M\u00fcller",
+                "username": "flaviomuller",
+                "verified": false
+            },
+            {
+                "id": "38838634",
+                "name": "Leila Barreto",
+                "username": "LeilaBarreto",
+                "verified": false
+            },
+            {
+                "id": "1607228462",
+                "name": "Vivian_Nascimento",
+                "username": "Vivian_Silvaa01",
+                "verified": false
+            },
+            {
+                "id": "20535681",
+                "name": "Raquel Emerick",
+                "username": "raquelemerick",
+                "verified": false
+            },
+            {
+                "id": "376400979",
+                "name": "On1",
+                "username": "Oestenoticiaspr",
+                "verified": false
+            },
+            {
+                "id": "1115611165",
+                "name": "Tim Kane",
+                "username": "EmbAusBrasil",
+                "verified": true
+            },
+            {
+                "id": "211404036",
+                "name": "Ozzy Study Brazil",
+                "username": "OzzyStudyBrazil",
+                "verified": false
+            },
+            {
+                "id": "15050285",
+                "name": "Fabio Lima",
+                "username": "FabioLima",
+                "verified": false
+            },
+            {
+                "id": "127356744",
+                "name": "Kamily Feitosa",
+                "username": "feitosaka",
+                "verified": false
+            },
+            {
+                "id": "69014411",
+                "name": "Paulo \u00c1vila",
+                "username": "pauloavila2008g",
+                "verified": false
+            },
+            {
+                "id": "198605630",
+                "name": "Reporter - Am",
+                "username": "reporter_am",
+                "verified": false
+            },
+            {
+                "id": "190905382",
+                "name": "Diego andrade",
+                "username": "diegovip10",
+                "verified": false
+            },
+            {
+                "id": "279314726",
+                "name": "Tec66",
+                "username": "tec66com",
+                "verified": false
+            },
+            {
+                "id": "231280267",
+                "name": "Sobral Host",
+                "username": "sobralhost",
+                "verified": false
+            },
+            {
+                "id": "248693492",
+                "name": "G1 Paran\u00e1",
+                "username": "g1parana",
+                "verified": true
+            },
+            {
+                "id": "92891035",
+                "name": "#Lost_in_Life",
+                "username": "cristianomcruz",
+                "verified": false
+            },
+            {
+                "id": "469652471",
+                "name": "Bruno \ud83c\udfae",
+                "username": "brunindesu",
+                "verified": false
+            },
+            {
+                "id": "871949941",
+                "name": "Buffet Sabor Que Encanta",
+                "username": "SaborQueEncanta",
+                "verified": false
+            },
+            {
+                "id": "111342203",
+                "name": "Joelson Batista",
+                "username": "JoAMarDa",
+                "verified": false
+            },
+            {
+                "id": "1465160659",
+                "name": "ACESSO VIA NEWS",
+                "username": "acessovianews",
+                "verified": false
+            },
+            {
+                "id": "327593533",
+                "name": "Pietra Samir",
+                "username": "Pietra_samir",
+                "verified": false
+            },
+            {
+                "id": "384490339",
+                "name": "brasilfeeds",
+                "username": "BrasilFeeds",
+                "verified": false
+            },
+            {
+                "id": "106829092",
+                "name": "Mix Bel\u00e9m 100.9 Fm",
+                "username": "RADIO1009FM",
+                "verified": false
+            },
+            {
+                "id": "1252114290",
+                "name": "G1 Paran\u00e1 Oeste",
+                "username": "g1paranaoeste",
+                "verified": true
+            },
+            {
+                "id": "39296585",
+                "name": "Igor Alecsander",
+                "username": "igoralecsander",
+                "verified": false
+            },
+            {
+                "id": "216408752",
+                "name": "Circuito Serra Cip\u00f3",
+                "username": "circuitocipo",
+                "verified": false
+            },
+            {
+                "id": "840636330",
+                "name": "Face a Face News",
+                "username": "faceafacenews",
+                "verified": false
+            },
+            {
+                "id": "69003533",
+                "name": "Aguas Emendadas",
+                "username": "esecae",
+                "verified": false
+            },
+            {
+                "id": "501926819",
+                "name": "MICHEL SPINELLI",
+                "username": "spinelli1503",
+                "verified": false
+            },
+            {
+                "id": "26009717",
+                "name": "J.e.Costa",
+                "username": "joaldro",
+                "verified": false
+            },
+            {
+                "id": "255515628",
+                "name": "Mauricio Barros",
+                "username": "Mauricio_BRJ",
+                "verified": false
+            },
+            {
+                "id": "83634722",
+                "name": "BandNews FM - Rio",
+                "username": "bandnewsfmrio",
+                "verified": true
+            },
+            {
+                "id": "341715130",
+                "name": "Camila",
+                "username": "camilabs07",
+                "verified": false
+            },
+            {
+                "id": "1357714754",
+                "name": "MilhasTur",
+                "username": "MilhasTurBelem",
+                "verified": false
+            },
+            {
+                "id": "1558957646",
+                "name": "Portugal B'side",
+                "username": "PortugalBSide",
+                "verified": false
+            },
+            {
+                "id": "428608598",
+                "name": "Portal Soma",
+                "username": "pSOMABR",
+                "verified": false
+            },
+            {
+                "id": "285443624",
+                "name": "Informe RJO",
+                "username": "InformeRJO",
+                "verified": false
+            },
+            {
+                "id": "1331599908",
+                "name": "test90556",
+                "username": "test90556",
+                "verified": false
+            },
+            {
+                "id": "51669304",
+                "name": "Mota Lopes \u00ae",
+                "username": "lu_mansur",
+                "verified": false
+            },
+            {
+                "id": "90032658",
+                "name": "Murilo H\u00e9bert",
+                "username": "Murilo_hb7",
+                "verified": false
+            },
+            {
+                "id": "111065431",
+                "name": "Elton Lima",
+                "username": "eltoncarlos85",
+                "verified": false
+            },
+            {
+                "id": "50137023",
+                "name": "Papa-L\u00e9guas",
+                "username": "Papa_Leguas",
+                "verified": false
+            },
+            {
+                "id": "14801327",
+                "name": "Em Tempo Real",
+                "username": "emtemporeal",
+                "verified": false
+            },
+            {
+                "id": "204341121",
+                "name": "leonardo pujol",
+                "username": "leonardopujolrs",
+                "verified": false
+            },
+            {
+                "id": "1176492692",
+                "name": "Chip Tim Beta",
+                "username": "ChipTimBeta1",
+                "verified": false
+            },
+            {
+                "id": "1173937724",
+                "name": "TimBrasil",
+                "username": "timbrasiltim",
+                "verified": false
+            },
+            {
+                "id": "1176357757",
+                "name": "Bala Beta",
+                "username": "BetaBala",
+                "verified": false
+            },
+            {
+                "id": "398433081",
+                "name": "Brenda Gwendoline",
+                "username": "BrendaGwen_",
+                "verified": false
+            },
+            {
+                "id": "106747646",
+                "name": "Not\u00edcias 24 horas",
+                "username": "noticiasemrede",
+                "verified": false
+            },
+            {
+                "id": "9908282",
+                "name": "notivagos",
+                "username": "notivagos",
+                "verified": false
+            },
+            {
+                "id": "43625035",
+                "name": "Fernando Sa Barreto",
+                "username": "Fernandosabarre",
+                "verified": false
+            },
+            {
+                "id": "807188264",
+                "name": "UFC News BR",
+                "username": "UFCNewsBR",
+                "verified": false
+            },
+            {
+                "id": "364862275",
+                "name": "Silvio Borges",
+                "username": "Silvio_bs",
+                "verified": false
+            },
+            {
+                "id": "467404420",
+                "name": "MagnoSEP",
+                "username": "MagnoCosta84",
+                "verified": false
+            },
+            {
+                "id": "704208295",
+                "name": "Camila Schneider",
+                "username": "aprendendonanet",
+                "verified": false
+            },
+            {
+                "id": "569594505",
+                "name": "Brasil Mega Store",
+                "username": "BrasilMegaStore",
+                "verified": false
+            },
+            {
+                "id": "571344895",
+                "name": "silvestre silva",
+                "username": "sacividros",
+                "verified": false
+            },
+            {
+                "id": "562998358",
+                "name": "noezio rocha",
+                "username": "noeziopereira",
+                "verified": false
+            },
+            {
+                "id": "473085112",
+                "name": "Radio Bemais",
+                "username": "radiobemais",
+                "verified": false
+            },
+            {
+                "id": "541212316",
+                "name": "Sergio Ricardo",
+                "username": "SergioPeo",
+                "verified": false
+            },
+            {
+                "id": "554447662",
+                "name": "Suce$$o 7",
+                "username": "sucessosete",
+                "verified": false
+            },
+            {
+                "id": "553026541",
+                "name": "Erivaldo",
+                "username": "Hinode1234",
+                "verified": false
+            },
+            {
+                "id": "508366202",
+                "name": "Via Web",
+                "username": "pontodachina",
+                "verified": false
+            },
+            {
+                "id": "304356598",
+                "name": "Valter Paulista",
+                "username": "vanupa",
+                "verified": false
+            },
+            {
+                "id": "74760746",
+                "name": "Robson Rara",
+                "username": "bariocv",
+                "verified": false
+            },
+            {
+                "id": "368641337",
+                "name": "djfrankwilem",
+                "username": "djfrankwilem",
+                "verified": false
+            },
+            {
+                "id": "489566716",
+                "name": "francine bueno",
+                "username": "buenofranc",
+                "verified": false
+            },
+            {
+                "id": "449140733",
+                "name": "Anisio Miron Aran",
+                "username": "AnisioMAran",
+                "verified": false
+            },
+            {
+                "id": "485154412",
+                "name": "ganhodinheiroagora",
+                "username": "ganhodinheiroag",
+                "verified": false
+            },
+            {
+                "id": "125167212",
+                "name": "sergio ricardo",
+                "username": "sergiaolellis",
+                "verified": false
+            },
+            {
+                "id": "480912424",
+                "name": "RodrigoCr\u00e9ditoPaypal",
+                "username": "fxrodrigues1",
+                "verified": false
+            },
+            {
+                "id": "475131734",
+                "name": "Sergio",
+                "username": "SergioCampos655",
+                "verified": false
+            },
+            {
+                "id": "466770826",
+                "name": "Du_Virtual",
+                "username": "Du_Virtual",
+                "verified": false
+            },
+            {
+                "id": "451118258",
+                "name": "FM Ouro Negro",
+                "username": "Fmdoalto",
+                "verified": false
+            },
+            {
+                "id": "425137946",
+                "name": "Ana ramos",
+                "username": "Anaramos62",
+                "verified": false
+            },
+            {
+                "id": "449443536",
+                "name": "O vencedor",
+                "username": "ovencedorr",
+                "verified": false
+            },
+            {
+                "id": "194762993",
+                "name": "IDEMARCOS",
+                "username": "idneres",
+                "verified": false
+            },
+            {
+                "id": "438437849",
+                "name": "Amaury Lima",
+                "username": "AmauryRlima",
+                "verified": false
+            },
+            {
+                "id": "442733700",
+                "name": "RP Contabilidade",
+                "username": "RPPassosrj",
+                "verified": false
+            },
+            {
+                "id": "437885960",
+                "name": "Fernando Limeira Fri",
+                "username": "FriFernando",
+                "verified": false
+            },
+            {
+                "id": "129222915",
+                "name": "J\u00falio C\u00e9sar",
+                "username": "julio4010",
+                "verified": false
+            },
+            {
+                "id": "411499602",
+                "name": "Humberto Pereira",
+                "username": "Betinhosgda",
+                "verified": false
+            },
+            {
+                "id": "409215094",
+                "name": "Adam Neves Rodrigues",
+                "username": "VendasAdam",
+                "verified": false
+            },
+            {
+                "id": "57924914",
+                "name": "Diego Magno",
+                "username": "diegommroza",
+                "verified": false
+            },
+            {
+                "id": "386613888",
+                "name": "Everton S. Ferreira",
+                "username": "lutevenca",
+                "verified": false
+            },
+            {
+                "id": "364561952",
+                "name": "Victor Hugo",
+                "username": "1Poneimaldito1",
+                "verified": false
+            },
+            {
+                "id": "367167784",
+                "name": "wagner",
+                "username": "WagVerde",
+                "verified": false
+            },
+            {
+                "id": "378175857",
+                "name": "Luciana Alves",
+                "username": "LucianaAlves52",
+                "verified": false
+            },
+            {
+                "id": "294525293",
+                "name": "Josilene Martins",
+                "username": "consultorajosi",
+                "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "363313346176491520",
-        "next_token": "1jzu9lk96gu5npw0kzzysuzd8kb65q1eztkjncx1fcl9",
-        "oldest_id": "361169660277829632",
-        "result_count": 493
+        "newest_id": "362894516329529344",
+        "next_token": "1jzu9lk96gu5npw0kzzjxxkh2e9ltkhqx9k1p0hxbp8d",
+        "oldest_id": "360697276974379009",
+        "result_count": 490
     }
 }

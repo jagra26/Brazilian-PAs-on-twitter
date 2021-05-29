@@ -2,538 +2,6 @@
     "data": [
         {
             "author_id": "310497473",
-            "created_at": "2012-11-27T17:45:06.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "GreenpeaceBR"
-                    }
-                ]
-            },
-            "id": "273482593666744320",
-            "in_reply_to_user_id": "16334137",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@GreenpeaceBR A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:45:02.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 11,
-                        "start": 0,
-                        "username": "WWF_Brasil"
-                    }
-                ]
-            },
-            "id": "273482577711611905",
-            "in_reply_to_user_id": "11160692",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@WWF_Brasil A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:58.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "psustentavel"
-                    }
-                ]
-            },
-            "id": "273482561639047169",
-            "in_reply_to_user_id": "17655568",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@psustentavel A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:53.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "globoamazonia"
-                    }
-                ]
-            },
-            "id": "273482540990476288",
-            "in_reply_to_user_id": "16670748",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@globoamazonia A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:49.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 6,
-                        "start": 0,
-                        "username": "o_eco"
-                    }
-                ]
-            },
-            "id": "273482525685469184",
-            "in_reply_to_user_id": "22914738",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@o_eco A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:46.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "andretrig"
-                    }
-                ]
-            },
-            "id": "273482510711812096",
-            "in_reply_to_user_id": "42593930",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@andretrig A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:42.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "brasil_IBAMA"
-                    }
-                ]
-            },
-            "id": "273482495385825280",
-            "in_reply_to_user_id": "38790549",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@brasil_IBAMA A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:38.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "redeecoblogs"
-                    }
-                ]
-            },
-            "id": "273482478956707840",
-            "in_reply_to_user_id": "89699805",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@redeecoblogs A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:34.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 8,
-                        "start": 0,
-                        "username": "ecodorg"
-                    }
-                ]
-            },
-            "id": "273482460426301440",
-            "in_reply_to_user_id": "27636830",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@ecodorg A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:30.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "coletivoverde"
-                    }
-                ]
-            },
-            "id": "273482443707801600",
-            "in_reply_to_user_id": "64542891",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@coletivoverde A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:27.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "ecodebate"
-                    }
-                ]
-            },
-            "id": "273482431439450114",
-            "in_reply_to_user_id": "35524446",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "@ecodebate A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:20.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "CicloVivo"
-                    }
-                ]
-            },
-            "id": "273482401496305665",
-            "in_reply_to_user_id": "57254597",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@CicloVivo A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:09.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "esustentavel"
-                    }
-                ]
-            },
-            "id": "273482358060093440",
-            "in_reply_to_user_id": "26621305",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@esustentavel A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:06.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 15,
-                        "start": 0,
-                        "username": "EXAME_ambiente"
-                    }
-                ]
-            },
-            "id": "273482343199686656",
-            "in_reply_to_user_id": "96981090",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@EXAME_ambiente A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:44:03.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "VivoVerde"
-                    }
-                ]
-            },
-            "id": "273482330562252800",
-            "in_reply_to_user_id": "17597900",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 2
-            },
-            "text": "@VivoVerde A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:43:59.000Z",
-            "id": "273482313617272833",
-            "in_reply_to_user_id": "33262947",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@ecopratico A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:43:54.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 15,
-                        "start": 0,
-                        "username": "socioambiental"
-                    }
-                ]
-            },
-            "id": "273482294390579200",
-            "in_reply_to_user_id": "17871562",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@socioambiental A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:43:51.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 11,
-                        "start": 0,
-                        "username": "eco4planet"
-                    }
-                ]
-            },
-            "id": "273482281035898880",
-            "in_reply_to_user_id": "58456035",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@eco4planet A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:43:48.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 15,
-                        "start": 0,
-                        "username": "fontesnaturais"
-                    }
-                ]
-            },
-            "id": "273482269262487554",
-            "in_reply_to_user_id": "55622536",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@fontesnaturais A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:43:45.000Z",
-            "id": "273482254666330112",
-            "in_reply_to_user_id": "35232853",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@pmeioambiente A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:43:41.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "CarbonoBrasil"
-                    }
-                ]
-            },
-            "id": "273482239021551616",
-            "in_reply_to_user_id": "21306483",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@CarbonoBrasil A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:43:36.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 15,
-                        "start": 0,
-                        "username": "Id_sustentavel"
-                    }
-                ]
-            },
-            "id": "273482219157323776",
-            "in_reply_to_user_id": "42636720",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@Id_sustentavel A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:43:33.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "recicleideias"
-                    }
-                ]
-            },
-            "id": "273482204590518272",
-            "in_reply_to_user_id": "69379463",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@recicleideias A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:43:17.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "IPAM_Amazonia"
-                    }
-                ]
-            },
-            "id": "273482139234885633",
-            "in_reply_to_user_id": "67302940",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@IPAM_Amazonia A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
-            "created_at": "2012-11-27T17:43:14.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 15,
-                        "start": 0,
-                        "username": "ambientebrasil"
-                    }
-                ]
-            },
-            "id": "273482124215087105",
-            "in_reply_to_user_id": "50723136",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "@ambientebrasil A Vale acelera a minera\u00e7\u00e3o e coloca em risco a biodiversidade da Floresta Nacional de Caraj\u00e1s http://t.co/amdVvqIP \u2026"
-        },
-        {
-            "author_id": "310497473",
             "created_at": "2012-11-27T17:43:09.000Z",
             "entities": {
                 "mentions": [
@@ -1753,18 +1221,6 @@
                 "retweet_count": 0
             },
             "text": "Ruiu audit\u00f3rio do Parque Nacional Sintra-Cascais: O audit\u00f3rio das instala\u00e7\u00f5es do Parque Natural Sintra-Cascais, ... http://t.co/YhprE8Ey"
-        },
-        {
-            "author_id": "64738239",
-            "created_at": "2012-11-26T19:48:15.000Z",
-            "id": "273151199379853312",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "text": "Que tal se hospedar em uma Reserva Natural? \u00c9 garantia de muita Natureza ao seu redor! Simplicidade aliada ao... http://t.co/ZYDRZVNo"
         },
         {
             "author_id": "90475950",
@@ -6818,6 +6274,403 @@
                 "retweet_count": 0
             },
             "text": "Audi\u00eancia vai discutir cria\u00e7\u00e3o do Monumento Natural da Serrinha http://t.co/rDswpjHH"
+        },
+        {
+            "author_id": "240738253",
+            "created_at": "2012-11-21T17:05:33.000Z",
+            "id": "271298316732600321",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "UEM vai dar suporte ao Parque Nacional de Ilha Grande.\n\nNa sexta-feira, dia 16, a Universidade Estadual de... http://t.co/d5kYTHOy"
+        },
+        {
+            "author_id": "191918158",
+            "created_at": "2012-11-21T16:55:31.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "start": 0,
+                        "username": "marceloadnet0"
+                    },
+                    {
+                        "end": 29,
+                        "start": 15,
+                        "username": "pluraleemsite"
+                    }
+                ]
+            },
+            "id": "271295791350546432",
+            "in_reply_to_user_id": "146367309",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "@marceloadnet0 @pluraleemsite Isso \u00e9 o progresso, o que significa uma \u00e1rea de prote\u00e7\u00e3o ambiental, diante de um resort para divertir turistas"
+        },
+        {
+            "author_id": "161262581",
+            "created_at": "2012-11-21T16:01:03.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "start": 3,
+                        "username": "1step2theleft"
+                    }
+                ]
+            },
+            "id": "271282081986928641",
+            "in_reply_to_user_id": "60052018",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "rt @1step2theleft Surreal Landscape of Parque Nacional dos Len\u00e7\u00f3is http://t.co/GOIJJIKn #Travel #Brazil #ttot"
+        },
+        {
+            "author_id": "168880097",
+            "created_at": "2012-11-21T15:59:49.000Z",
+            "id": "271281773172908032",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Incr\u00edvel c\u00e9u no Parque Nacional da Serra da Bocaina \u2013 S\u00e3o Paulo http://t.co/Njn7aG8G"
+        },
+        {
+            "author_id": "206424638",
+            "created_at": "2012-11-21T15:36:32.000Z",
+            "id": "271275915118518272",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Hoje li uma reportagem sobre a constru\u00e7\u00e3o do Resort na Praia da Reserva, \u00e1rea de prote\u00e7\u00e3o ambiental,  onde (cont) http://t.co/5gRteHBw"
+        },
+        {
+            "author_id": "32901996",
+            "created_at": "2012-11-21T15:17:51.000Z",
+            "id": "271271211340800000",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Pantanal Matogrossense MS/MT - Terra das \u00e1guas \n\nhttp://t.co/SlpEpWgl"
+        },
+        {
+            "author_id": "224312818",
+            "created_at": "2012-11-21T15:04:56.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.47919488,
+                        -25.61374444
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "271267959962492929",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Parque Nacional do Igua\u00e7u (Foz do Igua\u00e7u, PR) http://t.co/HscmAKit"
+        },
+        {
+            "author_id": "53085255",
+            "created_at": "2012-11-21T14:45:03.000Z",
+            "id": "271262955390267393",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "E voc\u00ea, j\u00e1 conhece esta que \u00e9 uma das maiores belezas do mundo? Confira em nosso flickr alguns registros do Parque Nacional dos Len\u00e7\u00f3is."
+        },
+        {
+            "author_id": "805367940",
+            "created_at": "2012-11-21T14:32:07.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 32,
+                        "start": 23,
+                        "username": "Marca_RJ"
+                    }
+                ]
+            },
+            "id": "271259703693172736",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Rio continua lindo! RT @Marca_RJ: A BELEZA do Parque Nacional da Tijuca tornou-se uma importante \u00e1rea de lazer do Rio. http://t.co/UYTJLnnx"
+        },
+        {
+            "author_id": "20727955",
+            "created_at": "2012-11-21T14:03:38.000Z",
+            "id": "271252533354319872",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Pantanal Matogrossense MS/MT - Terra das \u00e1guas\n\nO territ\u00f3rio que compreende o Pantanal... http://t.co/QmpkKcLj"
+        },
+        {
+            "author_id": "464477761",
+            "created_at": "2012-11-21T13:47:17.000Z",
+            "id": "271248421069918208",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00c1rea protegida: peligro...\nCanal Cultura http://t.co/XqLkltB8"
+        },
+        {
+            "author_id": "112185190",
+            "created_at": "2012-11-21T12:54:54.000Z",
+            "id": "271235237080621058",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "http://t.co/91dPYFWU Hotel Castrum Villae (Castro Laboreiro, Melga\u00e7o): Situado dentro do Parque Nacional da Peneda-Ger\u00eas,"
+        },
+        {
+            "author_id": "36044740",
+            "created_at": "2012-11-21T12:54:37.000Z",
+            "id": "271235166691815425",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Floresta Nacional do Tapaj\u00f3s.\nVale a pena conhecer, no munic\u00edpio de Belterra.\nCom o devido consentimento do... http://t.co/Rf6MLoOg"
+        },
+        {
+            "author_id": "192983347",
+            "created_at": "2012-11-21T12:19:20.000Z",
+            "id": "271226287543173121",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "UEM dar\u00e1 suporte a pesquisas no  Parque Nacional de Ilha Grande. http://t.co/tNxCQxCi"
+        },
+        {
+            "author_id": "23222690",
+            "created_at": "2012-11-21T11:58:49.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "username": "Incubo"
+                    }
+                ]
+            },
+            "id": "271221123428012032",
+            "in_reply_to_user_id": "773808",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@incubo | Arcos de Valdevez - reuni\u00e3o do projeto Eco-Biz. Eco-inova\u00e7\u00e3o no Parque Nacional da Peneda-Ger\u00eas"
+        },
+        {
+            "author_id": "193262815",
+            "created_at": "2012-11-21T11:51:31.000Z",
+            "id": "271219285869854721",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "parque nacional de corrubedo http://t.co/Z177ewJo"
+        },
+        {
+            "author_id": "253034260",
+            "created_at": "2012-11-21T11:45:33.000Z",
+            "geo": {
+                "place_id": "5722ff20ba67083b"
+            },
+            "id": "271217784493592577",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Parque Nacional do Viru\u00e1 cria Conselho Consultivo. http://t.co/nKR78EWC"
+        },
+        {
+            "author_id": "56555257",
+            "created_at": "2012-11-21T11:39:17.000Z",
+            "id": "271216209582755840",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "O show da foto foi nos 70 anos do Parque Nacional Do Igua\u00e7u. http://t.co/IW4VWopQ"
+        },
+        {
+            "author_id": "358193358",
+            "created_at": "2012-11-21T11:23:11.000Z",
+            "id": "271212155032965120",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Reserva #biol\u00f3gica #Amap\u00e1 Inc\u00eandio criminoso destr\u00f3i reserva biol\u00f3gica no Amap\u00e1 http://t.co/RevthFSl"
+        },
+        {
+            "author_id": "581814710",
+            "created_at": "2012-11-21T10:20:15.000Z",
+            "id": "271196316137299969",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Fogo segue destruindo  a reserva biol\u00f3gica do Piratuba e sem BSB haver se manifestado sobre ajuda p conter labaredas."
+        },
+        {
+            "author_id": "78549013",
+            "created_at": "2012-11-21T09:06:54.000Z",
+            "id": "271177860549595136",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Perspectiva da \u00c1rea Protegida das Lagoas de Bertiandos e S. Pedro de Arcos. Fot. Susana Matos. http://t.co/T5Va7GLI"
+        },
+        {
+            "author_id": "905929321",
+            "created_at": "2012-11-21T07:20:25.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 101,
+                        "start": 89,
+                        "username": "citisparrow"
+                    }
+                ]
+            },
+            "id": "271151062868717568",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "~~~ ACTIONS! ~CREATE THE PARQUE NACIONAL DA SERRA DO GANDARELA! http://t.co/TOXOMHnk via @citisparrow"
+        },
+        {
+            "author_id": "915994843",
+            "created_at": "2012-11-21T01:05:18.000Z",
+            "id": "271056662209650688",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#pared\u00e3o @ Parque Nacional da Chapada dos Guimar\u00e3es http://t.co/OycCwrvz"
+        },
+        {
+            "author_id": "188049002",
+            "created_at": "2012-11-21T00:24:04.000Z",
+            "id": "271046282511011840",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "BAHIA MALAGA - Parque Nacional Natural Uramba - http://t.co/8ii29ixr v\u00eda @revistasoyvalle"
+        },
+        {
+            "author_id": "72171848",
+            "created_at": "2012-11-21T00:03:51.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 124,
+                        "start": 117,
+                        "username": "orfury"
+                    }
+                ]
+            },
+            "id": "271041195982065664",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Inc\u00eandio no Parque Nacional da Serra do Cip\u00f3 j\u00e1 \u00e9 considerado o maior dos \u00faltimos sete anos http://t.co/Xu9nFxAP via @orfury"
+        },
+        {
+            "author_id": "103726643",
+            "created_at": "2012-11-20T23:55:55.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -39.44468172,
+                        -7.21085542
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "04279e8b69ef0f08"
+            },
+            "id": "271039199724072961",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Floresta Nacional do Araripe (Crato, Cear\u00e1) http://t.co/mRtcDcvi"
         }
     ],
     "errors": [
@@ -6829,6 +6682,24 @@
             "title": "Forbidden",
             "type": "https://api.twitter.com/2/problems/resource-not-found",
             "value": "Greenpeace_Br"
+        },
+        {
+            "detail": "User has been suspended: [CarlosPort].",
+            "parameter": "entities.mentions.username",
+            "resource_id": "CarlosPort",
+            "resource_type": "user",
+            "title": "Forbidden",
+            "type": "https://api.twitter.com/2/problems/resource-not-found",
+            "value": "CarlosPort"
+        },
+        {
+            "detail": "User has been suspended: [marceloadnet0].",
+            "parameter": "entities.mentions.username",
+            "resource_id": "marceloadnet0",
+            "resource_type": "user",
+            "title": "Forbidden",
+            "type": "https://api.twitter.com/2/problems/resource-not-found",
+            "value": "marceloadnet0"
         }
     ],
     "includes": {
@@ -6902,6 +6773,13 @@
                 "full_name": "S\u00e3o Paulo, Brasil",
                 "id": "68e019afec7d0ba5",
                 "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Bras\u00edlia, Brasil",
+                "id": "5722ff20ba67083b",
+                "place_type": "city"
             }
         ],
         "users": [
@@ -6910,144 +6788,6 @@
                 "name": "Ag\u00eancia P\u00fablica",
                 "username": "agenciapublica",
                 "verified": true
-            },
-            {
-                "id": "16334137",
-                "name": "Greenpeace Brasil",
-                "username": "GreenpeaceBR",
-                "verified": true
-            },
-            {
-                "id": "11160692",
-                "name": "WWF-Brasil",
-                "username": "WWF_Brasil",
-                "verified": true
-            },
-            {
-                "id": "17655568",
-                "name": "Planeta Sustent\u00e1vel",
-                "username": "psustentavel",
-                "verified": false
-            },
-            {
-                "id": "16670748",
-                "name": "Globo Amaz\u00f4nia",
-                "username": "globoamazonia",
-                "verified": false
-            },
-            {
-                "id": "22914738",
-                "name": "((o))eco | Jornalismo Ambiental",
-                "username": "o_eco",
-                "verified": true
-            },
-            {
-                "id": "42593930",
-                "name": "Andr\u00e9 Trigueiro",
-                "username": "andretrig",
-                "verified": true
-            },
-            {
-                "id": "38790549",
-                "name": "IBAMA",
-                "username": "brasil_IBAMA",
-                "verified": false
-            },
-            {
-                "id": "89699805",
-                "name": "Rede Ecoblogs",
-                "username": "redeecoblogs",
-                "verified": false
-            },
-            {
-                "id": "27636830",
-                "name": "Portal EcoD",
-                "username": "ecodorg",
-                "verified": false
-            },
-            {
-                "id": "64542891",
-                "name": "Coletivo Verde",
-                "username": "coletivoverde",
-                "verified": false
-            },
-            {
-                "id": "35524446",
-                "name": "Portal EcoDebate",
-                "username": "ecodebate",
-                "verified": false
-            },
-            {
-                "id": "57254597",
-                "name": "CicloVivo",
-                "username": "CicloVivo",
-                "verified": false
-            },
-            {
-                "id": "26621305",
-                "name": "eSustentavel",
-                "username": "esustentavel",
-                "verified": false
-            },
-            {
-                "id": "96981090",
-                "name": "EXAME Meio Ambiente",
-                "username": "EXAME_ambiente",
-                "verified": false
-            },
-            {
-                "id": "17597900",
-                "name": "\ud83c\udf0e Portal VivoVerde\ud83c\udf31",
-                "username": "VivoVerde",
-                "verified": false
-            },
-            {
-                "id": "17871562",
-                "name": "socioambiental",
-                "username": "socioambiental",
-                "verified": true
-            },
-            {
-                "id": "58456035",
-                "name": "eco4planet",
-                "username": "eco4planet",
-                "verified": false
-            },
-            {
-                "id": "55622536",
-                "name": "FONTES NATURAIS",
-                "username": "fontesnaturais",
-                "verified": false
-            },
-            {
-                "id": "21306483",
-                "name": "CarbonoBrasil",
-                "username": "CarbonoBrasil",
-                "verified": false
-            },
-            {
-                "id": "42636720",
-                "name": "Ideia Sustent\u00e1vel",
-                "username": "Id_sustentavel",
-                "verified": false
-            },
-            {
-                "id": "69379463",
-                "name": "Recicle Suas Ideias",
-                "username": "recicleideias",
-                "verified": false
-            },
-            {
-                "id": "67302940",
-                "name": "IPAM_Amaz\u00f4nia",
-                "username": "IPAM_Amazonia",
-                "verified": true
-            },
-            {
-                "id": "50723136",
-                "name": "ambientebrasil",
-                "username": "ambientebrasil",
-                "verified": false
             },
             {
                 "id": "102145039",
@@ -7476,12 +7216,6 @@
                 "verified": false
             },
             {
-                "id": "64738239",
-                "name": "Thiago Cagna",
-                "username": "tcagna",
-                "verified": false
-            },
-            {
                 "id": "90475950",
                 "name": "AltaMontanha",
                 "username": "AltaMontanhacom",
@@ -7587,12 +7321,6 @@
                 "id": "68462027",
                 "name": "\u00c9lide Canovas",
                 "username": "elidecanovas",
-                "verified": false
-            },
-            {
-                "id": "52031618",
-                "name": "Carlos Port \ud83c\udde7\ud83c\uddf7",
-                "username": "CarlosPort",
                 "verified": false
             },
             {
@@ -9502,13 +9230,151 @@
                 "name": "Rog\u00e9rio Correia",
                 "username": "RogerioCorreia_",
                 "verified": true
+            },
+            {
+                "id": "240738253",
+                "name": "Radio Abdallah FM",
+                "username": "abdallahfm",
+                "verified": false
+            },
+            {
+                "id": "191918158",
+                "name": "MarcioPimenta",
+                "username": "Mborges67",
+                "verified": false
+            },
+            {
+                "id": "35201891",
+                "name": "plurale em site #vacinaparatodos",
+                "username": "pluraleemsite",
+                "verified": false
+            },
+            {
+                "id": "161262581",
+                "name": "Michael",
+                "username": "easyhiker101",
+                "verified": false
+            },
+            {
+                "id": "168880097",
+                "name": "Renato Teixeira",
+                "username": "renataoteixeira",
+                "verified": false
+            },
+            {
+                "id": "206424638",
+                "name": "Eliane Silva\ud83c\udde7\ud83c\uddf7\ud83d\ude4c\u2764\ufe0f\ud83c\udde7\ud83c\uddf7",
+                "username": "LLia10",
+                "verified": false
+            },
+            {
+                "id": "224312818",
+                "name": "juan bailetti \uf8ff",
+                "username": "tuitafollower",
+                "verified": false
+            },
+            {
+                "id": "53085255",
+                "name": "Governo do Maranh\u00e3o",
+                "username": "GovernoMA",
+                "verified": true
+            },
+            {
+                "id": "277177186",
+                "name": "Marca RJ",
+                "username": "Marca_RJ",
+                "verified": false
+            },
+            {
+                "id": "20727955",
+                "name": "Carlos Gomes",
+                "username": "carlos_gomes",
+                "verified": false
+            },
+            {
+                "id": "464477761",
+                "name": "CANAL CULTURA",
+                "username": "CANALCULTUR",
+                "verified": false
+            },
+            {
+                "id": "36044740",
+                "name": "Emanuel J\u00falio Leite",
+                "username": "santaremconexao",
+                "verified": false
+            },
+            {
+                "id": "192983347",
+                "name": "Tribuna de Cianorte",
+                "username": "tribunacianorte",
+                "verified": false
+            },
+            {
+                "id": "23222690",
+                "name": "Rodrigo Castro",
+                "username": "rodrigomlcastro",
+                "verified": false
+            },
+            {
+                "id": "773808",
+                "name": "Incubo",
+                "username": "Incubo",
+                "verified": false
+            },
+            {
+                "id": "193262815",
+                "name": "duluoz",
+                "username": "cofratas",
+                "verified": false
+            },
+            {
+                "id": "253034260",
+                "name": "ICMBio",
+                "username": "ICMBio",
+                "verified": false
+            },
+            {
+                "id": "358193358",
+                "name": "Amap\u00e1 HitHot",
+                "username": "Amapa_HitHot",
+                "verified": false
+            },
+            {
+                "id": "581814710",
+                "name": "Luiz Melo",
+                "username": "luizmelodiario",
+                "verified": false
+            },
+            {
+                "id": "78549013",
+                "name": "Munic\u00edpio Ponte Lima",
+                "username": "mun_pontedelima",
+                "verified": false
+            },
+            {
+                "id": "905929321",
+                "name": "CORINA STREAHORN",
+                "username": "CORINASTWEET",
+                "verified": false
+            },
+            {
+                "id": "181481383",
+                "name": "sparrow",
+                "username": "citisparrow",
+                "verified": false
+            },
+            {
+                "id": "915994843",
+                "name": "Rafael Nagano",
+                "username": "rafaellnagano",
+                "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "273482593666744320",
-        "next_token": "1jzu9lk96gu5npvzzslf0lm08n5ajh3xhr0u8mcu7ed9",
-        "oldest_id": "271304206688858112",
+        "newest_id": "273482102987710464",
+        "next_token": "1jzu9lk96gu5npvzzsleu8c53shyu9x1pbssl0mh1mkd",
+        "oldest_id": "271039199724072961",
         "result_count": 493
     }
 }
