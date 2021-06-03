@@ -13,11 +13,12 @@ dados do registro histórico do Twitter.
 - [Licença](#licença)
 
 ## Estrutura
-Os dois principais scripts do projeto são 
+Os três principais scripts do projeto são 
 [full-archive-search](full-archive-search.py) e
 [convert](convert.py).
+[cloud](cloud.py)
 São baseados na [API do twitter](https://github.com/twitterdev/Twitter-API-v2-sample-code),
-e em [Pandas](https://pandas.pydata.org) 
+em [Pandas](https://pandas.pydata.org) e em [Wordcloud](https://github.com/amueller/word_cloud)
 
 Há também um [arquivo](variables.py) de configuração.
 
@@ -77,6 +78,7 @@ A variável *max_results* se refere a quantidade de tweets
 que cosntará em cada página. Por padrão o valor é 500, números muito altos
 gerarão erros de excesso de requisições.
 
+A variável stopwords trata das palavras que serão excluidas nas wordclouds
 ## Uso
 
 Após tudo instalado e configurado, inicie buscando os tweets.
@@ -90,12 +92,20 @@ Que ficam salvos no diretório referente ao intervalo buscado.
 Para reunir a informação de todas as páginas em um único arquivo, 
 utilize o programa [convert.py](convert.py):
 ```
-python3 full-archive-search.py
+python3 convert.py
 ```
 Este programa gera duas tabelas, uma .csv e outra .xlsx
 Ambas contém a informação de todas páginas anteriormente 
 baixadas. Estes formatos facilitam a análise e elaboração
 de gráficos.
+
+Para gerar as wordclouds das buscas utilize:
+```
+python3 cloud.py
+```
+Gerando uma imagem para cada subdiretório de results e uma imagem geral:
+
+![Wordcloud geral do projeto](cloud.png)
 
 ## Autores
 
