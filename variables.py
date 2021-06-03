@@ -1,3 +1,4 @@
+from wordcloud import STOPWORDS
 start = '2020-01-01T00:00:00Z'
 end = '2020-12-31T23:59:59Z'
 path = "./results/"
@@ -9,3 +10,12 @@ user_fields = 'name,username,verified'
 expansions = 'geo.place_id,entities.mentions.username,author_id'
 place_fields = 'country,country_code,place_type'
 max_results = '500'
+stopwords = set(STOPWORDS)
+stopwords.update(["https", "Unidade de conservação", "Area protegida",
+                  "Parque Nacional", "Estação ecológica", "Reserva biológica",
+                  "Monumento natural", "Refúgio da vida silvestre",
+                  "Reserva extrativista", "Área de proteção ambiental",
+                  "Floresta nacional", "Reserva de desenvolvimento sustentável",
+                  "Área de relevante interesse", "Reserva Particular do Patrimônio Natural",
+                  "do", "de", "da", "para", "e", "t", "co", "uma", "o", "a", "pra",
+                  "para", "um", "dos", "das", "é"])
