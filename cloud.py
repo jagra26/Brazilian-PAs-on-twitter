@@ -24,7 +24,8 @@ for directory in glob.glob(var.path + "*"):
     #print(df.head())
     text = " ".join(str(review) for review in df.text)
     text_comp += text
-    name = directory.split("\\")
+    name = directory.split("/")
+    print(name)
     create_cloud(directory, name[1], text)
 create_cloud("./", "cloud", text_comp)
 """
