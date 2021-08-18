@@ -8,9 +8,7 @@ import glob
 import os
 from alive_progress import alive_bar
 import folium
-import matplotlib.pyplot as plt
-from IPython.display import HTML, display
-import webbrowser
+import time
 
 def get_coordinates(df, name):
 	geotagged_df = df[~df.place_id.isnull()]
@@ -48,8 +46,8 @@ def get_coordinates(df, name):
 	data = {'lat' : lat, 'long' : long, 'N': N}
 	coordinates = pd.DataFrame(data=data)
 	coordinates.to_csv(name+".csv")
-	print(db)
-def generate_map(file):
+	#print(db)
+def generate_map(file, out):
 	m = folium.Map(location=[20,0], tiles="OpenStreetMap", zoom_start=2)
 	data = pd.read_csv(file, dtype=str)
 	for i in range(0,len(data)):
@@ -60,8 +58,22 @@ def generate_map(file):
 		fill=True,
 		fill_color='crimson'
 		).add_to(m)
-	m.save("map.html")
-df = pd.read_csv("./results/2021-01-01_2021-07-31/2021-01-01_2021-07-31.csv")
+	m.save(out)
+
+for directory in glob.glob(var.path + "*"):
+    print(directory)
+    df = pd.read_csv(glob.glob(directory + "/2*.csv")[0])
+    print(df.head())
+    get_coordinates(df, directory + "/coordinates")
+    generate_map(directory + "/coordinates.csv", directory + "/map.html")
+    print("sleep for 10 seconds")
+    time.sleep(10)
+    '''text = " ".join(str(review) for review in df.text)
+    text_comp += text
+    name = directory.split("/")
+    print(name)'''
+    #create_cloud(directory, name[1], text)
+'''df = pd.read_csv("./results/2020-01-01_2020-12-31/2020-01-01_2020-12-31.csv")
 print(df)
-#get_coordinates(df, "test")
-generate_map("test.csv")
+get_coordinates(df, "test")
+generate_map("test.csv")'''
