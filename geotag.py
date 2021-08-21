@@ -59,8 +59,28 @@ def generate_map(file, out):
 		fill_color='crimson'
 		).add_to(m)
 	m.save(out)
+def general_map():
+	dic = {}
+	for directory in glob.glob(var.path + "*"):
+		df = pd.read_csv((glob.glob(directory + "/coordinates.csv")[0]))
+		for ind in df.index:
+			pair = (df['lat'][ind], df['long'][ind])
+			if dic.get(pair) is None:
+					dic.update({pair : df['N'][ind]})
+			else:
+				dic[pair] += df['N'][ind]
+	lat = []
+	long = []
+	N = []
+	for coordinates in dic:
+		lat.append(coordinates[0])
+		long.append(coordinates[1])
+		N.append(dic[coordinates])
+	data = {'lat' : lat, 'long' : long, 'N': N}
+	coordinates = pd.DataFrame(data=data)
+	coordinates.to_csv("coordinates.csv")
 
-for directory in glob.glob(var.path + "*"):
+'''for directory in glob.glob(var.path + "*"):
     print(directory)
     df = pd.read_csv(glob.glob(directory + "/2*.csv")[0])
     print(df.head())
@@ -68,12 +88,6 @@ for directory in glob.glob(var.path + "*"):
     generate_map(directory + "/coordinates.csv", directory + "/map.html")
     print("sleep for 10 seconds")
     time.sleep(10)
-    '''text = " ".join(str(review) for review in df.text)
-    text_comp += text
-    name = directory.split("/")
-    print(name)'''
-    #create_cloud(directory, name[1], text)
-'''df = pd.read_csv("./results/2020-01-01_2020-12-31/2020-01-01_2020-12-31.csv")
-print(df)
-get_coordinates(df, "test")
-generate_map("test.csv")'''
+'''
+general_map()
+generate_map("coordinates.csv", "general_map.html")
