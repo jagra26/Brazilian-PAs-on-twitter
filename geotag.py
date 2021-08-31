@@ -10,7 +10,9 @@ from alive_progress import alive_bar
 import folium
 import time
 
-def get_coordinates(df, name):
+def get_coordinates(file, name):
+	df = pd.read_csv(file, lineterminator='\n')
+	print(df.head())
 	geotagged_df = df[~df.place_id.isnull()]
 	coordinates_list = list(geotagged_df[~geotagged_df.coordinates.isnull()].coordinates)
 	db = {}
@@ -23,12 +25,16 @@ def get_coordinates(df, name):
 		else:
 			db[pair] += 1
 	cities = geotagged_df[geotagged_df.coordinates.isnull()]
+	changed_tweets = {}
 	with alive_bar(len(cities)) as bar:
-		for place in cities.full_name:
+		for ind in cities.index:
 			try:
+				place = cities['full_name'][ind]
 				print(place)
 				point = geolocator.geocode(place).point
 				pair = (round(point.latitude, 2), round(point.longitude, 2))
+				tweet_id = cities['id'][ind]
+				changed_tweets.update({tweet_id:'[' + str(point.longitude) + ', ' + str(point.latitude) + ']'})
 				if db.get(pair) is None:
 					db.update({pair : 1})
 				else:
@@ -36,6 +42,15 @@ def get_coordinates(df, name):
 				bar()
 			except Exception as e:
 				print(e)
+	print(changed_tweets)
+	"""for x in changed_tweets:
+		idx = df.index[df['id']==x]
+		df.iloc[idx, -2] = changed_tweets[x]
+	df.to_csv(file, index=False)
+	excel = pd.ExcelWriter(file[:-4] + '.xlsx')
+	df.to_excel(excel, index=False, engine='xlsxwriter')"""
+	tweetsCoordinates = pd.DataFrame.from_dict(changed_tweets, orient='index')
+	tweetsCoordinates.to_csv(name+'tweets.csv')
 	lat = []
 	long = []
 	N = []
@@ -80,14 +95,13 @@ def general_map():
 	coordinates = pd.DataFrame(data=data)
 	coordinates.to_csv("coordinates.csv")
 
-'''for directory in glob.glob(var.path + "*"):
+for directory in glob.glob(var.path + "2*"):
     print(directory)
-    df = pd.read_csv(glob.glob(directory + "/2*.csv")[0])
-    print(df.head())
-    get_coordinates(df, directory + "/coordinates")
+    file = glob.glob(directory + "/2*.csv")[0]
+    get_coordinates(file, directory + "/coordinates")
     generate_map(directory + "/coordinates.csv", directory + "/map.html")
     print("sleep for 10 seconds")
     time.sleep(10)
-'''
+
 general_map()
 generate_map("coordinates.csv", "general_map.html")
