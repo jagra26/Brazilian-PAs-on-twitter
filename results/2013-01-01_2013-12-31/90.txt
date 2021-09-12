@@ -1,0 +1,4455 @@
+{
+    "data": [
+        {
+            "author_id": "104796786",
+            "created_at": "2013-01-02T21:19:44.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "55339757",
+                        "start": 0,
+                        "username": "radio1029"
+                    },
+                    {
+                        "end": 22,
+                        "id": "63459107",
+                        "start": 11,
+                        "username": "TransitoBH"
+                    }
+                ]
+            },
+            "id": "286582573075922944",
+            "in_reply_to_user_id": "55339757",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@radio1029 @TransitoBH Tr\u00e2nsito com boa fluidez na Avenida dos Andradas nos 2 sentidos pr\u00f3ximo a Alameda Ezequiel Dias e Parque Municipal."
+        },
+        {
+            "author_id": "48895249",
+            "created_at": "2013-01-02T21:07:37.000Z",
+            "id": "286579522294411264",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 3
+            },
+            "text": "O Parque Nacional do Igua\u00e7u superou a meta de 1,5 milh\u00e3o de visitantes em 2012. Parab\u00e9ns!\n\nhttp://t.co/34wGnsHp http://t.co/IQNC5KmB"
+        },
+        {
+            "author_id": "96047624",
+            "created_at": "2013-01-02T21:05:09.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 121,
+                        "id": "78442101",
+                        "start": 109,
+                        "username": "juu_lunardi"
+                    },
+                    {
+                        "end": 134,
+                        "id": "26148512",
+                        "start": 122,
+                        "username": "bru_lunardi"
+                    }
+                ]
+            },
+            "id": "286578904389533696",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "indo l\u00e1 pras quebradas do parque nacional de brasilia, vi uma oficina chamada \"Lunardi\" e  lembrei de quem ? @juu_lunardi @bru_lunardi"
+        },
+        {
+            "author_id": "82062843",
+            "created_at": "2013-01-02T20:55:52.000Z",
+            "id": "286576567835058176",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Igua\u00e7\u00fa: \n\n http://t.co/KjAx01tX"
+        },
+        {
+            "author_id": "20600212",
+            "created_at": "2013-01-02T20:54:21.000Z",
+            "id": "286576183569702913",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Incr\u00edvel esse v\u00eddeo: on\u00e7a-pintada passeia na recep\u00e7\u00e3o do parque nacional do Igua\u00e7u http://t.co/rjLZEth8"
+        },
+        {
+            "author_id": "57945893",
+            "created_at": "2013-01-02T20:39:19.000Z",
+            "id": "286572400458473472",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Vulc\u00f5es de lama de Gobust\u00e3o, Azerbaij\u00e3o\nA 65 quil\u00f4metros de Baku, capital do Azerbaij\u00e3o, o Parque Nacional do... http://t.co/B3tKFscL"
+        },
+        {
+            "author_id": "57945893",
+            "created_at": "2013-01-02T20:38:50.000Z",
+            "id": "286572281461886977",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Vulc\u00f5es de lama de Gobust\u00e3o, Azerbaij\u00e3o\nA 65 quil\u00f4metros de Baku, capital do Azerbaij\u00e3o, o Parque Nacional do... http://t.co/W6VS8auG"
+        },
+        {
+            "author_id": "115993867",
+            "created_at": "2013-01-02T20:15:18.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 103,
+                        "id": "48895249",
+                        "start": 88,
+                        "username": "portalpanrotas"
+                    }
+                ]
+            },
+            "id": "286566358068641792",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Igua\u00e7u fecha 2012 com recorde de visita\u00e7\u00e3o. http://t.co/gVrESnhJ via @portalpanrotas"
+        },
+        {
+            "author_id": "24574081",
+            "created_at": "2013-01-02T20:03:11.000Z",
+            "geo": {
+                "place_id": "b2a81937097e9a5b"
+            },
+            "id": "286563307693932545",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Municipal de Montes Claros (21 de Julho de 2012) #parque #primas #f\u00e9rias #montescl @ Parque Municipal http://t.co/KAKHTCBO"
+        },
+        {
+            "author_id": "44121930",
+            "created_at": "2013-01-02T19:49:32.000Z",
+            "id": "286559872147931136",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "On\u00e7a pintada \u00e9 vista em bilheteria do Parque Nacional do Igua\u00e7u, no Paran\u00e1 http://t.co/cMb9lD3F"
+        },
+        {
+            "author_id": "568626030",
+            "created_at": "2013-01-02T19:02:37.000Z",
+            "id": "286548066625015808",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Estadual de Ilhabela \u00e9 excelente op\u00e7\u00e3o para o ver\u00e3o!... http://t.co/dRYLIwAI"
+        },
+        {
+            "author_id": "71525594",
+            "created_at": "2013-01-02T18:42:25.000Z",
+            "id": "286542984537837568",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque municipal cerro casupo #valencia http://t.co/4pypVvAe"
+        },
+        {
+            "author_id": "112185190",
+            "created_at": "2013-01-02T18:04:56.000Z",
+            "id": "286533551896293377",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "http://t.co/DKgcLAFd Casa Nobre do Correio-Mor (Ponte da Barca): Com as montanhas do Parque Nacional de Peneda-Ger\u00eas no h"
+        },
+        {
+            "author_id": "177969097",
+            "created_at": "2013-01-02T18:01:37.000Z",
+            "id": "286532717217185793",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Impedir a constru\u00e7\u00e3o de condominio fechado em \u00e1rea de prote\u00e7\u00e3o ambiental em Santa Cruz do Sul. http://t.co/upA3JCku"
+        },
+        {
+            "author_id": "203080494",
+            "created_at": "2013-01-02T17:35:19.000Z",
+            "id": "286526096856461312",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Parque Nacional da Floresta da Tijuca (Rio de Janeiro, RJ) http://t.co/s6djgQom"
+        },
+        {
+            "author_id": "55961311",
+            "created_at": "2013-01-02T17:23:52.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "205840868",
+                        "start": 1,
+                        "username": "PCJalisco"
+                    },
+                    {
+                        "end": 95,
+                        "id": "289677670",
+                        "start": 85,
+                        "username": "Fabianecr"
+                    }
+                ]
+            },
+            "id": "286523215654813696",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u201c@PCJalisco: Parque Nacional #Nevado de Colima, 5cms de nieve hasta la zona...\" Mira @Fabianecr que nos reporte R. Aguilar."
+        },
+        {
+            "author_id": "780498049",
+            "created_at": "2013-01-02T16:44:56.000Z",
+            "id": "286513416556916737",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "sobre lindos lugares: Parque Nacional Plitvice - Cro\u00e1cia http://t.co/xbhPu78B"
+        },
+        {
+            "author_id": "967759303",
+            "created_at": "2013-01-02T16:44:15.000Z",
+            "id": "286513244452057090",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "sobre lindos lugares: Parque Nacional Plitvice - Cro\u00e1cia http://t.co/Jalo97Pw"
+        },
+        {
+            "author_id": "22504688",
+            "created_at": "2013-01-02T16:28:12.000Z",
+            "id": "286509208021635072",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Parque Nacional do Igua\u00e7u (Foz do Igua\u00e7u, PR) w/ 3 others http://t.co/FpWe3cLg"
+        },
+        {
+            "author_id": "608131558",
+            "created_at": "2013-01-02T16:25:46.000Z",
+            "id": "286508594592108544",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Recorde hist\u00f3rico: em 2012, Parque Nacional do Igua\u00e7u atingiu a marca de 1,5 milh\u00e3o de visitantes. \n\nA... http://t.co/DAcMJg2Q"
+        },
+        {
+            "author_id": "100762428",
+            "created_at": "2013-01-02T15:59:38.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -54.47919488,
+                        -25.61374444
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "286502016015015938",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Garganta do Diabo. @ Parque Nacional do Igua\u00e7u http://t.co/Jw0zyV2J"
+        },
+        {
+            "author_id": "171093538",
+            "created_at": "2013-01-02T15:28:02.000Z",
+            "id": "286494064944234498",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Turismo e meio-ambiente: Parque Nacional da Serra da Bocaina continua com a Opera\u00e7\u00e3o Reveillon em Paraty at\u00e9 03/01: http://t.co/59xpQlxW"
+        },
+        {
+            "author_id": "43011495",
+            "created_at": "2013-01-02T15:23:35.000Z",
+            "id": "286492943131504640",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Estacao Ecologica Do Taim (Rio Grande, Rio Grande do Sul) http://t.co/y8GvBmXT"
+        },
+        {
+            "author_id": "40406264",
+            "created_at": "2013-01-02T15:03:11.000Z",
+            "id": "286487811966767106",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "On\u00e7a pintada \u00e9 vista em bilheteria do Parque Nacional do Igua\u00e7u, no Paran\u00e1: Foto: Divulga\u00e7\u00e3o\nUma on\u00e7a pintada fo... http://t.co/96IR7OWR"
+        },
+        {
+            "author_id": "46450116",
+            "created_at": "2013-01-02T15:00:21.000Z",
+            "id": "286487099505524736",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "On\u00e7a pintada \u00e9 vista em bilheteria do Parque Nacional do Igua\u00e7u, no Paran\u00e1 http://t.co/bso8A1wa"
+        },
+        {
+            "author_id": "216669140",
+            "created_at": "2013-01-02T14:57:47.000Z",
+            "id": "286486452999688194",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "E tem atleticano falando de 9x2 At\u00e9 hoje? Realmente, o parque municipal estava lotado naquele jogo..."
+        },
+        {
+            "author_id": "14077645",
+            "created_at": "2013-01-02T14:44:17.000Z",
+            "id": "286483052866174976",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/Na5pbHDr"
+        },
+        {
+            "author_id": "313293464",
+            "created_at": "2013-01-02T14:39:02.000Z",
+            "id": "286481732172140544",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Na pegada esquecida dos Ciganos: No setor mais desconhecido do Parque Nacional da Tijuca, a natureza vigia quiet... http://t.co/Z62ye71d"
+        },
+        {
+            "author_id": "9652422",
+            "created_at": "2013-01-02T14:29:15.000Z",
+            "id": "286479271424323584",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Na pegada esquecida dos Ciganos: No setor mais desconhecido do Parque Nacional da Tijuca, a natureza vigia quiet... http://t.co/PfEfjz67"
+        },
+        {
+            "author_id": "107514943",
+            "created_at": "2013-01-02T14:29:15.000Z",
+            "id": "286479269683658752",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Na pegada esquecida dos Ciganos: No setor mais desconhecido do Parque Nacional da Tijuca, a natureza vigia quiet... http://t.co/iOT5qNb3"
+        },
+        {
+            "author_id": "146627524",
+            "created_at": "2013-01-02T14:22:05.000Z",
+            "id": "286477466824998913",
+            "in_reply_to_user_id": "794597046",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "@Jeeni_Silvaa Eu andei l\u00e1 no parque municipal , andei mto bem U_U R\u00c1A"
+        },
+        {
+            "author_id": "633150940",
+            "created_at": "2013-01-02T14:18:32.000Z",
+            "id": "286476575669616640",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acampar requer muita paci\u00eancia e tempo dispon\u00edvel... teve bom o Parque Estadual do Rio Doce"
+        },
+        {
+            "author_id": "834062040",
+            "created_at": "2013-01-02T13:56:13.000Z",
+            "id": "286470956950618112",
+            "in_reply_to_user_id": "191637417",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@TamaraBravo_ vamos marca um treino no Parque Nacional da Tijuca, Te aviso quando estiver tudo certo!"
+        },
+        {
+            "author_id": "174557684",
+            "created_at": "2013-01-02T13:48:37.000Z",
+            "id": "286469045581131777",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Na pegada esquecida dos Ciganos: No setor mais desconhecido do Parque Nacional da Tijuca, a natureza vigia quiet... http://t.co/eLOi7cAu"
+        },
+        {
+            "author_id": "174557684",
+            "created_at": "2013-01-02T13:48:31.000Z",
+            "id": "286469020297883648",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Na pegada esquecida dos Ciganos: No setor mais desconhecido do Parque Nacional da Tijuca, a natureza vigia quiet... http://t.co/Td21uNNC"
+        },
+        {
+            "author_id": "109415827",
+            "created_at": "2013-01-02T13:48:17.000Z",
+            "id": "286468963926433792",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Na pegada esquecida dos Ciganos: No setor mais desconhecido do Parque Nacional da Tijuca, a natureza vigia quiet... http://t.co/J9TGT848"
+        },
+        {
+            "author_id": "86720743",
+            "created_at": "2013-01-02T13:36:41.000Z",
+            "id": "286466044602769409",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Turismo e meio-ambiente: Parque Nacional da Serra da Bocaina continua com a Opera\u00e7\u00e3o Reveillon em Paraty at\u00e9 03/01: http://t.co/TBwVzGU5"
+        },
+        {
+            "author_id": "389031552",
+            "created_at": "2013-01-02T13:22:18.000Z",
+            "id": "286462423072903168",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "C\u00e2meras de seguran\u00e7a registram imagem de on\u00e7a-pintada no Parque das Cataratas. Veja mais: http://t.co/fErAV2aC"
+        },
+        {
+            "author_id": "389031552",
+            "created_at": "2013-01-02T13:22:17.000Z",
+            "id": "286462417058271232",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "C\u00e2meras de seguran\u00e7a registram imagem de on\u00e7a-pintada no Parque das Cataratas. Veja mais: http://t.co/x9CYiERv"
+        },
+        {
+            "author_id": "499153993",
+            "created_at": "2013-01-02T13:20:19.000Z",
+            "id": "286461921891340288",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "O Parque Municipal Maria Chica ser\u00e1 palco para a grande Festa da Virada \u2013 Reveill\u00f3n 2013 \u2013 que a Prefeitura de... http://t.co/jvCGiKvr"
+        },
+        {
+            "author_id": "107559178",
+            "created_at": "2013-01-02T13:14:29.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -55.82939253,
+                        -15.40554155
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "5187201f64c8b889"
+            },
+            "id": "286460455105490945",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Primeiro dia do ano um sol bonito. @ Parque Nacional de Chapada dos Guimar\u00e3es http://t.co/7LU4jCzf"
+        },
+        {
+            "author_id": "77548226",
+            "created_at": "2013-01-02T13:03:48.000Z",
+            "id": "286457766447566848",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Chapada dos Veadeiros - Go - Brasil #natural #normal #Feliz2013 http://t.co/LX2vxbw1"
+        },
+        {
+            "author_id": "97239012",
+            "created_at": "2013-01-02T13:00:00.000Z",
+            "id": "286456813002571777",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Localizada no Parque Municipal da Lagoa do Peri, a Trilha da Gurita leva at\u00e9 uma cachoeira, com amplas piscinas... http://t.co/E4tMC5g7"
+        },
+        {
+            "author_id": "77548226",
+            "created_at": "2013-01-02T12:59:31.000Z",
+            "id": "286456687882285056",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Chapada dos Veadeiros - Go - Brasil #natural #normal #Feliz2013 http://t.co/PWORkdMP"
+        },
+        {
+            "author_id": "271413715",
+            "created_at": "2013-01-02T12:59:07.000Z",
+            "id": "286456588632477696",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT @garraseguros Estudantes desenvolvem projeto na reserva biol\u00f3gica de S\u00e3o Donato.\nTrabalhos de campo s\u00e3o reali... http://t.co/xKTMxjWn"
+        },
+        {
+            "author_id": "271413715",
+            "created_at": "2013-01-02T12:58:34.000Z",
+            "id": "286456451076075520",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT @garraseguros Estudantes desenvolvem projeto na reserva biol\u00f3gica de S\u00e3o Donato.\nTrabalhos de campo s\u00e3o reali... http://t.co/6iWBX28f"
+        },
+        {
+            "author_id": "148434238",
+            "created_at": "2013-01-02T12:58:18.000Z",
+            "id": "286456384621535232",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT @garraseguros Estudantes desenvolvem projeto na reserva biol\u00f3gica de S\u00e3o Donato.\nTrabalhos de campo s\u00e3o reali... http://t.co/oiLBy7TZ"
+        },
+        {
+            "author_id": "77548226",
+            "created_at": "2013-01-02T12:58:11.000Z",
+            "id": "286456354560933888",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Chapada dos Veadeiros - Go - Brasil #natural #normal #Feliz2013 http://t.co/x20MXtS3"
+        },
+        {
+            "author_id": "148880157",
+            "created_at": "2013-01-02T12:58:02.000Z",
+            "id": "286456316799631361",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "RT @garraseguros Estudantes desenvolvem projeto na reserva biol\u00f3gica de S\u00e3o Donato.\nTrabalhos de campo s\u00e3o reali... http://t.co/PAT8bsas"
+        },
+        {
+            "author_id": "173246373",
+            "created_at": "2013-01-02T12:57:09.000Z",
+            "id": "286456093197099010",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Estudantes desenvolvem projeto na reserva biol\u00f3gica de S\u00e3o Donato.\nTrabalhos de campo s\u00e3o realizados 4 vezes ao ... http://t.co/sLOPNjt9"
+        },
+        {
+            "author_id": "77548226",
+            "created_at": "2013-01-02T12:56:35.000Z",
+            "id": "286455950670450688",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Chapada dos Veadeiros - Go - Brasil #natural #normal #Feliz2013 http://t.co/DHUhsNRv"
+        },
+        {
+            "author_id": "77548226",
+            "created_at": "2013-01-02T12:55:40.000Z",
+            "id": "286455721845997568",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Chapada dos Veadeiros - Go - Brasil #natural #normal #Feliz2013 http://t.co/EXzYLJT1"
+        },
+        {
+            "author_id": "77548226",
+            "created_at": "2013-01-02T12:54:54.000Z",
+            "id": "286455526534021120",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Chapada dos Veadeiros - Go - Brasil #natural #normal #Feliz2013 http://t.co/s8U27hWt"
+        },
+        {
+            "author_id": "77548226",
+            "created_at": "2013-01-02T12:51:52.000Z",
+            "id": "286454763615305728",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Chapada dos Veadeiros - Go - Brasil #natural #normal #Feliz2013 http://t.co/bc6ltoV2"
+        },
+        {
+            "author_id": "77548226",
+            "created_at": "2013-01-02T12:48:56.000Z",
+            "id": "286454027456241664",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Chapada dos Veadeiros-Go-Brasil #normal #natural http://t.co/q7uDC28y"
+        },
+        {
+            "author_id": "77548226",
+            "created_at": "2013-01-02T12:47:00.000Z",
+            "id": "286453540531081216",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Chapada dos Veadeiros #normal #natural http://t.co/smdJVkqK"
+        },
+        {
+            "author_id": "77548226",
+            "created_at": "2013-01-02T12:44:11.000Z",
+            "id": "286452830229889024",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Chapada dos Veadeiros-GO-Brasil http://t.co/xJDhFXg9"
+        },
+        {
+            "author_id": "607470273",
+            "created_at": "2013-01-02T12:25:44.000Z",
+            "id": "286448185730273280",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional recebeu 1.535.382 visitantes em 2012:... http://t.co/Ss9vw4bw"
+        },
+        {
+            "author_id": "61294335",
+            "created_at": "2013-01-02T12:20:55.000Z",
+            "id": "286446976621490176",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "n sei o q est\u00e1 acontecendo c meu cart\u00e3o de mem\u00f3ria, q saco, fui ontem no parque nacional e n tirei fts aha"
+        },
+        {
+            "author_id": "42667621",
+            "created_at": "2013-01-02T11:49:18.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -50.03727833,
+                        -25.23838251
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "062364f1745605a7"
+            },
+            "id": "286439016683954176",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Parque Estadual De Vila Velha - Furnas [pic]: http://t.co/X3HR5BSN"
+        },
+        {
+            "author_id": "231280267",
+            "created_at": "2013-01-02T11:32:53.000Z",
+            "id": "286434889090347008",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/yD7CJlNf"
+        },
+        {
+            "author_id": "416714992",
+            "created_at": "2013-01-02T11:30:51.000Z",
+            "id": "286434375879520256",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/Ezue4k62"
+        },
+        {
+            "author_id": "970208004",
+            "created_at": "2013-01-02T11:30:50.000Z",
+            "id": "286434370313678848",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/HE0a8mTS"
+        },
+        {
+            "author_id": "971034332",
+            "created_at": "2013-01-02T11:30:48.000Z",
+            "id": "286434362071846912",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/erwFn6rZ"
+        },
+        {
+            "author_id": "955684135",
+            "created_at": "2013-01-02T11:30:48.000Z",
+            "id": "286434361442709504",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/lFqV0a0q"
+        },
+        {
+            "author_id": "75621543",
+            "created_at": "2013-01-02T11:30:45.000Z",
+            "id": "286434350852083712",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/jSIBFvTF"
+        },
+        {
+            "author_id": "191253644",
+            "created_at": "2013-01-02T11:30:45.000Z",
+            "id": "286434349501513728",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/e4VX6VHX"
+        },
+        {
+            "author_id": "55901459",
+            "created_at": "2013-01-02T11:30:44.000Z",
+            "id": "286434348184530944",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/f1Z3Lu8E"
+        },
+        {
+            "author_id": "392271297",
+            "created_at": "2013-01-02T11:30:44.000Z",
+            "id": "286434346829766657",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/GgsyM0ES"
+        },
+        {
+            "author_id": "319747208",
+            "created_at": "2013-01-02T11:30:44.000Z",
+            "id": "286434344548069377",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/IpCXW01D"
+        },
+        {
+            "author_id": "272746885",
+            "created_at": "2013-01-02T11:30:43.000Z",
+            "id": "286434343986028544",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/khc6OwQA"
+        },
+        {
+            "author_id": "475776505",
+            "created_at": "2013-01-02T11:30:43.000Z",
+            "id": "286434341981155328",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/745pXhwC"
+        },
+        {
+            "author_id": "841818318",
+            "created_at": "2013-01-02T11:30:42.000Z",
+            "id": "286434338126581760",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/8cAcQydv"
+        },
+        {
+            "author_id": "324153556",
+            "created_at": "2013-01-02T11:30:42.000Z",
+            "id": "286434335819714560",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/HTDrL3t2"
+        },
+        {
+            "author_id": "570955070",
+            "created_at": "2013-01-02T11:30:41.000Z",
+            "id": "286434333940662272",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/JJbh0pls"
+        },
+        {
+            "author_id": "856387177",
+            "created_at": "2013-01-02T11:30:41.000Z",
+            "id": "286434333621895169",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/vCzeKApT"
+        },
+        {
+            "author_id": "778216202",
+            "created_at": "2013-01-02T11:30:39.000Z",
+            "id": "286434325560426496",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/iPPS30hj"
+        },
+        {
+            "author_id": "69477129",
+            "created_at": "2013-01-02T11:30:37.000Z",
+            "id": "286434315993247744",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/XSgTih8O"
+        },
+        {
+            "author_id": "242876115",
+            "created_at": "2013-01-02T11:30:37.000Z",
+            "id": "286434315062099968",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/NT8sgcPp"
+        },
+        {
+            "author_id": "219692559",
+            "created_at": "2013-01-02T11:30:36.000Z",
+            "id": "286434314256789505",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/FerJgAVf"
+        },
+        {
+            "author_id": "709314853",
+            "created_at": "2013-01-02T11:30:36.000Z",
+            "id": "286434311924748289",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/zN6czz7z"
+        },
+        {
+            "author_id": "620411543",
+            "created_at": "2013-01-02T11:30:35.000Z",
+            "id": "286434310121201664",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/qOcyKKwJ"
+        },
+        {
+            "author_id": "501354567",
+            "created_at": "2013-01-02T11:30:35.000Z",
+            "id": "286434308091166720",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/n2a7ls3y"
+        },
+        {
+            "author_id": "98174842",
+            "created_at": "2013-01-02T11:30:33.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "68412310",
+                        "start": 0,
+                        "username": "Nirvana"
+                    }
+                ]
+            },
+            "id": "286434299819995136",
+            "in_reply_to_user_id": "68412310",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@Nirvana Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/vJRCaO2F #P74"
+        },
+        {
+            "author_id": "123649664",
+            "created_at": "2013-01-02T11:30:32.000Z",
+            "id": "286434295894138880",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/aGSEW2Rh"
+        },
+        {
+            "author_id": "595053783",
+            "created_at": "2013-01-02T11:30:32.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "203546028",
+                        "start": 0,
+                        "username": "joaoguilhermed"
+                    }
+                ]
+            },
+            "id": "286434294606475265",
+            "in_reply_to_user_id": "203546028",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@JoaoGuilhermed Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento d... http://t.co/5RG81h6T #Music"
+        },
+        {
+            "author_id": "98174842",
+            "created_at": "2013-01-02T11:30:31.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "928949598663606272",
+                        "start": 0,
+                        "username": "pecesiqueira"
+                    }
+                ]
+            },
+            "id": "286434292735807488",
+            "in_reply_to_user_id": "21068395",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@Pecesiqueira Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/vJRCaO2F #P7"
+        },
+        {
+            "author_id": "24975213",
+            "created_at": "2013-01-02T11:30:27.000Z",
+            "id": "286434276386410497",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/gzuO3MVc #GrupoAquecendo"
+        },
+        {
+            "author_id": "80080092",
+            "created_at": "2013-01-02T11:30:26.000Z",
+            "id": "286434271999188992",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/HPs7eckh #GrupoAquecendo"
+        },
+        {
+            "author_id": "388594042",
+            "created_at": "2013-01-02T11:30:25.000Z",
+            "id": "286434265850327040",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento da... http://t.co/LSFd3oLU #terra.com.br"
+        },
+        {
+            "author_id": "343471849",
+            "created_at": "2013-01-02T11:30:07.000Z",
+            "id": "286434192894611456",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/GlL4f0jM"
+        },
+        {
+            "author_id": "508855877",
+            "created_at": "2013-01-02T11:30:06.000Z",
+            "id": "286434185114181632",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/uiqqVos7"
+        },
+        {
+            "author_id": "568356830",
+            "created_at": "2013-01-02T11:30:04.000Z",
+            "id": "286434176884936705",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/6CLX0njW"
+        },
+        {
+            "author_id": "398433081",
+            "created_at": "2013-01-02T11:30:03.000Z",
+            "id": "286434174603235328",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/26tIewX6"
+        },
+        {
+            "author_id": "563964362",
+            "created_at": "2013-01-02T11:30:02.000Z",
+            "id": "286434171658850304",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Terra Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de ... http://t.co/ImXzusTV"
+        },
+        {
+            "author_id": "554807048",
+            "created_at": "2013-01-02T11:30:01.000Z",
+            "id": "286434165518397440",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/LBxWQAiw"
+        },
+        {
+            "author_id": "515509631",
+            "created_at": "2013-01-02T11:29:58.000Z",
+            "id": "286434155061981184",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/Kqyx2MTD #Continental_FM"
+        },
+        {
+            "author_id": "152386542",
+            "created_at": "2013-01-02T11:29:58.000Z",
+            "id": "286434153933713408",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/5Dx1EDZ1"
+        },
+        {
+            "author_id": "532285521",
+            "created_at": "2013-01-02T11:29:57.000Z",
+            "id": "286434147520622593",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/DJZ9Wpzo"
+        },
+        {
+            "author_id": "536543829",
+            "created_at": "2013-01-02T11:29:55.000Z",
+            "id": "286434142558756866",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/PcIYsRPA"
+        },
+        {
+            "author_id": "534610895",
+            "created_at": "2013-01-02T11:29:55.000Z",
+            "id": "286434140641980418",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/y3sUl1vT"
+        },
+        {
+            "author_id": "532489816",
+            "created_at": "2013-01-02T11:29:55.000Z",
+            "id": "286434140151226368",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Terra: Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das C... http://t.co/11S1jAyB #XZNOTICIAS"
+        },
+        {
+            "author_id": "735226603",
+            "created_at": "2013-01-02T11:29:55.000Z",
+            "id": "286434139526287360",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/SyMhTEMF"
+        },
+        {
+            "author_id": "533441182",
+            "created_at": "2013-01-02T11:29:54.000Z",
+            "id": "286434138586755072",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/FmJ6iywD"
+        },
+        {
+            "author_id": "587575761",
+            "created_at": "2013-01-02T11:29:53.000Z",
+            "id": "286434131737468928",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/B6Ry6cG2"
+        },
+        {
+            "author_id": "94434404",
+            "created_at": "2013-01-02T11:29:52.000Z",
+            "id": "286434128805642240",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/O64Snfgt"
+        },
+        {
+            "author_id": "338728179",
+            "created_at": "2013-01-02T11:29:47.000Z",
+            "id": "286434108257730560",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/3YS5ZdTy"
+        },
+        {
+            "author_id": "106258000",
+            "created_at": "2013-01-02T11:29:47.000Z",
+            "id": "286434107234349056",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/HKvtVKWA"
+        },
+        {
+            "author_id": "457368225",
+            "created_at": "2013-01-02T11:29:47.000Z",
+            "id": "286434106349350913",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/1OjGMb2W"
+        },
+        {
+            "author_id": "37809099",
+            "created_at": "2013-01-02T11:29:47.000Z",
+            "id": "286434105191698432",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/yCoxXvDl"
+        },
+        {
+            "author_id": "438454033",
+            "created_at": "2013-01-02T11:29:40.000Z",
+            "id": "286434077438013440",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/ilQiYJ03"
+        },
+        {
+            "author_id": "416485075",
+            "created_at": "2013-01-02T11:29:40.000Z",
+            "id": "286434076104212482",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/ampdRm5m"
+        },
+        {
+            "author_id": "416485075",
+            "created_at": "2013-01-02T11:29:39.000Z",
+            "id": "286434075244363777",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/ZGL566e4"
+        },
+        {
+            "author_id": "378001575",
+            "created_at": "2013-01-02T11:29:39.000Z",
+            "id": "286434074799783936",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/hryPD3VE"
+        },
+        {
+            "author_id": "140517710",
+            "created_at": "2013-01-02T11:29:39.000Z",
+            "id": "286434073889624064",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/9dxXHfri"
+        },
+        {
+            "author_id": "239573780",
+            "created_at": "2013-01-02T11:29:38.000Z",
+            "id": "286434067757555712",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/s8cZe8dm"
+        },
+        {
+            "author_id": "41341875",
+            "created_at": "2013-01-02T11:29:37.000Z",
+            "id": "286434066834812929",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/wcDTwTb0"
+        },
+        {
+            "author_id": "334923970",
+            "created_at": "2013-01-02T11:29:37.000Z",
+            "id": "286434066549583872",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catador... http://t.co/yEx6xg7F #SIGODEVOLTA"
+        },
+        {
+            "author_id": "314866098",
+            "created_at": "2013-01-02T11:29:37.000Z",
+            "id": "286434064964124672",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/8J2anrFQ"
+        },
+        {
+            "author_id": "83423269",
+            "created_at": "2013-01-02T11:29:37.000Z",
+            "id": "286434064053985280",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/X1D31ABn"
+        },
+        {
+            "author_id": "342274482",
+            "created_at": "2013-01-02T11:29:35.000Z",
+            "id": "286434058240675841",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/oaOl6UIt"
+        },
+        {
+            "author_id": "387441851",
+            "created_at": "2013-01-02T11:29:35.000Z",
+            "id": "286434056336461824",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/LIWv29ta"
+        },
+        {
+            "author_id": "377809218",
+            "created_at": "2013-01-02T11:29:34.000Z",
+            "id": "286434054096699392",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/I7uQWXSt"
+        },
+        {
+            "author_id": "144857420",
+            "created_at": "2013-01-02T11:29:34.000Z",
+            "id": "286434053987643393",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/haW1vB44"
+        },
+        {
+            "author_id": "374522121",
+            "created_at": "2013-01-02T11:29:34.000Z",
+            "id": "286434053031342080",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/giUF1KUK"
+        },
+        {
+            "author_id": "288330146",
+            "created_at": "2013-01-02T11:29:33.000Z",
+            "id": "286434048849616897",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/w2GI0fHm"
+        },
+        {
+            "author_id": "358003561",
+            "created_at": "2013-01-02T11:29:30.000Z",
+            "id": "286434037101379584",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/1I2xOoRz"
+        },
+        {
+            "author_id": "102788084",
+            "created_at": "2013-01-02T11:29:30.000Z",
+            "id": "286434035411083264",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/pgU1PUJ1"
+        },
+        {
+            "author_id": "358093978",
+            "created_at": "2013-01-02T11:29:29.000Z",
+            "id": "286434031434883073",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/1lkPrz5v"
+        },
+        {
+            "author_id": "331398032",
+            "created_at": "2013-01-02T11:29:28.000Z",
+            "id": "286434026712092673",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista"
+        },
+        {
+            "author_id": "334640220",
+            "created_at": "2013-01-02T11:29:28.000Z",
+            "id": "286434026460418049",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista"
+        },
+        {
+            "author_id": "119702894",
+            "created_at": "2013-01-02T11:29:27.000Z",
+            "id": "286434025009213441",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/bxyxBqaN"
+        },
+        {
+            "author_id": "92787545",
+            "created_at": "2013-01-02T11:29:23.000Z",
+            "id": "286434006046760960",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/aEFThM9p"
+        },
+        {
+            "author_id": "312152462",
+            "created_at": "2013-01-02T11:29:21.000Z",
+            "id": "286433996278218753",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/PuPWqYZz"
+        },
+        {
+            "author_id": "307587470",
+            "created_at": "2013-01-02T11:29:20.000Z",
+            "id": "286433994634039297",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/f3YRbbvF"
+        },
+        {
+            "author_id": "322684714",
+            "created_at": "2013-01-02T11:29:20.000Z",
+            "id": "286433993950388226",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/uv21eVVQ"
+        },
+        {
+            "author_id": "298598428",
+            "created_at": "2013-01-02T11:29:19.000Z",
+            "id": "286433989340827648",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/8PXHtrJ8"
+        },
+        {
+            "author_id": "291961424",
+            "created_at": "2013-01-02T11:29:16.000Z",
+            "id": "286433978901209091",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/7wIUiINo"
+        },
+        {
+            "author_id": "71637810",
+            "created_at": "2013-01-02T11:29:15.000Z",
+            "id": "286433971649253376",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "[ULTNOT] Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras d... http://t.co/Ga2N8cXB"
+        },
+        {
+            "author_id": "95428423",
+            "created_at": "2013-01-02T11:29:14.000Z",
+            "id": "286433969187205121",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/wQNX9r9v"
+        },
+        {
+            "author_id": "95810074",
+            "created_at": "2013-01-02T11:29:14.000Z",
+            "id": "286433967094247424",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "http://t.co/7kIdex1b Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representan... http://t.co/Q5gLG7bY http://t.co/DjSqAjkW"
+        },
+        {
+            "author_id": "252125137",
+            "created_at": "2013-01-02T11:29:13.000Z",
+            "id": "286433964187607040",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/k0j0ssR0"
+        },
+        {
+            "author_id": "264863012",
+            "created_at": "2013-01-02T11:29:13.000Z",
+            "id": "286433963130646528",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/eEY9ULie"
+        },
+        {
+            "author_id": "145236070",
+            "created_at": "2013-01-02T11:29:12.000Z",
+            "id": "286433959221530624",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00daltimo Segundo - Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista  - http://t.co/bfvfh9Tv"
+        },
+        {
+            "author_id": "272370065",
+            "created_at": "2013-01-02T11:29:11.000Z",
+            "id": "286433956847562752",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/9wmstyDq"
+        },
+        {
+            "author_id": "254957248",
+            "created_at": "2013-01-02T11:29:11.000Z",
+            "id": "286433954997866496",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/kFCuGHgV"
+        },
+        {
+            "author_id": "254602607",
+            "created_at": "2013-01-02T11:29:10.000Z",
+            "id": "286433952456122368",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/KJOqoIsI"
+        },
+        {
+            "author_id": "56466162",
+            "created_at": "2013-01-02T11:29:09.000Z",
+            "id": "286433948467339264",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/e0oD0nXQ"
+        },
+        {
+            "author_id": "257131218",
+            "created_at": "2013-01-02T11:29:09.000Z",
+            "id": "286433947582345216",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/tu0cdLq9"
+        },
+        {
+            "author_id": "248221757",
+            "created_at": "2013-01-02T11:28:54.000Z",
+            "id": "286433883854106624",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#feedbrasil Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/oxBLOKC4"
+        },
+        {
+            "author_id": "253214716",
+            "created_at": "2013-01-02T11:28:53.000Z",
+            "id": "286433879173251074",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/nPGR2anI"
+        },
+        {
+            "author_id": "214279204",
+            "created_at": "2013-01-02T11:28:53.000Z",
+            "id": "286433878883827712",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/AuKFa8Ot"
+        },
+        {
+            "author_id": "220718003",
+            "created_at": "2013-01-02T11:28:51.000Z",
+            "id": "286433870860128257",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/osGTt3Wm"
+        },
+        {
+            "author_id": "211935826",
+            "created_at": "2013-01-02T11:28:48.000Z",
+            "id": "286433858604392449",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/vPV90I1S"
+        },
+        {
+            "author_id": "117377513",
+            "created_at": "2013-01-02T11:28:47.000Z",
+            "id": "286433857471909890",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "2016riodejaneiro.nl Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das ... http://t.co/2Gr5W4WK"
+        },
+        {
+            "author_id": "237952019",
+            "created_at": "2013-01-02T11:28:47.000Z",
+            "id": "286433856989589505",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/3b7rIgDE"
+        },
+        {
+            "author_id": "237952019",
+            "created_at": "2013-01-02T11:28:47.000Z",
+            "id": "286433856809209856",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/UNMruU3H"
+        },
+        {
+            "author_id": "49324386",
+            "created_at": "2013-01-02T11:28:46.000Z",
+            "id": "286433849343352833",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/v3PWRZVq"
+        },
+        {
+            "author_id": "142752997",
+            "created_at": "2013-01-02T11:28:45.000Z",
+            "id": "286433847539798016",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/QiiyTxTG"
+        },
+        {
+            "author_id": "33918646",
+            "created_at": "2013-01-02T11:28:45.000Z",
+            "id": "286433846419918848",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/aPTNq8H"
+        },
+        {
+            "author_id": "213011601",
+            "created_at": "2013-01-02T11:28:44.000Z",
+            "id": "286433843467145216",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/8mEDABkM"
+        },
+        {
+            "author_id": "193840310",
+            "created_at": "2013-01-02T11:28:40.000Z",
+            "id": "286433827822391296",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/PyTYz2Wv"
+        },
+        {
+            "author_id": "199126736",
+            "created_at": "2013-01-02T11:28:40.000Z",
+            "id": "286433826891251713",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/OZcfKcTO"
+        },
+        {
+            "author_id": "193283012",
+            "created_at": "2013-01-02T11:28:39.000Z",
+            "id": "286433822378184704",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/Pofw2JYH"
+        },
+        {
+            "author_id": "31314191",
+            "created_at": "2013-01-02T11:28:39.000Z",
+            "id": "286433821845487619",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/Bg1DrEmN"
+        },
+        {
+            "author_id": "138023810",
+            "created_at": "2013-01-02T11:28:39.000Z",
+            "id": "286433820281032704",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/mpmmKTU0 #noticia #24h #news"
+        },
+        {
+            "author_id": "106747646",
+            "created_at": "2013-01-02T11:28:28.000Z",
+            "id": "286433776895131648",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/yb3CSsuZ"
+        },
+        {
+            "author_id": "118110182",
+            "created_at": "2013-01-02T11:28:28.000Z",
+            "id": "286433774672171009",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/nbb4XjCL"
+        },
+        {
+            "author_id": "106720870",
+            "created_at": "2013-01-02T11:28:27.000Z",
+            "id": "286433772608577538",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/eRni9emT"
+        },
+        {
+            "author_id": "82668319",
+            "created_at": "2013-01-02T11:28:25.000Z",
+            "id": "286433765008486402",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/Pm46hXTQ"
+        },
+        {
+            "author_id": "95077828",
+            "created_at": "2013-01-02T11:28:25.000Z",
+            "id": "286433764266098688",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/GiwLN1vk"
+        },
+        {
+            "author_id": "94834744",
+            "created_at": "2013-01-02T11:28:25.000Z",
+            "id": "286433763150413824",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/DU2HrHh4"
+        },
+        {
+            "author_id": "88979052",
+            "created_at": "2013-01-02T11:28:24.000Z",
+            "id": "286433760717725696",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Terra Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de ... http://t.co/UN6Yn43P"
+        },
+        {
+            "author_id": "326842724",
+            "created_at": "2013-01-02T11:28:14.000Z",
+            "id": "286433715226284032",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u201cMonumento Natural - Grota do Angico recebe pesquisadores internacionais\u201d\nhttp://t.co/aelb9egG http://t.co/IGt9inrH"
+        },
+        {
+            "author_id": "61231675",
+            "created_at": "2013-01-02T11:28:04.000Z",
+            "id": "286433674017263616",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/taOIylYE"
+        },
+        {
+            "author_id": "9908282",
+            "created_at": "2013-01-02T11:28:04.000Z",
+            "id": "286433673094524929",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/Oq9JPzCc"
+        },
+        {
+            "author_id": "54005249",
+            "created_at": "2013-01-02T11:28:03.000Z",
+            "id": "286433669038632962",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista http://t.co/d7QZXe9k"
+        },
+        {
+            "author_id": "14801327",
+            "created_at": "2013-01-02T11:27:42.000Z",
+            "id": "286433584020070400",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Catadoras de mangaba discutem cria\u00e7\u00e3o reserva extrativista: Representantes do Movimento das Catadoras de Mangaba... http://t.co/6e83rncF"
+        },
+        {
+            "author_id": "27956098",
+            "created_at": "2013-01-02T09:39:19.000Z",
+            "id": "286406306158477312",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Chapada dos Veadeiros - State of #Goi\u00e1s, #Brazil http://t.co/ethEIn0k"
+        },
+        {
+            "author_id": "38861301",
+            "created_at": "2013-01-02T08:57:48.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -50.01385039,
+                        -25.2533996
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "062364f1745605a7"
+            },
+            "id": "286395858314993664",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "esticando as pernas (@ Parque Estadual de Vila Velha) http://t.co/sddy6rYl"
+        },
+        {
+            "author_id": "114122051",
+            "created_at": "2013-01-02T07:22:16.000Z",
+            "id": "286371816199561216",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "http://t.co/DK0EljCO Fogos da Paria de Copacabana Vista do Parque Nacional da Tijuca"
+        },
+        {
+            "author_id": "873692761",
+            "created_at": "2013-01-02T04:28:22.000Z",
+            "id": "286328054224146432",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional do Igua\u00e7u - Patrim\u00f4nio Natural da Humanidade / PARTE 1 http://t.co/MTq42kjF"
+        },
+        {
+            "author_id": "45467622",
+            "created_at": "2013-01-02T03:20:19.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -43.93428326,
+                        -19.92336375
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "d9d978b087a92583"
+            },
+            "id": "286310929577164800",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Acabei de publicar uma foto @ Parque Municipal Am\u00e9rico Renn\u00e9 Giannetti http://t.co/If3d48Mf"
+        },
+        {
+            "author_id": "402979690",
+            "created_at": "2013-01-02T02:46:28.000Z",
+            "id": "286302409486131200",
+            "in_reply_to_user_id": "172015506",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@pqlaila_ agente vai p o parque municipal se quiser ir encontra agente 14h00 l\u00e1!"
+        },
+        {
+            "author_id": "61294335",
+            "created_at": "2013-01-02T02:12:48.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -42.9662082,
+                        -22.4082726
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "2228665f02a6c9c8"
+            },
+            "id": "286293937772179456",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "o parque nacional nem tava t\u00e3o cheio assim, menos mals rsrsr"
+        },
+        {
+            "author_id": "242272621",
+            "created_at": "2013-01-02T02:00:22.000Z",
+            "id": "286290807412125696",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pedal com sobrinhos Ivan Donato Junior e Vitoria Donato no parque municipal de Sorriso MT, + piquenique com o cl\u00e3. Muito Show."
+        },
+        {
+            "author_id": "33616345",
+            "created_at": "2013-01-02T01:54:49.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -43.27288571,
+                        -22.96111073
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "97bcdfca1a2dca59"
+            },
+            "id": "286289410117468160",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": ":( #cidademaravilhosa #rio #rj #pedrabonita #medespedindo #loverio @ Parque Nacional da Floresta da Tijuca http://t.co/XalmnFOt"
+        },
+        {
+            "author_id": "77548226",
+            "created_at": "2013-01-02T01:25:05.000Z",
+            "id": "286281931405025280",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Nacional da Chapada dos Veadeiros http://t.co/l7nXAiUe"
+        },
+        {
+            "author_id": "342049562",
+            "created_at": "2013-01-02T01:17:42.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -91.183296,
+                        14.770071
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "bdd35ba66cf104f7"
+            },
+            "id": "286280073298993152",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Mi gente viaja. #guatemala #guategram #atitlan #panajachel #lakeatitlan #road # @ Parque Municipal de Solol\u00e1 http://t.co/OHPM5uY2"
+        },
+        {
+            "author_id": "292409288",
+            "created_at": "2013-01-02T00:57:07.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -52.56300627,
+                        -32.58268046
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "3c465ed3fc434def"
+            },
+            "id": "286274890439458816",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Estacao Ecologica Do Taim (Rio Grande, Rio Grande do Sul) http://t.co/p54ul6X5"
+        },
+        {
+            "author_id": "133277501",
+            "created_at": "2013-01-02T00:45:21.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "46152686",
+                        "start": 0,
+                        "username": "LeiSecaRJ"
+                    }
+                ]
+            },
+            "id": "286271930116489217",
+            "in_reply_to_user_id": "46152686",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@leisecarj Co Parque Nacional da Tijuca come\u00e7ando agora!!! 22:45 #leisecamobile"
+        },
+        {
+            "author_id": "103726643",
+            "created_at": "2013-01-02T00:35:20.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -39.44412545,
+                        -7.21338949
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "04279e8b69ef0f08"
+            },
+            "id": "286269407762714624",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Floresta Nacional do Araripe (Crato, Cear\u00e1) http://t.co/4QTOqOLL"
+        },
+        {
+            "author_id": "126284033",
+            "created_at": "2013-01-02T00:15:46.000Z",
+            "id": "286264485746978816",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Rio de Janeiro vista dal Parque Nacional da Tijuca http://t.co/MFrExelQ"
+        },
+        {
+            "author_id": "522667096",
+            "created_at": "2013-01-01T23:55:09.000Z",
+            "id": "286259295576797186",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "se voce for ao sul do estado visite o parque estadual cachoeira da fuma\u00e7a com suas belezas naturais um lugar... http://t.co/lAreBoI2"
+        },
+        {
+            "author_id": "48412644",
+            "created_at": "2013-01-01T22:17:17.000Z",
+            "id": "286234669614252032",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fal\u00e9sias de Morro Branco  @ Monumento Natural das Fal\u00e9sias http://t.co/dsrnggFn"
+        },
+        {
+            "author_id": "52738325",
+            "created_at": "2013-01-01T22:12:59.000Z",
+            "id": "286233586049355776",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "O governo de S\u00e3o Paulo quer devastar o parque Estadual de SP para contruir um mega empreendimento com argumento... http://t.co/OYse2zu8"
+        },
+        {
+            "author_id": "25278252",
+            "created_at": "2013-01-01T22:06:56.000Z",
+            "id": "286232061767983105",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Parque Nacional da Floresta da Tijuca (Rio de Janeiro, RJ) [pic]: http://t.co/6dtWgS2N"
+        },
+        {
+            "author_id": "193972186",
+            "created_at": "2013-01-01T22:02:11.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -46.0445666,
+                        -23.7103853
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "09d95e1fe009057b"
+            },
+            "id": "286230867888701440",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Voltando para a realidade \ud83d\ude01 @ Parque Estadual da Serra do Mar http://t.co/SiLawczj"
+        },
+        {
+            "author_id": "105572798",
+            "created_at": "2013-01-01T20:34:03.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 64,
+                        "id": "62186079",
+                        "start": 52,
+                        "username": "CrisMarassi"
+                    }
+                ]
+            },
+            "id": "286208688170098688",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Claro, com certeza e podes crer! Adoro aquilo l\u00e1 RT @CrisMarassi: S\u00f3 digo uma coisa: o Parque Nacional de Itatiaia \u00e9 simplesmente lindo!"
+        },
+        {
+            "author_id": "561938909",
+            "created_at": "2013-01-01T19:40:16.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 129,
+                        "id": "8802752",
+                        "start": 126,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "286195151699853312",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "G1 - On\u00e7a pintada \u00e9 vista em bilheteria do Parque Nacional do Igua\u00e7u, no Paran\u00e1 - not\u00edcias em Paran\u00e1 http://t.co/cS2sHymP via @g1"
+        },
+        {
+            "author_id": "61294335",
+            "created_at": "2013-01-01T18:37:25.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -42.98342185,
+                        -22.4489358
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "2228665f02a6c9c8"
+            },
+            "id": "286179338217463808",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Parque Nacional da Serra dos \u00d3rg\u00e3os (Teres\u00f3polis, RJ) http://t.co/bftQyHoT"
+        },
+        {
+            "author_id": "50669932",
+            "created_at": "2013-01-01T17:55:38.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -46.63516999,
+                        -23.43645129
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "68e019afec7d0ba5"
+            },
+            "id": "286168819855142912",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Muita Heineken para celebrar a passagem de ano. @ Parque Estadual da Serra da Cantareira http://t.co/EB7BIqgh"
+        },
+        {
+            "author_id": "50669932",
+            "created_at": "2013-01-01T17:46:43.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -46.63516999,
+                        -23.43645129
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "68e019afec7d0ba5"
+            },
+            "id": "286166575940251649",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Fim de ano no meio da natureza. @ Parque Estadual da Serra da Cantareira http://t.co/qRGe1i1X"
+        },
+        {
+            "author_id": "45570798",
+            "created_at": "2013-01-01T17:40:22.000Z",
+            "id": "286164978145312768",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#love @ Parque Municipal Recanto do Am\u00e9rico - Pau D'Alho http://t.co/XEFACfkc"
+        },
+        {
+            "author_id": "45570798",
+            "created_at": "2013-01-01T17:36:56.000Z",
+            "id": "286164116157116416",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Curtindo o primeiro dia do ano ao lado do meu amor #love @ Parque Municipal Recanto do Am\u00e9rico - Pau D'Alho http://t.co/zN4IzqCD"
+        },
+        {
+            "author_id": "98731996",
+            "created_at": "2013-01-01T17:07:42.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -49.5754609,
+                        -27.47806626
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "7276857d2ce3525a"
+            },
+            "id": "286156758219620353",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Voltando para casa! (@ Parque Nacional da Cebola) http://t.co/n1ZrRVsV"
+        },
+        {
+            "author_id": "14608493",
+            "created_at": "2013-01-01T17:01:06.000Z",
+            "id": "286155097841487872",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "Saldo da caminhada na mar\u00e9 baixa. \u00c9 triste. @ Parque Nacional de Jericoacoara http://t.co/JyGN0Emk"
+        },
+        {
+            "author_id": "12636832",
+            "created_at": "2013-01-01T16:56:31.000Z",
+            "geo": {
+                "place_id": "91f818a4abfb1d4d"
+            },
+            "id": "286153943111856131",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Cataratas :D (@ Parque Nacional do Igua\u00e7u) http://t.co/ODejLkxy"
+        },
+        {
+            "author_id": "68965725",
+            "created_at": "2013-01-01T16:36:10.000Z",
+            "id": "286148824924303360",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "On\u00e7a pintada \u00e9 vista em bilheteria do Parque Nacional do Igua\u00e7u - Guia Medianeira - Noticias http://t.co/k0wXvWGI"
+        },
+        {
+            "author_id": "270143829",
+            "created_at": "2013-01-01T16:21:02.000Z",
+            "id": "286145013606395904",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Portal de entrada do Parque Nacional das Emas - Mineiros - Goi\u00e1s - Brasil. http://t.co/reNscz1H"
+        },
+        {
+            "author_id": "50037120",
+            "created_at": "2013-01-01T15:58:27.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 129,
+                        "id": "8802752",
+                        "start": 126,
+                        "username": "g1"
+                    }
+                ]
+            },
+            "id": "286139333273071616",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "G1 - On\u00e7a pintada \u00e9 vista em bilheteria do Parque Nacional do Igua\u00e7u, no Paran\u00e1 - not\u00edcias em Paran\u00e1 http://t.co/wvMltMis via @g1"
+        },
+        {
+            "author_id": "62891396",
+            "created_at": "2013-01-01T15:40:07.000Z",
+            "id": "286134717017886720",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Tirolesa no Parque Nacional da Chapada dos Veadeiros (GO). Aventure-se! http://t.co/4kL2XAjM Foto: MTur #DicadeDestino"
+        },
+        {
+            "author_id": "75811192",
+            "created_at": "2013-01-01T15:37:21.000Z",
+            "id": "286134022348865537",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Flagrante em Foz do Igua\u00e7\u00fa . Uma das dez on\u00e7as do parque !... http://t.co/6DGcRFw0"
+        },
+        {
+            "author_id": "253304556",
+            "created_at": "2013-01-01T15:36:57.000Z",
+            "id": "286133921417134080",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "On\u00e7a vai at\u00e9 a bilheteria do Parque Nacional do Igua\u00e7u, ame\u00e7a pagar a entrada mas desiste e vai embora"
+        },
+        {
+            "author_id": "69868472",
+            "created_at": "2013-01-01T15:35:58.000Z",
+            "id": "286133674435555328",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "GENTE, o que \u00e9 essa on\u00e7a solta perambulando pelo Parque Nacional? diva &lt;3"
+        },
+        {
+            "author_id": "68965725",
+            "created_at": "2013-01-01T15:23:42.000Z",
+            "id": "286130585485852673",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "On\u00e7a pintada \u00e9 vista em bilheteria do Parque Nacional do Igua\u00e7u - Guia Medianeira - Noticias http://t.co/iEjobBtP"
+        },
+        {
+            "author_id": "46972058",
+            "created_at": "2013-01-01T14:35:16.000Z",
+            "id": "286118396263817216",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Voltando pra casa com o  coracao aquecido! TksGod (@ Parque Estadual Vassununga) http://t.co/WWYtQTyF"
+        },
+        {
+            "author_id": "153918456",
+            "created_at": "2013-01-01T14:22:11.000Z",
+            "id": "286115105400303617",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Come\u00e7ou. 18km subindo a montanha - correndo at\u00e9 o pico! \u00c1rea de prote\u00e7\u00e3o ambiental do Emb\u00fa #MataAtlantica #corrocedo"
+        },
+        {
+            "author_id": "56891336",
+            "created_at": "2013-01-01T11:59:27.000Z",
+            "id": "286079186777563137",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "No G1: On\u00e7a pintada \u00e9 vista em bilheteria do Parque Nacional do Igua\u00e7u, no Paran\u00e1 http://t.co/d6RUe0Ft"
+        },
+        {
+            "author_id": "134526376",
+            "created_at": "2013-01-01T11:42:05.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -44.03361275,
+                        -20.06070139
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "b99da7908851bc16"
+            },
+            "id": "286074813162872832",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "I'm at Parque Estadual - Serra do Rola Mo\u00e7a (Ibirit\u00e9, MG) http://t.co/gO5b9HuL"
+        },
+        {
+            "author_id": "346299412",
+            "created_at": "2013-01-01T11:38:52.000Z",
+            "id": "286074005553823744",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "BRASIL DOS BRASILEIROS: Rios da Regi\u00e3o Serrana e do Parque Nacional da Ser... http://t.co/y94Euw8E"
+        },
+        {
+            "author_id": "179237325",
+            "created_at": "2013-01-01T07:05:00.000Z",
+            "id": "286005082946957313",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Parque Municipal, em BH, deve passar pela terceira grande reforma http://t.co/tgBnu5BG"
+        },
+        {
+            "author_id": "300038579",
+            "created_at": "2013-01-01T05:54:37.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "418849743",
+                        "start": 0,
+                        "username": "Bombeiros_RJ"
+                    }
+                ]
+            },
+            "id": "285987370858332160",
+            "in_reply_to_user_id": "418849743",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@Bombeiros_RJ  incendio se alastrando muito rapido no parque nacional da tijuca e o 193 s\u00f3 ocupado a mais de 30 min!!!"
+        },
+        {
+            "author_id": "300038579",
+            "created_at": "2013-01-01T05:53:32.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "285443624",
+                        "start": 0,
+                        "username": "InformeRJO"
+                    }
+                ]
+            },
+            "id": "285987100900327424",
+            "in_reply_to_user_id": "285443624",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@InformeRJO  incendio se alastrando no parque nacional da tijuca e 30 min tentando ligar para os bombeiros e nada!!!"
+        },
+        {
+            "author_id": "350051887",
+            "created_at": "2013-01-01T04:19:32.000Z",
+            "geo": {
+                "coordinates": {
+                    "coordinates": [
+                        -38.11072786,
+                        -4.15513832
+                    ],
+                    "type": "Point"
+                },
+                "place_id": "aec6aa0b52404a60"
+            },
+            "id": "285963444119810048",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Show r\u00e9veillon na praia!!! @ Monumento Natural das Fal\u00e9sias http://t.co/q7qkE9tH"
+        }
+    ],
+    "errors": [
+        {
+            "detail": "User has been suspended: [Bombeiros_RJ].",
+            "parameter": "entities.mentions.username",
+            "resource_id": "Bombeiros_RJ",
+            "resource_type": "user",
+            "title": "Forbidden",
+            "type": "https://api.twitter.com/2/problems/resource-not-found",
+            "value": "Bombeiros_RJ"
+        }
+    ],
+    "includes": {
+        "places": [
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Montes Claros, Brasil",
+                "id": "b2a81937097e9a5b",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Foz do Igua\u00e7u, Brasil",
+                "id": "91f818a4abfb1d4d",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Cuiab\u00e1, Brasil",
+                "id": "5187201f64c8b889",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Ponta Grossa, Brasil",
+                "id": "062364f1745605a7",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Belo Horizonte, Brasil",
+                "id": "d9d978b087a92583",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Teres\u00f3polis, Brasil",
+                "id": "2228665f02a6c9c8",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Rio de Janeiro, Brasil",
+                "id": "97bcdfca1a2dca59",
+                "place_type": "city"
+            },
+            {
+                "country": "M\u00e9xico",
+                "country_code": "MX",
+                "full_name": "Chiapas, M\u00e9xico",
+                "id": "bdd35ba66cf104f7",
+                "place_type": "admin"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Rio Grande, Brasil",
+                "id": "3c465ed3fc434def",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Crato, Brasil",
+                "id": "04279e8b69ef0f08",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Biritiba-Mirim, Brasil",
+                "id": "09d95e1fe009057b",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "S\u00e3o Paulo, Brasil",
+                "id": "68e019afec7d0ba5",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Ituporanga, Brasil",
+                "id": "7276857d2ce3525a",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Ibirit\u00e9, Brasil",
+                "id": "b99da7908851bc16",
+                "place_type": "city"
+            },
+            {
+                "country": "Brasil",
+                "country_code": "BR",
+                "full_name": "Beberibe, Brasil",
+                "id": "aec6aa0b52404a60",
+                "place_type": "city"
+            }
+        ],
+        "users": [
+            {
+                "id": "104796786",
+                "name": "Luiz Filho",
+                "username": "luizdoidoo",
+                "verified": false
+            },
+            {
+                "id": "55339757",
+                "name": "R\u00e1dio CDL FM | 102.9",
+                "username": "radio1029",
+                "verified": false
+            },
+            {
+                "id": "63459107",
+                "name": "Tr\u00e2nsito BH",
+                "username": "TransitoBH",
+                "verified": false
+            },
+            {
+                "id": "48895249",
+                "name": "PANROTAS",
+                "username": "portalpanrotas",
+                "verified": false
+            },
+            {
+                "id": "96047624",
+                "name": "chapadeiro",
+                "username": "joaoviitorr_",
+                "verified": false
+            },
+            {
+                "id": "78442101",
+                "name": "a xu",
+                "username": "juu_lunardi",
+                "verified": false
+            },
+            {
+                "id": "26148512",
+                "name": "A bru",
+                "username": "bru_lunardi",
+                "verified": false
+            },
+            {
+                "id": "82062843",
+                "name": "STVBrasil",
+                "username": "STVBrasil",
+                "verified": false
+            },
+            {
+                "id": "20600212",
+                "name": "Gustavo Faleiros",
+                "username": "gufalei",
+                "verified": false
+            },
+            {
+                "id": "57945893",
+                "name": "LENA ANTABI",
+                "username": "LENAANTABI",
+                "verified": false
+            },
+            {
+                "id": "115993867",
+                "name": "Schultz Operadora de Turismo",
+                "username": "SchultzBrasil",
+                "verified": false
+            },
+            {
+                "id": "24574081",
+                "name": "Bruno Braga",
+                "username": "bugabraga",
+                "verified": false
+            },
+            {
+                "id": "44121930",
+                "name": "Fuss",
+                "username": "fussbrasil",
+                "verified": false
+            },
+            {
+                "id": "568626030",
+                "name": "Eco Reserva",
+                "username": "ecoreservatv",
+                "verified": false
+            },
+            {
+                "id": "71525594",
+                "name": "Tom\u00e1s Aguilar Chagin",
+                "username": "toach1",
+                "verified": false
+            },
+            {
+                "id": "112185190",
+                "name": "CMLx",
+                "username": "charles_wood_lx",
+                "verified": false
+            },
+            {
+                "id": "177969097",
+                "name": "Jaqueline Marques",
+                "username": "jaquelinem1277",
+                "verified": false
+            },
+            {
+                "id": "203080494",
+                "name": "Thiago Gon\u00e7alves",
+                "username": "thiagoblic",
+                "verified": false
+            },
+            {
+                "id": "55961311",
+                "name": "Fernando \"Micro\" Hern\u00e1ndez",
+                "username": "microgdl",
+                "verified": false
+            },
+            {
+                "id": "205840868",
+                "name": "Protecci\u00f3n Civil JAL",
+                "username": "PCJalisco",
+                "verified": false
+            },
+            {
+                "id": "289677670",
+                "name": "Fabi\u00e1n C\u00e1zares",
+                "username": "Fabianecr",
+                "verified": false
+            },
+            {
+                "id": "780498049",
+                "name": "Jarbas Freitas Leal",
+                "username": "jfreitasleal",
+                "verified": false
+            },
+            {
+                "id": "967759303",
+                "name": "Vekoni Store",
+                "username": "VekoniStore",
+                "verified": false
+            },
+            {
+                "id": "22504688",
+                "name": "Kamylle Bruno",
+                "username": "kamylle85",
+                "verified": false
+            },
+            {
+                "id": "608131558",
+                "name": "Point Tur Receptivo",
+                "username": "agenciapointtur",
+                "verified": false
+            },
+            {
+                "id": "100762428",
+                "name": "Bruno Cirino",
+                "username": "brunocirino_",
+                "verified": false
+            },
+            {
+                "id": "171093538",
+                "name": "Cacha\u00e7a Gabriela Paraty 33",
+                "username": "cachacaparaty33",
+                "verified": false
+            },
+            {
+                "id": "43011495",
+                "name": "Brenda F\u00fcrstenau",
+                "username": "brefurstenau",
+                "verified": false
+            },
+            {
+                "id": "40406264",
+                "name": "byflaviacombr",
+                "username": "byflaviacombr",
+                "verified": false
+            },
+            {
+                "id": "46450116",
+                "name": "ANDA NEWS",
+                "username": "ANDAnews",
+                "verified": false
+            },
+            {
+                "id": "216669140",
+                "name": "Gleyson Laje",
+                "username": "naohadesernada",
+                "verified": true
+            },
+            {
+                "id": "14077645",
+                "name": "@infoambiental \ud83d\udca7\ud83c\udf93 #vacinaparatodos",
+                "username": "infoambiental",
+                "verified": false
+            },
+            {
+                "id": "313293464",
+                "name": "Maria Tereza",
+                "username": "TerezaEcoArte",
+                "verified": false
+            },
+            {
+                "id": "9652422",
+                "name": "Gustavo",
+                "username": "gharaujo",
+                "verified": false
+            },
+            {
+                "id": "107514943",
+                "name": "Sociedade Formigas",
+                "username": "oscipformigas",
+                "verified": false
+            },
+            {
+                "id": "146627524",
+                "name": "Le",
+                "username": "leticia_figg",
+                "verified": false
+            },
+            {
+                "id": "633150940",
+                "name": "Erika Campos",
+                "username": "FelicianoRika",
+                "verified": false
+            },
+            {
+                "id": "834062040",
+                "name": "Garitano \ud83c\udde7\ud83c\uddf7\ud83c\uddee\ud83c\uddf1",
+                "username": "DsGaritano",
+                "verified": false
+            },
+            {
+                "id": "174557684",
+                "name": "Guardi\u00f5es do Mar",
+                "username": "guardioesdomar",
+                "verified": false
+            },
+            {
+                "id": "109415827",
+                "name": "D\u00e1lio Ribeiro",
+                "username": "logicaecologica",
+                "verified": false
+            },
+            {
+                "id": "86720743",
+                "name": "ParatyOnLine - POL",
+                "username": "ParatyOnline",
+                "verified": false
+            },
+            {
+                "id": "389031552",
+                "name": "RIC Mais",
+                "username": "RICMais_",
+                "verified": true
+            },
+            {
+                "id": "499153993",
+                "name": "Cidade de Pen\u00e1polis",
+                "username": "cidadepenapolis",
+                "verified": false
+            },
+            {
+                "id": "107559178",
+                "name": "Eduardo Rodrigues",
+                "username": "eduralves",
+                "verified": false
+            },
+            {
+                "id": "77548226",
+                "name": "renato",
+                "username": "rmo222",
+                "verified": false
+            },
+            {
+                "id": "97239012",
+                "name": "Hoteis Costa Norte",
+                "username": "hotelcostanorte",
+                "verified": false
+            },
+            {
+                "id": "271413715",
+                "name": "Uai Web Solutions",
+                "username": "uai_web",
+                "verified": false
+            },
+            {
+                "id": "148434238",
+                "name": "Uai Web Solutions",
+                "username": "interclinicas",
+                "verified": false
+            },
+            {
+                "id": "148880157",
+                "name": "cartola_bar",
+                "username": "cartola_bar",
+                "verified": false
+            },
+            {
+                "id": "173246373",
+                "name": "Ant\u00f4nio Vendramim",
+                "username": "AVendramim",
+                "verified": false
+            },
+            {
+                "id": "607470273",
+                "name": "Iguassu Globo Tours",
+                "username": "igtours",
+                "verified": false
+            },
+            {
+                "id": "61294335",
+                "name": "Bruna Magalh\u00e3es",
+                "username": "brumagalhaes2",
+                "verified": false
+            },
+            {
+                "id": "42667621",
+                "name": "Pedro Souza",
+                "username": "PedroSouzarp",
+                "verified": false
+            },
+            {
+                "id": "231280267",
+                "name": "Sobral Host",
+                "username": "sobralhost",
+                "verified": false
+            },
+            {
+                "id": "416714992",
+                "name": "nandu",
+                "username": "nandu",
+                "verified": false
+            },
+            {
+                "id": "970208004",
+                "name": "Timeline RJ",
+                "username": "timelinerj",
+                "verified": false
+            },
+            {
+                "id": "971034332",
+                "name": "Info",
+                "username": "maiaaccount",
+                "verified": false
+            },
+            {
+                "id": "955684135",
+                "name": "Dyhorrano Nunes",
+                "username": "DyhorranoNunes",
+                "verified": false
+            },
+            {
+                "id": "75621543",
+                "name": "Manausland",
+                "username": "manausland",
+                "verified": false
+            },
+            {
+                "id": "191253644",
+                "name": "Helio Pedro (BOL)",
+                "username": "helio_pedro",
+                "verified": false
+            },
+            {
+                "id": "55901459",
+                "name": "Canto de P\u00e1ssaros",
+                "username": "aderocruz",
+                "verified": false
+            },
+            {
+                "id": "392271297",
+                "name": "Cleide Oliveira",
+                "username": "CleideJn",
+                "verified": false
+            },
+            {
+                "id": "319747208",
+                "name": "DinheiroOnline",
+                "username": "WarWarez",
+                "verified": false
+            },
+            {
+                "id": "272746885",
+                "name": "elboniton_ce",
+                "username": "_elboniton",
+                "verified": false
+            },
+            {
+                "id": "475776505",
+                "name": "Tweet Noticia",
+                "username": "TeenLegendario",
+                "verified": false
+            },
+            {
+                "id": "841818318",
+                "name": "Ana Maria Moreira",
+                "username": "AnaMari79657628",
+                "verified": false
+            },
+            {
+                "id": "324153556",
+                "name": "Alan Ricarte \u2122",
+                "username": "_alanricarte",
+                "verified": false
+            },
+            {
+                "id": "570955070",
+                "name": "COMPRASNOPANAMA",
+                "username": "COMPRASNOPANAM1",
+                "verified": false
+            },
+            {
+                "id": "856387177",
+                "name": "rafael reifs",
+                "username": "rafaelreifs1",
+                "verified": false
+            },
+            {
+                "id": "778216202",
+                "name": "Neymar junior",
+                "username": "Neymar20122",
+                "verified": false
+            },
+            {
+                "id": "69477129",
+                "name": "Wilson Mendon\u00e7a",
+                "username": "WilsonMendonca",
+                "verified": false
+            },
+            {
+                "id": "242876115",
+                "name": "Wendell Esteves",
+                "username": "_WendellEsteves",
+                "verified": false
+            },
+            {
+                "id": "219692559",
+                "name": "Thiago Bergmann",
+                "username": "thiago676",
+                "verified": false
+            },
+            {
+                "id": "709314853",
+                "name": "Lucas Jo\u0433da\u043f \u221e",
+                "username": "lucasjordan13",
+                "verified": false
+            },
+            {
+                "id": "620411543",
+                "name": "Hitler",
+                "username": "JovensCitaram",
+                "verified": false
+            },
+            {
+                "id": "501354567",
+                "name": "Facebook",
+                "username": "FacebookOFlClAL",
+                "verified": false
+            },
+            {
+                "id": "98174842",
+                "name": "rer\u00ea",
+                "username": "psicolorado",
+                "verified": false
+            },
+            {
+                "id": "68412310",
+                "name": "Nirvana",
+                "username": "Nirvana",
+                "verified": true
+            },
+            {
+                "id": "123649664",
+                "name": "Edmar F. Santos",
+                "username": "Ramde10",
+                "verified": false
+            },
+            {
+                "id": "595053783",
+                "name": "HomeofSong",
+                "username": "HomeofSong",
+                "verified": false
+            },
+            {
+                "id": "203546028",
+                "name": "Johnny",
+                "username": "joaoguilhermed",
+                "verified": false
+            },
+            {
+                "id": "928949598663606272",
+                "name": "No!",
+                "username": "pecesiqueira",
+                "verified": false
+            },
+            {
+                "id": "24975213",
+                "name": "GRUPO AQUECENDO",
+                "username": "GrupoAquecendo",
+                "verified": false
+            },
+            {
+                "id": "80080092",
+                "name": "AquecendoBR",
+                "username": "AquecendoBR",
+                "verified": false
+            },
+            {
+                "id": "388594042",
+                "name": "reporter batman",
+                "username": "naomuriel",
+                "verified": false
+            },
+            {
+                "id": "343471849",
+                "name": "Click Cabedelo",
+                "username": "ClickCabedelo",
+                "verified": false
+            },
+            {
+                "id": "508855877",
+                "name": "Health Cred",
+                "username": "HealthCred_OCZ",
+                "verified": false
+            },
+            {
+                "id": "568356830",
+                "name": "Trabalho em Casa",
+                "username": "Trabalhonesto",
+                "verified": false
+            },
+            {
+                "id": "398433081",
+                "name": "Brenda Gwendoline",
+                "username": "BrendaGwen_",
+                "verified": false
+            },
+            {
+                "id": "563964362",
+                "name": "#FechadoComOCruzeiro",
+                "username": "EuMais0nze",
+                "verified": false
+            },
+            {
+                "id": "554807048",
+                "name": "Negona Reipert",
+                "username": "negona_oficial",
+                "verified": false
+            },
+            {
+                "id": "515509631",
+                "name": "Continental FM 93,3",
+                "username": "Continental_FM",
+                "verified": false
+            },
+            {
+                "id": "152386542",
+                "name": "Marcos",
+                "username": "corpusdvd",
+                "verified": false
+            },
+            {
+                "id": "532285521",
+                "name": "OABPrevCeara",
+                "username": "OABPrevCeara",
+                "verified": false
+            },
+            {
+                "id": "536543829",
+                "name": "MysaelSerra",
+                "username": "mysaelserra",
+                "verified": false
+            },
+            {
+                "id": "534610895",
+                "name": "ShopTopS",
+                "username": "ShoP_TopS",
+                "verified": false
+            },
+            {
+                "id": "532489816",
+                "name": "ZONA NOTICIAS",
+                "username": "XZNOTICIAS",
+                "verified": false
+            },
+            {
+                "id": "735226603",
+                "name": "Futebol & CartolaFC",
+                "username": "FutCartolaFC",
+                "verified": false
+            },
+            {
+                "id": "533441182",
+                "name": "EsporteInternacional",
+                "username": "Inter_Futebol",
+                "verified": false
+            },
+            {
+                "id": "587575761",
+                "name": "Pedro Dionisio",
+                "username": "PedroDionisioo",
+                "verified": false
+            },
+            {
+                "id": "94434404",
+                "name": "FM Itabaiana",
+                "username": "fmitabaiana",
+                "verified": false
+            },
+            {
+                "id": "338728179",
+                "name": "\u2655 Kiinho M. \u2655",
+                "username": "oceaaniis",
+                "verified": false
+            },
+            {
+                "id": "106258000",
+                "name": "Renato soft",
+                "username": "RenatoSoft1",
+                "verified": false
+            },
+            {
+                "id": "457368225",
+                "name": "S\u00e3o Bento Informa",
+                "username": "SBinforma",
+                "verified": false
+            },
+            {
+                "id": "37809099",
+                "name": "Ulysses Almeida",
+                "username": "ulysjunior",
+                "verified": false
+            },
+            {
+                "id": "438454033",
+                "name": "ProInfo Inform\u00e1tica",
+                "username": "ProInfo7",
+                "verified": false
+            },
+            {
+                "id": "416485075",
+                "name": "Brasil Noticias",
+                "username": "BrasiNews",
+                "verified": false
+            },
+            {
+                "id": "378001575",
+                "name": "vinicio antunes",
+                "username": "vinicioantunes",
+                "verified": false
+            },
+            {
+                "id": "140517710",
+                "name": "O Peri\u00f3dico not\u00edcias",
+                "username": "operiodico",
+                "verified": false
+            },
+            {
+                "id": "239573780",
+                "name": "DominguesInformatica",
+                "username": "Dominguesinfo",
+                "verified": false
+            },
+            {
+                "id": "41341875",
+                "name": "Claudio Borges",
+                "username": "claudiocj1",
+                "verified": false
+            },
+            {
+                "id": "334923970",
+                "name": "Ricardo Pereira",
+                "username": "ricardooo_hs",
+                "verified": false
+            },
+            {
+                "id": "314866098",
+                "name": "Irmandade TROLL",
+                "username": "John_DvT",
+                "verified": false
+            },
+            {
+                "id": "83423269",
+                "name": "Nilton Ribeiro",
+                "username": "renda2090",
+                "verified": false
+            },
+            {
+                "id": "342274482",
+                "name": "W. Villas",
+                "username": "WVillas1",
+                "verified": false
+            },
+            {
+                "id": "387441851",
+                "name": "Sergio",
+                "username": "recomendocomo",
+                "verified": false
+            },
+            {
+                "id": "377809218",
+                "name": "patrick freitas",
+                "username": "tri_SGDA",
+                "verified": false
+            },
+            {
+                "id": "144857420",
+                "name": "Debora Fantin",
+                "username": "debora_fantin",
+                "verified": false
+            },
+            {
+                "id": "374522121",
+                "name": "Leandro Gomes",
+                "username": "Leandropolicia",
+                "verified": false
+            },
+            {
+                "id": "288330146",
+                "name": "\u00d7\u2022 \u0442\u03c3\u03c3\u0438",
+                "username": "LandHooverM",
+                "verified": false
+            },
+            {
+                "id": "358003561",
+                "name": "William Gomes",
+                "username": "williamsgrenda",
+                "verified": false
+            },
+            {
+                "id": "102788084",
+                "name": "Not\u00edcias",
+                "username": "porranerd",
+                "verified": false
+            },
+            {
+                "id": "358093978",
+                "name": "Gabriel dos Santos",
+                "username": "gdsinfo2011",
+                "verified": false
+            },
+            {
+                "id": "331398032",
+                "name": "Jo\u00e3o PAulo",
+                "username": "tweetjoao",
+                "verified": false
+            },
+            {
+                "id": "334640220",
+                "name": "vinicius",
+                "username": "vinicius2203",
+                "verified": false
+            },
+            {
+                "id": "119702894",
+                "name": "Marcos Gallo",
+                "username": "mwgallo",
+                "verified": false
+            },
+            {
+                "id": "92787545",
+                "name": "Jackson Pilonetto",
+                "username": "jackpilonetto",
+                "verified": false
+            },
+            {
+                "id": "312152462",
+                "name": "Tio m\u00f4",
+                "username": "MouwanesLMakare",
+                "verified": false
+            },
+            {
+                "id": "307587470",
+                "name": "F\u00e1bio Lima",
+                "username": "fagonlima",
+                "verified": false
+            },
+            {
+                "id": "322684714",
+                "name": "GAVI\u00d5ES DA FIEL",
+                "username": "gavioestorcida",
+                "verified": false
+            },
+            {
+                "id": "298598428",
+                "name": "Lok Oficial",
+                "username": "LokOficial",
+                "verified": false
+            },
+            {
+                "id": "291961424",
+                "name": "fsdavi",
+                "username": "timinhadavid",
+                "verified": false
+            },
+            {
+                "id": "71637810",
+                "name": "Gustavo",
+                "username": "_gtoselli_",
+                "verified": false
+            },
+            {
+                "id": "95428423",
+                "name": "RICARDO TERENTIN",
+                "username": "speedmidia_",
+                "verified": false
+            },
+            {
+                "id": "95810074",
+                "name": "Forex Consultor Expert BR",
+                "username": "DanielLompa",
+                "verified": false
+            },
+            {
+                "id": "252125137",
+                "name": "Seja Webmarketer",
+                "username": "dindinextra",
+                "verified": false
+            },
+            {
+                "id": "264863012",
+                "name": "JO\u00c3O VITOR",
+                "username": "jvpublicidade",
+                "verified": false
+            },
+            {
+                "id": "145236070",
+                "name": "IDEIAS do BRASIL",
+                "username": "ideiasdobrasil",
+                "verified": false
+            },
+            {
+                "id": "272370065",
+                "name": "Brazil News 247",
+                "username": "BrazilNews247",
+                "verified": false
+            },
+            {
+                "id": "254957248",
+                "name": "Momento Noticia",
+                "username": "MomentoNoticia",
+                "verified": false
+            },
+            {
+                "id": "254602607",
+                "name": "Olho na Noticia",
+                "username": "OlhoNaNoticia",
+                "verified": false
+            },
+            {
+                "id": "56466162",
+                "name": "Marlon Luan",
+                "username": "MarlonLuan",
+                "verified": false
+            },
+            {
+                "id": "257131218",
+                "name": "Maya_Finan",
+                "username": "maya_fin",
+                "verified": false
+            },
+            {
+                "id": "248221757",
+                "name": "Feed Brasil",
+                "username": "feed_brasil",
+                "verified": false
+            },
+            {
+                "id": "253214716",
+                "name": "Diego Lopes",
+                "username": "diegojuizdefora",
+                "verified": false
+            },
+            {
+                "id": "214279204",
+                "name": "nathachapagilione",
+                "username": "monicapagilione",
+                "verified": false
+            },
+            {
+                "id": "220718003",
+                "name": "Thiago",
+                "username": "itaconta",
+                "verified": false
+            },
+            {
+                "id": "211935826",
+                "name": "Claudio",
+                "username": "claudiosilvammn",
+                "verified": false
+            },
+            {
+                "id": "117377513",
+                "name": "Rio2016",
+                "username": "Rio2016Rio",
+                "verified": false
+            },
+            {
+                "id": "237952019",
+                "name": "Richard Modelo",
+                "username": "richardplazza",
+                "verified": false
+            },
+            {
+                "id": "49324386",
+                "name": "Maressa",
+                "username": "MaressaRamoos",
+                "verified": false
+            },
+            {
+                "id": "142752997",
+                "name": "365 Dias de Not\u00edcias",
+                "username": "365Dias_",
+                "verified": false
+            },
+            {
+                "id": "33918646",
+                "name": "CARLOS BARROS",
+                "username": "CARRLLAO",
+                "verified": false
+            },
+            {
+                "id": "213011601",
+                "name": "Portal F9",
+                "username": "portalf9",
+                "verified": false
+            },
+            {
+                "id": "193840310",
+                "name": "Ribeiro",
+                "username": "ribeiro_df",
+                "verified": false
+            },
+            {
+                "id": "199126736",
+                "name": "",
+                "username": "express_news_",
+                "verified": false
+            },
+            {
+                "id": "193283012",
+                "name": "Janaina De Greghy",
+                "username": "janagreghy",
+                "verified": false
+            },
+            {
+                "id": "31314191",
+                "name": "Link Tv - Not\u00edcias",
+                "username": "linktvclipping",
+                "verified": false
+            },
+            {
+                "id": "138023810",
+                "name": "Feed 24h",
+                "username": "feed24h",
+                "verified": false
+            },
+            {
+                "id": "106747646",
+                "name": "Not\u00edcias 24 horas",
+                "username": "noticiasemrede",
+                "verified": false
+            },
+            {
+                "id": "118110182",
+                "name": "All Not\u00edcias",
+                "username": "AllNoticias",
+                "verified": false
+            },
+            {
+                "id": "106720870",
+                "name": "Universo Geral",
+                "username": "universogeral",
+                "verified": false
+            },
+            {
+                "id": "82668319",
+                "name": "LiveJornal",
+                "username": "livejornal",
+                "verified": false
+            },
+            {
+                "id": "95077828",
+                "name": "informe-se",
+                "username": "PortalA13",
+                "verified": false
+            },
+            {
+                "id": "94834744",
+                "name": "iNoticiasBrasil",
+                "username": "iNoticiasBrasil",
+                "verified": false
+            },
+            {
+                "id": "88979052",
+                "name": "Nova nota",
+                "username": "novanota",
+                "verified": false
+            },
+            {
+                "id": "326842724",
+                "name": "Segrase",
+                "username": "Segrase",
+                "verified": false
+            },
+            {
+                "id": "61231675",
+                "name": "Pau Torto",
+                "username": "pautorto",
+                "verified": false
+            },
+            {
+                "id": "9908282",
+                "name": "notivagos",
+                "username": "notivagos",
+                "verified": false
+            },
+            {
+                "id": "54005249",
+                "name": "Sempre Not\u00edcias",
+                "username": "semprenoticias",
+                "verified": false
+            },
+            {
+                "id": "14801327",
+                "name": "Em Tempo Real",
+                "username": "emtemporeal",
+                "verified": false
+            },
+            {
+                "id": "27956098",
+                "name": "Yami Koolie",
+                "username": "Soullessdraw",
+                "verified": false
+            },
+            {
+                "id": "38861301",
+                "name": "dua lipa singing eugene",
+                "username": "ollvrmaria",
+                "verified": false
+            },
+            {
+                "id": "114122051",
+                "name": "Yuly Pisinberg",
+                "username": "yulypis",
+                "verified": false
+            },
+            {
+                "id": "873692761",
+                "name": "Igualdade no Ar",
+                "username": "igualdadenoar",
+                "verified": false
+            },
+            {
+                "id": "45467622",
+                "name": "mocatriz",
+                "username": "raphaap",
+                "verified": false
+            },
+            {
+                "id": "402979690",
+                "name": "itaypava \u25aa",
+                "username": "guerreiraxana",
+                "verified": false
+            },
+            {
+                "id": "242272621",
+                "name": "nutriconsulting",
+                "username": "nutriconsulting",
+                "verified": false
+            },
+            {
+                "id": "33616345",
+                "name": "Francielly",
+                "username": "fraancielly",
+                "verified": false
+            },
+            {
+                "id": "342049562",
+                "name": "Filofotofia",
+                "username": "Filofotofia",
+                "verified": false
+            },
+            {
+                "id": "292409288",
+                "name": "Aline",
+                "username": "ATabordes",
+                "verified": false
+            },
+            {
+                "id": "133277501",
+                "name": "Rafaela Valadares",
+                "username": "rafavpimentel",
+                "verified": false
+            },
+            {
+                "id": "46152686",
+                "name": "Lei Seca RJ",
+                "username": "LeiSecaRJ",
+                "verified": false
+            },
+            {
+                "id": "103726643",
+                "name": "cuscuz com ovo",
+                "username": "dante_siebra",
+                "verified": false
+            },
+            {
+                "id": "126284033",
+                "name": "Mila Camnasio",
+                "username": "MilaCamnasio",
+                "verified": false
+            },
+            {
+                "id": "522667096",
+                "name": "vvivianmoraess",
+                "username": "vvivianmoraess",
+                "verified": false
+            },
+            {
+                "id": "48412644",
+                "name": "Andressa Biata",
+                "username": "ABiata",
+                "verified": false
+            },
+            {
+                "id": "52738325",
+                "name": "Batis",
+                "username": "Ribatis",
+                "verified": false
+            },
+            {
+                "id": "25278252",
+                "name": "Tiago Melo",
+                "username": "tiagomelorj",
+                "verified": false
+            },
+            {
+                "id": "193972186",
+                "name": "josy",
+                "username": "Josi_JBC",
+                "verified": false
+            },
+            {
+                "id": "105572798",
+                "name": "Eddu, esperando segunda dose dela, a P\u00e2faizer",
+                "username": "EdduMello",
+                "verified": false
+            },
+            {
+                "id": "62186079",
+                "name": "Cristiane Marassi",
+                "username": "CrisMarassi",
+                "verified": false
+            },
+            {
+                "id": "561938909",
+                "name": "Rosney vieira",
+                "username": "ltda49",
+                "verified": false
+            },
+            {
+                "id": "8802752",
+                "name": "G1",
+                "username": "g1",
+                "verified": true
+            },
+            {
+                "id": "50669932",
+                "name": "Cleiton Cantao",
+                "username": "clncantao",
+                "verified": false
+            },
+            {
+                "id": "45570798",
+                "name": "Monique Ellen",
+                "username": "muniiiik",
+                "verified": false
+            },
+            {
+                "id": "98731996",
+                "name": "Ricardo Andrei",
+                "username": "ricardoandrei",
+                "verified": false
+            },
+            {
+                "id": "14608493",
+                "name": "Bruno Natal (RESUMIDO)",
+                "username": "URBe",
+                "verified": true
+            },
+            {
+                "id": "12636832",
+                "name": "i\u2019m acting",
+                "username": "andresinkos",
+                "verified": false
+            },
+            {
+                "id": "68965725",
+                "name": "Guia Medianeira",
+                "username": "guiamedianeira",
+                "verified": false
+            },
+            {
+                "id": "270143829",
+                "name": "Snitarm",
+                "username": "USnitarm",
+                "verified": false
+            },
+            {
+                "id": "50037120",
+                "name": "Igua\u00e7uense",
+                "username": "ritinhafoz",
+                "verified": false
+            },
+            {
+                "id": "62891396",
+                "name": "Minist\u00e9rio do Turismo",
+                "username": "MTurismo",
+                "verified": true
+            },
+            {
+                "id": "75811192",
+                "name": "\u0e04\u0e2bg\u03b5\u0142\u0e04 \u0e2bc \u0e23\u03c3u\u0e23\u0e04",
+                "username": "AngelaNCSousa",
+                "verified": false
+            },
+            {
+                "id": "253304556",
+                "name": "\ud83c\udde7\ud83c\uddf7 DATARUA \ud83c\udde7\ud83c\uddf7",
+                "username": "DarkRaposao",
+                "verified": false
+            },
+            {
+                "id": "69868472",
+                "name": "isabelle tres, n\u00e3o 3",
+                "username": "isabelletres",
+                "verified": false
+            },
+            {
+                "id": "46972058",
+                "name": "nilcea trigo",
+                "username": "nilceatrigo",
+                "verified": false
+            },
+            {
+                "id": "153918456",
+                "name": "Wanderlei Oliveira",
+                "username": "BlogdoWO",
+                "verified": false
+            },
+            {
+                "id": "56891336",
+                "name": "Roberta Canetti",
+                "username": "RobertaCanetti",
+                "verified": false
+            },
+            {
+                "id": "134526376",
+                "name": "Cristiane Fioravante",
+                "username": "crisfioravante",
+                "verified": false
+            },
+            {
+                "id": "346299412",
+                "name": "ivan maia",
+                "username": "magon52",
+                "verified": false
+            },
+            {
+                "id": "179237325",
+                "name": "Web10 o primeiro!",
+                "username": "web10BR",
+                "verified": false
+            },
+            {
+                "id": "300038579",
+                "name": "victor ribeiro",
+                "username": "VRGsurf",
+                "verified": false
+            },
+            {
+                "id": "285443624",
+                "name": "Informe RJO",
+                "username": "InformeRJO",
+                "verified": false
+            },
+            {
+                "id": "350051887",
+                "name": "Pablo Gurgel",
+                "username": "pablogurgel",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "286582573075922944",
+        "oldest_id": "285963444119810048",
+        "result_count": 225
+    }
+}

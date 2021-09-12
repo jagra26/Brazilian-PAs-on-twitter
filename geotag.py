@@ -77,13 +77,14 @@ def generate_map(file, out):
 def general_map():
 	dic = {}
 	for directory in glob.glob(var.path + "*"):
-		df = pd.read_csv((glob.glob(directory + "/coordinates.csv")[0]))
-		for ind in df.index:
-			pair = (df['lat'][ind], df['long'][ind])
-			if dic.get(pair) is None:
-					dic.update({pair : df['N'][ind]})
-			else:
-				dic[pair] += df['N'][ind]
+		if path.isdir(directory):
+			df = pd.read_csv((glob.glob(directory + "/coordinates.csv")[0]))
+			for ind in df.index:
+				pair = (df['lat'][ind], df['long'][ind])
+				if dic.get(pair) is None:
+						dic.update({pair : df['N'][ind]})
+				else:
+					dic[pair] += df['N'][ind]
 	lat = []
 	long = []
 	N = []

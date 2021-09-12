@@ -19,14 +19,15 @@ def create_cloud(path, name, text):
 
 text_comp = " "
 for directory in glob.glob(var.path + "*"):
-    #print(directory)
-    df = pd.read_csv(glob.glob(directory + "/*.csv")[0])
-    #print(df.head())
-    text = " ".join(str(review) for review in df.text)
-    text_comp += text
-    name = directory.split("/")
-    print(name)
-    create_cloud(directory, name[1], text)
+    print(directory)
+    if path.isdir(directory):
+        df = pd.read_csv(glob.glob(directory + "/*.csv")[0])
+        #print(df.head())
+        text = " ".join(str(review) for review in df.text)
+        text_comp += text
+        name = directory.split("/")
+        #print(name)
+        create_cloud(directory, name[1], text)
 create_cloud("./", "cloud", text_comp)
 """
 df = pd.read_csv(var.path + "2020-01-01_2020-12-31/2020-01-01_2020-12-31.csv")
