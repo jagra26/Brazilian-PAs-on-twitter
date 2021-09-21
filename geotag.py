@@ -98,11 +98,12 @@ def general_map():
 
 for directory in glob.glob(var.path + "2*"):
     print(directory)
-    file = glob.glob(directory + "/2*.csv")[0]
-    get_coordinates(file, directory + "/coordinates")
-    generate_map(directory + "/coordinates.csv", directory + "/map.html")
-    print("sleep for 10 seconds")
-    time.sleep(10)
+    if len(glob.glob(directory + "/*_limpo*.csv")) != 0:
+	    file = glob.glob(directory + "/*_limpo*.csv")[0]
+	    get_coordinates(file, directory + "/coordinates")
+	    generate_map(directory + "/coordinates.csv", directory + "/map.html")
+	    print("sleep for 10 seconds")
+	    time.sleep(10)
 
 general_map()
 generate_map("coordinates.csv", "general_map.html")
