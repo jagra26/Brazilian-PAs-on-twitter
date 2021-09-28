@@ -16,7 +16,7 @@ def getUC(file, name, listUC):
 			for UC in listUC:
 				if UC.casefold() in str(df['text'][tweet]).casefold():
 					try:
-						wordsUC = UC.casefold().split(" ")
+						'''wordsUC = UC.casefold().split(" ")
 						wordsTweet = re.sub(r'[^\w\s]', ' ', df['text'][tweet].casefold()).split(" ")
 						index = wordsTweet.index(wordsUC[-1])
 						location = UC
@@ -24,7 +24,8 @@ def getUC(file, name, listUC):
 							if index+i <= len(wordsTweet)-1:
 								location += " "
 								location += wordsTweet[index + i]
-						#print(location)
+						#print(location)'''
+						location = UC
 						db.update({df['id'][tweet] : location})
 						bar()
 						break
@@ -40,11 +41,13 @@ listUC = ["Unidade de conservação" , "Area protegida" ,
 "Área de proteção ambiental" , "Floresta nacional" , "Floresta estadual" , 
 "Floresta municipal" , "Reserva de desenvolvimento sustentável" , 
 "Área de relevante interesse", "Reserva Particular do Patrimônio Natural"]
+allUCs = pd.read_csv("cnuc_2020_2-semestre.csv", error_bad_lines=False, sep=';')
+allUCsList = allUCs['Nome da UC'].tolist()
 for directory in glob.glob(var.path + "2*"):
     print(directory)
     if len(glob.glob(directory + "/*_limpo*.csv")) != 0:
 	    file = glob.glob(directory + "/*_limpo*.csv")[0]
-	    getUC(file, directory + "/UC", listUC)
+	    getUC(file, directory + "/clearUC", allUCsList)
 	
 
 """tweet = "Acabou de publicar uma foto em Parque Nacional da Chapada dos Guimarães https://t.co/CJN2U1ANpG"
