@@ -3,7 +3,7 @@ import pandas as pd
 import time
 from opencage.geocoder import OpenCageGeocode
 from alive_progress import alive_bar
-key = 'b6aec148db9542058e8caa8fbafdf579'
+key = '926a3cba4ea849ae98f554bfcf2a26f5' #'b6aec148db9542058e8caa8fbafdf579'
 geocoder = OpenCageGeocode(key)
 
 def choropleth_map(map, geojson, name, data, columns, key_on, legend_name,
@@ -20,7 +20,7 @@ def choropleth_map(map, geojson, name, data, columns, key_on, legend_name,
     legend_name=legend_name
     ).add_to(map)
     return map
-def get_keys(df, countries, states, iso):
+def get_keys(df, countries, states, iso, errors):
     with alive_bar(len(df)) as bar:
         for index in df.index:
             try:
@@ -46,15 +46,18 @@ def get_keys(df, countries, states, iso):
                     countries.update({alpha_3 : int(quant)})
                 else:
                     countries.update({alpha_3 : int(quant + countries.get(alpha_3))})
-                if alpha_3 == "BRA": 
-                    if states.get(state) == None:
+                if alpha_3 == "BRA":
+                    if state == None:
+                        errors.update({df.ID[index] : "None"})      
+                    elif states.get(state) == None:
                         states.update({state : int(quant)})
                     else:
                         states.update({state : int(quant + states.get(state))})
                     
-                time.sleep(1)
+                time.sleep(0.05)
                 bar()
             except Exception as e:
+                errors.update({df.ID[index] : str(e)})
                 print(e)
                 #break
     return
@@ -62,10 +65,11 @@ df = pd.read_excel("coordenadas sumarizadas_lat e long.xlsx")
 iso = pd.read_csv("ISO-3166.csv")
 countries = {}
 states = {}
+errors = {}
 print(df.head())
 
 #convert coordinates in state and country
-get_keys(df, countries, states, iso)
+get_keys(df, countries, states, iso, errors)
 #define dataframes
 countriesDF = pd.DataFrame.from_dict(countries, orient = 'index', columns = ['Quantity'])
 countriesDF = countriesDF.reset_index()
@@ -75,10 +79,12 @@ statesDF = pd.DataFrame.from_dict(states, orient = 'index', columns = ['Quantity
 statesDF = statesDF.reset_index()
 statesDF = statesDF.rename(columns={'index':'State'})
 print(statesDF.head())
+errorsDF = pd.DataFrame.from_dict(errors, orient = 'index', columns = ['Error'])
 #save dataframes in files
 print("saving xlsx")
 countriesDF.to_excel("countriesDF.xlsx")
 statesDF.to_excel("statesDF.xlsx")
+errorsDF.to_excel("errorsDF.xlsx")
 #state map
 print("saving maps")
 m = folium.Map(location=[20,0], tiles="OpenStreetMap", zoom_start=2)
