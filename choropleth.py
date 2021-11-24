@@ -20,12 +20,12 @@ def choropleth_map(map, geojson, name, data, columns, key_on, legend_name,
     legend_name=legend_name
     ).add_to(map)
     return map
-def get_keys(df, countries, states, iso, errors):
+def get_keys(df, countries, countriesID, states, statesID, iso, errors):
     with alive_bar(len(df)) as bar:
         for index in df.index:
             try:
                 '''if index == 10:
-                    break''' #test line
+                    break #test line'''
                 lat = df.latitude[index]
                 lon = df.longitude[index]
                 quant = df.quantidade[index]
@@ -44,16 +44,19 @@ def get_keys(df, countries, states, iso, errors):
                 #save quantities
                 if countries.get(alpha_3) == None:
                     countries.update({alpha_3 : int(quant)})
+                    countriesID.update({alpha_3 : str(df.ID[index])})
                 else:
                     countries.update({alpha_3 : int(quant + countries.get(alpha_3))})
+                    countriesID.update({alpha_3 : countriesID.get(alpha_3)+"/"+str(df.ID[index])})
                 if alpha_3 == "BRA":
                     if state == None:
                         errors.update({df.ID[index] : "None"})      
                     elif states.get(state) == None:
                         states.update({state : int(quant)})
+                        statesID.update({state : str(df.ID[index])})
                     else:
                         states.update({state : int(quant + states.get(state))})
-                    
+                        statesID.update({state : statesID.get(state)+"/"+str(df.ID[index])})
                 time.sleep(0.05)
                 bar()
             except Exception as e:
@@ -64,12 +67,14 @@ def get_keys(df, countries, states, iso, errors):
 df = pd.read_excel("coordenadas sumarizadas_lat e long.xlsx")
 iso = pd.read_csv("ISO-3166.csv")
 countries = {}
+countriesID = {}
 states = {}
+statesID = {}
 errors = {}
 print(df.head())
 
 #convert coordinates in state and country
-get_keys(df, countries, states, iso, errors)
+get_keys(df, countries, countriesID, states, statesID, iso, errors)
 #define dataframes
 countriesDF = pd.DataFrame.from_dict(countries, orient = 'index', columns = ['Quantity'])
 countriesDF = countriesDF.reset_index()
@@ -79,8 +84,21 @@ statesDF = pd.DataFrame.from_dict(states, orient = 'index', columns = ['Quantity
 statesDF = statesDF.reset_index()
 statesDF = statesDF.rename(columns={'index':'State'})
 print(statesDF.head())
+#define dataframes
+countriesIDDF = pd.DataFrame.from_dict(countriesID, orient = 'index', columns = ['ID'])
+countriesIDDF = countriesIDDF.reset_index()
+countriesIDDF = countriesIDDF.rename(columns={'index':'Country'})
+print(countriesIDDF.head())
+statesIDDF = pd.DataFrame.from_dict(statesID, orient = 'index', columns = ['ID'])
+statesIDDF = statesIDDF.reset_index()
+statesIDDF = statesIDDF.rename(columns={'index':'State'})
+print(statesIDDF.head())
 errorsDF = pd.DataFrame.from_dict(errors, orient = 'index', columns = ['Error'])
 #save dataframes in files
+countriesDF = countriesDF.merge(countriesIDDF, how='inner', on='Country')
+statesDF = statesDF.merge(statesIDDF, how='inner', on='State')
+print(countriesDF.head())
+print(statesDF.head())
 print("saving xlsx")
 countriesDF.to_excel("countriesDF.xlsx")
 statesDF.to_excel("statesDF.xlsx")
