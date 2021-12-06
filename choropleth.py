@@ -3,6 +3,7 @@ import pandas as pd
 import time
 from opencage.geocoder import OpenCageGeocode
 from alive_progress import alive_bar
+import branca.colormap as cm
 key = '926a3cba4ea849ae98f554bfcf2a26f5' #'b6aec148db9542058e8caa8fbafdf579'
 geocoder = OpenCageGeocode(key)
 
@@ -17,7 +18,8 @@ def choropleth_map(map, geojson, name, data, columns, key_on, legend_name,
     fill_color=fill_color,
     fill_opacity=fill_opacity,
     line_opacity=line_opacity,
-    legend_name=legend_name
+    legend_name=legend_name,
+    nan_fill_color="#808080"
     ).add_to(map)
     return map
 def get_keys(df, countries, countriesID, states, statesID, iso, errors):
@@ -64,7 +66,7 @@ def get_keys(df, countries, countriesID, states, statesID, iso, errors):
                 print(e)
                 #break
     return
-df = pd.read_excel("coordenadas sumarizadas_lat e long.xlsx")
+'''df = pd.read_excel("coordenadas sumarizadas_lat e long.xlsx")
 iso = pd.read_csv("ISO-3166.csv")
 countries = {}
 countriesID = {}
@@ -104,17 +106,27 @@ countriesDF.to_excel("countriesDF.xlsx")
 statesDF.to_excel("statesDF.xlsx")
 errorsDF.to_excel("errorsDF.xlsx")
 #state map
-print("saving maps")
+print("saving maps")'''
+statesDF = pd.read_excel("statesDF_vs carol.xlsx")
+countriesDF = pd.read_excel("countriesDF_carol.xlsx")
+print(statesDF.head())
+print(countriesDF.head())
 m = folium.Map(location=[20,0], tiles="OpenStreetMap", zoom_start=2)
 state_geo = f'brazil_geo.json'
 m = choropleth_map(m, state_geo, 'choropleth_state', statesDF,
-    ['State', 'Quantity'], 'properties.name', 'Quantidade')
+    ['State', 'Quantity'], 'properties.name', 'Quantidade de Tweets por estado')
+#colormap = cm.linear.YlGnBu_09.to_step(10)
+#colormap.add_to(m)
+
 m.save("choropleth_state.html")
 #country map
 m = folium.Map(location=[20,0], tiles="OpenStreetMap", zoom_start=2)
 state_geo = f'countries.geojson'
 m = choropleth_map(m, state_geo, 'choropleth_country', countriesDF,
-    ['Country', 'Quantity'], 'properties.ISO_A3', 'Quantidade')
+    ['Country', 'Quantity'], 'properties.ISO_A3', 'Quantidade de Tweets por país')
+#colormap = cm.linear.YlGnBu_09.to_step(data=countriesDF['Quantity'], method='log', quantiles=[0, 0.2, 0.8, 0.9, 0.98])
+#colormap.add_to(m)
+
 m.save("choropleth_country.html")
 
 print("done")
