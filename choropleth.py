@@ -8,7 +8,7 @@ key = '926a3cba4ea849ae98f554bfcf2a26f5' #'b6aec148db9542058e8caa8fbafdf579'
 geocoder = OpenCageGeocode(key)
 
 def choropleth_map(map, geojson, name, data, columns, key_on, legend_name,
-    fill_color='YlOrRd', fill_opacity=0.7, line_opacity=0.2):
+    fill_color='YlGn', fill_opacity=0.7, line_opacity=0.2):
     folium.Choropleth(
     geo_data=geojson,
     name=name,
@@ -19,7 +19,7 @@ def choropleth_map(map, geojson, name, data, columns, key_on, legend_name,
     fill_opacity=fill_opacity,
     line_opacity=line_opacity,
     legend_name=legend_name,
-    nan_fill_color="#808080"
+    nan_fill_color="#F0F0F0"
     ).add_to(map)
     return map
 def get_keys(df, countries, countriesID, states, statesID, iso, errors):
@@ -105,52 +105,37 @@ print("saving xlsx")
 countriesDF.to_excel("countriesDF.xlsx")
 statesDF.to_excel("statesDF.xlsx")
 errorsDF.to_excel("errorsDF.xlsx")
-#state map
-print("saving maps")'''
+#state map'''
+print("saving maps")
 statesDF = pd.read_excel("statesDF_vs carol.xlsx")
 countriesDF = pd.read_excel("countriesDF_carol.xlsx")
 print(statesDF.head())
 print(countriesDF.head())
 m = folium.Map(location=[20,0], tiles="OpenStreetMap", zoom_start=2)
+
 state_geo = f'brazil_geo.json'
+
 m = choropleth_map(m, state_geo, 'choropleth_state', statesDF,
-    ['State', 'Quantity'], 'properties.name', 'Quantidade de Tweets por estado')
-#colormap = cm.linear.YlGnBu_09.to_step(10)
-#colormap.add_to(m)
+    ['State', 'Quantity'], 'properties.name', 'Number of Tweets per state')
 
 m.save("choropleth_state.html")
 #country map
 m = folium.Map(location=[20,0], tiles="OpenStreetMap", zoom_start=2)
 state_geo = f'countries.geojson'
 m = choropleth_map(m, state_geo, 'choropleth_country', countriesDF,
-    ['Country', 'Quantity'], 'properties.ISO_A3', 'Quantidade de Tweets por país')
-#colormap = cm.linear.YlGnBu_09.to_step(data=countriesDF['Quantity'], method='log', quantiles=[0, 0.2, 0.8, 0.9, 0.98])
-#colormap.add_to(m)
-
+    ['Country', 'Quantity'], 'properties.ISO_A3', 'Number of Tweets per country', fill_color = "YlOrBr")
+countries = pd.read_json("countries.geojson")
+for i in countries['features']:
+   if i['properties']['ADMIN'] == 'Brazil':
+    country = i
+    break
+style_function = lambda x: {'fillColor': '#006600', 
+                            'color':'#000000', 
+                            'fillOpacity': 0.5, 
+                            'weight': 0.1}
+folium.GeoJson(country,
+   name = 'Brazil', style_function=style_function).add_to(m)
+folium.LayerControl().add_to(m)
 m.save("choropleth_country.html")
 
 print("done")
-# TODO: map
-"""
-    {'place_id': 199470353, 
-    'licence': 'Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright', 
-    'osm_type': 'way', 
-    'osm_id': 493370539, 
-    'lat': '-3.10357925', 
-    'lon': '-60.02494495100177', 
-    'display_name': 'Pátio Goumert, Avenida Djalma Batista, São Geraldo, Manaus, Região Geográfica Imediata de Manaus, Região Geográfica Intermediária de Manaus, Amazonas, Região Norte, 69000-000, Brasil', 
-    'address': {
-    'shop': 'Pátio Goumert', 
-    'road': 'Avenida Djalma Batista', 
-    'suburb': 'São Geraldo', 
-    'city_district': 'Manaus', 
-    'city': 'Manaus', 
-    'municipality': 'Região Geográfica Imediata de Manaus', 
-    'state_district': 'Região Geográfica Intermediária de Manaus', 
-    'state': 'Amazonas', 
-    'region': 'Região Norte', 
-    'postcode': '69000-000', 
-    'country': 'Brasil', 
-    'country_code': 'br'}, 
-    'boundingbox': ['-3.103883', '-3.1032688', '-60.0252912', '-60.0246018']}
-    """
