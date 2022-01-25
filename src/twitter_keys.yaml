@@ -1,0 +1,13 @@
+search_tweets_v2:
+  account_type: premium
+  consumer_key: vPk6vW6ygnBbGIOpJHTCTHH2C
+  consumer_secret: hGeZZgTOVyI21todpXGHkAbdtNmj1SbJi7cxlzdOnPazhpdm3h
+  bearer_token: AAAAAAAAAAAAAAAAAAAAAA61OgEAAAAASvvLrnBkc1X2%2F2KqebSd1Kdzmbk%3D4AH78BNEjdsHbnQ3ApODvpUEBrwkfkTnyS9dM2elavo2nrgw6H
+  endpoint:  https://api.twitter.com/2/tweets/search/recent
+
+search_tweets_v2_academic:
+  account_type: premium
+  consumer_key: WWKFuJrGmw7Jl2xirypvC7975
+  consumer_secret: dF9lqIvXMVCnyuCzUjFWxjuPboz3FCMhyn8Wpe9VMjn9TSskUi
+  bearer_token: AAAAAAAAAAAAAAAAAAAAAARjOQEAAAAAAOHOH0bomcK5DtKssC42ATS2SQQ%3Drg2Q619LihIqClg9dKQxnQlJSoxtmLXoNZwEsBYU8cwwfTH3Eu
+  endpoint: https://api.twitter.com/2/tweets/search/all
