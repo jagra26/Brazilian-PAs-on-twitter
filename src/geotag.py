@@ -10,7 +10,7 @@ from alive_progress import alive_bar
 import folium
 import time
 
-def get_coordinates(file, name):
+def get_coordinates(file, name): # function to get coordinates and the number of tweets of each coordinate
 	df = pd.read_csv(file, lineterminator='\n')
 	print(df.head())
 	geotagged_df = df[~df.place_id.isnull()]
@@ -43,12 +43,6 @@ def get_coordinates(file, name):
 			except Exception as e:
 				print(e)
 	print(changed_tweets)
-	"""for x in changed_tweets:
-		idx = df.index[df['id']==x]
-		df.iloc[idx, -2] = changed_tweets[x]
-	df.to_csv(file, index=False)
-	excel = pd.ExcelWriter(file[:-4] + '.xlsx')
-	df.to_excel(excel, index=False, engine='xlsxwriter')"""
 	tweetsCoordinates = pd.DataFrame.from_dict(changed_tweets, orient='index')
 	tweetsCoordinates.to_csv(name+'tweets.csv')
 	lat = []
@@ -62,7 +56,7 @@ def get_coordinates(file, name):
 	coordinates = pd.DataFrame(data=data)
 	coordinates.to_csv(name+".csv")
 	#print(db)
-def generate_map(file, out):
+def generate_map(file, out): # function to generate a map with a circle in each coordinate, the radius change conform the number of tweets
 	m = folium.Map(location=[20,0], tiles="OpenStreetMap", zoom_start=2)
 	data = pd.read_csv(file, dtype=str)
 	for i in range(0,len(data)):
@@ -74,7 +68,7 @@ def generate_map(file, out):
 		fill_color='crimson'
 		).add_to(m)
 	m.save(out)
-def general_map():
+def general_map(): # function to generate a general coordinates.csv 
 	dic = {}
 	for directory in glob.glob(var.path + "2*"):
 		if path.isdir(directory):
@@ -96,12 +90,12 @@ def general_map():
 	coordinates = pd.DataFrame(data=data)
 	coordinates.to_csv("resources/coordinates.csv")
 
-for directory in glob.glob(var.path + "2*"):
+for directory in glob.glob(var.path + "2*"): # for each result directory 
     print(directory)
     if len(glob.glob(directory + "/*_limpo*.csv")) != 0:
 	    file = glob.glob(directory + "/*_limpo*.csv")[0]
-	    get_coordinates(file, directory + "/coordinates")
-	    generate_map(directory + "/coordinates.csv", directory + "/map.html")
+	    get_coordinates(file, directory + "/coordinates") # get coordinates
+	    generate_map(directory + "/coordinates.csv", directory + "/map.html") # generate map
 	    print("sleep for 10 seconds")
 	    time.sleep(10)
 

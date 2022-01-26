@@ -4,7 +4,8 @@ import pandas as pd
 import variables as var
 import glob
 import csv
-def write_line(writer, row, places, users):
+
+def write_line(writer, row, places, users): #function to convert the data to csv
 	line = []
 	line.append(row['author_id'])
 	user = users.loc[users['id'] == line[0]]
@@ -43,23 +44,19 @@ with open(FILENAME + '.csv', 'w', newline='', encoding='utf-8') as csv_file:
 	writer.writerow(['author_id', 'name', 'username', 'verified', 'created_at', 'id', 'in_reply_to_user_id', 
 		'like_count', 'quote_count', 'reply_count', 'retweet_count', 'place_id', 'country',
 		'country_code', 'full_name', 'place_type', 'coordinates',
-		 'text'])
+		 'text']) #headers
 	print(path)
-	for filename in glob.glob(path + "/*.txt"):
+	for filename in glob.glob(path + "/*.txt"): # result/0.txt, result/1.txt, result/2.txt ...
 		print(filename)
-		'''if begin: 
-			write = 'w'
-			begin = False'''
 		with open(filename) as file:
 			data = json.load(file)
+		#separate dataframes
 		df = pd.DataFrame(data['data'])
 		places = pd.DataFrame(data['includes'].get('places'))
 		users = pd.DataFrame(data['includes']['users'])
 		print(users)
-		for index, row in df.iterrows():
+		for index, row in df.iterrows(): # for each row convert dataframes to csv
 			write_line(writer, row, places, users)
-		#df.to_csv( FILENAME + ".csv", mode=write)
-		#write = 'a' 
 # Reading the csv file
 pcsv = pd.read_csv(FILENAME + '.csv')
 

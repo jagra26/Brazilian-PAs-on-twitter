@@ -1,15 +1,20 @@
 from wordcloud import STOPWORDS
-start = '2021-01-01T00:00:00Z'
-end = '2021-08-31T23:59:59Z'
+start = '2021-01-01T00:00:00Z' #begin date
+end = '2021-08-31T23:59:59Z' #end date
 path = "./results/"
 bearer_token = 'AAAAAAAAAAAAAAAAAAAAAARjOQEAAAAAAOHOH0bomcK5DtKssC42ATS2SQQ%3Drg2Q619LihIqClg9dKQxnQlJSoxtmLXoNZwEsBYU8cwwfTH3Eu' #os.environ.get("BEARER_TOKEN")
+# recent search or all time search
 search_url = "https://api.twitter.com/2/tweets/search/all"
+# search query
 query = 'lang:pt -is:retweet ("Unidade de conservação" OR "Area protegida" OR "Parque Nacional" OR "Parque estadual" OR "Parque natural municipal" OR "Parque municipal" OR "Estação ecológica" OR "Reserva biológica" OR "Monumento natural" OR "Refúgio da vida silvestre" OR "Reserva extrativista" OR "Área de proteção ambiental" OR "Floresta nacional" OR "Floresta estadual" OR "Floresta municipal" OR "Reserva de desenvolvimento sustentável" OR "Área de relevante interesse" OR "Reserva Particular do Patrimônio Natural")'
+# tweet infos
 tweet_fields = 'author_id,created_at,geo,id,in_reply_to_user_id,public_metrics'
 user_fields = 'name,username,verified'
 expansions = 'geo.place_id,entities.mentions.username,author_id'
 place_fields = 'country,country_code,place_type'
+# results per pages
 max_results = '500'
+#wordcloud stop words
 stopwords = set(STOPWORDS)
 stopwords.update(["https", "Unidade de conservação", "Area protegida",
                   "Parque Nacional", "Estação ecológica", "Reserva biológica",
