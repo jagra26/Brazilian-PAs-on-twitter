@@ -13,12 +13,18 @@ dados do registro histórico do Twitter.
 - [Licença](#licença)
 
 ## Estrutura
-Os três principais scripts do projeto são 
-[full-archive-search](full-archive-search.py) e
-[convert](convert.py).
-[cloud](cloud.py)
+Os principais scripts do projeto são:
+
+* [full-archive-search](src/full-archive-search.py)
+* [convert](src/convert.py)
+* [choropleth](src/choropleth.py)
+* [geotag](src/geotag.py)
+* [getUC](src/getUC.py)
+* [cloud](src/cloud.py)
+
 São baseados na [API do twitter](https://github.com/twitterdev/Twitter-API-v2-sample-code),
-em [Pandas](https://pandas.pydata.org) e em [Wordcloud](https://github.com/amueller/word_cloud)
+[Pandas](https://pandas.pydata.org), [Folium](https://python-visualization.github.io/folium/),
+[OpenCage](https://opencagedata.com) e [Wordcloud](https://github.com/amueller/word_cloud).
 
 Há também um [arquivo](variables.py) de configuração.
 
@@ -27,6 +33,37 @@ Cada intervalo buscado é salvo em uma subpasta.
 
 A pasta [old](old/) contém experimentos anteriores mal-sucedidos,
 utilizando a biblioteca [search-tweets](https://github.com/twitterdev/search-tweets-python/tree/v2)
+
+### Full Archive Search
+
+O Script [full-archive-search](src/full-archive-search.py) é a busca no twitter efetivamente. Dado uma query e uma API key do twitter, serão retornadas páginas JSON com os dados buscados.
+
+### Conversão
+
+O Script [convert](src/convert.py) faz a conversão dos dados JSON para .csv e .xlsx
+
+### Choropleth Map
+
+O Script [choropleth](src/choropleth.py) gera mapas do tipo choropleth. Se valendo da busca reversa do opencage (necessário API key) para transformar coordenadas geográficas em Estados brasileiros e países. Caso esses dados já estejam disponíveis é possível gerar os mapas sem o opencage.
+
+[choropleth map](src/results/maps/choropleth_country.html)
+
+### Geotag
+
+O Script [geotag](src/geotag.py) gera um mapa com círculos que o raio varia conforme o número de tweets na coordenada do centro do círculo. Por não ficar muito legível, acabou por não ser utilizado.
+
+
+[general_map](src/results/maps/general_map.html)
+
+### Get UC 
+
+O Script [getUC](src/getUC.py) utiliza expressão regular para tentar extrair o nome da Undidade de Conservação citada no texto do twitter. Por utilizar uma técnica simples, acabou por ter um resultado não muito satisfatório, acabou por não ser utilizado.
+
+### Cloud
+
+O Script [cloud](src/cloud.py) gera uma wordcloud das palaras que mais aparecem nos tweets buscados. O artigo tomou outro rumo e acabou por não ser utilizado. Precisa de refinamento.
+
+![cloud](src/results/cloud.png)
 
 ## Instalação
 
