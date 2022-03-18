@@ -9,6 +9,7 @@ dados do registro histórico do Twitter.
 - [Configuração](#configuração)
 - [Uso](#uso)
 - [Autores](#autores)
+- [Contribuição](#contribuição)
 - [Citação](#citação)
 - [Licença](#licença)
 
@@ -136,6 +137,24 @@ Ambas contém a informação de todas páginas anteriormente
 baixadas. Estes formatos facilitam a análise e elaboração
 de gráficos.
 
+Para gerar o choropleth map, caso não tenha um arquivo de entrada com a quantidade de tweets por país ou estado, adicione uma API key do opencage
+no arquivo de configuração em *opencage_key* e descomentar as linhas 77 a 107 de choropleth.py. Caso tenha, basta rodar o programa: 
+
+```
+python3 choropleth.py
+```
+Para gerar o mapa de incidência com o raio variável, altere os arquivos de entrada, saída e diretórios a partir da linha 93 para que seja compatível com o seu.
+E utilize:
+```
+python3 geotag.py
+```
+
+Para gerar um .csv com o possível nome das UCs, altere os arquivos de entrada, saída e diretórios a partir da linha 51 para que seja compatível com o seu.
+E utilize:
+```
+python3 getUC.py
+```
+
 Para gerar as wordclouds das buscas utilize:
 ```
 python3 cloud.py
@@ -153,6 +172,14 @@ Carolina Neves
 João Almeida
   * [Lattes](http://lattes.cnpq.br/7977737909149890)
   * [Github](https://github.com/jagra26)
+
+## Contribuição
+
+Este projeto é funcional, porém está aberto a melhorias e contribuições são bem vindas para que, se possível, se torne uma biblioteca voltada a busca acadêmica de tweets. Dê fork do projeto, altere como quiser e dê pull request para que as mudanças sejam aceitas.
+
+## Citação
+
+Um artigo com os dados obtidos com esse projeto está sendo feito, quando for publicado, o link será disponibilizado aqui.
 
 ## Licença
 
