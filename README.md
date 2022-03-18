@@ -158,9 +158,6 @@ Para gerar as wordclouds das buscas utilize:
 ```
 python3 cloud.py
 ```
-Gerando uma imagem para cada subdiretório de results e uma imagem geral:
-
-![Wordcloud geral do projeto](cloud.png)
 
 ## Autores
 
