@@ -49,9 +49,9 @@ keywordList = keyword['palavra chave'].tolist()
 UCList = keyword['nome da uc'].tolist()
 
 for directory in glob.glob(var.path + "2*"):
-    print(directory)
-    if len(glob.glob(directory + "/*_limpo*.csv")) != 0:
-	    file = glob.glob(directory + "/*_limpo*.csv")[0]
-	    getUC(file, directory + "/clearkeyUC", keywordList, UCList)
+	print(directory)
+	if len(glob.glob(directory + "/*_limpo*.csv")) != 0:
+		file = glob.glob(directory + "/*_limpo*.csv")[0]
+		getUC(file, directory + "/clearkeyUC", keywordList, UCList)
 	
 

@@ -4,8 +4,7 @@ import json
 import time
 import variables as var
 import glob
-# To set your environment variables in your terminal run the following line:
-# export 'BEARER_TOKEN'='<your_bearer_token>'
+
 bearer_token = var.bearer_token
 search_url = var.search_url
 

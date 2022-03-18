@@ -3,8 +3,8 @@ import pandas as pd
 import time
 from opencage.geocoder import OpenCageGeocode
 from alive_progress import alive_bar
-key = '926a3cba4ea849ae98f554bfcf2a26f5' #'b6aec148db9542058e8caa8fbafdf579'
-geocoder = OpenCageGeocode(key)
+import variables as var
+geocoder = OpenCageGeocode(var.opencage_key)
 
 def choropleth_map(map, geojson, name, data, columns, key_on, legend_name,
     fill_color='YlGn', fill_opacity=0.7, line_opacity=0.2):
@@ -101,9 +101,9 @@ statesDF = statesDF.merge(statesIDDF, how='inner', on='State')
 print(countriesDF.head())
 print(statesDF.head())
 print("saving xlsx")
-countriesDF.to_excel("countriesDF.xlsx")
-statesDF.to_excel("statesDF.xlsx")
-errorsDF.to_excel("errorsDF.xlsx")
+countriesDF.to_excel("resources/countriesDF.xlsx")
+statesDF.to_excel("resources/statesDF.xlsx")
+errorsDF.to_excel("resources/errorsDF.xlsx")
 #state map'''
 print("saving maps")
 statesDF = pd.read_excel("resources/statesDF_vs carol.xlsx")
@@ -116,7 +116,7 @@ state_geo = f'resources/brazil_geo.json'
 
 m = choropleth_map(m, state_geo, 'choropleth_state', statesDF,
     ['State', 'Quantity'], 'properties.name', 'Number of Tweets per state')
-m.save("choropleth_state.html")
+m.save(var.path + "maps/choropleth_state.html")
 #country map
 m = folium.Map(location=[20,0], tiles="OpenStreetMap", zoom_start=2)
 state_geo = f'resources/countries.geojson'
@@ -134,6 +134,6 @@ style_function = lambda x: {'fillColor': '#006600',
 folium.GeoJson(country,
    name = 'Brazil', style_function=style_function).add_to(m)
 folium.LayerControl().add_to(m)
-m.save("choropleth_country.html")
+m.save(var.path + "maps/choropleth_country.html")
 
 print("done")

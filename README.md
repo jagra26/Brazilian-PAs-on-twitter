@@ -32,8 +32,7 @@ Há também um [arquivo](variables.py) de configuração.
 Os resultados são salvos na pasta [results](results/).
 Cada intervalo buscado é salvo em uma subpasta.
 
-A pasta [old](old/) contém experimentos anteriores mal-sucedidos,
-utilizando a biblioteca [search-tweets](https://github.com/twitterdev/search-tweets-python/tree/v2)
+A pasta [resources](src/resources/) contém arquivos de entrada que são úteis ao longo do projeto.
 
 ### Full Archive Search
 

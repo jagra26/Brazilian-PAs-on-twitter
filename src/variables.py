@@ -2,7 +2,7 @@ from wordcloud import STOPWORDS
 start = '2021-01-01T00:00:00Z' #begin date
 end = '2021-08-31T23:59:59Z' #end date
 path = "./results/"
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAARjOQEAAAAAAOHOH0bomcK5DtKssC42ATS2SQQ%3Drg2Q619LihIqClg9dKQxnQlJSoxtmLXoNZwEsBYU8cwwfTH3Eu' #os.environ.get("BEARER_TOKEN")
+bearer_token = 'Add Bearer token '
 # recent search or all time search
 search_url = "https://api.twitter.com/2/tweets/search/all"
 # search query
@@ -24,3 +24,4 @@ stopwords.update(["https", "Unidade de conservação", "Area protegida",
                   "Área de relevante interesse", "Reserva Particular do Patrimônio Natural",
                   "do", "de", "da", "para", "e", "t", "co", "uma", "o", "a", "pra",
                   "para", "um", "dos", "das", "é"])
+opencage_key = 'add an OpenCage API key' 
