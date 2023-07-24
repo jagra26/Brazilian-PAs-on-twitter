@@ -1,8 +1,8 @@
-#from wordcloud import STOPWORDS
+# File to store variables used in the project
 start = '2022-01-01T00:00:00Z'  # begin date
 end = '2022-12-31T23:59:59Z'  # end date
 path = "./results/"
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAARjOQEAAAAAjCsNvbp%2BvU6p3cc6BFpkJPayGWQ%3DH0c7iKKk97AxW9NGACcMM0a2zhMCHLqJaGLFRXNyq6K5p03aL2'
+bearer_token = ''
 # recent search or all time search
 search_url = "https://api.twitter.com/2/tweets/search/all"
 # search query
@@ -14,14 +14,4 @@ expansions = 'geo.place_id,entities.mentions.username,author_id'
 place_fields = 'country,country_code,place_type'
 # results per pages
 max_results = '500'
-# wordcloud stop words
-'''stopwords = set(STOPWORDS)
-stopwords.update(["https", "Unidade de conservação", "Area protegida",
-                  "Parque Nacional", "Estação ecológica", "Reserva biológica",
-                  "Monumento natural", "Refúgio da vida silvestre",
-                  "Reserva extrativista", "Área de proteção ambiental",
-                  "Floresta nacional", "Reserva de desenvolvimento sustentável",
-                  "Área de relevante interesse", "Reserva Particular do Patrimônio Natural",
-                  "do", "de", "da", "para", "e", "t", "co", "uma", "o", "a", "pra",
-                  "para", "um", "dos", "das", "é"])'''
-opencage_key = '1c93c92bf19a43db9bf9be43aaf28066'
+opencage_key = ''

@@ -4,6 +4,9 @@ from alive_progress import alive_bar
 import variables as var
 import time
 
+# This file get a file with a list of adresses and
+# return another file containing the adresses and the lat long coordinates
+
 geocoder = OpenCageGeocode(var.opencage_key)
 
 df = pd.read_excel("resources/need coordinates 2021-2022.xlsx")
