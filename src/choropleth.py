@@ -135,12 +135,12 @@ if generate_db:
     errorsDF.to_excel("resources/errorsDF.xlsx")
 
 # This section generates the choropleths maps, first of the states, after the global map
-# The input files ("resources/statesDF_vs carol.xlsx") ("resources/countriesDF_carol.xlsx") are made
+# The input files ("resources/statesDF_v2.xlsx") ("resources/countriesDF_v2.xlsx") are made
 # after manually correcting the errors of the before section and the log10 are aplied to quantities collumns
 # both files are in the same form of the originals files
 print("saving maps")
-statesDF = pd.read_excel("resources/statesDF_vs carol.xlsx")
-countriesDF = pd.read_excel("resources/countriesDF_carol.xlsx")
+statesDF = pd.read_excel("resources/statesDF_v2.xlsx")
+countriesDF = pd.read_excel("resources/countriesDF_v2.xlsx")
 print(statesDF.head())
 print(countriesDF.head())
 m = folium.Map(location=[20, 0], tiles="OpenStreetMap",
